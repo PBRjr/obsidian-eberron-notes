@@ -1,0 +1,6 @@
+The codex is a thick, heavy tome, bound in what seems to be rough, greenish-gray leather. Upon closer examination, the leather reveals itself to be dragonhide, subtly scaled, and carrying the faint smell of ancient ashes. The book's corners are reinforced with small plates of [[orium]], a metal reputedly created from dragon blood, each plate engraved with a stylized image of the three [[Progenitor Dragons]]: [[Progenitor Dragons#Khyber|Khyber]], [[Progenitor Dragons#Siberys|Siberys]], and [[Progenitor Dragons#Eberron|Eberron]], entwined in an eternal dance.
+
+The pages of the codex are crafted from a high-quality parchment, resistant to the wear of time. When viewed under normal light, most of the pages appear blank, but when [[Professor Baelen ir'Torn|Baelen]] exposes them to the light refracted through an [[Dragonshards#^90b643|eberron dragonshard]], cryptic texts and diagrams come to life.
+
+However, the full understanding of these entries remains elusive, as the completion of the text is only visible under the light of the yet-unacquired [[Dragonshards#^b906e5|Syberys]] and [[Dragonshards#^023b44|Khyber]] shards. Baelen's continued research hinges on the acquisition of these rare components.
+

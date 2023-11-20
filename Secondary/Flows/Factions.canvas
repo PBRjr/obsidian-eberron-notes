@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"type":"file","file":"Primary/Factions/Dragonmarked Houses/House Cannith.md","id":"8d6cd69c9c8d75e7","x":-940,"y":-408,"width":400,"height":400},
+		{"type":"file","file":"Primary/Factions/Dragonmarked Houses/House Cannith/Cannith South.md","id":"331e4e1c98105a0e","x":-2380,"y":360,"width":400,"height":400},
+		{"type":"file","file":"Primary/NPCs/Marix d'Cannith.md","id":"b046def65d796d30","x":-2380,"y":848,"width":400,"height":400},
+		{"type":"text","text":"EXPERIMENTAL WEAPON SUPPLIER","id":"9c3acc5c7d167651","x":-2290,"y":1328,"width":220,"height":80},
+		{"type":"file","file":"Primary/Factions/House Tarkanan.md","id":"c28d4d93006d7020","x":-1800,"y":1168,"width":400,"height":400},
+		{"type":"file","file":"Primary/NPCs/The Beggar King.md","id":"42f4fd96b9776090","x":-1800,"y":1856,"width":400,"height":400},
+		{"type":"file","file":"Primary/Factions/Dragonmarked Houses/House Cannith/Cannith West.md","id":"b1d8dd14b66d379b","x":-1660,"y":360,"width":400,"height":400},
+		{"type":"text","text":"CREATION OF WARFORGED","id":"ebbef2d877ba958e","x":-1600,"y":880,"width":282,"height":57},
+		{"type":"file","file":"Primary/Factions/Dragonmarked Houses/House Cannith/Cannith East.md","id":"3e8d56b9497492ea","x":-940,"y":360,"width":400,"height":400},
+		{"type":"text","text":"CREATION AND EDUCATION","id":"83d9d879d89c249e","x":-891,"y":887,"width":302,"height":50},
+		{"type":"file","file":"Primary/Factions/Dragonmarked Houses/House Ghallanda.md","id":"8e7f0129e6166ff4","x":360,"y":-408,"width":400,"height":400},
+		{"type":"file","file":"Primary/Factions/Dragonmarked Houses/House Vadalis.md","id":"e1a9629874d374f5","x":1000,"y":-408,"width":400,"height":400},
+		{"type":"file","file":"Primary/Factions/Dragonmarked Houses/House Jorasco.md","id":"a1fa9eabfbd6f0f2","x":1640,"y":-408,"width":400,"height":400},
+		{"type":"file","file":"Primary/Factions/Dragonmarked Houses/House Deneith.md","id":"37c085c6a8b9a12e","x":-320,"y":-408,"width":400,"height":400},
+		{"id":"ce15dc82f5591e99","x":360,"y":-1280,"width":400,"height":400,"type":"file","file":"Primary/Factions/Dragonmarked Houses/Dragonmarked Houses.md"}
+	],
+	"edges":[
+		{"id":"ea8969d0d100e8ae","fromNode":"c28d4d93006d7020","fromSide":"bottom","toNode":"42f4fd96b9776090","toSide":"top"},
+		{"id":"b506ec85af2f3dc9","fromNode":"9c3acc5c7d167651","fromSide":"right","toNode":"c28d4d93006d7020","toSide":"left"},
+		{"id":"5eeeb2ec6f8de948","fromNode":"331e4e1c98105a0e","fromSide":"bottom","toNode":"b046def65d796d30","toSide":"top"},
+		{"id":"2b89f595c59d36f2","fromNode":"b046def65d796d30","fromSide":"bottom","toNode":"9c3acc5c7d167651","toSide":"top"},
+		{"id":"29c386ff8fb791e6","fromNode":"8d6cd69c9c8d75e7","fromSide":"bottom","toNode":"331e4e1c98105a0e","toSide":"top"},
+		{"id":"2a2abb73fb35d54c","fromNode":"8d6cd69c9c8d75e7","fromSide":"bottom","toNode":"b1d8dd14b66d379b","toSide":"top"},
+		{"id":"f49b5949c2afe1f0","fromNode":"b1d8dd14b66d379b","fromSide":"bottom","toNode":"ebbef2d877ba958e","toSide":"top"},
+		{"id":"3968b027a0ce39a6","fromNode":"3e8d56b9497492ea","fromSide":"bottom","toNode":"83d9d879d89c249e","toSide":"top"},
+		{"id":"47e977d7d30e2feb","fromNode":"8d6cd69c9c8d75e7","fromSide":"bottom","toNode":"3e8d56b9497492ea","toSide":"top"},
+		{"id":"dbe4724a3c0dae24","fromNode":"ce15dc82f5591e99","fromSide":"bottom","toNode":"8d6cd69c9c8d75e7","toSide":"top"},
+		{"id":"2c3c58bcdbd48d6e","fromNode":"ce15dc82f5591e99","fromSide":"bottom","toNode":"37c085c6a8b9a12e","toSide":"top"},
+		{"id":"bd40cf4f91712e40","fromNode":"ce15dc82f5591e99","fromSide":"bottom","toNode":"8e7f0129e6166ff4","toSide":"top"},
+		{"id":"7fda36eaf9446005","fromNode":"ce15dc82f5591e99","fromSide":"bottom","toNode":"e1a9629874d374f5","toSide":"top"},
+		{"id":"23f537083f7f99a8","fromNode":"ce15dc82f5591e99","fromSide":"bottom","toNode":"a1fa9eabfbd6f0f2","toSide":"top"}
+	]
+}

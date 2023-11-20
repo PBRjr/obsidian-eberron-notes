@@ -1,0 +1,1 @@
+A minion of an overlord has been using the prophecy to send letters to Thora Tarkanan in hopes of starting a complete civil war within the city that will lead to total war throughout Khorvaire.

@@ -1,0 +1,7 @@
+In a delightful spectacle of nature's resilience, Skyway's floating gardens have become home to a rare species of luminescent flowers, previously thought to be native only to the [[Eldeen Reaches]]. The flowers, known as Starlight Blossoms, have begun to bloom in the high towers of [[Sharn]], casting an enchanting glow over the city's skyline.
+
+The sudden appearance of these flowers has sparked mild curiosity among the citizens and a few scholarly debates in [[Morgrave University|Morgrave University's]] hallowed halls. Botanists are intrigued by how these flowers, typically found in the mystical groves of the Eldeen Reaches, have adapted to the urban environment of Sharn.
+
+In the political landscape, this event has been largely met with passive interest. Some members of the [[Aurum]] have taken to decorating their estates with these glowing blossoms, viewing them as a status symbol. Meanwhile, [[House Vadalis]], bearers of the Mark of Handling and known for their expertise in flora and fauna, have expressed a desire to study these flowers further.
+
+While the Starlight Blossoms' arrival is a minor event in the grand scheme of Sharn's bustling life, it serves as a gentle reminder of the world's enduring magic and mystery. As the city continues its daily hustle and bustle, the Starlight Blossoms glow quietly, adding a touch of serene beauty to the City of Towers.
