@@ -1,6 +1,3 @@
-
----
-
 References![[argonnessen.jpg|right|350]]
 - [[#Concept|Concept]]
 - [[#Description|Description]]

@@ -1,3 +1,15 @@
+References
+- [[#Concept|Concept]]
+- [[#Description|Description]]
+- [[#Notable Locations|Notable Locations]]
+- [[#Inhabitants|Inhabitants]]
+- [[#History|History]]
+- [[#Hooks|Hooks]]
+- [[#Secrets|Secrets]]
+- [[#Other notes|Other notes]]
+
+---
+
 ### Concept
 
 Eberron is a realm of wonder, where magic fuses with technology, creating a world of boundless opportunity and constant conflict. It's a land shaped by the scars of a devastating war, where the lines between good and evil blur, and every corner hides untold stories.
