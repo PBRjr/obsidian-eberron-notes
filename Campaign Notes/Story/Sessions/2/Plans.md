@@ -27,7 +27,7 @@ References
 - This sacrifice is a mistaken ancient take on a part of the [[Draconic Prophecy]] that states if a willing dragon kin is sacrificed in a very particular set of circumstances, The Daughter of Khyber will be freed.
 
 ## Treasure
-- [[Brains to Woe| Half-written letter]]from Brains to [[Woe]]
+- [[Brains to Woe| Half-written letter]] from Brains to [[Woe]]
 - Wand of magic detection (next to a shackled skeleton with no hands)
 	- Glows when its near a magic source (always glowing cause it is a magic source)
 - Rock of perpetual existing?

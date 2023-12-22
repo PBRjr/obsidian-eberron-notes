@@ -32,7 +32,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2/Plans.md",
+                "file": "Campaign Notes/Other Items/Brains to Woe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2/Plans.md",
+                "file": "Campaign Notes/Other Items/Brains to Woe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2/Plans.md"
+                "file": "Campaign Notes/Other Items/Brains to Woe.md"
               }
             }
           },
@@ -184,11 +185,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "31a1c80cd8583fea",
+  "active": "d722b9df1badb904",
   "lastOpenFiles": [
-    "Campaign Notes/Places/Khorvaire/Breland/Sharn/Sharn.md",
-    "Campaign Notes/Other Items/Brains to Woe.md",
     "Campaign Notes/Story/Sessions/2/Plans.md",
+    "Campaign Notes/Other Items/Brains to Woe.md",
+    "Campaign Notes/Places/Khorvaire/Breland/Sharn/Sharn.md",
     "Campaign Notes/Story/Sessions/1/Recap.md",
     "Campaign Notes/Factions/Sons of the Daughter of Khyber.md",
     "Campaign Notes/Factions/House Tarkanan.md",

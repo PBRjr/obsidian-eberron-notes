@@ -1,4 +1,5 @@
-> Woe,
-> On behalf of the Sons of the Daughter of Khyber, we would like to exted hour most gracious gratitude. Your assistance in in aiding to take down an entire airship is quite the goal achieved, indeed!
->
-> We believe it would be ~~advent~~ ~~adventagus~~ good if  we could once again prelude ourselves to assemble under the banner of [ends here]
+
+**The note is smudged and hastily written, with crude scratches as if written in frustration.**
+
+*Woe,
+Last ones no good. They no want to be here. You said 'willing ones.' Need them for waking up the Daughter. You trick Brains? Brains no fool! Brains need right ones soon. Others getting restless, thinking Brains no know what doing. You keep-* (the note ends suddenly)
