@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Places/Eberron.md",
+                "file": "Campaign Notes/Story/Sessions/2/Plans.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Places/Eberron.md",
+                "file": "Campaign Notes/Story/Sessions/2/Plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Places/Eberron.md",
+                "file": "Campaign Notes/Story/Sessions/2/Plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Places/Eberron.md"
+                "file": "Campaign Notes/Story/Sessions/2/Plans.md"
               }
             }
           },
@@ -187,8 +187,21 @@
   },
   "active": "d722b9df1badb904",
   "lastOpenFiles": [
-    "Campaign Notes/Places/Argonnessen.md",
+    "Campaign Notes/Story/Sessions/1/Plans.md",
+    "Campaign Notes/Story/Sessions/1/Recap.md",
+    "Campaign Notes/Sharn Inquisitor/Historic Treaty of Thronehold Ushers In New Era of Peace.md",
+    "Campaign Notes/Places/Khorvaire/Mournland.md",
+    "Campaign Notes/Lore/Progenitor Dragons.md",
+    "Campaign Notes/Lore/Galifar Calender.md",
+    "Campaign Notes/Places/Khorvaire/Breland/Sharn/Sharn.md",
+    "Campaign Notes/Places/Khorvaire/Breland/Sharn/Tarvick's Market.md",
+    "Campaign Notes/Places/Khorvaire/Breland/Sharn/Dragoneyes District.md",
+    "Campaign Notes/Places/Khorvaire/Breland/Sharn/Blackstone Church.md",
+    "Campaign Notes/Places/Khorvaire/Breland/Sharn/The Crimson Silk Brothel.md",
+    "Campaign Notes/Places/Khorvaire/Breland/Sharn/The Dragon's Breath Tavern.md",
+    "Campaign Notes/Places/Khorvaire.md",
     "Campaign Notes/Places/Eberron.md",
+    "Campaign Notes/Places/Argonnessen.md",
     "Campaign Notes/The Party.md",
     "Misc Files/Tables.md",
     "Misc Files/Prompts.md",
@@ -200,19 +213,6 @@
     "Campaign Notes/NPCs/Oak Dryfire.md",
     "Campaign Notes/NPCs/Marix d'Cannith.md",
     "Campaign Notes/NPCs/Aeren d'Cannith.md",
-    "Campaign Notes/Story/Arcs/Overview Outline.md",
-    "Campaign Notes/NPCs/Loro Cass.md",
-    "Campaign Notes/Story/Arcs/Core.md",
-    "Campaign Notes/Places/Khorvaire/Breland/Sharn/Sharn.md",
-    "Campaign Notes/Story/Arcs/Journey to the City of Towers.md",
-    "Campaign Notes/Story/Arcs/Sharn Arc.md",
-    "Campaign Notes/Story/Arcs/Xen'Drik Arc.md",
-    "Campaign Notes/NPCs/The Beggar King.md",
-    "Campaign Notes/NPCs/Thora Tarkanan.md",
-    "Campaign Notes/NPCs/Jonston Marsh.md",
-    "Campaign Notes/NPCs/Brother Cec.md",
-    "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
-    "Campaign Notes/Places/Khorvaire/Breland/Breland.md",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Factions.canvas",
