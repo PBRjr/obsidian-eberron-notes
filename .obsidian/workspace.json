@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Places/Khorvaire/Breland/Sharn/Sharn.md",
+                "file": "Campaign Notes/Story/Sessions/2/Plans.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,14 +26,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2/Plans.md",
+                "file": "Campaign Notes/Other Items/Brains to Woe.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,19 +184,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d722b9df1badb904",
+  "active": "31a1c80cd8583fea",
   "lastOpenFiles": [
+    "Campaign Notes/Places/Khorvaire/Breland/Sharn/Sharn.md",
+    "Campaign Notes/Other Items/Brains to Woe.md",
+    "Campaign Notes/Story/Sessions/2/Plans.md",
     "Campaign Notes/Story/Sessions/1/Recap.md",
     "Campaign Notes/Factions/Sons of the Daughter of Khyber.md",
     "Campaign Notes/Factions/House Tarkanan.md",
     "Campaign Notes/Story/Arcs/Overview Outline.md",
-    "Campaign Notes/Story/Sessions/2/Plans.md",
     "Campaign Notes/Story/Sessions/1/Plans.md",
     "Campaign Notes/Sharn Inquisitor/Historic Treaty of Thronehold Ushers In New Era of Peace.md",
     "Campaign Notes/Places/Khorvaire/Mournland.md",
     "Campaign Notes/Lore/Progenitor Dragons.md",
     "Campaign Notes/Lore/Galifar Calender.md",
-    "Campaign Notes/Places/Khorvaire/Breland/Sharn/Sharn.md",
     "Campaign Notes/Places/Khorvaire/Breland/Sharn/Tarvick's Market.md",
     "Campaign Notes/Places/Khorvaire/Breland/Sharn/Dragoneyes District.md",
     "Campaign Notes/Places/Khorvaire/Breland/Sharn/Blackstone Church.md",
@@ -212,7 +212,6 @@
     "Misc Files/Statblocks.md",
     "pteranodon.md",
     "Campaign Notes/Places/Underdark/The Temple of the Endless Rage.md",
-    "Campaign Notes/Key Items/Fractured Khyber Dragonshard.md",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Factions.canvas",
