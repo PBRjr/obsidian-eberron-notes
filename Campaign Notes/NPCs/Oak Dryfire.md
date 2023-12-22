@@ -1,6 +1,6 @@
 ### Concept 
 
-A young Orcish boy that got lost from his tribe months ago. Fending for himself with his natural druidic. 
+A young Orcish boy that got lost from his tribe months ago. Fending for himself with his natural druidic skills.
 
 ### Description
 

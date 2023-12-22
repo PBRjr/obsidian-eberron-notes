@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/NPCs/Marix d'Cannith.md",
+                "file": "Campaign Notes/Places/Eberron.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/NPCs/Marix d'Cannith.md",
+                "file": "Campaign Notes/Places/Eberron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/NPCs/Marix d'Cannith.md",
+                "file": "Campaign Notes/Places/Eberron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/NPCs/Marix d'Cannith.md"
+                "file": "Campaign Notes/Places/Eberron.md"
               }
             }
           },
@@ -185,8 +185,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d722b9df1badb904",
+  "active": "973294f18a8cfec8",
   "lastOpenFiles": [
+    "Campaign Notes/Places/Argonnessen.md",
+    "Campaign Notes/Places/Underdark/The Temple of the Endless Rage.md",
+    "Campaign Notes/Key Items/Fractured Khyber Dragonshard.md",
+    "Campaign Notes/NPCs/Professor Baelen ir'Torn.md",
+    "Campaign Notes/NPCs/Oak Dryfire.md",
+    "Campaign Notes/NPCs/Marix d'Cannith.md",
     "Campaign Notes/NPCs/Aeren d'Cannith.md",
     "Campaign Notes/Story/Arcs/Overview Outline.md",
     "Campaign Notes/NPCs/Loro Cass.md",
@@ -198,7 +204,6 @@
     "Campaign Notes/Story/Arcs/Xen'Drik Arc.md",
     "Campaign Notes/NPCs/The Beggar King.md",
     "Campaign Notes/NPCs/Thora Tarkanan.md",
-    "Campaign Notes/NPCs/Oak Dryfire.md",
     "Campaign Notes/NPCs/Jonston Marsh.md",
     "Campaign Notes/NPCs/Brother Cec.md",
     "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
@@ -208,22 +213,17 @@
     "Campaign Notes/Factions/Sons of the Daughter of Khyber.md",
     "Campaign Notes/Other Items/Brains to Woe.md",
     "Campaign Notes/Story/Sessions/1/Plans.md",
-    "Campaign Notes/Other Items/Treasure/0-4/Treasures.md",
-    "Tables.md",
-    "Campaign Notes/Places/Argonnessen.md",
-    "Campaign Notes/Story/Encounters/Lurking Threat.md",
-    "Campaign Notes/Story/Sessions/1/Recap.md",
-    "Unrelated Files/Flows/Timeline.canvas",
-    "Unrelated Files/Flows/Marix Arc.canvas",
-    "Unrelated Files/Flows/Factions.canvas",
+    "Misc Files/Flows/Timeline.canvas",
+    "Misc Files/Flows/Marix Arc.canvas",
+    "Misc Files/Flows/Factions.canvas",
     "Campaign Notes/Story/Sessions/2",
-    "Unrelated Files/Images/Jonston Marsh.png",
-    "Unrelated Files/Images/argonnessen.jpg",
-    "Unrelated Files/Images/SF Emblem.png",
+    "Misc Files/Images/Jonston Marsh.png",
+    "Misc Files/Images/argonnessen.jpg",
+    "Misc Files/Images/SF Emblem.png",
     "Campaign Notes/Places/Underdark",
     "Campaign Notes/Places/Khorvaire",
-    "Unrelated Files/Images",
-    "Unrelated Files/Images/Woe portrait.png",
+    "Misc Files/Images",
+    "Misc Files/Images/Woe portrait.png",
     "Campaign Notes/NPCs",
     "Campaign Notes/Story/Sessions/0",
     "Campaign Notes/Story/Encounters",
@@ -231,7 +231,7 @@
     "Campaign Notes/Story/Sessions",
     "Campaign Notes/Story/Arcs",
     "Flows/Session Plans.canvas",
-    "Unrelated Files/Reevaluate/Lore Flow.canvas",
+    "Misc Files/Reevaluate/Lore Flow.canvas",
     "Untitled.canvas",
     "Flows/Lore Flow.canvas",
     "Plot.canvas"

@@ -17,7 +17,7 @@ A brilliant alchemist, Marix rose to lead House Cannith South after the Day of M
 ### Motivations
 
 - Alignment: Lawful Neutral
-- Goals: Elevate House Cannith and himself by mastering Mourning weapons.
+- Goals: Elevate House Cannith and himself by mastering Mourning energy.
 - Aspirations: To unify and lead a resurgent Cannith as its rightful patriarch. 
 
 ### Abilities & Powers
