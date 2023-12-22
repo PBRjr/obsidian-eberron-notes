@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Places/Eberron.md",
+                "file": "Campaign Notes/The Party.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Places/Eberron.md",
+                "file": "Campaign Notes/The Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Places/Eberron.md",
+                "file": "Campaign Notes/The Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Places/Eberron.md"
+                "file": "Campaign Notes/The Party.md"
               }
             }
           },
@@ -187,6 +187,11 @@
   },
   "active": "973294f18a8cfec8",
   "lastOpenFiles": [
+    "Misc Files/Tables.md",
+    "Misc Files/Prompts.md",
+    "Misc Files/Statblocks.md",
+    "Campaign Notes/Places/Eberron.md",
+    "pteranodon.md",
     "Campaign Notes/Places/Argonnessen.md",
     "Campaign Notes/Places/Underdark/The Temple of the Endless Rage.md",
     "Campaign Notes/Key Items/Fractured Khyber Dragonshard.md",
@@ -197,7 +202,6 @@
     "Campaign Notes/Story/Arcs/Overview Outline.md",
     "Campaign Notes/NPCs/Loro Cass.md",
     "Campaign Notes/Story/Arcs/Core.md",
-    "Statblocks.md",
     "Campaign Notes/Places/Khorvaire/Breland/Sharn/Sharn.md",
     "Campaign Notes/Story/Arcs/Journey to the City of Towers.md",
     "Campaign Notes/Story/Arcs/Sharn Arc.md",
@@ -208,11 +212,7 @@
     "Campaign Notes/NPCs/Brother Cec.md",
     "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
     "Campaign Notes/Places/Khorvaire/Breland/Breland.md",
-    "Campaign Notes/Places/Eberron.md",
     "Campaign Notes/Story/Sessions/2/Plans.md",
-    "Campaign Notes/Factions/Sons of the Daughter of Khyber.md",
-    "Campaign Notes/Other Items/Brains to Woe.md",
-    "Campaign Notes/Story/Sessions/1/Plans.md",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Factions.canvas",
