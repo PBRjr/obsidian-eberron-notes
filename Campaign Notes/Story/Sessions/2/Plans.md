@@ -38,7 +38,7 @@ References
 
 ## Marsh
 - [[Jonston Marsh]]
-- Hanging from chains, unconscious
+- Caged in the sublevel, unconscious
 - Clothes stripped, in a pile next to him
 
 ## Next
