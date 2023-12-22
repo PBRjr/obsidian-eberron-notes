@@ -1,4 +1,4 @@
-# Mourning weapon usage (25% each attack)
+## Mourning weapon usage (25% each attack)
 
 |Roll (d20)|Effect Description|
 |---|---|
@@ -23,11 +23,11 @@
 |19|The weapon's user feels a sudden weakness, reducing their strength score by 1 for 1 hour.|
 |20|The weapon shines with a guiding light, granting the user a +2 bonus to their next skill check.|
 
-# Falling In Sharn
+## Falling In Sharn
 
 To use these tables, when a character falls from height in the City of Towers, first have them roll on the _Outcome_ table. If that entry ends with * then the DM rolls on the _Extra Effects_ table.
 
-## Outcome
+### Outcome
 
 | Roll (d10) | Effect Description                                                                                                                                                                                                                       |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -42,7 +42,7 @@ To use these tables, when a character falls from height in the City of Towers, f
 | 9          | The fall is long and harrowing. The individual falls 100 feet before making a hard impact, taking 10d6 bludgeoning damage.*                                                                                                               |
 | 10         | The player lands on a passing skycoach or flying creature (perhaps a griffon or gargoyle) by accident, spooking and angering the crew or creature.                                                                                       |
 
-## Extra Effects
+### Extra Effects
 
 | Percentile | Effect Description                                                                                   |
 | ---------- | ---------------------------------------------------------------------------------------------------- |
@@ -52,7 +52,7 @@ To use these tables, when a character falls from height in the City of Towers, f
 | 51-70      | You land on an outcropping. If you surive, you are now stuck in a precarious position.               |
 | 71-90      | An air elemental breaks your fall! Now it wants to break your face too.                              |
 | 91-100     | The ground is enchanted with _Featherfall_.                                                                                                     |
-# Loot Tables
+## Loot Tables
 
 |Roll (d100)|Loot Description|
 |---|---|
@@ -107,7 +107,7 @@ To use these tables, when a character falls from height in the City of Towers, f
  |49|"Ancient Coin", very valuable to collectors
  |50|Roughly cut sapphire worth about 100 gold coins.
 
-# Travel Prices / Distances
+## Travel Prices / Distances
 
 | Mount/Vehicle                 | Fare     | Cargo Rate      | Chartered    | Own       | Speed*        | Per Day*      |
 | ----------------------------- | -------- | --------------- | ------------ | --------- | ------------- | ------------- |
@@ -138,7 +138,7 @@ To use these tables, when a character falls from height in the City of Towers, f
 
 \*Forced march: Traveling more than 8 hrs in day risks Exhaustion. Each character must make a Con save throw at the end of each additional hr. DC 10+1 for each hr past 8 hrs. On a failed save, a character suffers one level of Exhaustion
 
-# Random encounters in Sharn
+## Random encounters in Sharn
 
 | No. | Encounter                                                                      | Type         |
 |-----|--------------------------------------------------------------------------------|--------------|
@@ -162,3 +162,54 @@ To use these tables, when a character falls from height in the City of Towers, f
 | 18  | Rival Adventurers: Competition, collaboration, or confrontation                | Interaction  |
 | 19  | Scholarly Inquiry: Approached for a quest or intellectual challenge            | Interaction  |
 | 20  | Market Bargain: Extraordinary bargain with a hidden secret                     | Interaction  |
+
+
+## Random encounters in the wild
+
+|No.|Encounter|Type|
+|---|---|---|
+|1|Bandit Roadblock: A group of bandits demanding tolls.|Combat|
+|2|Stranded Traveler: A lone traveler needs help with a broken wagon.|Exploration|
+|3|Friendly Merchant: A traveling merchant offers rare goods.|Interaction|
+|4|Riddle Bridge: A talking statue blocks a bridge, asking a riddle.|Puzzle|
+|5|Lost Hermit: An eccentric hermit asks for directions.|Interaction|
+|6|Druid's Plea: A druid requests help to heal a sick tree.|Exploration|
+|7|Goblin Ambush: Goblins unexpectedly attack the party.|Combat|
+|8|Mischievous Sprite: A sprite plays tricks, leading to hidden treasure.|Puzzle|
+|9|Collapsed Cave Entrance: Exploration needed to find another way.|Exploration|
+|10|Wandering Minstrels: Musicians with a secret message.|Interaction|
+|11|Lost Puppy: A puppy leads to its owner in trouble.|Exploration|
+|12|Dueling Wizards: Two wizards dueling on the road.|Combat|
+|13|Mysterious Peddler: Sells magical trinkets of dubious origin.|Interaction|
+|14|Abandoned Campsite: Clues lead to a nearby threat or treasure.|Exploration|
+|15|High-speed Chase: A thief rushes past, pursued by guards.|Exploration|
+|16|Escaped Farm Animal: A large, rowdy animal blocks the path.|Exploration|
+|17|Ghostly Apparition: A ghost seeks help to find peace.|Exploration|
+|18|Boisterous Adventurers: A rival party challenges the players.|Interaction|
+|19|Sage's Request: A sage needs rare ingredients found nearby.|Interaction|
+|20|Hidden Shrine: A deity's shrine offers blessings or curses.|Interaction|
+## Need Names
+### Important names
+1. **Eldric "Stormweaver" Thorne**: A name given to a mage known for his control over tempestuous weather.
+2. **Talia "Nightshade" Vellor**: An assassin whose nickname comes from her use of a rare, deadly poison.
+3. **Garron "Ironheart" Brack**: A stoic warrior, famous for surviving a battle despite a near-fatal wound.
+4. **Lysara "Starwhisper" Merin**: A mysterious sorceress rumored to communicate with celestial beings.
+5. **Rorik "The Bear" Haldor**: A burly, good-natured fighter known for his bear-like strength and fury in battle.
+6. **Velina "Silvertongue" Sarn**: A diplomat renowned for her persuasive speech and silver-tongued negotiations.
+7. **Jasper "Quickfoot" Reed**: A nimble and quick thief whose escapades are legendary.
+8. **Mira "Seaborn" Kestrel**: A sailor who supposedly survived a shipwreck and lived at sea for months.
+9. **Brenn "One-Eye" Shale**: An old scout who lost an eye to a wild beast but gained legendary tracking skills.
+10. **Seraphina "Flamehair" Eldridge**: A fiery red-headed mage known for her temper and powerful fire spells.
+
+### More Basic Fantasy Names:
+
+1. **Alden Fairwood**
+2. **Nessa Willow**
+3. **Corvin Darkwater**
+4. **Lila Moonsong**
+5. **Thane Ironfist**
+6. **Elora Sunbeam**
+7. **Brogan Stonebreaker**
+8. **Ysara Frostbloom**
+9. **Dax Shadowend**
+10. **Eveline Starfall**

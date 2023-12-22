@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"type":"file","file":"Campaign Notes/Lore/Day of Mourning.md","id":"a1486dd29735a011","x":-160,"y":-580,"width":340,"height":260},
+		{"type":"text","text":"Nearly collapses House Cannith; Destroys HQ and leadership; Ends warforged production","id":"6cb63f91d6b07596","x":-142,"y":-200,"width":305,"height":150},
+		{"type":"text","text":"[[Marix d'Cannith]] and the [[Triumvirates]] rise to power over House Cannith, seperated by region","id":"8fe197d95b08dd34","x":-142,"y":60,"width":305,"height":130},
+		{"type":"text","text":"Discovers dragonshards can control(ish) the power of the Mourning","id":"240e35b2d3c10307","x":397,"y":-224,"width":267,"height":99},
+		{"type":"text","text":"Attempts to create helpful technology to skyrocket to the top of House Cannith","id":"ba49ac09baa69cb4","x":387,"y":-20,"width":288,"height":100},
+		{"type":"text","text":"If its not wartech, no one cares qq","id":"4beaa8ef62b1069b","x":383,"y":220,"width":296,"height":80},
+		{"type":"text","text":"Recieves money and knowledge on how to improve his weapons","id":"28d1749adb33479e","x":890,"y":-220,"width":267,"height":95},
+		{"type":"text","text":"Creates and sells weapons to House Tarkanan","id":"27ef9b83cf8935e1","x":911,"y":-395,"width":220,"height":85},
+		{"type":"text","text":"Finished or near-finished weapons go public, being sold to those with enough gold.","id":"1c47047e19ffc2dc","x":880,"y":-28,"width":283,"height":124},
+		{"type":"text","text":"Meets with other powerful houses and governments to forge alliances.","id":"40c228bf491df900","x":886,"y":220,"width":271,"height":112},
+		{"type":"text","text":"Realizes war would be extremely profitable","id":"64cd01dcdcc05380","x":895,"y":432,"width":252,"height":76},
+		{"type":"text","text":"Marix recieves a package containing a Khyber dragonshard that has trapped some mourning energy","id":"0407ba3804ce2d61","x":371,"y":-460,"width":320,"height":140}
+	],
+	"edges":[
+		{"id":"c821e5f86fb1da5f","fromNode":"a1486dd29735a011","fromSide":"bottom","toNode":"6cb63f91d6b07596","toSide":"top"},
+		{"id":"24efce5bea366bd6","fromNode":"6cb63f91d6b07596","fromSide":"bottom","toNode":"8fe197d95b08dd34","toSide":"top"},
+		{"id":"599de4b9679d661c","fromNode":"8fe197d95b08dd34","fromSide":"right","toNode":"0407ba3804ce2d61","toSide":"left"},
+		{"id":"bed9e0250163e2c8","fromNode":"0407ba3804ce2d61","fromSide":"bottom","toNode":"240e35b2d3c10307","toSide":"top"},
+		{"id":"7edad9f557765c89","fromNode":"240e35b2d3c10307","fromSide":"bottom","toNode":"ba49ac09baa69cb4","toSide":"top"},
+		{"id":"61a91a1571bc23d1","fromNode":"ba49ac09baa69cb4","fromSide":"bottom","toNode":"4beaa8ef62b1069b","toSide":"top"},
+		{"id":"ca1acf74e86336d6","fromNode":"4beaa8ef62b1069b","fromSide":"right","toNode":"27ef9b83cf8935e1","toSide":"left"},
+		{"id":"94406f3aba0552b1","fromNode":"27ef9b83cf8935e1","fromSide":"bottom","toNode":"28d1749adb33479e","toSide":"top"},
+		{"id":"8a96d035b459d950","fromNode":"28d1749adb33479e","fromSide":"bottom","toNode":"1c47047e19ffc2dc","toSide":"top"},
+		{"id":"e0a9b24f71af25eb","fromNode":"1c47047e19ffc2dc","fromSide":"bottom","toNode":"40c228bf491df900","toSide":"top"},
+		{"id":"789c60f22c8b96ea","fromNode":"40c228bf491df900","fromSide":"bottom","toNode":"64cd01dcdcc05380","toSide":"top"}
+	]
+}

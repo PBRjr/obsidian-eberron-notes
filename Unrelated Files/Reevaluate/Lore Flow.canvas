@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"type":"file","file":"Unrelated Files/Reevaluate/Order.md","id":"9f7c0b01936fee8a","x":-240,"y":-1376,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"Unrelated Files/Reevaluate/Dissonance.md","id":"c75c5e0cae4fda71","x":560,"y":-1376,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"Campaign Notes/Lore/Progenitor Dragons.md","id":"1c7956f95c3674c0","x":160,"y":-840,"width":400,"height":400},
+		{"type":"file","file":"Unrelated Files/Reevaluate/Syvander.md","id":"58ec4485ddd65758","x":960,"y":-840,"width":400,"height":385},
+		{"type":"file","file":"Campaign Notes/Lore/Day of Mourning.md","id":"9104fa405c850bde","x":1760,"y":280,"width":400,"height":400},
+		{"type":"file","file":"Campaign Notes/Key Items/Dragonshards.md","id":"d4c6c14af8cf15b8","x":-640,"y":280,"width":400,"height":400},
+		{"type":"file","file":"Unrelated Files/Reevaluate/Heartstone.md","id":"109cb319aa367c88","x":160,"y":280,"width":400,"height":400},
+		{"type":"file","file":"Unrelated Files/Reevaluate/Codex.md","id":"c07360161da90b4b","x":960,"y":280,"width":400,"height":400},
+		{"type":"file","file":"Campaign Notes/Lore/Draconic Prophecy.md","id":"144c0223dd76b6ef","x":1360,"y":-1376,"width":400,"height":400},
+		{"type":"file","file":"Campaign Notes/Places/Eberron.md","id":"898f8c400b63a1f8","x":-1040,"y":-320,"width":400,"height":400},
+		{"type":"file","file":"Campaign Notes/NPCs/Professor Baelen ir'Torn.md","id":"0fade5c40816251b","x":960,"y":1080,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"e34e6b693d7e9536","fromNode":"c75c5e0cae4fda71","fromSide":"left","toNode":"1c7956f95c3674c0","toSide":"top"},
+		{"id":"e0ad8af6a15693c3","fromNode":"9f7c0b01936fee8a","fromSide":"right","toNode":"1c7956f95c3674c0","toSide":"top"},
+		{"id":"87aca0773450c1ca","fromNode":"1c7956f95c3674c0","fromSide":"bottom","toNode":"898f8c400b63a1f8","toSide":"top"},
+		{"id":"eae2b6b4dbf8cd61","fromNode":"1c7956f95c3674c0","fromSide":"bottom","toNode":"109cb319aa367c88","toSide":"top"},
+		{"id":"9dbe5a933e204bbf","fromNode":"1c7956f95c3674c0","fromSide":"right","toNode":"58ec4485ddd65758","toSide":"left"},
+		{"id":"66605c68ed070696","fromNode":"58ec4485ddd65758","fromSide":"bottom","toNode":"9104fa405c850bde","toSide":"top"},
+		{"id":"3c023b244352f7fa","fromNode":"1c7956f95c3674c0","fromSide":"bottom","toNode":"d4c6c14af8cf15b8","toSide":"top"},
+		{"id":"3354da9223a0405a","fromNode":"58ec4485ddd65758","fromSide":"bottom","toNode":"c07360161da90b4b","toSide":"top"},
+		{"id":"a737f9d86493d4f3","fromNode":"109cb319aa367c88","fromSide":"top","toNode":"58ec4485ddd65758","toSide":"bottom"},
+		{"id":"db12b8e97e8c0a3a","fromNode":"c75c5e0cae4fda71","fromSide":"top","toNode":"144c0223dd76b6ef","toSide":"top"},
+		{"id":"5066be8d5918bcf3","fromNode":"144c0223dd76b6ef","fromSide":"bottom","toNode":"58ec4485ddd65758","toSide":"right"},
+		{"id":"99481f562ded55d0","fromNode":"c07360161da90b4b","fromSide":"bottom","toNode":"0fade5c40816251b","toSide":"top"}
+	]
+}

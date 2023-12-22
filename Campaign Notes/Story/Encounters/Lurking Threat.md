@@ -1,0 +1,3 @@
+ - The cover reads "The Mimic: How to Identify a Lurking Threat"
+- This book looks like any ordinary book, with a brown leather cover and simple lettering for the title. The book has no listed author.
+- A DC 11 investigation check reveals this book has less dust on it than other objects, like it was recently disturbed.

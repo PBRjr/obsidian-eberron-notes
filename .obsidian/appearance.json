@@ -8,5 +8,6 @@
   "enabledCssSnippets": [
     "Image alignment"
   ],
-  "cssTheme": "Things"
+  "cssTheme": "Dracula for Obsidian",
+  "theme": "obsidian"
 }

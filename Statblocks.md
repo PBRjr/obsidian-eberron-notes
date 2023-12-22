@@ -9,6 +9,54 @@ References
 - [[#Balista|Balista]]
 - [[#Ankheg|Ankheg]]
 
+---
+
+
+## Kobold Dragonshield
+
+Small humanoid (kobold), lawful evil
+
+Armor Class 15 (Natural armor, shield)
+
+Hit Points 44 (8d6 + 16)
+
+Speed 20 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+| STR     | DEX     | CON    | INT    | WIS    | CHA |
+| ------- | ------- | ------ | ------ | ------ | --- |
+| 12 (+1) | 15 (+2) | 14 (+2) | 8 (-1) | 9 (-1) | 10 (+0)    |
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+Skills Perception +1
+
+Senses darkvision 60 ft., passive Perception 11
+
+Languages Common, Draconic
+
+Challenge 1 (200 XP)
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Pack Tactics.** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
+
+**Sunlight Sensitivity.** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
+*Actions*
+
+**Spear.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+
+**Javelin.** Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+
+**Take this!** Reaction: If the Dragonshield is about to be struck by a projectile, it may use its reaction to move up to half its movement to get behind a friendly kobold. If it does, that kobold takes the effect of the projectile instead.
+
+*Villain Actions*
+**Round 1: Hidden net.** The Dragonshield directs another Kobold to throw a net on a nearby enemy, reducing their movement to 0 and giving them disadvantage on attack unless they succeed a DC 12 dexterity saving throw.
+
+**Round 2: Oil slick.** The Dragonshield directs another kobold to dump 2 buckets of oil on or nearby the closest enemies, making them fall prone unless they succeed on a DC 12 dexterity saving throw. If lit on fire they take 2d4 fire damage a turn.
+
 ## Kobold Scale Sorcerer
 Small humanoid (kobold), lawful evil
 
@@ -50,7 +98,7 @@ The kobold is a 3rd-level spellcaster. Their spellcasting ability is Charisma (s
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-Actions
+*Actions*
 
 _**Dagger**_: _Melee or Ranged Weapon Attack_: +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit_: 4 1d4+2 piercing damage.
 
@@ -85,7 +133,7 @@ Proficiency Bonus +2
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-Actions
+*Actions*
 
 _**Multiattack.**_ The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 
@@ -123,7 +171,7 @@ Proficiency Bonus +2
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-Actions
+*Actions*
 
 _**Club.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage
 
@@ -160,7 +208,7 @@ _**Sunlight Sensitivity.**_ While in sunlight, the kobold has disadvantage on a
 
 _**Pack Tactics.**_ The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't [incapacitated](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Incapacitated).
 
-Actions
+*Actions*
 
 _**Dagger.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.
 
@@ -198,7 +246,7 @@ Proficiency Bonus +2
 
 _**Flyby.**_ The pteranodon doesn’t provoke an opportunity attack when it flies out of an enemy’s reach.
 
-Actions
+*Actions*
 
 _**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (2d4 + 1) piercing damage.
 ## Balista
@@ -237,7 +285,7 @@ Proficiency Bonus +2
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-Actions
+*Actions*
 
 _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is [grappled](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Grappled) (escape DC 13). Until this grapple ends, the ankheg can bite only the [grappled](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Grappled) creature and has advantage on attack rolls to do so.
 
