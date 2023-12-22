@@ -36,5 +36,3 @@
    - **Impact on Sharn**: Return to Sharn to see the consequences of their actions in the broader conflict.
    - **Faction Reactions**: How the different factions respond to the outcome of the Xen'Drik events.
    - **Setting Up Future Adventures**: Hints at future plots, possibly involving other realms or aspects of the Draconic Prophecy.
-
-This outline provides a structured approach to your campaign, ensuring each arc contributes meaningfully to the overall narrative while allowing for player agency and impactful choices.
