@@ -2,9 +2,9 @@
   "table-editor-obsidian",
   "file-tree-alternative",
   "obsidian-plugin-toc",
-  "obsidian-textgenerator-plugin",
   "advanced-merger",
   "templater-obsidian",
   "cmenu-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-style-settings"
 ]
