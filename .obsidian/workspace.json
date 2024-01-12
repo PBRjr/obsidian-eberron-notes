@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2/Plans.md",
+                "file": "Campaign Notes/Lore/Day of Mourning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2/Plans.md",
+                "file": "Campaign Notes/Lore/Day of Mourning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2/Plans.md",
+                "file": "Campaign Notes/Lore/Day of Mourning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2/Plans.md"
+                "file": "Campaign Notes/Lore/Day of Mourning.md"
               }
             }
           },
@@ -186,6 +186,10 @@
   },
   "active": "31a1c80cd8583fea",
   "lastOpenFiles": [
+    "Campaign Notes/Story/Arcs/Core.md",
+    "Campaign Notes/Places/Argonnessen.md",
+    "Campaign Notes/Story/Arcs/Overview Outline.md",
+    "Campaign Notes/Story/Sessions/2/Plans.md",
     "Campaign Notes/Story/Quests/Whitehorn Wood.md",
     "Campaign Notes/Story/Quests/The Silver Flame needs help with a Cock.md",
     "Campaign Notes/Story/Quests/Lost Child.md",
@@ -194,19 +198,15 @@
     "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
     "Campaign Notes/Story/Encounters/Lurking Threat.md",
     "Campaign Notes/Story/Encounters/Arrival at Sharn.md",
-    "Campaign Notes/Story/Arcs/Core.md",
     "Campaign Notes/NPCs/Thora Tarkanan.md",
     "Campaign Notes/NPCs/The Beggar King.md",
     "Campaign Notes/NPCs/Axe man.md",
     "Campaign Notes/NPCs/Brother Cec.md",
-    "Campaign Notes/Story/Sessions/2/Plans.md",
-    "Campaign Notes/Places/Argonnessen.md",
     "Campaign Notes/Other Items/Brains to Woe.md",
     "Campaign Notes/Places/Khorvaire/Breland/Sharn/Sharn.md",
     "Campaign Notes/Story/Sessions/1/Recap.md",
     "Campaign Notes/Factions/Sons of the Daughter of Khyber.md",
     "Campaign Notes/Factions/House Tarkanan.md",
-    "Campaign Notes/Story/Arcs/Overview Outline.md",
     "Campaign Notes/Story/Sessions/1/Plans.md",
     "Campaign Notes/Sharn Inquisitor/Historic Treaty of Thronehold Ushers In New Era of Peace.md",
     "Campaign Notes/Places/Khorvaire/Mournland.md",
