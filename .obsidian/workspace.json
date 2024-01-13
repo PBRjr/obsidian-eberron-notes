@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2/Plans.md",
+                "file": "Campaign Notes/Story/Arcs/Campaign Outline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "d722b9df1badb904",
+            "id": "d1231d3f4e34645a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Places/Argonnessen.md",
+                "file": "Campaign Notes/Story/Sessions/2/Plans.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2/Plans.md",
+                "file": "Campaign Notes/Story/Arcs/Campaign Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2/Plans.md",
+                "file": "Campaign Notes/Story/Arcs/Campaign Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2/Plans.md"
+                "file": "Campaign Notes/Story/Arcs/Campaign Outline.md"
               }
             }
           },
@@ -186,32 +186,33 @@
   },
   "active": "31a1c80cd8583fea",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Quests/Whitehorn Wood.md",
-    "Campaign Notes/Story/Quests/The Silver Flame needs help with a Cock.md",
-    "Campaign Notes/Story/Quests/Lost Child.md",
-    "Campaign Notes/Story/Quests/Aquefukt.md",
-    "Campaign Notes/Story/Encounters/The Bag Man.md",
-    "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
-    "Campaign Notes/Story/Encounters/Lurking Threat.md",
-    "Campaign Notes/Story/Encounters/Arrival at Sharn.md",
+    "Campaign Notes/Story/Arcs/Overview Outline.md",
+    "Misc Files/Reevaluate/Xen'Drik Arc.md",
+    "Misc Files/Reevaluate/Sharn Arc.md",
+    "Misc Files/Reevaluate/Core.md",
+    "Campaign Notes/Story/Arcs/Campaign Outline.md",
+    "Campaign Notes/Antagonists/Woe.md",
+    "Campaign Notes/Antagonists/Thora Tarkanan.md",
+    "Campaign Notes/Antagonists/The Beggar King.md",
+    "Campaign Notes/Antagonists/Marix d'Cannith.md",
+    "Campaign Notes/Antagonists",
+    "Campaign Notes/Story/Arcs/Xen'Drik Arc.md",
+    "Campaign Notes/Story/Arcs/Sharn Arc.md",
     "Campaign Notes/Story/Arcs/Core.md",
+    "Campaign Notes/NPCs/Woe.md",
     "Campaign Notes/NPCs/Thora Tarkanan.md",
     "Campaign Notes/NPCs/The Beggar King.md",
-    "Campaign Notes/NPCs/Axe man.md",
-    "Campaign Notes/NPCs/Brother Cec.md",
+    "Campaign Notes/NPCs/Marix d'Cannith.md",
     "Campaign Notes/Story/Sessions/2/Plans.md",
-    "Campaign Notes/Places/Argonnessen.md",
     "Campaign Notes/Other Items/Brains to Woe.md",
-    "Campaign Notes/Places/Khorvaire/Breland/Sharn/Sharn.md",
-    "Campaign Notes/Story/Sessions/1/Recap.md",
-    "Campaign Notes/Factions/Sons of the Daughter of Khyber.md",
-    "Campaign Notes/Factions/House Tarkanan.md",
-    "Campaign Notes/Story/Arcs/Overview Outline.md",
-    "Campaign Notes/Story/Sessions/1/Plans.md",
-    "Campaign Notes/Sharn Inquisitor/Historic Treaty of Thronehold Ushers In New Era of Peace.md",
-    "Campaign Notes/Places/Khorvaire/Mournland.md",
-    "Campaign Notes/Lore/Progenitor Dragons.md",
-    "Campaign Notes/Lore/Galifar Calender.md",
+    "Campaign Notes/Story/Arcs/Journey to the City of Towers.md",
+    "Campaign Notes/Places/Argonnessen.md",
+    "Campaign Notes/NPCs/Axe man.md",
+    "Campaign Notes/NPCs/Aeren d'Cannith.md",
+    "Campaign Notes/NPCs/Jonston Marsh.md",
+    "Campaign Notes/NPCs/Oak Dryfire.md",
+    "Campaign Notes/NPCs/Loro Cass.md",
+    "Campaign Notes/NPCs/Brother Cec.md",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Factions.canvas",
@@ -228,7 +229,6 @@
     "Campaign Notes/Story/Encounters",
     "Campaign Notes/Story/Sessions/1",
     "Campaign Notes/Story/Sessions",
-    "Campaign Notes/Story/Arcs",
     "Flows/Session Plans.canvas",
     "Misc Files/Reevaluate/Lore Flow.canvas",
     "Untitled.canvas",
