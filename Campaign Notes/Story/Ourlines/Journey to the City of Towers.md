@@ -1,7 +1,3 @@
-# Start of a Journey
-
----
-
  References
 - [[#NPC's|NPC's]]
 	- [[#NPC's#Jonston Marsh|Jonston Marsh]]
