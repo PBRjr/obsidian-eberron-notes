@@ -19,18 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d722b9df1badb904",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes/Places/Argonnessen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -186,8 +174,9 @@
   },
   "active": "31a1c80cd8583fea",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Arcs/Core.md",
     "Campaign Notes/Places/Argonnessen.md",
+    "Campaign Notes/Lore/Day of Mourning.md",
+    "Campaign Notes/Story/Arcs/Core.md",
     "Campaign Notes/Story/Arcs/Overview Outline.md",
     "Campaign Notes/Story/Sessions/2/Plans.md",
     "Campaign Notes/Story/Quests/Whitehorn Wood.md",
@@ -211,7 +200,6 @@
     "Campaign Notes/Sharn Inquisitor/Historic Treaty of Thronehold Ushers In New Era of Peace.md",
     "Campaign Notes/Places/Khorvaire/Mournland.md",
     "Campaign Notes/Lore/Progenitor Dragons.md",
-    "Campaign Notes/Lore/Galifar Calender.md",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Factions.canvas",
