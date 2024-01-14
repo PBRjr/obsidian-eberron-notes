@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Ourlines/Campaign Outline.md",
+                "file": "Campaign Notes/Story/Quests/Airship Crash.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Ourlines/Campaign Outline.md",
+                "file": "Campaign Notes/Story/Quests/Airship Crash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Ourlines/Campaign Outline.md",
+                "file": "Campaign Notes/Story/Quests/Airship Crash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Ourlines/Campaign Outline.md"
+                "file": "Campaign Notes/Story/Quests/Airship Crash.md"
               }
             }
           },
@@ -172,18 +172,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "31a1c80cd8583fea",
+  "active": "973294f18a8cfec8",
   "lastOpenFiles": [
+    "Campaign Notes/Story/Sessions/1/The Airship.md",
+    "Campaign Notes/Story/Quests/Airship Crash.md",
+    "Campaign Notes/Story/Sessions/1/Recap.md",
+    "Campaign Notes/Story/Ourlines/Campaign Outline.md",
+    "Campaign Notes/Story/Quests/Kobold Cave.md",
     "Campaign Notes/Story/Quests/The Silver Flame needs help with a Cock.md",
     "Campaign Notes/Story/Quests/The Warforged Hermit.md",
     "Campaign Notes/Story/Quests/Whitehorn Wood.md",
     "Campaign Notes/Story/Quests/Aquefukt.md",
     "Campaign Notes/Story/Quests/Lost Child.md",
     "Campaign Notes/Story/Quests/The Haunted Grove.md",
-    "Campaign Notes/Story/Ourlines/Campaign Outline.md",
     "Campaign Notes/Story/Quests/The Mysterious Passenger.md",
     "Campaign Notes/Story/Ourlines/Journey to the City of Towers.md",
-    "Campaign Notes/Story/Sessions/2/Plans.md",
     "Misc Files/Templates/Important Places.md",
     "Campaign Notes/Places/Khorvaire/Breland/Breland.md",
     "Campaign Notes/Places/Khorvaire/Breland/Sharn/Sharn.md",
@@ -197,9 +200,6 @@
     "Campaign Notes/Factions/Church of the Silver Flame.md",
     "Campaign Notes/Factions/Dragonmarked Houses/House Cannith.md",
     "Campaign Notes/Items/Treasures.md",
-    "Campaign Notes/Items/Anonymous Letters.md",
-    "Campaign Notes/Items/Brains to Woe.md",
-    "Campaign Notes/Items/Jonston's Note.md",
     "Campaign Notes/Major NPCs",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
