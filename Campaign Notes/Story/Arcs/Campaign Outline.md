@@ -28,13 +28,13 @@
 - **Outcome:** Provides crucial insights into Woe's transformation, while also presenting moral questions about freedom, war, and identity.
 
 
-### Act 2: The City of Towers
+## Act 2: The City of Towers
 
 - **Exploration of Sharn:** Party navigates the complex city, seeking allies and information.
 - **Investigation:** Uncover a network of intrigue; strange events link to the airship attack.
 - **Revelation:** Learn of Woe's grand plan threatening Eberron.
 
-### Act 3 and Beyond: [To be developed]
+## Act 3 and Beyond: [To be developed]
 
 - **Further Adventures:** Based on player actions and progression.
 

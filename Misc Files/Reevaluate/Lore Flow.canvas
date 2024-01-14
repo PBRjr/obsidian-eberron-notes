@@ -5,12 +5,12 @@
 		{"type":"file","file":"Campaign Notes/Lore/Progenitor Dragons.md","id":"1c7956f95c3674c0","x":160,"y":-840,"width":400,"height":400},
 		{"type":"file","file":"Misc Files/Reevaluate/Syvander.md","id":"58ec4485ddd65758","x":960,"y":-840,"width":400,"height":385},
 		{"type":"file","file":"Campaign Notes/Lore/Day of Mourning.md","id":"9104fa405c850bde","x":1760,"y":280,"width":400,"height":400},
-		{"type":"file","file":"Campaign Notes/Key Items/Dragonshards.md","id":"d4c6c14af8cf15b8","x":-640,"y":280,"width":400,"height":400},
+		{"type":"file","file":"Campaign Notes/Items/Dragonshards.md","id":"d4c6c14af8cf15b8","x":-640,"y":280,"width":400,"height":400},
 		{"type":"file","file":"Misc Files/Reevaluate/Heartstone.md","id":"109cb319aa367c88","x":160,"y":280,"width":400,"height":400},
 		{"type":"file","file":"Misc Files/Reevaluate/Codex.md","id":"c07360161da90b4b","x":960,"y":280,"width":400,"height":400},
 		{"type":"file","file":"Campaign Notes/Lore/Draconic Prophecy.md","id":"144c0223dd76b6ef","x":1360,"y":-1376,"width":400,"height":400},
 		{"type":"file","file":"Campaign Notes/Places/Eberron.md","id":"898f8c400b63a1f8","x":-1040,"y":-320,"width":400,"height":400},
-		{"type":"file","file":"Campaign Notes/NPCs/Professor Baelen ir'Torn.md","id":"0fade5c40816251b","x":960,"y":1080,"width":400,"height":400}
+		{"type":"file","file":"Campaign Notes/Other NPCs/Professor Baelen ir'Torn.md","id":"0fade5c40816251b","x":960,"y":1080,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"e34e6b693d7e9536","fromNode":"c75c5e0cae4fda71","fromSide":"left","toNode":"1c7956f95c3674c0","toSide":"top"},
