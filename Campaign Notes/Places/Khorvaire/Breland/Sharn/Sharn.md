@@ -1,6 +1,3 @@
-
----
-
 References
 - [[#Overview|Overview]]
 - [[#Districts|Districts]]
