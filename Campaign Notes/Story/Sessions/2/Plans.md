@@ -50,7 +50,7 @@ References
 ### Prophecy Fragment concerning Tiamat
 > In the hour when shadows grow long and the moon bleeds its light, the Daughter of Khyber shall stir in her dark slumber. Only then, if the kin of dragons, willing in heart and spirit, offers itself unto the void, shall the chains of the Daughter weaken. Her roar shall echo through the Five Sorrows, and the world shall tremble before her awakening.
 ## Treasure
-- [[Brains to Woe| Half-written letter]] from Brains to [[Woe]]
+- [[Brains to Woe|Half-written letter]] from Brains to [[Woe]]
 - Wand of magic detection (next to a shackled skeleton with no hands)
 	- Glows when its near a magic source (always glowing cause it is a magic source)
 - Rock of perpetual existing?
