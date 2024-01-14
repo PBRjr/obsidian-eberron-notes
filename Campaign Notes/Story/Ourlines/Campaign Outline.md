@@ -28,6 +28,7 @@
 - **Exploration of Sharn:** Party navigates the complex city, seeking allies and information.
 - **Investigation:** Uncover a network of intrigue; strange events link to the airship attack.
 - **Revelation:** Learn of Woe's grand plan threatening Eberron.
+- **New objective**: Learn about Woe's need to collect all of the [[Fractured Khyber Dragonshard]] pieces.
 
 #### Side Quests
 [[The Mysterious Passenger]]

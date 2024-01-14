@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Ourlines/Campaign Outline.md",
+                "file": "Campaign Notes/Story/Quests/Kobold Cave.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Ourlines/Campaign Outline.md",
+                "file": "Campaign Notes/Story/Quests/Kobold Cave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Ourlines/Campaign Outline.md",
+                "file": "Campaign Notes/Story/Quests/Kobold Cave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Ourlines/Campaign Outline.md"
+                "file": "Campaign Notes/Story/Quests/Kobold Cave.md"
               }
             }
           },
@@ -187,9 +187,9 @@
   },
   "active": "c87b141da0809ad5",
   "lastOpenFiles": [
+    "Campaign Notes/Story/Ourlines/Campaign Outline.md",
     "Campaign Notes/Story/Ourlines/Journey to the City of Towers.md",
     "Campaign Notes/Major NPCs/Woe.md",
-    "Campaign Notes/Story/Ourlines/Campaign Outline.md",
     "Campaign Notes/Story/Quests/Airship Crash.md",
     "Campaign Notes/Story/Sessions/1/The Airship.md",
     "Campaign Notes/Story/Sessions/1/Recap.md",
