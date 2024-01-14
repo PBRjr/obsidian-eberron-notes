@@ -13,14 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Quests/Airship Crash.md",
+                "file": "Campaign Notes/Story/Ourlines/Campaign Outline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "c87b141da0809ad5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Notes/Story/Ourlines/Campaign Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Quests/Airship Crash.md",
+                "file": "Campaign Notes/Story/Ourlines/Campaign Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Quests/Airship Crash.md",
+                "file": "Campaign Notes/Story/Ourlines/Campaign Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Quests/Airship Crash.md"
+                "file": "Campaign Notes/Story/Ourlines/Campaign Outline.md"
               }
             }
           },
@@ -172,12 +185,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "973294f18a8cfec8",
+  "active": "c87b141da0809ad5",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Sessions/1/The Airship.md",
-    "Campaign Notes/Story/Quests/Airship Crash.md",
-    "Campaign Notes/Story/Sessions/1/Recap.md",
+    "Campaign Notes/Story/Ourlines/Journey to the City of Towers.md",
+    "Campaign Notes/Major NPCs/Woe.md",
     "Campaign Notes/Story/Ourlines/Campaign Outline.md",
+    "Campaign Notes/Story/Quests/Airship Crash.md",
+    "Campaign Notes/Story/Sessions/1/The Airship.md",
+    "Campaign Notes/Story/Sessions/1/Recap.md",
     "Campaign Notes/Story/Quests/Kobold Cave.md",
     "Campaign Notes/Story/Quests/The Silver Flame needs help with a Cock.md",
     "Campaign Notes/Story/Quests/The Warforged Hermit.md",
@@ -186,7 +201,6 @@
     "Campaign Notes/Story/Quests/Lost Child.md",
     "Campaign Notes/Story/Quests/The Haunted Grove.md",
     "Campaign Notes/Story/Quests/The Mysterious Passenger.md",
-    "Campaign Notes/Story/Ourlines/Journey to the City of Towers.md",
     "Misc Files/Templates/Important Places.md",
     "Campaign Notes/Places/Khorvaire/Breland/Breland.md",
     "Campaign Notes/Places/Khorvaire/Breland/Sharn/Sharn.md",
@@ -199,7 +213,6 @@
     "Campaign Notes/Factions/Boromar clan.md",
     "Campaign Notes/Factions/Church of the Silver Flame.md",
     "Campaign Notes/Factions/Dragonmarked Houses/House Cannith.md",
-    "Campaign Notes/Items/Treasures.md",
     "Campaign Notes/Major NPCs",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",

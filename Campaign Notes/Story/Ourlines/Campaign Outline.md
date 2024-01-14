@@ -1,7 +1,7 @@
 ## Act 1: Journey to the City of Towers
 
 - **Setting:** Characters aboard an airship bound for Sharn.
-- **Airship Attack:** Airship attacked by Woe's forces, crashes into the wilds of Eberron.
+- **Airship Attack:** Airship attacked by [[Woe]]'s forces, crashes into the wilds of Eberron.
 - **Survival and Journey:** Party survives, bands together to navigate to Sharn, facing environmental and enemy challenges.
 - **Foreshadowing:** Discover ominous signs hinting at a larger threat.
 
@@ -9,6 +9,8 @@
 [[The Airship]]
 
 [[Kobold Cave]]
+
+[[Shavalant]]
 
 #### Side Quests
 [[The Haunted Grove]]
