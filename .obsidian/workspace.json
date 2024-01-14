@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Quests/Aquefukt.md",
+                "file": "Campaign Notes/Story/Ourlines/Campaign Outline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Quests/Aquefukt.md",
+                "file": "Campaign Notes/Story/Ourlines/Campaign Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Quests/Aquefukt.md",
+                "file": "Campaign Notes/Story/Ourlines/Campaign Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Quests/Aquefukt.md"
+                "file": "Campaign Notes/Story/Ourlines/Campaign Outline.md"
               }
             }
           },
@@ -174,10 +174,13 @@
   },
   "active": "31a1c80cd8583fea",
   "lastOpenFiles": [
+    "Campaign Notes/Story/Quests/The Silver Flame needs help with a Cock.md",
+    "Campaign Notes/Story/Quests/The Warforged Hermit.md",
+    "Campaign Notes/Story/Quests/Whitehorn Wood.md",
+    "Campaign Notes/Story/Quests/Aquefukt.md",
     "Campaign Notes/Story/Quests/Lost Child.md",
     "Campaign Notes/Story/Quests/The Haunted Grove.md",
     "Campaign Notes/Story/Ourlines/Campaign Outline.md",
-    "Campaign Notes/Story/Quests/The Warforged Hermit.md",
     "Campaign Notes/Story/Quests/The Mysterious Passenger.md",
     "Campaign Notes/Story/Ourlines/Journey to the City of Towers.md",
     "Campaign Notes/Story/Sessions/2/Plans.md",
@@ -189,7 +192,6 @@
     "Campaign Notes/The Party.md",
     "Campaign Notes/Major NPCs/Marix d'Cannith.md",
     "Campaign Notes/Story/Encounters/Arrival at Sharn.md",
-    "Campaign Notes/Story/Quests/Aquefukt.md",
     "Campaign Notes/Story/Ourlines/Old overview outline.md",
     "Campaign Notes/Factions/Boromar clan.md",
     "Campaign Notes/Factions/Church of the Silver Flame.md",
@@ -198,8 +200,6 @@
     "Campaign Notes/Items/Anonymous Letters.md",
     "Campaign Notes/Items/Brains to Woe.md",
     "Campaign Notes/Items/Jonston's Note.md",
-    "Campaign Notes/Story/Encounters/The Bag Man.md",
-    "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
     "Campaign Notes/Major NPCs",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",

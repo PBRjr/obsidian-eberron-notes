@@ -10,7 +10,11 @@
 
 [[The Warforged Hermit]]
 
+[[Aquefukt]]
 
+[[The Silver Flame needs help with a Cock]]
+
+[[Whitehorn Wood]]
 ## Act 2: The City of Towers
 
 - **Exploration of Sharn:** Party navigates the complex city, seeking allies and information.
