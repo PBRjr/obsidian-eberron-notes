@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Places/Eberron.md",
+                "file": "Campaign Notes/The Party.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Places/Eberron.md",
+                "file": "Campaign Notes/The Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Places/Eberron.md",
+                "file": "Campaign Notes/The Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Places/Eberron.md"
+                "file": "Campaign Notes/The Party.md"
               }
             }
           },
@@ -187,8 +187,8 @@
   },
   "active": "c87b141da0809ad5",
   "lastOpenFiles": [
-    "Campaign Notes/Places/Khorvaire.md",
     "Campaign Notes/Places/Eberron.md",
+    "Campaign Notes/Places/Khorvaire.md",
     "Campaign Notes/Places/Argonnessen.md",
     "Campaign Notes/Story/Encounters/The Bag Man.md",
     "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
