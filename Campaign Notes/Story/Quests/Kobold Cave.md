@@ -14,7 +14,7 @@ References
 ---
 ## Sigs
 - Marsh is kept inside the cave, mistaken as a 'dragonkin' to be used in a ritual.
-- '**The Brains**' - a [[Statblocks#Kobold Scale Sorcerer|kobold scale sorcerer]] that is intelligent *for a kobold* and is the one that made the deal with Woe to help him take down the [[The Airship|Merkentile]]
+- '**The Brains**' - a [[Statblocks#Kobold Dragonshield|Kobold Dragonshield]] that is intelligent *for a kobold* and is the one that made the deal with Woe to help him take down the [[The Airship|Merkentile]]
 - This is a faction of Kobolds that worship [[Tiamat]], called the [[Sons of the Daughter of Khyber]]
 
 ## In the cave
@@ -43,7 +43,7 @@ References
 - "Others whisper, whisper behind Brains. They think Brains not know... but Brains smartest! Must show them, must prove!"
 - "If not get right one, all bad. All bad for Brains. Others get angry, maybe want new leader. No, no, can't let that happen."
 ## Enemy goals
-- Want to summon [[Argonnessen#Secrets|The Daughter of Khyber]] by doing a ritual sacrifice of a "**Willing Dragon Kin**".
+- Want to summon [[Argonnessen#Secrets|The Daughter of Khyber]] by doing a ritual sacrifice of a "*Willing Dragon Kin*".
 	- They misinterpreted this as any Dragonborn/Kobolds, not a willing dragon that has to sacrifice itself.
 - This sacrifice is a mistaken ancient take on a part of the [[Draconic Prophecy]] that states if a willing dragon kin is sacrificed in a very particular set of circumstances, The Daughter of Khyber will be freed.
 
