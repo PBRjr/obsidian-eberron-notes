@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Quests/Kobold Cave.md",
+                "file": "Campaign Notes/Story/Sessions/2 Plans.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +32,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,12 +185,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "31a1c80cd8583fea",
+  "active": "c87b141da0809ad5",
   "lastOpenFiles": [
+    "Campaign Notes/Story/Sessions/2 Plans.md",
+    "Campaign Notes/Story/Quests/Kobold Cave.md",
     "Campaign Notes/Story/Sessions/1 The Airship.md",
     "Campaign Notes/Story/Outlines/Campaign Outline.md",
-    "Campaign Notes/Story/Quests/Kobold Cave.md",
-    "Campaign Notes/Story/Sessions/2 Plans.md",
     "Campaign Notes/Story/Sessions/1 Lead-in.md",
     "Campaign Notes/Story/Sessions/1 Recap.md",
     "Campaign Notes/The Party.md",

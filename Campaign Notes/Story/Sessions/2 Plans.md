@@ -1,2 +1,3 @@
 ## Kobold Cave
-[[Kobold Cave]]
+- *Level Up*
+- [[Kobold Cave]]
