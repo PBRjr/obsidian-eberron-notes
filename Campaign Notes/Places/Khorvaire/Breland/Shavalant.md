@@ -8,7 +8,10 @@
 	- **Jonston** and **Prissy Marsh** are the only tieflings here.
 
 - See [[Whitehorn Wood]] sidequest
-- 
+- See [[Aquefukt]] sidequest
+
+## Non-Quest Encounters
+- [[Boromar clan]] goons attempt extortion
 
 ## NPCs
 
@@ -20,7 +23,7 @@
 **Miri**
 - Town magewright
 - Was an apprentice to [[Aeren d'Cannith]]
-- Left [[Sharn]] to pursuse life on her own
+- Left [[Sharn]] to pursues life on her own
 
 **Sheriff Cromley** 
 - Grizzled old human, town sheriff
