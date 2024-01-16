@@ -45,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Factions/Boromar clan.md",
+                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Factions/Boromar clan.md",
+                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Factions/Boromar clan.md"
+                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md"
               }
             }
           },
@@ -197,10 +197,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "157b4c51aaec41d0",
+  "active": "c87b141da0809ad5",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Quests/Aquefukt.md",
     "Campaign Notes/Factions/Boromar clan.md",
+    "Campaign Notes/Story/Quests/Aquefukt.md",
     "Campaign Notes/Story/Sessions/2 Plans.md",
     "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
     "Campaign Notes/Story/Quests/Kobold Cave.md",
