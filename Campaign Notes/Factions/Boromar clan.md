@@ -18,8 +18,10 @@ References
 ### Leadership
 
 - Saidan Boromar (deceased) - Former leader of the Boromar clan
-- Castar - Saidan's chief advisor, a gnome who is politically and economically intelligent. Seeks to succeed Saidan.
-- Halak Boromar - Saidan's chief enforcer who operates fight rings. Also vying for control of the clan.
+- Castar - Saidan's chief advisor
+	- Wants to make Boromar a political powerhouse
+- Halak Boromar - Saidan's chief enforcer
+	- Wants to make Boromar a physical powerhouse
 
 ### Headquarters 
 

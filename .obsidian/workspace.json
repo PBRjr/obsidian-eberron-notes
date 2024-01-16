@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Factions/Boromar clan.md",
+                "file": "Campaign Notes/Story/Quests/Aquefukt.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Factions/Boromar clan.md",
+                "file": "Campaign Notes/Story/Quests/Aquefukt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Factions/Boromar clan.md",
+                "file": "Campaign Notes/Story/Quests/Aquefukt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Factions/Boromar clan.md"
+                "file": "Campaign Notes/Story/Quests/Aquefukt.md"
               }
             }
           },
@@ -199,10 +199,11 @@
   },
   "active": "157b4c51aaec41d0",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Quests/Aquefukt.md",
-    "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
-    "Campaign Notes/Story/Quests/Kobold Cave.md",
+    "Campaign Notes/Factions/Boromar clan.md",
     "Campaign Notes/Story/Sessions/2 Plans.md",
+    "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+    "Campaign Notes/Story/Quests/Aquefukt.md",
+    "Campaign Notes/Story/Quests/Kobold Cave.md",
     "Campaign Notes/Story/Sessions/1 The Airship.md",
     "Campaign Notes/Story/Outlines/Campaign Outline.md",
     "Campaign Notes/Story/Sessions/1 Lead-in.md",
@@ -224,7 +225,6 @@
     "Campaign Notes/Story/Quests/Whitehorn Wood.md",
     "Campaign Notes/Story/Quests/Lost Child.md",
     "Campaign Notes/Story/Quests/The Haunted Grove.md",
-    "Campaign Notes/Story/Quests/The Mysterious Passenger.md",
     "Campaign Notes/Major NPCs",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
