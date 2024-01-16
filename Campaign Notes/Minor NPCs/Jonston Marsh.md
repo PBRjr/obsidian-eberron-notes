@@ -8,7 +8,7 @@ A gruff airship captain with a chiseled exterior, Jonston believes in the people
 ### Backstory
 
 - From [[Shavalant]]
-- Wanted to adventure, eventually became Captain of [[The Airship|the Merkentile]]
+- Wanted to adventure, eventually became Captain of [[1 The Airship|the Merkentile]]
 
 ### Motivations 
 

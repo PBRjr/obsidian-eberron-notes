@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/The Party.md",
+                "file": "Campaign Notes/Story/Sessions/2 Plans.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/The Party.md",
+                "file": "Campaign Notes/Story/Sessions/2 Plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/The Party.md",
+                "file": "Campaign Notes/Story/Sessions/2 Plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/The Party.md"
+                "file": "Campaign Notes/Story/Sessions/2 Plans.md"
               }
             }
           },
@@ -187,6 +187,12 @@
   },
   "active": "c87b141da0809ad5",
   "lastOpenFiles": [
+    "Campaign Notes/Story/Sessions/1 The Airship.md",
+    "Campaign Notes/Story/Sessions/2 Plans.md",
+    "Campaign Notes/Story/Sessions/1 Lead-in.md",
+    "Campaign Notes/Story/Sessions/1 Recap.md",
+    "Campaign Notes/Story/Quests/Kobold Cave.md",
+    "Campaign Notes/The Party.md",
     "Campaign Notes/Places/Eberron.md",
     "Campaign Notes/Places/Khorvaire.md",
     "Campaign Notes/Places/Argonnessen.md",
@@ -194,14 +200,11 @@
     "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
     "Campaign Notes/Story/Encounters/Arrival at Sharn.md",
     "Campaign Notes/Story/Encounters/Lurking Threat.md",
-    "Campaign Notes/Story/Quests/Kobold Cave.md",
     "Misc Files/Statblocks.md",
     "Campaign Notes/Story/Outlines/Campaign Outline.md",
     "Campaign Notes/Story/Outlines/Journey to the City of Towers.md",
     "Campaign Notes/Major NPCs/Woe.md",
     "Campaign Notes/Story/Quests/Airship Crash.md",
-    "Campaign Notes/Story/Sessions/1/The Airship.md",
-    "Campaign Notes/Story/Sessions/1/Recap.md",
     "Campaign Notes/Story/Quests/The Silver Flame needs help with a Cock.md",
     "Campaign Notes/Story/Quests/The Warforged Hermit.md",
     "Campaign Notes/Story/Quests/Whitehorn Wood.md",
@@ -210,9 +213,6 @@
     "Campaign Notes/Story/Quests/The Haunted Grove.md",
     "Campaign Notes/Story/Quests/The Mysterious Passenger.md",
     "Misc Files/Templates/Important Places.md",
-    "Campaign Notes/Places/Khorvaire/Breland/Breland.md",
-    "Campaign Notes/Places/Khorvaire/Breland/Sharn/Sharn.md",
-    "Campaign Notes/Places/Khorvaire/Breland/Sharn/Dragoneyes District.md",
     "Campaign Notes/Major NPCs",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",

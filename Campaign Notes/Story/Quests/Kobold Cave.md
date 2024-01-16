@@ -14,7 +14,7 @@ References
 ---
 ## Sigs
 - Marsh is kept inside the cave, mistaken as a 'dragonkin' to be used in a ritual.
-- '**The Brains**' - a [[Statblocks#Kobold Dragonshield|Kobold Dragonshield]] that is intelligent *for a kobold* and is the one that made the deal with Woe to help him take down the [[The Airship|Merkentile]]
+- '**The Brains**' - a [[Statblocks#Kobold Dragonshield|Kobold Dragonshield]] that is intelligent *for a kobold* and is the one that made the deal with Woe to help him take down the [[1 The Airship|Merkentile]]
 - This is a faction of Kobolds that worship [[Tiamat]], called the [[Sons of the Daughter of Khyber]]
 
 ## In the cave
