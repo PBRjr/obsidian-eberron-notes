@@ -1,5 +1,2 @@
-- Underground room contains enchanted pipes.
-- Enchantment on a pipe is broken, leading to pressure build up.
-- Using magic in this room triggers a trap that locks the door (Miri forgets about this)
-- Skill Challenge to help Miri fix the pipe and open the door
-- Reward: House Cannith Family Ring
+## Water pipe enchantments aren't working
+- 

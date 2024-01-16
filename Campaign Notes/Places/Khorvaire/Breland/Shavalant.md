@@ -1,6 +1,6 @@
 ## Key points
- - Houses and businesses are loosely grouped together. Most townsfolk have some sort of farmland or collection of livestock. A large light metal water tower covered with magical runes towers over the village, sticking out like a sore thumb.
- 
+ - Remembered by the *large metal water tower* that looks more advanced than the rest of the town
+ - Small town with a few shops and various buildings. A few homes here, most are scattered w/ farmland
  - Small livestock and farming town that irrigates their crops using complicated magical pipe system
 	 - Teleports water into large water tower and distributes it to the people, livestock, and crops.
 
@@ -16,6 +16,7 @@
 - Concerned about son's injuries and strange events
 - Can provide healing potions and medicine 
 
+**Miri**
 **Sheriff Cromley** 
 - Grizzled old human, town sheriff
 - Worried about animal attacks, will ask PCs to investigate

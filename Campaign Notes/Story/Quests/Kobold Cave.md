@@ -62,7 +62,7 @@ References
 ## Marsh
 - [[Jonston Marsh]]
 - Caged in the sublevel, unconscious
-- Clothes stripped, in a pile next to him
+- Clothes stripped, in a pile next to him w/ [[Jonston's Note]]
 
 ## Next
 - [[Shavalant]]
