@@ -33,10 +33,14 @@ The clan has an estimated few hundred members spread across Sharn.
 
 ### Goals and Motivations
 
+ **Halak's goals:**
 - Maintain power and influence within Sharn's criminal underworld
 - Make profit through racketeering, gambling, smuggling, and other illicit means
-- Outmaneuver rival gangs like House Tarkanan and the Tyrants
 - Control the lucrative narcotics trade in Sharn
+
+**Castar's goals:**
+- Outmaneuver rival gangs like House Tarkanan and the Tyrants
+
 
 ### Resources and Capabilities
 
