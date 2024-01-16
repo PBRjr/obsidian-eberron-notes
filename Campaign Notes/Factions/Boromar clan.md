@@ -29,7 +29,9 @@ The Boromar clan operates out of an extravagant manor located in Middle Central 
 
 The Boromar clan is composed primarily of Halflings. They also employ other races as foot soldiers, enforcers, spies, or grifters. 
 
-The clan has an estimated few hundred members spread across Sharn.
+The clan has an estimated few hundred members spread across Sharn, with more moving outward
+
+Most members are starting to split, choosing sides between the *Castars* and the *Boromars*
 
 ### Goals and Motivations
 
@@ -37,9 +39,12 @@ The clan has an estimated few hundred members spread across Sharn.
 - Maintain power and influence within Sharn's criminal underworld
 - Make profit through racketeering, gambling, smuggling, and other illicit means
 - Control the lucrative narcotics trade in Sharn
+- Destroy rival gangs by force
 
 **Castar's goals:**
-- Outmaneuver rival gangs like House Tarkanan and the Tyrants
+- Expand the operation out of Sharn into other nations
+- Outmaneuver rival gangs through expansion and political power
+- Monopolize the black markets and consolidate political power
 
 
 ### Resources and Capabilities
