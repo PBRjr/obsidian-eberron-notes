@@ -46,7 +46,7 @@ Most members are starting to split, choosing sides between the *Castars* and the
 **Castar's goals:**
 - Expand the operation out of Sharn into other nations
 - Outmaneuver rival gangs through expansion and political power
-- Monopolize the black markets and consolidate political power
+- Monopolize the black markets and source funding
 
 
 ### Resources and Capabilities
