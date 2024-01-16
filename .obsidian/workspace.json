@@ -19,33 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c87b141da0809ad5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "157b4c51aaec41d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes/Story/Quests/Aquefukt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+                "file": "Campaign Notes/Story/Sessions/2 Plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+                "file": "Campaign Notes/Story/Sessions/2 Plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md"
+                "file": "Campaign Notes/Story/Sessions/2 Plans.md"
               }
             }
           },
@@ -197,11 +172,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c87b141da0809ad5",
+  "active": "31a1c80cd8583fea",
   "lastOpenFiles": [
+    "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
     "Campaign Notes/Story/Quests/Aquefukt.md",
     "Campaign Notes/Factions/Boromar clan.md",
-    "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
     "Campaign Notes/Story/Sessions/2 Plans.md",
     "Campaign Notes/Story/Quests/Kobold Cave.md",
     "Campaign Notes/Story/Sessions/1 The Airship.md",
