@@ -45,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+                "file": "Campaign Notes/Story/Quests/Aquefukt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+                "file": "Campaign Notes/Story/Quests/Aquefukt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md"
+                "file": "Campaign Notes/Story/Quests/Aquefukt.md"
               }
             }
           },
@@ -197,10 +197,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c87b141da0809ad5",
+  "active": "157b4c51aaec41d0",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Quests/Aquefukt.md",
     "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+    "Campaign Notes/Story/Quests/Aquefukt.md",
     "Campaign Notes/Story/Quests/Kobold Cave.md",
     "Campaign Notes/Story/Sessions/2 Plans.md",
     "Campaign Notes/Story/Sessions/1 The Airship.md",

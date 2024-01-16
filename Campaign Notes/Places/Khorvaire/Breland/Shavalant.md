@@ -17,6 +17,10 @@
 - Can provide healing potions and medicine 
 
 **Miri**
+- Town magewright
+- Was an apprentice to [[Aeren d'Cannith]]
+- Left [[Sharn]] to pursuse life on her own
+
 **Sheriff Cromley** 
 - Grizzled old human, town sheriff
 - Worried about animal attacks, will ask PCs to investigate
