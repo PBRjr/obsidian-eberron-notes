@@ -1,1 +1,2 @@
-## Kobold Encounter
+## Kobold Cave
+[[Kobold Cave]]
