@@ -8,14 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31a1c80cd8583fea",
+            "id": "d1231d3f4e34645a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2 Plans.md",
+                "file": "Campaign Notes/Story/Quests/Airship Crash.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2 Plans.md",
+                "file": "Campaign Notes/Story/Quests/Airship Crash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2 Plans.md",
+                "file": "Campaign Notes/Story/Quests/Airship Crash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2 Plans.md"
+                "file": "Campaign Notes/Story/Quests/Airship Crash.md"
               }
             }
           },
@@ -172,35 +171,40 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "31a1c80cd8583fea",
+  "active": "d1231d3f4e34645a",
   "lastOpenFiles": [
-    "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
-    "Campaign Notes/Story/Quests/Aquefukt.md",
-    "Campaign Notes/Factions/Boromar clan.md",
     "Campaign Notes/Story/Sessions/2 Plans.md",
-    "Campaign Notes/Story/Quests/Kobold Cave.md",
-    "Campaign Notes/Story/Sessions/1 The Airship.md",
-    "Campaign Notes/Story/Outlines/Campaign Outline.md",
-    "Campaign Notes/Story/Sessions/1 Lead-in.md",
-    "Campaign Notes/Story/Sessions/1 Recap.md",
-    "Campaign Notes/The Party.md",
-    "Campaign Notes/Places/Eberron.md",
-    "Campaign Notes/Places/Khorvaire.md",
-    "Campaign Notes/Places/Argonnessen.md",
-    "Campaign Notes/Story/Encounters/The Bag Man.md",
-    "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
-    "Campaign Notes/Story/Encounters/Arrival at Sharn.md",
-    "Campaign Notes/Story/Encounters/Lurking Threat.md",
-    "Misc Files/Statblocks.md",
-    "Campaign Notes/Story/Outlines/Journey to the City of Towers.md",
-    "Campaign Notes/Major NPCs/Woe.md",
     "Campaign Notes/Story/Quests/Airship Crash.md",
-    "Campaign Notes/Story/Quests/The Silver Flame needs help with a Cock.md",
+    "Campaign Notes/Story/Sessions/1 Recap.md",
+    "Campaign Notes/Story/Encounters/The Airship.md",
+    "Campaign Notes/Story/Sessions/1 Lead-in.md",
+    "Campaign Notes/Story/Outlines/Campaign Outline.md",
+    "Campaign Notes/Story/Outlines/Old overview outline.md",
+    "Campaign Notes/Story/Outlines/Journey to the City of Towers.md",
+    "Campaign Notes/Story/Sessions/2/Plans.md",
+    "Campaign Notes/Story/Arcs/Campaign Outline.md",
+    "Campaign Notes/Story/Sessions/0 Plans.md",
     "Campaign Notes/Story/Quests/The Warforged Hermit.md",
-    "Campaign Notes/Story/Quests/Whitehorn Wood.md",
-    "Campaign Notes/Story/Quests/Lost Child.md",
+    "Campaign Notes/Story/Quests/The Mysterious Passenger.md",
     "Campaign Notes/Story/Quests/The Haunted Grove.md",
+    "Campaign Notes/Story/Quests/Kobold Cave.md",
+    "Campaign Notes/Story/Outlines",
+    "Campaign Notes/Minor NPCs/Professor Baelen ir'Torn.md",
+    "Campaign Notes/Minor NPCs/Oak Dryfire.md",
+    "Campaign Notes/Minor NPCs/Loro Cass.md",
+    "Campaign Notes/Minor NPCs/Brother Cec.md",
+    "Campaign Notes/Minor NPCs/Jonston Marsh.md",
+    "Campaign Notes/Minor NPCs/Aeren d'Cannith.md",
+    "Campaign Notes/Minor NPCs/Bhaalkerin.md",
+    "Campaign Notes/Minor NPCs/Axe man.md",
+    "Campaign Notes/Minor NPCs",
+    "Campaign Notes/Major NPCs/Thora Tarkanan.md",
+    "Campaign Notes/Major NPCs/Woe.md",
+    "Campaign Notes/Major NPCs/The Beggar King.md",
     "Campaign Notes/Major NPCs",
+    "Campaign Notes/Lore/Sharn Inquisitor Newspaper",
+    "Campaign Notes/Items",
+    "Campaign Notes/Antagonists",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Factions.canvas",
@@ -212,11 +216,6 @@
     "Campaign Notes/Places/Khorvaire",
     "Misc Files/Images",
     "Misc Files/Images/Woe portrait.png",
-    "Campaign Notes/Minor NPCs",
-    "Campaign Notes/Story/Sessions/0",
-    "Campaign Notes/Story/Encounters",
-    "Campaign Notes/Story/Sessions/1",
-    "Campaign Notes/Story/Sessions",
     "Flows/Session Plans.canvas",
     "Misc Files/Reevaluate/Lore Flow.canvas",
     "Untitled.canvas",

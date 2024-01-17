@@ -20,15 +20,15 @@ References
 ## Airship
 The PCs are traveling aboard 'Gyott Byufemitle' (elvish) or 'The Merkentile'
 
-[[1 The Airship#Mechanics of flying|Flying Mechanics]]
+[[The Airship#Mechanics of flying|Flying Mechanics]]
 
 Having just finished a delivery to [[Fairhaven]], The Merkentile is traveling back to its port in [[Sharn]].
 
 On the ship are [[Statblocks#Veteran|Veterans]] and [[Statblocks#Commoner|Commoner]] workers. They also have 3 mounted [[Statblocks#Balista|Balistas]].
 
 ### Crew
-- [[1 The Airship#Manifest|Manifest]]
-- [[1 The Airship#Strange commoners|Interesting people]]
+- [[The Airship#Manifest|Manifest]]
+- [[The Airship#Strange commoners|Interesting people]]
 - [[The Party]]
 
 ## Airship Crash
