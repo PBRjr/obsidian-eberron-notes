@@ -53,7 +53,7 @@ Challenge 1 (200 XP)
 
 **Javelin.** Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 
-**Take this!** Reaction: If the Dragonshield is about to be struck by a projectile, it may use its reaction to move up to half its movement to get behind a friendly kobold. If it does, that kobold takes the effect of the projectile instead.
+**Take this!** Reaction: If the Dragonshield is about to be struck by a projectile, it may use its reaction to bring up it's shiel If it does, that kobold takes the effect of the projectile instead.
 
 *Villain Actions*
 **Round 1: Hidden net.** The Dragonshield directs another Kobold to throw a net on a nearby enemy, reducing their movement to 0 and giving them disadvantage on attack unless they succeed a DC 12 dexterity saving throw.

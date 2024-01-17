@@ -6,7 +6,7 @@
 - **Foreshadowing:** Discover ominous signs hinting at a larger threat.
 
 #### Main Quests
-[[1 The Airship]]
+[[The Airship]]
 
 [[Kobold Cave]]
 
