@@ -56,9 +56,9 @@ Challenge 1 (200 XP)
 **Take this!** Reaction: If the Dragonshield is about to be struck by a projectile, it may use its reaction to bring up it's shiel If it does, that kobold takes the effect of the projectile instead.
 
 *Villain Actions*
-**Round 1: Hidden net.** The Dragonshield directs another Kobold to throw a net on a nearby enemy, reducing their movement to 0 and giving them disadvantage on attack unless they succeed a DC 12 dexterity saving throw.
+**Hidden net.** The Dragonshield directs another Kobold to throw a net on a nearby enemy, reducing their movement to 0 and giving them disadvantage on attacks unless they succeed a DC 12 dexterity saving throw.
 
-**Round 2: Oil slick.** The Dragonshield directs another kobold to dump 2 buckets of oil on or nearby the closest enemies, making them fall prone unless they succeed on a DC 12 dexterity saving throw. If lit on fire they take 2d4 fire damage a turn.
+ **Oil slick.** The Dragonshield directs another kobold to dump 2 buckets of oil on or nearby the closest enemies in a 10x10ft area. Any creature in the area when thrown or at the start of their turn fall prone unless they succeed on a DC 12 dexterity saving throw. If lit on fire they take 2d4 fire damage a turn.
 
 ## Kobold Scale Sorcerer
 Small humanoid (kobold), lawful evil
