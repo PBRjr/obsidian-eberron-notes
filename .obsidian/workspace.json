@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00f5d85d2d598755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc Files/Statblocks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2 Plans.md",
+                "file": "Misc Files/Statblocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2 Plans.md",
+                "file": "Misc Files/Statblocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2 Plans.md"
+                "file": "Misc Files/Statblocks.md"
               }
             }
           },
@@ -172,13 +185,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "31a1c80cd8583fea",
+  "active": "00f5d85d2d598755",
   "lastOpenFiles": [
+    "Campaign Notes/Story/Sessions/2 Plans.md",
+    "Misc Files/Statblocks.md",
+    "Campaign Notes/Story/Quests/Kobold Cave.md",
     "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
     "Campaign Notes/Story/Quests/Aquefukt.md",
     "Campaign Notes/Factions/Boromar clan.md",
-    "Campaign Notes/Story/Sessions/2 Plans.md",
-    "Campaign Notes/Story/Quests/Kobold Cave.md",
     "Campaign Notes/Story/Sessions/1 The Airship.md",
     "Campaign Notes/Story/Outlines/Campaign Outline.md",
     "Campaign Notes/Story/Sessions/1 Lead-in.md",
@@ -191,7 +205,6 @@
     "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
     "Campaign Notes/Story/Encounters/Arrival at Sharn.md",
     "Campaign Notes/Story/Encounters/Lurking Threat.md",
-    "Misc Files/Statblocks.md",
     "Campaign Notes/Story/Outlines/Journey to the City of Towers.md",
     "Campaign Notes/Major NPCs/Woe.md",
     "Campaign Notes/Story/Quests/Airship Crash.md",

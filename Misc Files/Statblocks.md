@@ -1,6 +1,7 @@
 
 ---
 References
+- [[#Brains (Kobolt Dragonshield)|Brains (Kobolt Dragonshield)]]
 - [[#Kobold Scale Sorcerer|Kobold Scale Sorcerer]]
 - [[#Veteran|Veteran]]
 - [[#Commoner|Commoner]]
@@ -9,10 +10,12 @@ References
 - [[#Balista|Balista]]
 - [[#Ankheg|Ankheg]]
 
+
+
 ---
 
 
-## Kobold Dragonshield
+## Brains (Kobolt Dragonshield)
 
 Small humanoid (kobold), lawful evil
 
