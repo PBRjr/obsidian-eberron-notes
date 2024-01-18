@@ -32,7 +32,7 @@
 
 #### Side Quests
 [[The Mysterious Passenger]]
-## Act 3 and Beyond: To be developed]
+## Act 3 and Beyond: To be developed
 
 - **Further Adventures:** Based on player actions and progression.
 

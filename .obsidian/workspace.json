@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Outlines/Campaign Outline.md",
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Outlines/Campaign Outline.md",
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Outlines/Campaign Outline.md",
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Outlines/Campaign Outline.md"
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md"
               }
             }
           },
@@ -187,11 +187,12 @@
   },
   "active": "00f5d85d2d598755",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Sessions/2 Recap.md",
+    "Campaign Notes/Story/Sessions/2 Plans.md",
+    "Campaign Notes/Story/Outlines/Campaign Outline.md",
     "Campaign Notes/Story/Quests/Kobold Cave.md",
+    "Campaign Notes/Story/Sessions/2 Recap.md",
     "Misc Files/Tables.md",
     "Campaign Notes/Items/Treasures.md",
-    "Campaign Notes/Story/Sessions/2 Plans.md",
     "Misc Files/Statblocks.md",
     "conflict-files-obsidian-git.md",
     "Campaign Notes/Story/Encounters/The Airship.md",
@@ -199,7 +200,6 @@
     "Campaign Notes/Story/Quests/Aquefukt.md",
     "Campaign Notes/Factions/Boromar clan.md",
     "Campaign Notes/Story/Sessions/1 The Airship.md",
-    "Campaign Notes/Story/Outlines/Campaign Outline.md",
     "Campaign Notes/Story/Sessions/1 Lead-in.md",
     "Campaign Notes/Story/Sessions/1 Recap.md",
     "Campaign Notes/The Party.md",

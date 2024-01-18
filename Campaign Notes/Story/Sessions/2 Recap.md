@@ -30,6 +30,8 @@
 	- 55GP, 22SP, 8CP
 	- Scroll of heat metal
 	- 3 potions of healing
+- Main Chamber
+	- [[Kobold Cave#Prophecy Fragment concerning Tiamat|Prophecy Fragment]]
 
 ## Next
 [[Shavalant]]
