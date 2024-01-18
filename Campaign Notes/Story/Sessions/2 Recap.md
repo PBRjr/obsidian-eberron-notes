@@ -1,6 +1,7 @@
 ## TODO
 - MAKE WAND OF MAGIC MISSLE HANDOUT
 - MAKE [[Jonston's Note|JONSTON'S NOTE]] HANDOUT
+- MAKE RING OF COLD RESISTANCE HANDOUT
 - Work with Eric on new character (ranger?)
 
 ## Significant Events
