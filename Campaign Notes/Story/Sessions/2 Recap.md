@@ -15,10 +15,16 @@
 	- The other was falling in oil, they ignore him to long rest, he escaped too, *leaving an oil trail*
 - Sylas died (fell in a whole, (**bruh**))
 	- Met the traveler and faded into the afterlife
-
+- Long rested outside before searching **Brain's** chambers
 ## Loot
 - Red kobold egg
 - 50gp + some silver
 - Ring of cold resistance
 - Want of magic missles
 - 4 potions of healing (used all)
+
+## Not Looted
+- Brain's Chamber
+	- [[Brains to Woe]]
+	- 55GP, 22SP, 8CP
+	- 
