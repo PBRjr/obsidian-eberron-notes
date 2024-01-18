@@ -30,3 +30,6 @@
 	- 55GP, 22SP, 8CP
 	- Scroll of heat metal
 	- 3 potions of healing
+
+## Next
+[[Shavalant]]
