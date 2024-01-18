@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc Files/Statblocks.md",
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc Files/Statblocks.md",
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc Files/Statblocks.md",
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc Files/Statblocks.md"
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md"
               }
             }
           },
@@ -187,8 +187,9 @@
   },
   "active": "00f5d85d2d598755",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Misc Files/Statblocks.md",
+    "Campaign Notes/Story/Sessions/2 Recap.md",
+    "conflict-files-obsidian-git.md",
     "Campaign Notes/Story/Encounters/The Airship.md",
     "Campaign Notes/Story/Sessions/2 Plans.md",
     "Campaign Notes/Story/Quests/Kobold Cave.md",
@@ -212,7 +213,6 @@
     "Campaign Notes/Story/Quests/Airship Crash.md",
     "Campaign Notes/Story/Quests/The Silver Flame needs help with a Cock.md",
     "Campaign Notes/Story/Quests/The Warforged Hermit.md",
-    "Campaign Notes/Story/Quests/Whitehorn Wood.md",
     "Campaign Notes/Major NPCs",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
