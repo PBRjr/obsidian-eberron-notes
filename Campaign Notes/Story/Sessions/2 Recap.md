@@ -21,7 +21,7 @@
 - Red kobold egg
 - 50gp + some silver
 - Ring of cold resistance
-- Want of magic missles
+- Wand of magic missles
 - 4 potions of healing (used all)
 
 ## Not Looted
