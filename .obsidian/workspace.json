@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Campaign Notes/Story/Sessions/1 Recap.md",
+=======
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
+>>>>>>> parent of b82344c (vault backup: 2024-01-19 15:57:00)
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +98,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Campaign Notes/Story/Sessions/1 Recap.md",
+=======
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
+>>>>>>> parent of b82344c (vault backup: 2024-01-19 15:57:00)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +119,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Campaign Notes/Story/Sessions/1 Recap.md",
+=======
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
+>>>>>>> parent of b82344c (vault backup: 2024-01-19 15:57:00)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Campaign Notes/Story/Sessions/1 Recap.md"
+=======
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md"
+>>>>>>> parent of b82344c (vault backup: 2024-01-19 15:57:00)
               }
             }
           },
@@ -173,10 +189,17 @@
   },
   "active": "d1231d3f4e34645a",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Campaign Notes/Story/Sessions/2 Recap.md",
     "Campaign Notes/Story/Quests/Airship Crash.md",
     "Campaign Notes/Story/Sessions/2 Plans.md",
     "Campaign Notes/Story/Sessions/1 Recap.md",
+=======
+    "Campaign Notes/Story/Sessions/2 Plans.md",
+    "Campaign Notes/Story/Sessions/1 Recap.md",
+    "Campaign Notes/Story/Sessions/2 Recap.md",
+    "Campaign Notes/Story/Quests/Airship Crash.md",
+>>>>>>> parent of b82344c (vault backup: 2024-01-19 15:57:00)
     "Campaign Notes/Story/Encounters/The Airship.md",
     "Campaign Notes/Story/Sessions/1 Lead-in.md",
     "Campaign Notes/Story/Outlines/Campaign Outline.md",
