@@ -9,12 +9,12 @@
 - Found hand of the Orcish bartender
 -  They found [[Jonston Marsh]] alive in a cage
 	- Sylas got downed, Marsh's throat was slit and he was *killed*
-	- They found his note and stashed it
+	- They found Jonston's note and stashed it
 - Brains got *split in half*
 - 2 Kobolds survived
 	- 1 escaped out the front
 	- The other was falling in oil, they ignore him to long rest, he escaped too, *leaving an oil trail*
-- Sylas died (fell in a whole, (**bruh**))
+- Sylas died (fell in a whole
 	- Met the traveler and faded into the afterlife
 - Long rested outside before searching **Brain's** chambers
 ## Loot
