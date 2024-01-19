@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "textFontFamily": "Comfortaa",
+  "interfaceFontFamily": "Comfortaa",
+  "monospaceFontFamily": "Comfortaa",
+  "nativeMenus": false,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "Image alignment"
+  ],
+  "cssTheme": "Prism",
+  "theme": "obsidian"
+}

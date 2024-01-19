@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d4bffdc72fc03316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md"
               }
             }
           },
@@ -184,12 +171,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d4bffdc72fc03316",
+  "active": "d1231d3f4e34645a",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Sessions/2 Recap.md",
-    "conflict-files-obsidian-git.md",
     "Campaign Notes/Story/Sessions/2 Plans.md",
     "Campaign Notes/Story/Sessions/1 Recap.md",
+    "Campaign Notes/Story/Sessions/2 Recap.md",
     "Campaign Notes/Story/Quests/Airship Crash.md",
     "Campaign Notes/Story/Encounters/The Airship.md",
     "Campaign Notes/Story/Sessions/1 Lead-in.md",
@@ -214,6 +200,7 @@
     "Campaign Notes/Minor NPCs/Axe man.md",
     "Campaign Notes/Minor NPCs",
     "Campaign Notes/Major NPCs/Thora Tarkanan.md",
+    "Campaign Notes/Major NPCs/Woe.md",
     "Campaign Notes/Major NPCs",
     "Campaign Notes/Lore/Sharn Inquisitor Newspaper",
     "Campaign Notes/Items",
