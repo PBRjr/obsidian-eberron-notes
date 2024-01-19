@@ -1,16 +1,17 @@
 # Events (in order)
-1. Bjorn met Lick
-2. Bjorn met **orcish woman barkeep** (very gruff voice)
-3. Bjorn and Sylas saw the '**Karnathi Soldiers**' (changlings)
-4. Battle begins uptop
-5. Draven makes it up first
-6. PCs kill several Kobolds, all guards and commoners die
-7. [[Woe]] shows up, launches fireballs and eldritch blasts
-8. Ship crashes, Sylas ends up unconscious
-9. Draven watches Woe take Lick's necklace and leave
-10. Draven lay-on-hands Sylas, who is ungrateful and kind of rude
-11. They spot 2 kobolds dragging an unconscious Marsh down a path, across a creek, and into a cave. 
-12. They follow sneakily behind and short rest outside the cave under the cover of darkness.
+1. Session starts with party on the airship called "The Merkentile"
+2. Bjorn met Lick
+3. Bjorn met **orcish woman barkeep** (very gruff voice)
+4. Bjorn and Sylas saw the '**Karnathi Soldiers**' (changlings)
+5. Battle begins uptop
+6. Draven makes it up first
+7. PCs kill several Kobolds, all guards and commoners die
+8. [[Woe]] shows up, launches fireballs and eldritch blasts
+9. Ship crashes, Sylas ends up unconscious
+10. Draven watches Woe take Lick's necklace and leave
+11. Draven lay-on-hands Sylas, who is ungrateful and kind of rude
+12. They spot 2 kobolds dragging an unconscious Marsh down a path, across a creek, and into a cave. 
+13. They follow sneakily behind and short rest outside the cave under the cover of darkness.
 # To-do session 2
 [[Kobold Cave|Kobold Cave]]
 - find familiar bodies in the cave
