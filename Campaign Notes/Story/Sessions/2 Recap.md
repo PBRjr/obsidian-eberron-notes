@@ -3,11 +3,8 @@
 - MAKE [[Jonston's Note|JONSTON'S NOTE]] HANDOUT
 - MAKE RING OF COLD RESISTANCE HANDOUT
 - Work with Eric on new character (ranger?)
-<<<<<<< HEAD
 - 500xp
-=======
 - Plan for later encounter with 2 kobolds that escaped
->>>>>>> origin/main
 ## Significant Events
 - Party cleared out the cave
 - Found hand of the Orcish bartender
