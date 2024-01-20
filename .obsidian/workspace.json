@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Items/Jonston's Note.md",
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Items/Jonston's Note.md",
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Items/Jonston's Note.md",
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Items/Jonston's Note.md"
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md"
               }
             }
           },
@@ -186,6 +186,7 @@
   },
   "active": "31a1c80cd8583fea",
   "lastOpenFiles": [
+    "Campaign Notes/Items/Jonston's Note.md",
     "Campaign Notes/Items/Treasures.md",
     "Campaign Notes/Story/Quests/Kobold Cave.md",
     "Campaign Notes/Story/Sessions/2 Recap.md",
@@ -211,7 +212,6 @@
     "Campaign Notes/Story/Encounters/Lurking Threat.md",
     "Campaign Notes/Story/Outlines/Journey to the City of Towers.md",
     "Campaign Notes/Major NPCs/Woe.md",
-    "Campaign Notes/Story/Quests/Airship Crash.md",
     "Campaign Notes/Major NPCs",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",

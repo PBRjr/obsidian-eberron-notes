@@ -3,7 +3,7 @@
 - MAKE [[Jonston's Note|JONSTON'S NOTE]] HANDOUT
 - MAKE RING OF COLD RESISTANCE HANDOUT
 - Work with Eric on new character (ranger?)
-
+- 500xp
 ## Significant Events
 - Party cleared out the cave
 - Found hand of the Orcish bartender
