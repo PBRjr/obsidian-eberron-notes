@@ -3,13 +3,17 @@
 - MAKE [[Jonston's Note|JONSTON'S NOTE]] HANDOUT
 - MAKE RING OF COLD RESISTANCE HANDOUT
 - Work with Eric on new character (ranger?)
+<<<<<<< HEAD
 - 500xp
+=======
+- Plan for later encounter with 2 kobolds that escaped
+>>>>>>> origin/main
 ## Significant Events
 - Party cleared out the cave
 - Found hand of the Orcish bartender
 -  They found [[Jonston Marsh]] alive in a cage
 	- Sylas got downed, Marsh's throat was slit and he was *killed*
-	- They found his note and stashed it
+	- They found Jonston's note and stashed it
 - Brains got *split in half*
 - 2 Kobolds survived
 	- 1 escaped out the front
