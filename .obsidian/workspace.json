@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Items/Boromar Challenge Coin.md",
+                "file": "Campaign Notes/Story/Quests/Whitehorn Wood.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Items/Boromar Challenge Coin.md",
+                "file": "Campaign Notes/Story/Quests/Whitehorn Wood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Items/Boromar Challenge Coin.md",
+                "file": "Campaign Notes/Story/Quests/Whitehorn Wood.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Items/Boromar Challenge Coin.md"
+                "file": "Campaign Notes/Story/Quests/Whitehorn Wood.md"
               }
             }
           }
@@ -172,8 +172,9 @@
   },
   "active": "772be329151e2bbf",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Quests/Whitehorn Wood.md",
     "Campaign Notes/Items/Boromar Challenge Coin.md",
+    "Campaign Notes/Factions/Boromar clan.md",
+    "Campaign Notes/Story/Quests/Whitehorn Wood.md",
     "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Story/Sessions/2 Recap.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Members.md",

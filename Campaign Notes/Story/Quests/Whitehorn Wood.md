@@ -9,7 +9,7 @@
 	- Corpse(s) may be found.
 
 ## Rewards
-- [[Boromar Challenge Coin]]
+- [[Boromar Challenge Coin]] among bones and bodies
 
 - In town
 	- Gratitude and small gifts from townsfolk
