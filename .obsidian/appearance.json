@@ -9,5 +9,6 @@
     "Image alignment"
   ],
   "cssTheme": "Prism",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 16
 }

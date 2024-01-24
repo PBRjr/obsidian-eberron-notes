@@ -1,3 +1,8 @@
+## Stats
+| Level | Experience |
+| --- | --- |
+| 2 | 800 |
+
 ## Bjorn "Bear Wolf" Ulfr
 
 ### Hooks to remember

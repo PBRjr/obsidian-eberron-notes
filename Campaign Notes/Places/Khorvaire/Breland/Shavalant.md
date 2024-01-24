@@ -1,3 +1,6 @@
+## Introduction
+
+
 ## Key points
  - Remembered by the *large metal water tower* that looks more advanced than the rest of the town
  - Small town with a few shops and various buildings. A few homes here, most are scattered w/ farmland
@@ -11,11 +14,19 @@
 - See [[Aquefukt]] sidequest
 
 ## Non-Quest Encounters
-- [[Boromar clan]] goons attempt extortion
+- [[Boromar Gang Members]] are attempting extortion
+	- Set up camp outside of the town at LOCATION
 
+## Places
+### Church of the Sovereign
+
+### Sleepy Owl Inn
+
+### Prissy's Potions
 ## NPCs
 
 **Prissy Marsh**
+- *Prissy's Potions*
 - Jonston's widowed mother, town apothecary
 - Concerned about son's injuries and strange events
 - Can provide healing potions and medicine 
@@ -28,6 +39,7 @@
 **Sheriff Cromley** 
 - Grizzled old human, town sheriff
 - Worried about animal attacks, will ask PCs to investigate
+- May ask for help with *Gang Members*
 - Can offer meager payment plus horses/supplies
 
 **Tomas the Hunter**

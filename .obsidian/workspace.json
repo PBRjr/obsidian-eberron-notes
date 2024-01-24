@@ -13,27 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
+                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "4b821eab736db3a0",
+        "type": "tabs",
+        "children": [
           {
-            "id": "d3ea61159feaecd3",
+            "id": "fd40379073bc7141",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/The Party.md",
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/The Party.md",
+                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/The Party.md",
+                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/The Party.md"
+                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md"
               }
             }
           },
@@ -180,39 +185,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3ea61159feaecd3",
+  "active": "31a1c80cd8583fea",
   "lastOpenFiles": [
+    "Campaign Notes/Story/Sessions/3 Plans.md",
+    "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+    "Campaign Notes/Story/Sessions/2 Plans.md",
+    "Misc Files/Statblocks.md",
+    "Campaign Notes/Story/Quests/Whitehorn Wood.md",
+    "Campaign Notes/Story/Quests/Aquefukt.md",
+    "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
     "Campaign Notes/Story/Sessions/2 Recap.md",
+    "Campaign Notes/The Party.md",
     "conflict-files-obsidian-git.md",
     "Campaign Notes/Items/Jonston's Note.md",
     "Campaign Notes/Items/Treasures.md",
     "Campaign Notes/Story/Quests/Kobold Cave.md",
-    "Campaign Notes/Story/Sessions/2 Plans.md",
     "Campaign Notes/Story/Outlines/Campaign Outline.md",
     "Misc Files/Tables.md",
-    "Misc Files/Statblocks.md",
     "Campaign Notes/Story/Encounters/The Airship.md",
-    "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
-    "Campaign Notes/Story/Quests/Aquefukt.md",
     "Campaign Notes/Factions/Boromar clan.md",
     "Campaign Notes/Story/Sessions/1 The Airship.md",
     "Campaign Notes/Story/Sessions/1 Lead-in.md",
     "Campaign Notes/Story/Sessions/1 Recap.md",
-    "Campaign Notes/The Party.md",
     "Campaign Notes/Places/Eberron.md",
     "Campaign Notes/Places/Khorvaire.md",
     "Campaign Notes/Places/Argonnessen.md",
     "Campaign Notes/Story/Encounters/The Bag Man.md",
     "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
     "Campaign Notes/Story/Encounters/Arrival at Sharn.md",
-    "Campaign Notes/Story/Encounters/Lurking Threat.md",
-    "Campaign Notes/Story/Outlines/Journey to the City of Towers.md",
-    "Campaign Notes/Major NPCs/Woe.md",
     "Campaign Notes/Major NPCs",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
