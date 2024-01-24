@@ -296,3 +296,4 @@ _**Acid Spray (Recharge 6).**_ The ankheg spits acid up to 30 ft away, creatin
 
 *Villain Actions*
 ***Bloody Rage.*** When reduced to half of it's health or less, the ankheg lashes out in a rage, causing acid to seep from its pores. The area immediately surrounding it becomes covered. Then, the ankheg burrows underground, and can move up to 30 ft.
+
