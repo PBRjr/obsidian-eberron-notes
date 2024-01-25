@@ -18,15 +18,8 @@
 ##### Spiritual Reflections
 
 - Near the center of Shavalant, players might come across an outdoor service led by Elder Finn, the town's respected priest. This gathering offers a peaceful moment, showcasing the town's spiritual side and communal bonds.
-
-##### Enigmatic Encounters
-
-- In the quieter corners of Shavalant, players might encounter Jonston and Prissy Marsh, the only tieflings in town. Their unique presence in a predominantly human settlement could spark curiosity or lead to intriguing interactions.
-
 ##### Helpful Local Authorities
-
-- Sheriff Cromley, a grizzled human, could be seen organizing a search party for investigating strange animal attacks. His concern for the town's safety might lead to the players being recruited for help.
-
+Sheriff Cromley, a grizzled human, is seen in the Sleepy Owl Inn organizing a search party to investigate animal attacks. His concern for the town's safety might lead to the players being recruited for help.
 ##### Magical Musings
 
 - Players might come across Miri, the town's magewright, deep in discussion about magical theories with a group of locals. This could be an opportunity for arcane-inclined players to learn something new or offer their insights.
