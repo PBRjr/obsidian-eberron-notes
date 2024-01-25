@@ -295,4 +295,4 @@ _**Acid Spray (Recharge 6).**_ The Ankheg spits acid up to 30 ft away, creatin
 *Villain Actions*
 ***Bloody Rage.*** When reduced to half of it's health or less, the Ankheg lashes out in a rage, causing acid to seep from its pores. The area immediately surrounding it becomes covered. Then, the Ankheg burrows underground, and can move up to 30 ft.
 
-***Acid Pores.*** When the Ankheg takes damage from a melee weapon attack, 
+***Acid Pores.*** When the Ankheg takes damage from a melee weapon attack while its under the effects of *Bloody Rage*, the attacker makes a DC 11 (10 + CON) strength check. On a fail, the attacker's weapon becomes lodged in the Ankheg's body long enough for its acid to destroy parts of the weapon, turning it into an improvised weapon.
