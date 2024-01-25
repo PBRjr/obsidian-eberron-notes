@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc Files/Statblocks.md",
+                "file": "Campaign Notes/Story/Outlines/Campaign Outline.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc Files/Statblocks.md",
+                "file": "Campaign Notes/Story/Outlines/Campaign Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc Files/Statblocks.md",
+                "file": "Campaign Notes/Story/Outlines/Campaign Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc Files/Statblocks.md"
+                "file": "Campaign Notes/Story/Outlines/Campaign Outline.md"
               }
             }
           }
@@ -172,21 +172,31 @@
   },
   "active": "772be329151e2bbf",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Quests/Whitehorn Wood.md",
+    "Campaign Notes/Story/Outlines/Journey to the City of Towers.md",
+    "Campaign Notes/Story/Outlines/Old overview outline.md",
     "Misc Files/Statblocks.md",
-    "Campaign Notes/Items/Boromar Challenge Coin.md",
-    "Campaign Notes/Factions/Boromar clan.md",
-    "Campaign Notes/Story/Sessions/3 Plans.md",
-    "Campaign Notes/Story/Sessions/2 Recap.md",
+    "Misc Files/Prompts.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
-    "Campaign Notes/Story/Sessions/2 Plans.md",
-    "Campaign Notes/Major NPCs/Woe.md",
-    "Campaign Notes/Major NPCs/Thora Tarkanan.md",
-    "Campaign Notes/Story/Sessions/1 Lead-in.md",
-    "Campaign Notes/Lore/Rak Tulkesh.md",
-    "Campaign Notes/Lore/Progenitor Dragons.md",
-    "Campaign Notes/Lore/Galifar Calender.md",
+    "Campaign Notes/Factions/The Chamber.md",
+    "Campaign Notes/Factions/Sons of the Daughter of Khyber.md",
+    "Campaign Notes/Factions/House Tarkanan.md",
+    "Campaign Notes/Lore/Day of Mourning.md",
     "Campaign Notes/Lore/Draconic Prophecy.md",
-    "Campaign Notes/Story/Sessions/1 Recap.md"
+    "Campaign Notes/Lore/Galifar Calender.md",
+    "Campaign Notes/Lore/Progenitor Dragons.md",
+    "Campaign Notes/Places/Khorvaire.md",
+    "Campaign Notes/Places/Eberron.md",
+    "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+    "Campaign Notes/Places/Khorvaire/Breland/Breland.md",
+    "Campaign Notes/Story/Quests/The Warforged Hermit.md",
+    "Campaign Notes/Story/Quests/Whitehorn Wood.md",
+    "Campaign Notes/Story/Quests/Airship Crash.md",
+    "Campaign Notes/Story/Quests/Aquefukt.md",
+    "Campaign Notes/Story/Quests/Kobold Cave.md",
+    "Campaign Notes/Story/Quests/Lost Child.md",
+    "Campaign Notes/Story/Quests/The Silver Flame needs help with a Cock.md",
+    "Campaign Notes/Story/Encounters/The Bag Man.md",
+    "Campaign Notes/Story/Encounters/The Airship.md",
+    "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md"
   ]
 }

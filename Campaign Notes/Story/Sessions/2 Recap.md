@@ -8,7 +8,7 @@
 ## Significant Events
 - Party cleared out the cave
 - Found hand of the Orcish bartender
--  They found [[Jonston Marsh]] alive in a cage
+-  They found [[Jonston Marsh (deceased)]] alive in a cage
 	- Sylas got downed, Marsh's throat was slit and he was *killed*
 	- They found Jonston's note and stashed it
 - Brains got *split in half*

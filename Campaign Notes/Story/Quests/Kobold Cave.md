@@ -60,7 +60,7 @@ References
 - Scroll of magic missile
 
 ## Marsh
-- [[Jonston Marsh]]
+- [[Jonston Marsh (deceased)]]
 - Caged in the sublevel, unconscious
 - Clothes stripped, in a pile next to him w/ [[Jonston's Note]]
 
