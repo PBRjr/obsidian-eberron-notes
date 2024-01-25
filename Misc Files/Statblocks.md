@@ -10,8 +10,6 @@ References
 - [[#Balista|Balista]]
 - [[#Ankheg|Ankheg]]
 
-
-
 ---
 
 
@@ -71,9 +69,9 @@ Small humanoid (kobold), lawful evil
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-| STR   | DEX    | CON    | INT   | WIS   | CHA    |
-| ----- | ------ | ------ | ----- | ----- | ------ |
-| 7(-2) | 15(+2) | 14(+2) | 10(0) | 9(-1) | 14(+2)      |        |        |       |       |        |
+| STR | DEX | CON | INT | WIS | CHA |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 7(-2) | 15(+2) | 14(+2) | 10(0) | 9(-1) | 14(+2) |
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
@@ -118,9 +116,9 @@ Speed 30 ft.
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-| STR    | DEX    | CON    | INT    | WIS    | CHA |
-| ------ | ------ | ------ | ------ | ------ | --- |
-| 16(+3) | 13(+1) | 14(+2) | 10(+0) | 11(+0) | 10(+0)   |        |        |        |        |        |     |
+| STR | DEX | CON | INT | WIS | CHA |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 16(+3) | 13(+1) | 14(+2) | 10(+0) | 11(+0) | 10(+0) |
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
@@ -290,10 +288,11 @@ Proficiency Bonus +2
 
 *Actions*
 
-_**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is [grappled](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Grappled) (escape DC 13). Until this grapple ends, the ankheg can bite only the [grappled](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Grappled) creature and has advantage on attack rolls to do so.
+_**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is [grappled](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Grappled) (escape DC 13). Until this grapple ends, the Ankheg can bite only the [grappled](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Grappled) creature and has advantage on attack rolls to do so.
 
-_**Acid Spray (Recharge 6).**_ The ankheg spits acid up to 30 ft away, creating a 10 ft/10 ft large pool, provided that it has no creature [grappled](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Grappled). Each creature in the area when it lands or at the start of its turn must make a DC 13 Dexterity saving throw, taking 10 (3d4) acid damage on a failed save, or half as much damage on a successful one.
+_**Acid Spray (Recharge 6).**_ The Ankheg spits acid up to 30 ft away, creating a 10 ft/10 ft large pool, provided that it has no creature [grappled](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Grappled). Each creature in the area when it lands or at the start of its turn must make a DC 13 Dexterity saving throw, taking 10 (3d4) acid damage on a failed save, or half as much damage on a successful one.
 
 *Villain Actions*
-***Bloody Rage.*** When reduced to half of it's health or less, the ankheg lashes out in a rage, causing acid to seep from its pores. The area immediately surrounding it becomes covered. Then, the ankheg burrows underground, and can move up to 30 ft.
+***Bloody Rage.*** When reduced to half of it's health or less, the Ankheg lashes out in a rage, causing acid to seep from its pores. The area immediately surrounding it becomes covered. Then, the Ankheg burrows underground, and can move up to 30 ft.
 
+***Acid Pores.*** When the Ankheg takes damage from a melee weapon attack, 
