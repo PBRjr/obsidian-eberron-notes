@@ -288,11 +288,11 @@ Proficiency Bonus +2
 
 *Actions*
 
-_**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is [grappled](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Grappled) (escape DC 13). Until this grapple ends, the Ankheg can bite only the [grappled](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Grappled) creature and has advantage on attack rolls to do so.
+_**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8+ 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is [grappled](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Grappled) (escape DC 13). Until this grapple ends, the Ankheg can bite only the [grappled](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Grappled) creature and has advantage on attack rolls to do so.
 
-_**Acid Spray (Recharge 6).**_ The Ankheg spits acid up to 30 ft away, creating a 10 ft/10 ft large pool, provided that it has no creature [grappled](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Grappled). Each creature in the area when it lands or at the start of its turn must make a DC 13 Dexterity saving throw, taking 10 (3d4) acid damage on a failed save, or half as much damage on a successful one.
+_**Acid Spray (Recharge 6).**_ The Ankheg spits acid up to 30 ft away, creating a 10 ft/10 ft large pool, provided that it has no creature [grappled](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Grappled). Each creature in the area when it lands or at the start of its turn must make a DC 13 Dexterity saving throw, taking 7 (3d4) acid damage on a failed save, or half as much damage on a successful one.
 
 *Villain Actions*
-***Bloody Rage.*** When reduced to half of it's health or less, the Ankheg lashes out in a rage, causing acid to seep from its pores. The area immediately surrounding it becomes covered. Then, the Ankheg burrows underground, and can move up to 30 ft.
+***Bloody Rage.*** When reduced to half of it's health or less, the Ankheg lashes out in a rage, causing acid to seep from its pores. The area immediately surrounding it becomes covered. Then, the Ankheg burrows underground, avoiding attacks of opportunity, and can move up to 10 ft.
 
 ***Acid Pores.*** When the Ankheg takes damage from a melee weapon attack while its under the effects of *Bloody Rage*, the attacker makes a DC 11 (10 + CON) strength check. On a fail, the attacker's weapon becomes lodged in the Ankheg's body long enough for its acid to destroy parts of the weapon, turning it into an improvised weapon.
