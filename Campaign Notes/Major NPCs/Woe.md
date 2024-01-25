@@ -18,7 +18,7 @@ Woe is a decommissioned warforged soldier who served with distinction in the Las
 
 - Personality: Driven by a sense of purpose and duty, but his methods are merciless. Has disdain for the "weakness" of living creatures.  
 
-- Mannerisms: Speaks in a commanding, metallic voice. Carries out orders swiftly and efficiently. Never wastes movements in combat.
+- Mannerisms: Speaks in a commanding, metallic voice, with a prose that is strong but short and to-rhe-point. Carries out orders swiftly and efficiently. Never wastes movements in combat.
 
 ### Backstory
 
@@ -29,7 +29,7 @@ In his aimlessness, he was approached by Mordakesh who promised him a new reason
 ### Motivations
 
 - Regain the sense of purpose he felt during the Last War
-- Prove warforged superiority by serving Mordakesh's aims
+- Give all warforged the new purpose he has now found, serving a greater power.
 - Hunt down fractured Khyber dragonshards to increase his power
 
 ### Abilities & Powers
@@ -44,5 +44,5 @@ In his aimlessness, he was approached by Mordakesh who promised him a new reason
 ### Connections & Hooks
 
 - Attacked the PCs' airship to capture a dragonshard fragment!
-- Carries out violent raids to obtain shards scattered across Khorvaire
-- Leads squads of loyal warforged who see him as their holy leader
+- Carries out violent raids to obtain shards scattered across Khorvaire.
+- Seeking to use resources of other factions to find the remaining shattered khyber dragonshards

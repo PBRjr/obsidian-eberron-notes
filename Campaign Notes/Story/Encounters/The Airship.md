@@ -8,7 +8,7 @@
 
 ## Manifest 
 - Ianhorn Gillflower - Ship owner, high elf male, not on ship
-- [[Jonston Marsh]] - Tiefling ship captain
+- [[Jonston Marsh (deceased)]] - Tiefling ship captain
 	- Stubborn and firm but fair, leads by example, respected by most
 	- Left home at a young age to pursue contract work
 	- Positive outlook on life
