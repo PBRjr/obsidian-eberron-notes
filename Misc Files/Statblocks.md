@@ -1,14 +1,20 @@
 
 ---
 References
-- [[#Brains (Kobolt Dragonshield)|Brains (Kobolt Dragonshield)]]
-- [[#Kobold Scale Sorcerer|Kobold Scale Sorcerer]]
-- [[#Veteran|Veteran]]
-- [[#Commoner|Commoner]]
-- [[#Kobold|Kobold]]
-- [[#Pteranodons|Pteranodons]]
-- [[#Balista|Balista]]
-- [[#Ankheg|Ankheg]]
+- [[#Kobolds|Kobolds]]
+	- [[#Kobolds#Brains (Kobolt Dragonshield)|Brains (Kobolt Dragonshield)]]
+	- [[#Kobolds#Kobold Scale Sorcerer|Kobold Scale Sorcerer]]
+	- [[#Kobolds#Kobold|Kobold]]
+- [[#Misc Humanoids|Misc Humanoids]]
+	- [[#Misc Humanoids#Veteran|Veteran]]
+	- [[#Misc Humanoids#Commoner|Commoner]]
+- [[#Beasts|Beasts]]
+	- [[#Beasts#Pteranodons|Pteranodons]]
+- [[#Monstrosities|Monstrosities]]
+	- [[#Monstrosities#Ankheg|Ankheg]]
+- [[#Structures|Structures]]
+	- [[#Structures#Balista|Balista]]
+
 
 ---
 
@@ -216,6 +222,7 @@ Proficiency Bonus +2
 
 _**Club.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage
 
+
 ## Beasts
 ### Pteranodons
 Medium Beast, Unaligned
@@ -253,13 +260,8 @@ _**Flyby.**_ The pteranodon doesn’t provoke an opportunity attack when it fli
 *Actions*
 
 _**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (2d4 + 1) piercing damage.
-### Balista
-AC 15
-HP 40
-_Hardened_: Damage is only applied when 20 or more is delt in one attack
 
-Takes 1 action to load, 1 action to aim, 1 action to fire
-If within sightline and range, target must make a DC 15 dexterity saving through or be struck, dealing 6d8 piercing damage.
+## Monstrosities
 ### Ankheg
 Large Monstrosity, Unaligned
 
@@ -299,3 +301,12 @@ _**Acid Spray (Recharge 6).**_ The Ankheg spits acid up to 30 ft away, creatin
 ***Bloody Rage.*** When reduced to half of it's health or less, the Ankheg lashes out in a rage, causing acid to seep from its pores. The area immediately surrounding it becomes covered. Then, the Ankheg burrows underground, avoiding attacks of opportunity, and can move up to 10 ft.
 
 ***Acid Pores.*** When the Ankheg takes damage from a melee weapon attack while its under the effects of *Bloody Rage*, the attacker makes a DC 11 (10 + CON) strength check. On a fail, the attacker's weapon becomes lodged in the Ankheg's body long enough for its acid to destroy parts of the weapon, turning it into an improvised weapon.
+
+## Structures
+### Balista
+AC 15
+HP 40
+_Hardened_: Damage is only applied when 20 or more is delt in one attack
+
+Takes 1 action to load, 1 action to aim, 1 action to fire
+If within sightline and range, target must make a DC 15 dexterity saving through or be struck, dealing 6d8 piercing damage.
