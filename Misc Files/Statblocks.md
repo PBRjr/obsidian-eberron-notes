@@ -12,8 +12,8 @@ References
 
 ---
 
-
-## Brains (Kobolt Dragonshield)
+## Kobolds
+### Brains (Kobolt Dragonshield)
 
 Small humanoid (kobold), lawful evil
 
@@ -58,7 +58,7 @@ Challenge 1 (200 XP)
 
  **Oil slick.** The Dragonshield directs another kobold to dump 2 buckets of oil on or nearby the closest enemies in a 10x10ft area. Any creature in the area when thrown or at the start of their turn fall prone unless they succeed on a DC 12 dexterity saving throw. If lit on fire they take 2d4 fire damage a turn.
 
-## Kobold Scale Sorcerer
+### Kobold Scale Sorcerer
 Small humanoid (kobold), lawful evil
 
 **Armor Class** 15 (natural armor)
@@ -103,7 +103,47 @@ The kobold is a 3rd-level spellcaster. Their spellcasting ability is Charisma (s
 
 _**Dagger**_: _Melee or Ranged Weapon Attack_: +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit_: 4 1d4+2 piercing damage.
 
-## Veteran
+### Kobold
+Small Humanoid (Kobold), Lawful Evil
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+Armor Class 12
+
+Hit Points 5 (2d6 - 2)
+
+Speed 30 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+| STR   | DEX    | CON   | INT   | WIS   | CHA |
+| ----- | ------ | ----- | ----- | ----- | --- |
+| 7(-2) | 15(+2) | 9(-1) | 8(-1) | 7(-2) | 8(-1)    |
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+Senses [Darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) 60 ft., Passive Perception 8
+
+Languages Common, Draconic
+
+Challenge 1/8 (25 XP)
+
+Proficiency Bonus +2
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_**Sunlight Sensitivity.**_ While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) checks that rely on sight.
+
+_**Pack Tactics.**_ The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't [incapacitated](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Incapacitated).
+
+*Actions*
+
+_**Dagger.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.
+
+_**Sling.** Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage.
+
+## Misc Humanoids
+### Veteran
 Medium Humanoid (Any Race), Any Alignment
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
@@ -143,7 +183,7 @@ _**Longsword.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _H
 _**Shortsword.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.
 
 _**Heavy Crossbow.** Ranged Weapon Attack:_ +3 to hit, range 100/400 ft., one target. _Hit:_ 6 (1d10 + 1) piercing damage
-## Commoner
+### Commoner
 Medium Humanoid (Any Race), Any Alignment
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
@@ -176,45 +216,8 @@ Proficiency Bonus +2
 
 _**Club.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage
 
-## Kobold
-Small Humanoid (Kobold), Lawful Evil
-
-![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
-
-Armor Class 12
-
-Hit Points 5 (2d6 - 2)
-
-Speed 30 ft.
-
-![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
-
-| STR   | DEX    | CON   | INT   | WIS   | CHA |
-| ----- | ------ | ----- | ----- | ----- | --- |
-| 7(-2) | 15(+2) | 9(-1) | 8(-1) | 7(-2) | 8(-1)    |
-
-![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
-
-Senses [Darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) 60 ft., Passive Perception 8
-
-Languages Common, Draconic
-
-Challenge 1/8 (25 XP)
-
-Proficiency Bonus +2
-
-![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
-
-_**Sunlight Sensitivity.**_ While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) checks that rely on sight.
-
-_**Pack Tactics.**_ The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't [incapacitated](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Incapacitated).
-
-*Actions*
-
-_**Dagger.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.
-
-_**Sling.** Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage.
-## Pteranodons
+## Beasts
+### Pteranodons
 Medium Beast, Unaligned
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
@@ -250,14 +253,14 @@ _**Flyby.**_ The pteranodon doesn’t provoke an opportunity attack when it fli
 *Actions*
 
 _**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (2d4 + 1) piercing damage.
-## Balista
+### Balista
 AC 15
 HP 40
 _Hardened_: Damage is only applied when 20 or more is delt in one attack
 
 Takes 1 action to load, 1 action to aim, 1 action to fire
 If within sightline and range, target must make a DC 15 dexterity saving through or be struck, dealing 6d8 piercing damage.
-## Ankheg
+### Ankheg
 Large Monstrosity, Unaligned
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
