@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md"
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md"
               }
             }
           },
@@ -172,10 +172,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "973294f18a8cfec8",
+  "active": "31a1c80cd8583fea",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Encounters/The Airship.md",
+    "Campaign Notes/Story/Sessions/0 Plans.md",
     "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
+    "Campaign Notes/Story/Encounters/The Airship.md",
     "Campaign Notes/Story/Encounters/Arrival at Sharn.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
     "Campaign Notes/Story/Encounters/Lurking Threat.md",
@@ -199,7 +200,6 @@
     "Campaign Notes/Story/Sessions/1 The Airship.md",
     "Campaign Notes/Story/Sessions/1 Lead-in.md",
     "Campaign Notes/Story/Sessions/1 Recap.md",
-    "Campaign Notes/Places/Eberron.md",
     "Campaign Notes/Major NPCs",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
