@@ -21,4 +21,6 @@ Story arcs are set up in a very specific way that is shown below. The idea is th
 - Completion of this arc marks the end of the campaign
 - Should provide a satisfying ending that involves the culmination of everything the PCs have accomplished so far
 	- Ex.: *The final fight with the ultimate BBEG*
-	- Ex. 2: *Wraps up all of the PCs' backstories*
+
+
+## TYFYS Arcs
