@@ -28,5 +28,10 @@ If a list under an Arc is numbered, this represents the order of priority, not n
 ## TYFYS Arcs
 ### Current
 #### Immediate
-1. Get back on the road to [[Sharn]]
-2. Obtain a better way of tra
+1. Travel to [[Sharn]]
+2. Obtain a better method of travel
+3. Visit [[Shavalant]]
+
+#### Narrative
+1. Woe is collecting [[Fractured Khyber Dragonshard|Khyber Dragonshards]] for his mysterious purposes
+	1. 
