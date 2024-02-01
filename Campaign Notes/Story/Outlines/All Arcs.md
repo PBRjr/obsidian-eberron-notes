@@ -6,7 +6,8 @@ If a list under an Arc is numbered, this represents the order of priority, not n
 ##### Immediate Arc
 - This is what the players are attempting to accomplish at this moment or in the immediate future.
 - Each is generally wrapped up within a few sessions
-- Thought of in terms of short-term, obvious, and achievable goals
+- Generally can be extrapolated from sub-plots of narrative arcs
+- Thought of in terms of short-term, obvious, and achievable goals, like episodes of a TV show
 	- Ex.: *Obtain horses to improve travel on the long roads ahead*
 	- Ex. 2: *Assist an apothecary that you encountered on your journey*
 
@@ -31,6 +32,8 @@ If a list under an Arc is numbered, this represents the order of priority, not n
 1. Travel to [[Sharn]]
 2. Obtain a better method of travel
 3. Visit [[Shavalant]]
+4. Encounter [[Boromar Gang Members]]
+5. [[Whitehorn Wood]] sidequest
 
 #### Narrative
 ##### Act 1:
@@ -41,12 +44,13 @@ If a list under an Arc is numbered, this represents the order of priority, not n
 2. Woe is collecting [[Fractured Khyber Dragonshard|Khyber Dragonshards]] for his mysterious purposes
 	- Crashes [[The Airship]] and takes Lick's fragment
 	- Goes to [[Morgrave University]] in search for another
-	- Encounters the party again during their journey
+	- Encounters the party again once they find a shard
+
+3. The party is forced into a confrontation with [[Woe]]
 ##### Act 2:
-Woe's master, [[Mordakesh]], attempts to succeed where he failed
-	1. The party is gifted a compass by a mysterious figure
-	2. They feel like they are constantly being watched
-	3. The party finds themselves in the middle of an eternal battle between the [[Church of the Silver Flame]] and the [[Lords of Dust]].
-	4. They are led to unknowingly release an Overlord
+1. The party receives a strange magical compass from an unknown entity
+	1. They come into conflict with the [[Church of the Silver Flame]], who is attempting to acquire it, claiming its evil
+2. Woe's master, [[Mordakesh]], attempts to succeed where he failed
+
 ##### Act 3:
 The party must navigate the world that is now being altered by this released overlord and possibly reverse it
