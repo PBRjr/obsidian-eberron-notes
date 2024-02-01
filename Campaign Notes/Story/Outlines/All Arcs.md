@@ -34,4 +34,9 @@ If a list under an Arc is numbered, this represents the order of priority, not n
 
 #### Narrative
 1. Woe is collecting [[Fractured Khyber Dragonshard|Khyber Dragonshards]] for his mysterious purposes
-	1. 
+	1. Crashes [[The Airship]] and takes Lick's fragment
+	2. Goes to [[Morgrave University]] in search for another
+	3. The party must figure out who Woe is and what he is trying to accomplish
+	4. Woe tries to use his shards to summon his overlord
+2. 
+3. Woe
