@@ -34,12 +34,14 @@ If a list under an Arc is numbered, this represents the order of priority, not n
 
 #### Narrative
 ##### Act 1:
-Woe is collecting [[Fractured Khyber Dragonshard|Khyber Dragonshards]] for his mysterious purposes
-- Crashes [[The Airship]] and takes Lick's fragment
-- Goes to [[Morgrave University]] in search for another
-- Woe tries to use his shards to summon his overlord
-The party undergoes a dangerous journey to Sharn
-- Once they arr
+1. The party undergoes a dangerous journey to Sharn
+	- They will encounter various threats and make a few allies
+	- Other encounters hint at Woe's backstory and his possible motivations
+
+2. Woe is collecting [[Fractured Khyber Dragonshard|Khyber Dragonshards]] for his mysterious purposes
+	- Crashes [[The Airship]] and takes Lick's fragment
+	- Goes to [[Morgrave University]] in search for another
+	- Encounters the party again during their journey
 ##### Act 2:
 Woe's master, [[Mordakesh]], attempts to succeed where he failed
 	1. The party is gifted a compass by a mysterious figure
