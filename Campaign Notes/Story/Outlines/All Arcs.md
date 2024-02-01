@@ -33,10 +33,18 @@ If a list under an Arc is numbered, this represents the order of priority, not n
 3. Visit [[Shavalant]]
 
 #### Narrative
-1. Woe is collecting [[Fractured Khyber Dragonshard|Khyber Dragonshards]] for his mysterious purposes
-	1. Crashes [[The Airship]] and takes Lick's fragment
-	2. Goes to [[Morgrave University]] in search for another
-	3. The party must figure out who Woe is and what he is trying to accomplish
-	4. Woe tries to use his shards to summon his overlord
-2. 
-3. Woe
+##### Act 1:
+Woe is collecting [[Fractured Khyber Dragonshard|Khyber Dragonshards]] for his mysterious purposes
+- Crashes [[The Airship]] and takes Lick's fragment
+- Goes to [[Morgrave University]] in search for another
+- Woe tries to use his shards to summon his overlord
+The party undergoes a dangerous journey to Sharn
+- Once they arr
+##### Act 2:
+Woe's master, [[Mordakesh]], attempts to succeed where he failed
+	1. The party is gifted a compass by a mysterious figure
+	2. They feel like they are constantly being watched
+	3. The party finds themselves in the middle of an eternal battle between the [[Church of the Silver Flame]] and the [[Lords of Dust]].
+	4. They are led to unknowingly release an Overlord
+##### Act 3:
+The party must navigate the world that is now being altered by this released overlord and possibly reverse it
