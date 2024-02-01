@@ -1,6 +1,8 @@
 #### Arc Setup
 Story arcs are set up in a very specific way that is shown below. The idea is that at least one of these arcs is being moved forward every session. This is combined with a more extensive plot web to create a  cohesive and intuitive narrative experience for the players.
 
+If a list under an Arc is numbered, this represents the order of priority, not necessarily the order it will be completed. The plot points towards the top of each list are more significant, while the ones towards the bottom may be less significant to the main plot, and more prone to being changed or discarded.
+
 ##### Immediate Arc
 - This is what the players are attempting to accomplish at this moment or in the immediate future.
 - Each is generally wrapped up within a few sessions
@@ -24,3 +26,7 @@ Story arcs are set up in a very specific way that is shown below. The idea is th
 
 
 ## TYFYS Arcs
+### Current
+#### Immediate
+1. Get back on the road to [[Sharn]]
+2. Obtain a better way of tra
