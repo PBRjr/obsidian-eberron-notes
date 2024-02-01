@@ -1,4 +1,4 @@
-#### Arc Setup
+## Arc Setup
 Story arcs are set up in a very specific way that is shown below. The idea is that at least one of these arcs is being moved forward every session. This is combined with a more extensive plot web to create a  cohesive and intuitive narrative experience for the players.
 
 If a list under an Arc is numbered, this represents the order of priority, not necessarily the order it will be completed. The plot points towards the top of each list are more significant, while the ones towards the bottom may be less significant to the main plot, and more prone to being changed or discarded.
@@ -49,8 +49,16 @@ If a list under an Arc is numbered, this represents the order of priority, not n
 3. The party is forced into a confrontation with [[Woe]]
 ##### Act 2:
 1. The party receives a strange magical compass from an unknown entity
-	1. They come into conflict with the [[Church of the Silver Flame]], who is attempting to acquire it, claiming its evil
-2. Woe's master, [[Mordakesh]], attempts to succeed where he failed
+	- They come into conflict with the [[Church of the Silver Flame]], who is attempting to acquire it, claiming its evil
+	- [[Mordakhesh]] is constantly scrying them
+	- The compass leads them to [[Xen'Drik]]
+
+2.  The party must travel to the tomb the compass is leading them to
+	- They continue receiving information explaining the Church is evil and the compass will lead them to an entity that can destroy an overlord
+	- They encounter various dangers on their journey
+	- They might unknowingly release the overlord trapped there
 
 ##### Act 3:
 The party must navigate the world that is now being altered by this released overlord and possibly reverse it
+
+### Old/Completed
