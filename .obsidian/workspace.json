@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Outlines/Journey to the City of Towers.md",
+                "file": "Campaign Notes/Story/All Arcs.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Outlines/Journey to the City of Towers.md",
+                "file": "Campaign Notes/Story/All Arcs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Outlines/Journey to the City of Towers.md",
+                "file": "Campaign Notes/Story/All Arcs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Outlines/Journey to the City of Towers.md"
+                "file": "Campaign Notes/Story/All Arcs.md"
               }
             }
           }
@@ -172,10 +172,11 @@
   },
   "active": "772be329151e2bbf",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Outlines/Campaign Outline.md",
-    "Campaign Notes/Story/Outlines/All Arcs.md",
-    "Campaign Notes/Story/Outlines/Journey to the City of Towers.md",
-    "Campaign Notes/Story/Outlines/Old overview outline.md",
+    "Campaign Notes/Story/Sessions/3 Plans.md",
+    "Campaign Notes/Story/All Arcs.md",
+    "Misc Files/Reevaluate/Campaign Outline.md",
+    "Misc Files/Reevaluate/Old overview outline.md",
+    "Misc Files/Reevaluate/Journey to the City of Towers.md",
     "Misc Files/Statblocks.md",
     "Misc Files/Prompts.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
@@ -196,7 +197,6 @@
     "Campaign Notes/Story/Quests/Aquefukt.md",
     "Campaign Notes/Story/Quests/Kobold Cave.md",
     "Campaign Notes/Story/Quests/Lost Child.md",
-    "Campaign Notes/Story/Quests/The Silver Flame needs help with a Cock.md",
-    "Campaign Notes/Story/Encounters/The Bag Man.md"
+    "Campaign Notes/Story/Quests/The Silver Flame needs help with a Cock.md"
   ]
 }
