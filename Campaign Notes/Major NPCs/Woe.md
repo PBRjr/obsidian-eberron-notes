@@ -32,6 +32,13 @@ In his aimlessness, he was approached by Mordakesh who promised him a new reason
 - Give all warforged the new purpose he has now found, serving a greater power.
 - Hunt down fractured Khyber dragonshards to increase his power
 
+### Foreboding Premonitions
+**Disturbed Dreams:** Players experience vivid nightmares where they're battling an overwhelming purple darkness, or Woe himself, only to wake up with a sense of dread. These dreams could occasionally provide cryptic clues or warnings about Woe's plans, wrapped in metaphorical imagery related to Woe's backstory or abilities.
+
+**Purple Lightning:** Before a significant encounter or event linked to Woe, the sky could be lit by rare and unnatural purple lightning, even without a storm. This phenomenon, witnessed by the players or recounted by locals, serves as an omen of Woe's direct involvement or the presence of his power.
+
+**Reflections in Water:** On occasion, when the players look into still water, their reflections could momentarily shift to show them as lifeless, puppet-like versions of themselves, with glowing purple eyes. This unsettling vision fades quickly but leaves an eerie feeling of being marked by Woe.
+
 ### Abilities & Powers
 
 - Granted Warlock-like abilities from his patron [[Rak Tulkesh]].
