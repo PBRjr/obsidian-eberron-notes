@@ -14,6 +14,7 @@ An eccentric professor obsessed with proving his unorthodox theories about the [
 
 A professor at [[Morgrave University]], Baelen became obsessed with a fractured dragonshard he believes holds clues about the Day of Mourning. His radical theories have damaged his credibility.
 
+Having recently obtained a piece of the [[Fractured Khyber Dragonshard]], Baelin now seeks to study it and unearth its mysterious origin.
 ### Motivations
 
 - Alignment: Neutral

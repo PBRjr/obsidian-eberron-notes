@@ -20,7 +20,7 @@ References
 ### History
 
 - As a part of the ancient ritual involving the sacrifice of the Couatl, Rak Tulkesh's avatar was separated from his demi planes, exposing a vulnerability. 
-- Beaten by the ancient dragons of [[The Chamber]], his aspect was sealed away in this Dragonshard.
+- Beaten by a force of ancient dragons, his material avatar was sealed away in this Dragonshard.
 - To keep it out of the hands of the [[Lords of Dust]], it was shattered, its fragments spread across the world.
 
 ### Powers/Abilities
@@ -28,12 +28,14 @@ References
 - The Dragonshard contains the fragmented power of Rak Tulkesh.
 - These shards are the sources of power [[Woe]] is seeking.
 - They can be combined with a soul through a ritual, giving the user power, but also corrupting them.
+- Once they are all combined again, the user's soul will be consumed as fuel to release Rak Tulkesh's avatar from its bonds.
 
 ### Location
 
 - The main gem is [[Woe#Abilities & Powers|Woe's phylactery]]
-- Lick: 1 Shard before airship crash
-- Last 3 shards?? Morgrave University?
+	- Lick: 1 Shard before airship crash
+	- [[Professor Baelen ir'Torn]]: 1 Shard
+	- 2 remaining shards: unknown
 
 ### Interacting With It
 
