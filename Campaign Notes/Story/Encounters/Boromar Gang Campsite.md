@@ -3,6 +3,7 @@
 	- 30ft away from center of camp
 	- Will ring small bells that alert gang members
 	- ***DC 16*** to detect
+- [[Boromar Gang Members|Garhorn, Orc 1, Orc 2]]
 
 ## Loot
 1.  **Stolen Goods**
@@ -14,6 +15,9 @@
 3. **Counterfeit Coins**
 	- A small pouch containing 150 counterfeit gold pieces.
 	- Stashed next to the extortion money.
-1. **Thieves' Tools**
-	-  A set of high-quality thieves' tools, located on 
-2. **Potions**: A couple of potions of healing, indicating the gang's readiness for trouble.
+4. **Thieves' Tools**
+	-  A set of high-quality thieves' tools with the boromar symbol etched into each piece
+		- "A silver dragon with folded wings perched atop a tower"
+	- Wrapped in a cloth and carried by Garhorn
+1. **Potions**
+	- Several potions of healing scattered about

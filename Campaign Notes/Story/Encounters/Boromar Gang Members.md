@@ -13,9 +13,5 @@
 - Will Burn down Miri's home that night if not payed
 
 [[Boromar Gang Campsite |Campsite]]
-- An **alarm tripwire** is setup around the camp
-	- 30ft away from center of camp
-	- Will ring small bells that alert gang members
-	- ***DC 16*** to detect
 
 
