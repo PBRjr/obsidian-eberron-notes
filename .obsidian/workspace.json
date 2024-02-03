@@ -15,8 +15,8 @@
               "state": {
                 "file": "Misc Files/Flows/Plot Web.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 30,
+                  "y": -42,
                   "zoom": 0
                 }
               }
@@ -175,8 +175,9 @@
   },
   "active": "31a1c80cd8583fea",
   "lastOpenFiles": [
-    "Misc Files/Flows/Timeline.canvas",
+    "Campaign Notes/Lore/Rak Tulkesh.md",
     "Misc Files/Flows/Plot Web.canvas",
+    "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
     "Campaign Notes/The Party.md",
     "Misc Files/Flows/Factions.canvas",
