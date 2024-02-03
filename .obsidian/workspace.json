@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Minor NPCs/Professor Baelen ir'Torn.md",
+                "file": "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Minor NPCs/Professor Baelen ir'Torn.md",
+                "file": "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Minor NPCs/Professor Baelen ir'Torn.md",
+                "file": "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Minor NPCs/Professor Baelen ir'Torn.md"
+                "file": "Campaign Notes/Items/Intel on Baelen ir'Torn.md"
               }
             }
           },
@@ -186,11 +186,13 @@
   },
   "active": "da11ee37ddd4ce67",
   "lastOpenFiles": [
-    "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
+    "Misc Files/Tables.md",
+    "Campaign Notes/Lore/Galifar Calender.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
-    "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
-    "Campaign Notes/Minor NPCs/Professor Baelen ir'Torn.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
+    "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
+    "Campaign Notes/Minor NPCs/Professor Baelen ir'Torn.md",
+    "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
     "Campaign Notes/Factions/Boromar clan.md",
     "Campaign Notes/Story/Encounters/Lurking Threat.md",
     "Misc Files/Statblocks.md",
@@ -210,8 +212,6 @@
     "Campaign Notes/Minor NPCs/Axe man.md",
     "Campaign Notes/Story/Quests/The Silver Flame needs help with a Cock.md",
     "Campaign Notes/Story/Quests/The Warforged Hermit.md",
-    "Campaign Notes/Story/Quests/The Mysterious Passenger.md",
-    "Campaign Notes/Story/Quests/The Haunted Grove.md",
     "Campaign Notes/Major NPCs",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
