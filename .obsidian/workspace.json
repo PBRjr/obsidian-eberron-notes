@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
+                "file": "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
+                "file": "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Items/Intel on Baelen ir'Torn.md"
+                "file": "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md"
               }
             }
           },
@@ -184,13 +183,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da11ee37ddd4ce67",
+  "active": "31a1c80cd8583fea",
   "lastOpenFiles": [
-    "Misc Files/Tables.md",
+    "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
     "Campaign Notes/Lore/Galifar Calender.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
+    "Campaign Notes/Story/Sessions/1 Lead-in.md",
+    "Misc Files/Tables.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
-    "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
     "Campaign Notes/Minor NPCs/Professor Baelen ir'Torn.md",
     "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
     "Campaign Notes/Factions/Boromar clan.md",
@@ -211,7 +211,6 @@
     "Campaign Notes/Minor NPCs/Aeren d'Cannith.md",
     "Campaign Notes/Minor NPCs/Axe man.md",
     "Campaign Notes/Story/Quests/The Silver Flame needs help with a Cock.md",
-    "Campaign Notes/Story/Quests/The Warforged Hermit.md",
     "Campaign Notes/Major NPCs",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",

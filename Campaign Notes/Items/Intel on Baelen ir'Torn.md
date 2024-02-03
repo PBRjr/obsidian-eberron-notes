@@ -1,7 +1,7 @@
 **Intel Brief: Professor Baelin ir'Torn**
 
-**Subject:** Observation Report  
-**Date:** 02 Therendor, 998 YK
+**Subject:** Observation Report
+**Date:** 20 Olarune, 998 YK
 
 **Key Observations:**
 
