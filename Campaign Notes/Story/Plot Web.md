@@ -31,4 +31,9 @@
 - Became aware of growing darkness as he aged
 - Became a paladin to protect the innocent
 - Traveled around Khorvaire fighting evil and helping others
-- Draven's lege
+- Draven's legend grew
+	- He became the "Knight of the North"
+	- Name became synonymous with righteousness and valor
+	- Had a flaming sword
+- Lost his memory and extensive training in an unknown incident. 
+- Now ultimately seeks to figure out who he once was, and what caused him to forget.
