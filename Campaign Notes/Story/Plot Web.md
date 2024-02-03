@@ -18,6 +18,9 @@
 - Formed new alliances with a shared hatred of Hrothgar
 - Ultimate goal of confronting his brother and restoring rightful order within the clan.
 
+
+- Stormpeak Clan
+- 
 #### Draven Flameforge
 - Raised in the norther Byeshk Mountains
 - Born into clan Flameforge
@@ -37,3 +40,8 @@
 	- Had a flaming sword
 - Lost his memory and extensive training in an unknown incident. 
 - Now ultimately seeks to figure out who he once was, and what caused him to forget.
+
+## Core
+**Main Villain**: Rak Tulkesh
+**Central Tension**: Mordakesh and the Lords of Dust are attempting to free their Overlord, Rak Tulkesh
+**Themes**: moral ambiguity > greed > power 
