@@ -9,7 +9,7 @@
 - Don't want to fight, just want protection fee
 - Will Burn down Miri's home that night if not payed
 
-Campsite
+[[Boromar Gang Campsite |Campsite]]
 - Have an **alarm tripwire** setup around the camp
 	- 30ft away from center of camp
 	- Will ring small bells that alert gang members
