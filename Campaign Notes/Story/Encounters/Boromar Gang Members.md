@@ -1,5 +1,5 @@
  *Boromar Gang Members*
- - Taken up residence SOMEWHERE
+ - Taken up residence in a small camp outside of town
  - Don't like to fight
  - Will find cowards way to get back at people
 
