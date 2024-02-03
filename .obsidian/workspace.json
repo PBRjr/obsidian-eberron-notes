@@ -13,21 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
+                "file": "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da11ee37ddd4ce67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
+                "file": "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
+                "file": "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md"
+                "file": "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md"
               }
             }
           },
@@ -185,16 +173,16 @@
   },
   "active": "31a1c80cd8583fea",
   "lastOpenFiles": [
+    "Campaign Notes/Story/Encounters/Lurking Threat.md",
+    "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
+    "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
     "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
     "Campaign Notes/Lore/Galifar Calender.md",
-    "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
     "Campaign Notes/Story/Sessions/1 Lead-in.md",
     "Misc Files/Tables.md",
-    "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
     "Campaign Notes/Minor NPCs/Professor Baelen ir'Torn.md",
     "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
     "Campaign Notes/Factions/Boromar clan.md",
-    "Campaign Notes/Story/Encounters/Lurking Threat.md",
     "Misc Files/Statblocks.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Camp.md",
     "Campaign Notes/Story/Quests/Aquefukt.md",
