@@ -3,7 +3,8 @@
 	- 30ft away from center of camp
 	- Will ring small bells that alert gang members
 	- ***DC 16*** to detect
-- [[Boromar Gang Members|Garhorn, Orc 1, Orc 2]]
+- [[Boromar Gang Members|Garhorn, Orc 1, Orc 3]]
+	- Orc 2 died trying to fight the [[Whitehorn Wood|Ankheg]]
 ## Loot
 #### Treasure
 1.  **Stolen Goods**
@@ -21,6 +22,7 @@
 	- Wrapped in a cloth and carried by Garhorn
 5. **Potions**
 	- Several potions of healing scattered about
+6. **Boromar Challenge Coins**
 
 #### Exposition
 - **Detailed Ledger**

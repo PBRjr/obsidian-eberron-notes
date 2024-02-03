@@ -6,7 +6,7 @@
 ## Findings
 - Some of the [[Boromar Gang Members]] tried to kill this beast to make a show of their strength to the town
 	- This didn't go so well
-	- Corpse(s) may be found.
+	- Orc 2 corpse is found
 
 ## Rewards
 - [[Boromar Challenge Coin]] among bones and bodies
