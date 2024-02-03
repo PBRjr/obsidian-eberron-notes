@@ -4,8 +4,8 @@
 	- Will ring small bells that alert gang members
 	- ***DC 16*** to detect
 - [[Boromar Gang Members|Garhorn, Orc 1, Orc 2]]
-
 ## Loot
+#### Treasure
 1.  **Stolen Goods**
 	- Various pieces of jewelry, fine cloth, and small art pieces worth around 200-300 gold pieces in total. 
 	- These items are likely pilfered from town homes and are stashed away in a locked chest (***DC 15*** to pick).
@@ -16,8 +16,14 @@
 	- A small pouch containing 150 counterfeit gold pieces.
 	- Stashed next to the extortion money.
 4. **Thieves' Tools**
-	-  A set of high-quality thieves' tools with the boromar symbol etched into each piece
-		- "A silver dragon with folded wings perched atop a tower"
+	-  A set of high-quality thieves' tools with the Boromar symbol etched into each piece
+		- *"A silver dragon with folded wings perched atop a tower"*
 	- Wrapped in a cloth and carried by Garhorn
-1. **Potions**
+5. **Potions**
 	- Several potions of healing scattered about
+
+#### Exposition
+- [[Detailed Ledger]]
+	- Contains information on which townsfolk have payed protection money, which have resisted, and scheduled "visits", both upcoming and completed.
+- **Intel on Baelen ir'Torn**
+	- Found inside the ledger, this letter p
