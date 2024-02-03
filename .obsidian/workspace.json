@@ -26,13 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Minor NPCs/Professor Baelen ir'Torn.md",
+                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,9 +186,10 @@
   },
   "active": "31a1c80cd8583fea",
   "lastOpenFiles": [
+    "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
     "Campaign Notes/Minor NPCs/Professor Baelen ir'Torn.md",
-    "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
+    "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
     "Campaign Notes/Factions/Boromar clan.md",
     "Campaign Notes/Story/Encounters/Lurking Threat.md",
     "Misc Files/Statblocks.md",
@@ -210,7 +212,6 @@
     "Campaign Notes/Story/Quests/The Mysterious Passenger.md",
     "Campaign Notes/Story/Quests/The Haunted Grove.md",
     "Campaign Notes/Story/Quests/Lost Child.md",
-    "Campaign Notes/Story/Quests/Kobold Cave.md",
     "Campaign Notes/Major NPCs",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",

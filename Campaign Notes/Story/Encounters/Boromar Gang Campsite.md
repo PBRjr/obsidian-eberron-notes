@@ -23,7 +23,10 @@
 	- Several potions of healing scattered about
 
 #### Exposition
-- [[Detailed Ledger]]
-	- Contains information on which townsfolk have payed protection money, which have resisted, and scheduled "visits", both upcoming and completed.
-- **Intel on Baelen ir'Torn**
-	- Found inside the ledger, this letter p
+- **Detailed Ledger**
+	- Contains information on which townsfolk have payed protection money and those who have not
+	- Payed: Sheriff Cromley, Innkeeper, Elder Finn
+	- Unpaid: Magewright, Apothecary
+- [[Intel on Baelen ir'Torn]]
+	- Found inside the ledger, this letter provides intel to the gang members on a potential score
+	- Professor ir'Tron was seen traveling through Shavalant on his way to Sharn, suspected to have a powerful artifact
