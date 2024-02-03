@@ -19,5 +19,16 @@
 - Ultimate goal of confronting his brother and restoring rightful order within the clan.
 
 #### Draven Flameforge
+- Raised in the norther Byeshk Mountains
 - Born into clan Flameforge
-	- Made 
+	- Made of dragonborn warriors
+	- Proud devotion to Siberys
+- Recognized to have great potential at an earlier age as a protector
+- Trained in combat, embodied honor, loyalty, righteousness
+- Varyn the Valiant
+	- Draven's Mentor
+	- Instilled importance of his religion
+- Became aware of growing darkness as he aged
+- Became a paladin to protect the innocent
+- Traveled around Khorvaire fighting evil and helping others
+- Draven's lege
