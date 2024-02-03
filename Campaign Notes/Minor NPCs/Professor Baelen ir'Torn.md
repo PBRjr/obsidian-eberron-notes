@@ -39,4 +39,3 @@ Play up his rapid, professorial speech and dismissiveness towards skeptics. Make
 ### Connections & Hooks
 
 - Could hire the PCs to find dragonshard fragments to restore his reputation.
-- His dragonshard could connect to the [[Draconic Prophecy|Draconic Prophecy]].
