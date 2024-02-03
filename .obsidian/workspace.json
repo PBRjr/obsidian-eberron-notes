@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Major NPCs/Marix d'Cannith.md",
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Major NPCs/Marix d'Cannith.md",
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Major NPCs/Marix d'Cannith.md",
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Major NPCs/Marix d'Cannith.md"
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md"
               }
             }
           },
@@ -174,32 +173,32 @@
   },
   "active": "31a1c80cd8583fea",
   "lastOpenFiles": [
-    "Campaign Notes/Major NPCs/The Beggar King.md",
+    "Campaign Notes/Story/All Arcs.md",
+    "Campaign Notes/Places/Khorvaire.md",
+    "Campaign Notes/Places/Eberron.md",
+    "Campaign Notes/Places/Argonnessen.md",
+    "Campaign Notes/Minor NPCs/Professor Baelen ir'Torn.md",
+    "Campaign Notes/Minor NPCs/Oak Dryfire.md",
+    "Campaign Notes/Minor NPCs/Loro Cass.md",
+    "Campaign Notes/Minor NPCs/Jonston Marsh (deceased).md",
+    "Campaign Notes/Minor NPCs/Brother Cec.md",
+    "Campaign Notes/Minor NPCs/Bhaalkerin.md",
     "Campaign Notes/Minor NPCs/Aeren d'Cannith.md",
     "Campaign Notes/Minor NPCs/Axe man.md",
-    "Campaign Notes/Minor NPCs/Jonston Marsh (deceased).md",
+    "Campaign Notes/Story/Quests/The Silver Flame needs help with a Cock.md",
+    "Campaign Notes/Story/Quests/The Warforged Hermit.md",
+    "Campaign Notes/Story/Quests/The Mysterious Passenger.md",
     "Campaign Notes/Story/Quests/The Haunted Grove.md",
     "Campaign Notes/Story/Quests/Lost Child.md",
+    "Campaign Notes/Story/Quests/Kobold Cave.md",
     "Campaign Notes/Story/Quests/Corrupted Grove.md",
-    "Campaign Notes/Story/All Arcs.md",
-    "Campaign Notes/Story/Sessions/3 Plans.md",
-    "Misc Files/Reevaluate/Old overview outline.md",
-    "Misc Files/Reevaluate/Journey to the City of Towers.md",
-    "Misc Files/Reevaluate/Campaign Outline.md",
-    "Campaign Notes/Story/Sessions/0 Plans.md",
-    "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
-    "Campaign Notes/Story/Encounters/The Airship.md",
-    "Campaign Notes/Story/Encounters/Arrival at Sharn.md",
-    "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
-    "Campaign Notes/Story/Encounters/Lurking Threat.md",
-    "Misc Files/Statblocks.md",
-    "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
-    "Campaign Notes/Items/Boromar Challenge Coin.md",
-    "Campaign Notes/Story/Sessions/2 Plans.md",
-    "Campaign Notes/Story/Quests/Whitehorn Wood.md",
-    "Campaign Notes/Story/Quests/Aquefukt.md",
-    "Campaign Notes/Story/Sessions/2 Recap.md",
-    "Campaign Notes/The Party.md",
+    "Campaign Notes/Lore/Day of Mourning.md",
+    "Campaign Notes/Lore/Draconic Prophecy.md",
+    "Campaign Notes/Lore/Galifar Calender.md",
+    "Campaign Notes/Lore/Rak Tulkesh.md",
+    "Campaign Notes/Lore/Progenitor Dragons.md",
+    "Campaign Notes/Major NPCs/Marix d'Cannith.md",
+    "Campaign Notes/Major NPCs/The Beggar King.md",
     "Campaign Notes/Major NPCs",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
