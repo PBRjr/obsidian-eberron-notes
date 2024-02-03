@@ -32,7 +32,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
+                "file": "Misc Files/Statblocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
+                "file": "Misc Files/Statblocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Encounters/Boromar Gang Members.md"
+                "file": "Misc Files/Statblocks.md"
               }
             }
           },
@@ -183,10 +184,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31a1c80cd8583fea",
+  "active": "5d811e3ac6f19c09",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Encounters/Lurking Threat.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
+    "Campaign Notes/Story/Encounters/Lurking Threat.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Camp.md",
     "Misc Files/Statblocks.md",
     "Campaign Notes/Story/Quests/Aquefukt.md",
