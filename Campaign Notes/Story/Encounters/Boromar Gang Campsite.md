@@ -29,4 +29,7 @@
 	- Unpaid: Magewright, Apothecary
 - [[Intel on Baelen ir'Torn]]
 	- Found inside the ledger, this letter provides intel to the gang members on a potential score
-	- Professor ir'Tron was seen traveling through Shavalant on his way to Sharn, suspected to have a powerful artifact
+	- Professor ir'Torn was seen traveling through [[Shavalant]] on his way to Sharn, suspected to have a powerful artifact
+- **Map to Shavalant**
+	- Found in saddlebags
+	- A basic map of Khorvaire, with marked-out distances leading to Shavalant, which is circled. 
