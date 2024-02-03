@@ -32,4 +32,5 @@
 	- Professor ir'Torn was seen traveling through [[Shavalant]] on his way to Sharn, suspected to have a powerful artifact
 - **Map to Shavalant**
 	- Found in saddlebags
-	- A basic map of Khorvaire, with marked-out distances leading to Shavalant, which is circled. 
+	- A basic map of Khorvaire, with marked-out distances (800 miles) leading to Shavalant, which is circled
+	- At the top is scribbled "Horseback = 8 days"

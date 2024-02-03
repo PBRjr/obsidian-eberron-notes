@@ -26,13 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
+                "file": "Campaign Notes/Minor NPCs/Professor Baelen ir'Torn.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
+                "file": "Campaign Notes/Minor NPCs/Professor Baelen ir'Torn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
+                "file": "Campaign Notes/Minor NPCs/Professor Baelen ir'Torn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md"
+                "file": "Campaign Notes/Minor NPCs/Professor Baelen ir'Torn.md"
               }
             }
           },
@@ -183,7 +184,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31a1c80cd8583fea",
+  "active": "da11ee37ddd4ce67",
   "lastOpenFiles": [
     "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
