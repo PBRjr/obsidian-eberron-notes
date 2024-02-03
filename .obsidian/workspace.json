@@ -11,14 +11,11 @@
             "id": "31a1c80cd8583fea",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
-                "viewState": {
-                  "x": 30,
-                  "y": -42,
-                  "zoom": 0
-                }
+                "file": "Campaign Notes/The Party.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
+                "file": "Campaign Notes/The Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
+                "file": "Campaign Notes/The Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas"
+                "file": "Campaign Notes/The Party.md"
               }
             }
           },
@@ -175,16 +172,16 @@
   },
   "active": "31a1c80cd8583fea",
   "lastOpenFiles": [
-    "Campaign Notes/Lore/Rak Tulkesh.md",
+    "Campaign Notes/Story/All Arcs.md",
+    "Campaign Notes/The Party.md",
     "Misc Files/Flows/Plot Web.canvas",
+    "Campaign Notes/Lore/Rak Tulkesh.md",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
-    "Campaign Notes/The Party.md",
     "Misc Files/Flows/Factions.canvas",
     "Campaign Notes/Story/Quests/Whitehorn Wood.md",
     "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Places/Eberron.md",
-    "Campaign Notes/Story/All Arcs.md",
     "Campaign Notes/Items/Fractured Khyber Dragonshard.md",
     "Campaign Notes/Major NPCs/Professor Baelen ir'Torn.md",
     "Campaign Notes/Story/Encounters/Lost Child.md",
@@ -204,7 +201,6 @@
     "Campaign Notes/Lore/Misc Books and Texts.md",
     "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
     "Campaign Notes/Lore/Galifar Calender.md",
-    "Campaign Notes/Story/Sessions/1 Lead-in.md",
     "Campaign Notes/Major NPCs",
     "Campaign Notes/Story/Sessions/2",
     "Misc Files/Images/Jonston Marsh.png",
