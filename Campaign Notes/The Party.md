@@ -2,10 +2,8 @@
 | Level | Experience |
 | --- | --- |
 | 2 | 800 |
-## Backstory Plot Elements
-### Bjorn
-## Characters
-### Bjorn "Bear Wolf" Ulfr
+
+## Bjorn "Bear Wolf" Ulfr
 
 ### Hooks to remember
 - [[Woe]] will try to turn Bjorn.
@@ -32,7 +30,7 @@ With the betrayal still fresh in his heart, Bjorn-Ulfr embarked on a path of sel
 
 Bjorn-Ulfr's ultimate goal became to confront his brother and restore the rightful order within the Stormpeak Clan. The memory of the betrayal fueled his determination to bring Hrothgar to justice, not only for his own sake but to reclaim the honor and legacy of their people. Under Bjorn-Ulfr's leadership, his ragtag group of followers would stop at nothing to right the wrongs committed by his own flesh and blood and restore his place as the true chieftain of the Stormpeak Clan.
 
-### Sylas Stormshadow (deceased)
+## Sylas Stormshadow (deceased)
 
 ### Hooks to Remember
 - His pact with 'The Traveler' was actually made with some other eldritch being? 
@@ -57,7 +55,7 @@ One fateful night, during an illicit ritual deep in the city's labyrinthine sewe
 
 The Traveler's influence transformed Sylas into a warlock with the power to manipulate time, reality, and fate. But in return, the Traveler would randomly manifest its presence, whisking Sylas away to alternate realities and planes, often leaving him to navigate unforeseen challenges.
 
-### Draven Flameforge
+## Draven Flameforge
 
 ### Hooks to Remember
 - Tempt to join the Church of the Silver Flame
