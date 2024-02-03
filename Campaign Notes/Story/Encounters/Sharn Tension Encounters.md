@@ -4,7 +4,7 @@ Here is a table with some brief encounter ideas for Sharn and related details to
 |-|-|  
 | A tiefling preacher rants about "end times" while fearful citizens hurry past. | The preacher is a madman named Jorik who claims to receive visions of doom. DC 15 Insight check reveals he seems sincere in his beliefs. |
 | Guards question a ragged half-orc about spotting 'Tarks'. | The guards are referring to House Tarkanan agents rumored to be in the area. The half-orc knows nothing. |
-| An elf peddles rare demonic tomes from a cart for exorbitant prices. | The elf is a black market dealer named Talian who sells books about devils and demons, including one titled '[[In the Details: An Exploration of Devil Sociology]].' |
+| An elf peddles rare demonic tomes from a cart for exorbitant prices. | The elf is a black market dealer named Talian who sells books about devils and demons, including one titled '[[Misc Books and Texts#In the Details An Exploration of Devil Sociology\|In the Details: An Exploration of Devil Sociology]].' |
 | A drunk dwarf mutters about the "flame dying out" before being hushed. | He's referring to a secret cult that believes the Silver Flame is fading. DC 13 Persuasion could convince him to share meeting location. |  
 | Guards discuss "troubling omens" in hushed tones. | Omens include unnatural fog, aberrant creature sightings, and night terrors afflicting citizens. |
 | Strange symbols warn of "ancient lords" and "serpents." | DC 11 Religion or Arcana check identifies them as connected to Overlords of the First Age. |
