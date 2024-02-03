@@ -24,7 +24,20 @@
 	- Bjorn's Father
 		- How did he die?
 - Hrothgar Ulfr
+	- Why did he userp?
+	- Feelings of greed and envy
+	- Was born during 
 - Old Clan members
+	- Some were swayed by Hrothgar
+	- Most others remain loyal to Bjorn
+	- Ones that didn't leave are forced to hide their disagreement d/t threats of violance
+
+- Bjorn's new group
+	- Whos it composed of?
+	- Why do they hate Hrothgar
+	- They don't, Bjorn joined them together via shared ideals
+	- Some members are former Stormpeak members
+	- left after Hrothgar takeover
 #### Draven Flameforge
 - Raised in the norther Byeshk Mountains
 - Born into clan Flameforge
