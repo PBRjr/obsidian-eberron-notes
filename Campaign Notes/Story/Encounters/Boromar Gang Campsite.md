@@ -15,5 +15,5 @@
 	- A small pouch containing 150 counterfeit gold pieces.
 	- Stashed next to the extortion money.
 1. **Thieves' Tools**
-	-  A set of high-quality thieves' tools, suggesting the finesse with which some members operate.
+	-  A set of high-quality thieves' tools, located on 
 2. **Potions**: A couple of potions of healing, indicating the gang's readiness for trouble.
