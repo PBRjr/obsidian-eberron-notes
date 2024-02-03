@@ -10,7 +10,7 @@
 - Will Burn down Miri's home that night if not payed
 
 Campsite
-- Have an **alert line** setup around the camp
+- Have an **alarm tripwire** setup around the camp
 	- 30ft away from center of camp
 	- Will ring small bells that alert gang members
 	- ***DC 16*** to detect
