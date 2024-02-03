@@ -28,7 +28,7 @@ Eberron is a realm of wonder, where magic fuses with technology, creating a worl
 
 - **Dragonmarked Houses**: Powerful families bearing mystical marks, controlling major industries.
 - **Warforged**: Sentient constructs created for battle, now seeking their place in a post-war world.
-- **The Inspired of Riedra**: Enigmatic rulers of a distant land, rumored to harbor dark secrets.
+- **People of all origins**: Boasting a diverse humanoid population, life in Khorvaire is separated more by nationality rather than ethnicity.
 
 ### History
 

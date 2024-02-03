@@ -45,4 +45,4 @@ References
 ### Hook
 - The Silver Flame is constantly searching for it, even ransacking the Players quarters if they find out about it.
 - [[Woe]] seeks to increase his power using the shards
-- [[Mordakesh]] seeks to transform Woe into a physical avatar for Rak Tulkesh without his knowledge using the shards.
+- [[Mordakesh]] seeks to consume Woe's soul with the completed Dragonshard and unleash his master.

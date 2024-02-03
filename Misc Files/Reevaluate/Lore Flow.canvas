@@ -10,7 +10,7 @@
 		{"type":"file","file":"Misc Files/Reevaluate/Codex.md","id":"c07360161da90b4b","x":960,"y":280,"width":400,"height":400},
 		{"type":"file","file":"Campaign Notes/Lore/Draconic Prophecy.md","id":"144c0223dd76b6ef","x":1360,"y":-1376,"width":400,"height":400},
 		{"type":"file","file":"Campaign Notes/Places/Eberron.md","id":"898f8c400b63a1f8","x":-1040,"y":-320,"width":400,"height":400},
-		{"type":"file","file":"Campaign Notes/Minor NPCs/Professor Baelen ir'Torn.md","id":"0fade5c40816251b","x":960,"y":1080,"width":400,"height":400}
+		{"type":"file","file":"Campaign Notes/Major NPCs/Professor Baelen ir'Torn.md","id":"0fade5c40816251b","x":960,"y":1080,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"e34e6b693d7e9536","fromNode":"c75c5e0cae4fda71","fromSide":"left","toNode":"1c7956f95c3674c0","toSide":"top"},

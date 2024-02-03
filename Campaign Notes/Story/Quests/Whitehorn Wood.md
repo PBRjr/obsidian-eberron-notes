@@ -2,6 +2,7 @@
 - An [[Statblocks#Ankheg|Ankheg]] layed an egg on a rock
 - Eating livestock
 - Needs to die
+- **Describe seeing bits of acid and upturned earth on the way there**
 
 ## Findings
 - Some of the [[Boromar Gang Members]] tried to kill this beast to make a show of their strength to the town

@@ -30,7 +30,7 @@ With the betrayal still fresh in his heart, Bjorn-Ulfr embarked on a path of sel
 
 Bjorn-Ulfr's ultimate goal became to confront his brother and restore the rightful order within the Stormpeak Clan. The memory of the betrayal fueled his determination to bring Hrothgar to justice, not only for his own sake but to reclaim the honor and legacy of their people. Under Bjorn-Ulfr's leadership, his ragtag group of followers would stop at nothing to right the wrongs committed by his own flesh and blood and restore his place as the true chieftain of the Stormpeak Clan.
 
-## Sylas Stormshadow
+## Sylas Stormshadow (deceased)
 
 ### Hooks to Remember
 - His pact with 'The Traveler' was actually made with some other eldritch being? 
