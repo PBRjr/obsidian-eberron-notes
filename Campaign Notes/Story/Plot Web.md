@@ -20,7 +20,11 @@
 
 
 - Stormpeak Clan
-- 
+	- Old chieftan?
+	- Bjorn's Father
+		- How did he die?
+- Hrothgar Ulfr
+- Old Clan members
 #### Draven Flameforge
 - Raised in the norther Byeshk Mountains
 - Born into clan Flameforge
