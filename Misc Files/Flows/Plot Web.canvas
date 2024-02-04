@@ -3,7 +3,7 @@
 		{"id":"a408fded727356c9","type":"text","text":"Stormpeak Clan","x":-364,"y":-105,"width":250,"height":60,"color":"5"},
 		{"id":"20f75aab969a0225","type":"text","text":"Hrothgar","x":160,"y":184,"width":250,"height":66,"color":"1"},
 		{"id":"39bccfd85ea56cc1","type":"text","text":"Coautl","x":235,"y":-389,"width":250,"height":60,"color":"4"},
-		{"id":"0c4a5e8bc856075f","type":"text","text":"Church of the Silver Flame","x":235,"y":-738,"width":250,"height":60},
+		{"id":"0c4a5e8bc856075f","type":"text","text":"Church of the Silver Flame","x":235,"y":-738,"width":250,"height":130},
 		{"id":"6ca7f3f38e3ed230","type":"text","text":"Fragmented Dragonshard","x":-251,"y":-418,"width":274,"height":58,"color":"6"},
 		{"id":"4f09039bc72c5539","type":"text","text":"Rak Tulkesh","x":410,"y":-181,"width":250,"height":60,"color":"1"},
 		{"id":"7105545bb54889a7","type":"text","text":"Day of Mourning/Mournland","x":845,"y":-798,"width":290,"height":60},
