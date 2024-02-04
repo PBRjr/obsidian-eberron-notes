@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "993bb4937928e3c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes/Major NPCs/Woe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "79666ac16d19089d",
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Major NPCs/Woe.md",
+                "file": "Campaign Notes/Story/Plot Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Major NPCs/Woe.md",
+                "file": "Campaign Notes/Story/Plot Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Major NPCs/Woe.md"
+                "file": "Campaign Notes/Story/Plot Web.md"
               }
             }
           },
@@ -201,10 +188,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "993bb4937928e3c4",
+  "active": "31a1c80cd8583fea",
   "lastOpenFiles": [
-    "Mordakesh.md",
     "Campaign Notes/Major NPCs/Woe.md",
+    "Mordakesh.md",
     "Campaign Notes/Story/Plot Web.md",
     "Campaign Notes/Items/Fractured Khyber Dragonshard.md",
     "Campaign Notes/The Party.md",

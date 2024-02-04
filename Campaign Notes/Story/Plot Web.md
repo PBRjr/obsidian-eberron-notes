@@ -7,11 +7,11 @@
 	- Bjorn's Father
 		- How did he die?
 - Hrothgar Ulfr
-	- Why did he userp?
+	- Why did he usurp?
 	- Feelings of greed and envy
 	- Was born when a piece of the fractured shard was nearby, tainting his soul
 	- Who had this shard? Varyn the Valient
-	- Woe was killed in battle by Lick's father, who died a year ago, and who worse his dragonshard fragment in battle for luck
+	- Slowly gained unnatural (sorcerer-like) powers that use his evil and rage as fuel
 - Old Clan members
 	- Some were swayed by Hrothgar
 	- Most others remain loyal to Bjorn
