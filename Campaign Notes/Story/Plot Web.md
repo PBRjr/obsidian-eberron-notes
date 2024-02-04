@@ -43,6 +43,7 @@
 	- Carried a fractured dragonshard fragment
 	- Joined the Clan several years after Hrothgar's birth
 		- Wanted to be close enough to keep an eye on him
+		- Tried to restore Flameforge towards its original purpose
 - Fought evil around Khorvaire
 	- Encountered Hrothgar and could sense the evil leech on his soul
 - Knight of the North
@@ -51,12 +52,11 @@
 	- He had grown strong with an unknown dark power
 	- Hrothgar overpowered and killed Draven, took his flaming sword
 	- Varyn used most of his remaining power to heal Draven, but didn't have enough left to return his memories.
-	- Varyn is now weak and near powerless
+	- Varyn is now old, weak, and near powerless
 
 **Story**
 - Artifact 1
 	- Fractured Khyber Dragonshard & fragments
-	- Can store Draven's memories?
 - Artifact 2
 	- Compass pointing to Temple of the Endless Rage
 - Villains
