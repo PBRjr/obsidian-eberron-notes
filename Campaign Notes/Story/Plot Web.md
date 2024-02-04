@@ -44,7 +44,8 @@
 	- Joined the Clan several years after Hrothgar's birth
 		- Wanted to be close enough to keep an eye on him
 		- Tried to restore Flameforge towards its original purpose
-	- **Tragedy**: Lost hope in 
+	- **Tragedy**: Regrets not sacrificing, no actions lead to good
+	- **Redemption**: Realizes everything has a purpose, saving Draven was his
 - Fought evil around Khorvaire
 	- Encountered Hrothgar and could sense the evil leech on his soul
 - Knight of the North
@@ -61,6 +62,7 @@
 - Artifact 2
 	- Compass pointing to entrance of the Temple of the Endless Rage located in the Mournland
 		- Portal to Xen'Drik
+	- Key to ancient vault or prison
 - Artifact 3
 	- Mournland? Dragons?
 - Villains
@@ -78,7 +80,7 @@
 		- Wants control of all "Evil" artifacts, even if they are ignorant of how to properly handle or dispose of them
 		- Any means justify the ends
 	- Boromar clan
-		- Seeks the Dragonshards for none other than the promise of wealth and power
+		- Seeks the Dragonshard and fragments for none other than the promise of wealth and power
 ### PCs
 #### Bjorn "Bearwolf" Ulfr
 - Stormpeak Clan
