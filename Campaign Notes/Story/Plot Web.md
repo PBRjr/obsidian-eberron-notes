@@ -57,14 +57,19 @@
 	- Varyn is now old, weak, and near powerless
 
 **Story**
+- **Central Tension**: The Silver Flame is missing, the Lords of Dust are trying to free Rak Tulkesh
+	- ***Secret Plot***: The Mourning was caused by the Silver Flame itself. 
+		- Originally located in Cyre, it was discovered by the Lords of Dust and almost destroyed
+		- Caused the Mourning to protect itself, but used most of its power doing so
 - Artifact 1
 	- Fractured Khyber Dragonshard & fragments
 - Artifact 2
 	- Compass pointing to entrance of the Temple of the Endless Rage located in the Mournland
 		- Portal to Xen'Drik
-	- Key to ancient vault or prison
+	- Key to ancient vault or prison containing the silver flame
 - Artifact 3
-	- Mournland? Dragons?
+	- Varyn is the 3rd artifact
+	- He must sacrifice himself in the Temple of the Endless Rage to reignite the Silver Flame
 - Villains
 	- Woe
 		- Was killed by Lick's father who was wearing a dragonshard fragment
