@@ -59,11 +59,16 @@
 	- Varyn is now old, weak, and near powerless
 
 **Story**
+- **Themes**: 
+	- What makes a good character? 
+	- Better to be born good or overcome evil nature and become good?
+	- Most villains aren't purely evil, just have their own justifications
 - **Central Tension**: The Silver Flame is missing, the Lords of Dust are trying to free Rak Tulkesh
 	- ***Secret Plot***: The Mourning was caused by the Silver Flame itself. 
 		- Originally located in Cyre, it was discovered by the Lords of Dust and almost destroyed
 		- Caused the Mourning to protect itself, but used most of its power doing so
 		- Slowly burning out, Overlords are straining against their bonds, causing chaos across the world
+		- Requires a sacrifice of a morally "silver" (silver is a shade of gray) character to revive
 - Artifact 1
 	- Fractured Khyber Dragonshard & fragments
 	- Contains imprisoned consciousness of Rak Tulkesh
@@ -74,9 +79,6 @@
 	- Aids in travel through the Mournland
 		- Clear navigation/wild magic has less affect?
 	- Acts as a key and unlocks vault
-- Artifact 3
-	- Varyn is the 3rd artifact
-	- He must sacrifice himself in the Temple of the Endless Rage to reignite the Silver Flame
 - Villains
 	- Woe
 		- Was killed by Lick's father who was wearing a dragonshard fragment
@@ -138,4 +140,3 @@
 ## Core
 **Main Villain**: Rak Tulkesh
 **Central Tension**: Mordakesh and the Lords of Dust are attempting to free their Overlord, Rak Tulkesh
-**Themes**: moral ambiguity > greed > power 
