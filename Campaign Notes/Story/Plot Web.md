@@ -66,10 +66,14 @@
 		- Slowly burning out, Overlords are straining against their bonds, causing chaos across the world
 - Artifact 1
 	- Fractured Khyber Dragonshard & fragments
+	- Contains imprisoned conciousness of Rak Tulkesh
+	- Grants user powers if their soul is tainted
 - Artifact 2
 	- Draven's white-hot flaming Sword contains runes that tell of the location of the Silver Flame
 		- Portal to vault sealed deep under Xen'Drik jungle
-	- Key to ancient vault or prison containing the silver flame
+	- Aids in travel through the Mournland
+		- Clear navigation/wild magic has less affect?
+	- Acts as a key and unlocks vault
 - Artifact 3
 	- Varyn is the 3rd artifact
 	- He must sacrifice himself in the Temple of the Endless Rage to reignite the Silver Flame
