@@ -1,4 +1,35 @@
 ## PC Backstory Elements
+
+### Pieces
+**Bjorn**
+- Stormpeak Clan
+	- Old chieftan?
+	- Bjorn's Father
+		- How did he die?
+- Hrothgar Ulfr
+	- Why did he userp?
+	- Feelings of greed and envy
+	- Was born when a piece of the fractured shard was nearby, tainting his soul
+	- Who had this shard?
+	- Woe was killed in battle by Lick's father, who died a year ago, and who worse his dragonshard fragment in battle for luck
+- Old Clan members
+	- Some were swayed by Hrothgar
+	- Most others remain loyal to Bjorn
+	- Ones that didn't leave are forced to hide their disagreement d/t threats of violence
+- Bjorn's new group
+	- Whos it composed of?
+	- Why do they hate Hrothgar
+	- They don't, Bjorn joined them together via shared ideals
+	- Some members are former Stormpeak members
+	- left after Hrothgar takeover
+
+**Draven**
+- Byeshk Mountains
+- Clan Flameforge
+- Worship Siberys
+- Varyn the Valiant
+- 
+### PCs
 #### Bjorn "Bearwolf" Ulfr
 - Stormpeak Clan
 	- Rugged goliath tribe
@@ -18,28 +49,8 @@
 - Formed new alliances with a shared hatred of Hrothgar
 - Ultimate goal of confronting his brother and restoring rightful order within the clan.
 
-
-- Stormpeak Clan
-	- Old chieftan?
-	- Bjorn's Father
-		- How did he die?
-- Hrothgar Ulfr
-	- Why did he userp?
-	- Feelings of greed and envy
-	- Was born when a piece of the fractured shard was nearby, tainting his soul
-- Old Clan members
-	- Some were swayed by Hrothgar
-	- Most others remain loyal to Bjorn
-	- Ones that didn't leave are forced to hide their disagreement d/t threats of violance
-
-- Bjorn's new group
-	- Whos it composed of?
-	- Why do they hate Hrothgar
-	- They don't, Bjorn joined them together via shared ideals
-	- Some members are former Stormpeak members
-	- left after Hrothgar takeover
 #### Draven Flameforge
-- Raised in the norther Byeshk Mountains
+- Raised in the northern Byeshk Mountains
 - Born into clan Flameforge
 	- Made of dragonborn warriors
 	- Proud devotion to Siberys

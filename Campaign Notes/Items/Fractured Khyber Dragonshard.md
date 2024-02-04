@@ -30,7 +30,7 @@ References
 - They can be combined with a soul through a ritual, giving the user power, but also corrupting them.
 - Once they are all combined again, the user's soul will be consumed as fuel to release Rak Tulkesh's avatar from its bonds.
 - Can only be properly wielded by one that is *tainted*
-	- 
+	- One is tainted when they are born or die while in immediate proximity to the shard or its fragments
 ### Location
 
 - The main gem is [[Woe#Abilities & Powers|Woe's phylactery]]

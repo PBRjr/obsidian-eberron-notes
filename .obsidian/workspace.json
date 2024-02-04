@@ -18,21 +18,26 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "79666ac16d19089d",
+        "type": "tabs",
+        "children": [
           {
-            "id": "bc5b1bc676dfecdf",
+            "id": "c2d6a9f4cd96f446",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Items/Fractured Khyber Dragonshard.md",
+                "file": "Campaign Notes/Story/Plot Web.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Items/Fractured Khyber Dragonshard.md",
+                "file": "Campaign Notes/Story/Plot Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Items/Fractured Khyber Dragonshard.md",
+                "file": "Campaign Notes/Story/Plot Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Items/Fractured Khyber Dragonshard.md"
+                "file": "Campaign Notes/Story/Plot Web.md"
               }
             }
           },
@@ -183,10 +188,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc5b1bc676dfecdf",
+  "active": "c2d6a9f4cd96f446",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Plot Web.md",
     "Campaign Notes/Items/Fractured Khyber Dragonshard.md",
+    "Campaign Notes/Story/Plot Web.md",
     "Campaign Notes/The Party.md",
     "Campaign Notes/Story/All Arcs.md",
     "Misc Files/Flows/Plot Web.canvas",
