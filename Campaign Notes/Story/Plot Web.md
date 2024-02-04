@@ -48,7 +48,9 @@
 	- **Redemption**: Realizes everything has a purpose, saving Draven was his
 - Fought evil around Khorvaire
 	- Encountered Hrothgar and could sense the evil leech on his soul
-- Knight of the North
+- White Knight of the North
+	- Due to wielding a sword that was engulfed in white-hot flames
+	- Handed down from warrior to warrior within the Clan
 - Somehow lost his memory
 	- Was traveling home, encountered Hrothgar
 	- He had grown strong with an unknown dark power
@@ -65,8 +67,8 @@
 - Artifact 1
 	- Fractured Khyber Dragonshard & fragments
 - Artifact 2
-	- Compass pointing to entrance of the Temple of the Endless Rage located in the Mournland
-		- Portal to Xen'Drik
+	- Draven's white-hot flaming Sword contains runes that tell of the location of the Silver Flame
+		- Portal to vault sealed deep under Xen'Drik jungle
 	- Key to ancient vault or prison containing the silver flame
 - Artifact 3
 	- Varyn is the 3rd artifact
