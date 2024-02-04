@@ -38,17 +38,18 @@
 	- Is actually the last remaining Coautl
 	- AKA "Varyn Walhardt"
 	- Carried a fractured dragonshard fragment
-	- Became Bjorn's father's best friend
-	- Was present during Hrothgar's birth, caused his soul to be tainted
+	- Joined the Clan several years after Hrothgar's birth
+		- Wanted to be close enough to keep an eye on him
 - Fought evil around Khorvaire
 	- Encountered Hrothgar and could sense the evil leech on his soul
 - Knight of the North
 - Somehow lost his memory
 	- Taken from him by Hrothgar?
 	- Was traveling home, encountered Hrothgar
-	- He had grown strong with an unknown dark energy
-	- Left him alive but took his memories
-		- Why? Why not just kill him?
+	- He had grown strong with an unknown dark power
+	- Hrothgar overpowered and killed Draven, took his flaming sword
+	- Varyn used most of his remaining power to heal Draven, but didn't have enough left to return his memories.
+	- Varyn is now weak and near powerless
 ### PCs
 #### Bjorn "Bearwolf" Ulfr
 - Stormpeak Clan
