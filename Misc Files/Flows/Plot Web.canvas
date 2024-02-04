@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"4f09039bc72c5539","type":"text","text":"Rak Tulkesh","x":235,"y":600,"width":250,"height":60,"color":"1"},
 		{"id":"c0b56b132f233c6d","type":"text","text":"Bjorn \"Bearwolf\" Ulfr","x":-440,"y":157,"width":250,"height":60,"color":"5"},
 		{"id":"aeca6f82cbb0d433","type":"text","text":"Boromar Clan","x":-140,"y":570,"width":250,"height":60},
 		{"id":"fa966a602d97b4bf","type":"text","text":"Silver Flame","x":235,"y":-340,"width":250,"height":60},
@@ -18,8 +17,9 @@
 		{"id":"2012d8a809c88c82","type":"text","text":"White Flameblade","x":845,"y":-211,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"7105545bb54889a7","type":"text","text":"Day of Mourning","x":760,"y":-329,"width":250,"height":60},
 		{"id":"978619b39d18e46e","type":"text","text":"Bjorn's new following","x":-440,"y":353,"width":250,"height":60,"color":"5"},
-		{"id":"be62fd3ac77152e0","type":"text","text":"Lords of Dust","x":560,"y":-440,"width":250,"height":60,"color":"1"},
-		{"id":"85773e8b6033d1a3","type":"text","text":"Woe","x":235,"y":373,"width":250,"height":60,"color":"1"}
+		{"id":"85773e8b6033d1a3","type":"text","text":"Woe","x":235,"y":373,"width":250,"height":60,"color":"1"},
+		{"id":"be62fd3ac77152e0","type":"text","text":"Lords of Dust","x":470,"y":-470,"width":250,"height":60,"color":"1"},
+		{"id":"4f09039bc72c5539","type":"text","text":"Rak Tulkesh","x":470,"y":-135,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"bac70c1e9d04a13c","fromNode":"7d97e1a39c8769f5","fromSide":"right","toNode":"c5913a0f3a00186c","toSide":"left"},
@@ -73,6 +73,12 @@
 		{"id":"c760e6dbd14806c0","fromNode":"be62fd3ac77152e0","fromSide":"bottom","toNode":"85773e8b6033d1a3","toSide":"right"},
 		{"id":"80213d3dc16922b2","fromNode":"85773e8b6033d1a3","fromSide":"left","toNode":"c0b56b132f233c6d","toSide":"bottom"},
 		{"id":"d108ba02c99c058e","fromNode":"85773e8b6033d1a3","fromSide":"right","toNode":"a41aad56b46b1b5a","toSide":"left"},
-		{"id":"f9cee96cfd6f158c","fromNode":"6ca7f3f38e3ed230","fromSide":"bottom","toNode":"85773e8b6033d1a3","toSide":"left"}
+		{"id":"f9cee96cfd6f158c","fromNode":"6ca7f3f38e3ed230","fromSide":"bottom","toNode":"85773e8b6033d1a3","toSide":"left"},
+		{"id":"ad7c524190381e27","fromNode":"be62fd3ac77152e0","fromSide":"bottom","toNode":"4f09039bc72c5539","toSide":"top"},
+		{"id":"5c0e9088a52cf578","fromNode":"4f09039bc72c5539","fromSide":"bottom","toNode":"85773e8b6033d1a3","toSide":"right"},
+		{"id":"8abe3a4144b68124","fromNode":"be62fd3ac77152e0","fromSide":"bottom","toNode":"7105545bb54889a7","toSide":"left"},
+		{"id":"aab044a8eae5405a","fromNode":"c5913a0f3a00186c","fromSide":"right","toNode":"4f09039bc72c5539","toSide":"bottom"},
+		{"id":"c6952f8f8938c378","fromNode":"4f09039bc72c5539","fromSide":"top","toNode":"39bccfd85ea56cc1","toSide":"right"},
+		{"id":"f44f389a61ec3160","fromNode":"4f09039bc72c5539","fromSide":"top","toNode":"fa966a602d97b4bf","toSide":"right"}
 	]
 }
