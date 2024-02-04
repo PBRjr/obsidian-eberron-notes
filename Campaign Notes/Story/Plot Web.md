@@ -33,7 +33,7 @@
 	- Neighboring Stormpeak Clan
 	- May have crossed paths after Bjorn was usurped
 - Clan Flameforge
-	- Splintered off the CotSF when the Coautl made their sacrifice
+	- Founded separately but around the same time as the CotSF.
 	- Founded by Varyn as a method of keeping watch on the Overlords and their prisons
 	- Eventually left after noticing the clan follow in the footsteps of the Church.
 - Worship Siberys 
@@ -64,6 +64,14 @@
 		- Was killed by Lick's father who was wearing a dragonshard fragment
 		- Tainted soul
 		- Destined to become Rak Tulkesh's new avatar/vessel
+	- Mordakesh
+		- Lieutenant to Rak Tulkesh
+		- Commands the Lords of Dust
+		- Does not know or only recently learns of Varyn's existence
+- Other antagonists
+	- Church of the Silver Flame
+		- Views Clan Flameforge as weak and nonthreatening
+		- 
 ### PCs
 #### Bjorn "Bearwolf" Ulfr
 - Stormpeak Clan
