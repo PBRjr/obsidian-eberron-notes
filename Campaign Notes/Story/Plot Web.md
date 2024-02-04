@@ -77,11 +77,17 @@
 		- Directly oppose actions of the Lords of Dust
 	- Clan Flameforge lost its original vision
 		- Varyn let it be run by people
-		- It started hunting all forms of evil, most forgot a
+		- It started hunting all forms of evil, most forgot about its true origin
+		- Still worship Seberys
+	- Varyn left and wondered on his own for hundreds of years
+	- Was going to try to end his life when Bjorn's Father found him
+	- Carries around a fractured dragonshard fragment
 - Artifact 1
 	- Fractured Khyber Dragonshard & fragments
 	- Contains imprisoned consciousness of Rak Tulkesh
 	- Grants user powers if their soul is tainted
+	- Who has them
+		- Woe: 
 - Artifact 2
 	- Draven's white-hot flaming Sword contains runes that tell of the location of the Silver Flame
 		- Portal to vault sealed deep under Xen'Drik jungle
