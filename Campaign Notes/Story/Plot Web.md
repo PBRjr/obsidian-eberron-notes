@@ -33,6 +33,9 @@
 	- Neighboring Stormpeak Clan
 	- May have crossed paths after Bjorn was usurped
 - Clan Flameforge
+	- Splintered off the CotSF when the Coautl made their sacrifice
+	- Founded by Varyn as a method of keeping watch on the Overlords and their prisons
+	- Eventually left after th
 - Worship Siberys 
 - Varyn the Valiant
 	- Is actually the last remaining Coautl
@@ -54,6 +57,8 @@
 - Artifact 1
 	- Fractured Khyber Dragonshard & fragments
 	- Can store Draven's memories?
+- Artifact 2
+	- Compass pointing to Temple of the Endless Rage
 - Villains
 	- Woe
 		- Was killed by Lick's father who was wearing a dragonshard fragment
