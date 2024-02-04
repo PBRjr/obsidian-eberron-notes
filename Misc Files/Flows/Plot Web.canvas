@@ -1,9 +1,7 @@
 {
 	"nodes":[
-		{"id":"d337c289b01b9b74","x":-95,"y":-72,"width":250,"height":60,"type":"text","text":"Draconic Prophecy"},
-		{"id":"b07c0d2f98867894","x":-95,"y":-72,"width":250,"height":60,"type":"text","text":"Releasing Rak Tulkesh"},
-		{"id":"4ae5c0a1bb72843b","x":-95,"y":-180,"width":250,"height":60,"type":"text","text":"Origin of the Day of Mourning"},
-		{"id":"5176999e9eaa34dd","x":-95,"y":20,"width":250,"height":60,"type":"text","text":"Lords of Dust"}
+		{"id":"c0b56b132f233c6d","x":-140,"y":20,"width":250,"height":60,"color":"5","type":"text","text":"Bjorn \"Bearwolf\" Ulfr"},
+		{"id":"c5913a0f3a00186c","x":-275,"y":-81,"width":250,"height":60,"type":"text","text":"Varyn \"The Valiant\" Grayburn"}
 	],
 	"edges":[]
 }

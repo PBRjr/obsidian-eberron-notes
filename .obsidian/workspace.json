@@ -11,8 +11,33 @@
             "id": "31a1c80cd8583fea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Notes/Story/Plot Web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a202695be88c1e29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "682d069b45f77d57",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Misc Files/Flows/Plot Web.canvas",
+                "viewState": {
+                  "x": -21.615000000000016,
+                  "y": 111.65265183101208,
+                  "zoom": -0.6328629378477733
+                }
+              }
             }
           }
         ]
@@ -89,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Campaign Notes/Story/Plot Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Campaign Notes/Story/Plot Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Campaign Notes/Story/Plot Web.md"
+              }
             }
           },
           {
@@ -164,13 +193,13 @@
   },
   "active": "31a1c80cd8583fea",
   "lastOpenFiles": [
+    "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Story/Plot Web.md",
     "Campaign Notes/Major NPCs/Woe.md",
     "Mordakesh.md",
     "Campaign Notes/Items/Fractured Khyber Dragonshard.md",
     "Campaign Notes/The Party.md",
     "Campaign Notes/Story/All Arcs.md",
-    "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Lore/Rak Tulkesh.md",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
@@ -193,7 +222,6 @@
     "Campaign Notes/Story/Encounters/The Airship.md",
     "Campaign Notes/Story/Encounters/Lurking Threat.md",
     "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
-    "Campaign Notes/Lore/Misc Books and Texts.md",
     "Campaign Notes/Major NPCs",
     "Campaign Notes/Story/Sessions/2",
     "Misc Files/Images/Jonston Marsh.png",

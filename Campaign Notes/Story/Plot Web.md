@@ -6,7 +6,7 @@
 	- Old chieftan?
 	- Bjorn's Father
 		- How did he die?
-- Varyn Walhardt
+- Varyn Grayburn
 	- Is actually the last remaining Coautl
 	- AKA "Varyn the Valiant"
 	- Joined and became friends with Bjorn's father after his birth
@@ -39,7 +39,7 @@
 - Worship Siberys 
 - Varyn the Valiant
 	- Is actually the last remaining Coautl
-	- AKA "Varyn Walhardt"
+	- AKA "Varyn Grayburn"
 	- Carried a fractured dragonshard fragment
 	- Joined the Clan several years after Hrothgar's birth
 		- Wanted to be close enough to keep an eye on him
@@ -66,7 +66,7 @@
 		- Slowly burning out, Overlords are straining against their bonds, causing chaos across the world
 - Artifact 1
 	- Fractured Khyber Dragonshard & fragments
-	- Contains imprisoned conciousness of Rak Tulkesh
+	- Contains imprisoned consciousness of Rak Tulkesh
 	- Grants user powers if their soul is tainted
 - Artifact 2
 	- Draven's white-hot flaming Sword contains runes that tell of the location of the Silver Flame
