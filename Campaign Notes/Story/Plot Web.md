@@ -67,7 +67,7 @@
 - **Central Tension**: The Silver Flame is missing, the Lords of Dust are trying to free Rak Tulkesh
 	- ***Secret Plot***: The Mourning was caused by the Silver Flame itself. 
 		- Originally located in Cyre, it was discovered by the Lords of Dust and almost destroyed
-			- After Draven died, LoD spies obtained
+			- How was it discovered? *Eric's character*?
 		- Caused the Mourning to protect itself, but used most of its power doing so
 		- Slowly burning out, Overlords are straining against their bonds, causing chaos across the world
 		- Requires a sacrifice of a morally "silver" (silver is a shade of gray) character to revive
