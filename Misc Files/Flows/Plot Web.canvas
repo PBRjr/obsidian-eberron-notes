@@ -13,7 +13,8 @@
 		{"id":"0c4a5e8bc856075f","x":150,"y":68,"width":250,"height":60,"type":"text","text":"Church of the Silver Flame"},
 		{"id":"4f09039bc72c5539","x":-114,"y":361,"width":250,"height":60,"color":"1","type":"text","text":"Rak Tulkesh"},
 		{"id":"85773e8b6033d1a3","x":136,"y":383,"width":250,"height":60,"color":"1","type":"text","text":"Woe"},
-		{"id":"fa966a602d97b4bf","x":78,"y":172,"width":250,"height":60,"type":"text","text":"Silver Flame"}
+		{"id":"fa966a602d97b4bf","x":78,"y":172,"width":250,"height":60,"type":"text","text":"Silver Flame"},
+		{"id":"39bccfd85ea56cc1","x":107,"y":-136,"width":250,"height":60,"type":"text","text":"Coautl"}
 	],
 	"edges":[]
 }

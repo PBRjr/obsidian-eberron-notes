@@ -37,6 +37,7 @@
 	- Founded by Varyn as a method of keeping watch on the Overlords and their prisons
 	- Eventually left after noticing the clan follow in the footsteps of the Church.
 - Worship Siberys 
+	- Coautl are a creation of Siberys, along with dragons
 - Varyn the Valiant
 	- Is actually the last remaining Coautl
 	- AKA "Varyn Grayburn"
