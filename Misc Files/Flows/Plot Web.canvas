@@ -4,7 +4,16 @@
 		{"id":"c5913a0f3a00186c","x":-390,"y":-160,"width":250,"height":60,"type":"text","text":"Varyn \"The Valiant\" Grayburn"},
 		{"id":"7d97e1a39c8769f5","x":-120,"y":-160,"width":250,"height":60,"color":"5","type":"text","text":"Bjorn's Father"},
 		{"id":"20f75aab969a0225","x":-453,"y":95,"width":250,"height":60,"type":"text","text":"Hrothgar"},
-		{"id":"a8a18cf0e658b8dd","x":360,"y":-160,"width":250,"height":60,"color":"1","type":"text","text":"Clan Flameforge"}
+		{"id":"a8a18cf0e658b8dd","x":360,"y":-160,"width":250,"height":60,"color":"#ffffff","type":"text","text":"Clan Flameforge"},
+		{"id":"6ca7f3f38e3ed230","x":235,"y":240,"width":250,"height":85,"type":"text","text":"Fragmented Dragonshard"},
+		{"id":"a408fded727356c9","x":-140,"y":180,"width":250,"height":60,"color":"5","type":"text","text":"Stormpeak Clan"},
+		{"id":"978619b39d18e46e","x":-448,"y":217,"width":250,"height":60,"color":"5","type":"text","text":"Bjorn's new following"},
+		{"id":"a41aad56b46b1b5a","x":404,"y":21,"width":250,"height":60,"color":"#ffffff","type":"text","text":"Draven Flameforge"},
+		{"id":"b88d31bfb3c7f8f5","x":520,"y":117,"width":250,"height":60,"color":"#ffffff","type":"text","text":"Byeshk Mountains"},
+		{"id":"0c4a5e8bc856075f","x":150,"y":68,"width":250,"height":60,"type":"text","text":"Church of the Silver Flame"},
+		{"id":"4f09039bc72c5539","x":-114,"y":361,"width":250,"height":60,"color":"1","type":"text","text":"Rak Tulkesh"},
+		{"id":"85773e8b6033d1a3","x":136,"y":383,"width":250,"height":60,"color":"1","type":"text","text":"Woe"},
+		{"id":"fa966a602d97b4bf","x":78,"y":172,"width":250,"height":60,"type":"text","text":"Silver Flame"}
 	],
 	"edges":[]
 }
