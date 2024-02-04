@@ -6,8 +6,9 @@
 	- Old chieftan?
 	- Bjorn's Father
 		- How did he die?
-- Varyn the Valient
-	- Real name "Varyn Walhardt"
+- Varyn Walhardt
+	- Is actually the last remaining Coautl
+	- AKA "Varyn the Valiant"
 	- Joined and became friends with Bjorn's father after his birth
 	- Was present for Hrothgar's birth while wearing a dragonshard fragment
 	- Left shortly after once he realized what he had caused
@@ -32,9 +33,10 @@
 	- Neighboring Stormpeak Clan
 	- May have crossed paths after Bjorn was usurped
 - Clan Flameforge
-- Worship Siberys
+- Worship Siberys 
 - Varyn the Valiant
-	- Goliath, former member of Stormpeak Clan
+	- Is actually the last remaining Coautl
+	- AKA "Varyn Walhardt"
 	- Carried a fractured dragonshard fragment
 	- Became Bjorn's father's best friend
 	- Was present during Hrothgar's birth, caused his soul to be tainted
