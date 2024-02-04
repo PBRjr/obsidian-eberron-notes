@@ -25,10 +25,21 @@
 
 **Draven**
 - Byeshk Mountains
+	- Neighboring Stormpeak Clan
+	- May have crossed paths after Bjorn was usurped
 - Clan Flameforge
 - Worship Siberys
 - Varyn the Valiant
-- 
+	- Was a goliath?
+	- Joined the clan after Bjorns birth but before Hrothgar's
+	- Carried a fractured dragonshard fragment
+	- Became Bjorn's father's best friend
+	- Was present during Hrothgar's birth, caused his soul to be tainted
+- Fought evil around Khorvaire
+	- Encountered Hrothgar and could sense the evil leech on his soul
+- Knight of the North
+- Somehow lost his memory
+	- Taken from him by Hrothgar?
 ### PCs
 #### Bjorn "Bearwolf" Ulfr
 - Stormpeak Clan
