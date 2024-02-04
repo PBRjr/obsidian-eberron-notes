@@ -44,12 +44,21 @@
 	- Encountered Hrothgar and could sense the evil leech on his soul
 - Knight of the North
 - Somehow lost his memory
-	- Taken from him by Hrothgar?
 	- Was traveling home, encountered Hrothgar
 	- He had grown strong with an unknown dark power
 	- Hrothgar overpowered and killed Draven, took his flaming sword
 	- Varyn used most of his remaining power to heal Draven, but didn't have enough left to return his memories.
 	- Varyn is now weak and near powerless
+
+**Story**
+- Artifact 1
+	- Fractured Khyber Dragonshard & fragments
+	- Can store Draven's memories?
+- Villains
+	- Woe
+		- Was killed by Lick's father who was wearing a dragonshard fragment
+		- Tainted soul
+		- Destined to become Rak Tulkesh's new avatar/vessel
 ### PCs
 #### Bjorn "Bearwolf" Ulfr
 - Stormpeak Clan
