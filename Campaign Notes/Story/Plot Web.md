@@ -10,7 +10,7 @@
 	- Why did he userp?
 	- Feelings of greed and envy
 	- Was born when a piece of the fractured shard was nearby, tainting his soul
-	- Who had this shard?
+	- Who had this shard? Varyn the Valient
 	- Woe was killed in battle by Lick's father, who died a year ago, and who worse his dragonshard fragment in battle for luck
 - Old Clan members
 	- Some were swayed by Hrothgar
@@ -30,7 +30,7 @@
 - Clan Flameforge
 - Worship Siberys
 - Varyn the Valiant
-	- Was a goliath?
+	- Is a goliath?
 	- Joined the clan after Bjorns birth but before Hrothgar's
 	- Carried a fractured dragonshard fragment
 	- Became Bjorn's father's best friend
@@ -40,6 +40,10 @@
 - Knight of the North
 - Somehow lost his memory
 	- Taken from him by Hrothgar?
+	- Was traveling home, encountered Hrothgar
+	- He had grown strong with an unknown dark energy
+	- Left him alive but took his memories
+		- Why? Why not just kill him?
 ### PCs
 #### Bjorn "Bearwolf" Ulfr
 - Stormpeak Clan
