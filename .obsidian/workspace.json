@@ -27,14 +27,15 @@
               "state": {
                 "file": "Misc Files/Flows/Plot Web.canvas",
                 "viewState": {
-                  "x": 339.56379862611544,
-                  "y": -100.78074396038801,
-                  "zoom": -1.5289517213155825
+                  "x": 368.93773892254904,
+                  "y": 180.68952790857668,
+                  "zoom": -1.3900782942927437
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Misc Files/Flows/Plot Web.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Misc Files/Flows/Plot Web.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md"
+                "file": "Misc Files/Flows/Plot Web.canvas"
               }
             }
           },
@@ -185,10 +186,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31a1c80cd8583fea",
+  "active": "682d069b45f77d57",
   "lastOpenFiles": [
-    "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Story/Plot Web.md",
+    "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Major NPCs/Woe.md",
     "Mordakesh.md",
     "Campaign Notes/Items/Fractured Khyber Dragonshard.md",
