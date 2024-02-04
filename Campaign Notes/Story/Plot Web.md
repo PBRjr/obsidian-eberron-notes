@@ -87,13 +87,17 @@
 	- Contains imprisoned consciousness of Rak Tulkesh
 	- Grants user powers if their soul is tainted
 	- Who has them
-		- Woe: 
+		- Woe: main shard + 1 fragment
+		- Professor Baelen ir'Torn: 1 fragment
+		- Varyn: 1 fragment
 - Artifact 2
 	- Draven's white-hot flaming Sword contains runes that tell of the location of the Silver Flame
-		- Portal to vault sealed deep under Xen'Drik jungle
-	- Aids in travel through the Mournland
-		- Clear navigation/wild magic has less affect?
-	- Acts as a key and unlocks vault
+		- Unlocks a portal in the Mournland that teleports to Vault deep under Xen'Drik jungle
+		- sword was created by Varyn when vault was originally sealed, gave it to Draven
+		- Varyn felt useless, saw potential in Draven as a protector
+		- Aids in travel through the Mournland
+- Artifact 3
+	- Silver Compass
 - Villains
 	- Woe
 		- Was killed by Lick's father who was wearing a dragonshard fragment
