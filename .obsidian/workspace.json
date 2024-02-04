@@ -18,13 +18,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "a202695be88c1e29",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "682d069b45f77d57",
             "type": "leaf",
@@ -33,14 +27,15 @@
               "state": {
                 "file": "Misc Files/Flows/Plot Web.canvas",
                 "viewState": {
-                  "x": 299.3348085005323,
-                  "y": 105.21058989931385,
+                  "x": 190.86762505650844,
+                  "y": 179.4249785715408,
                   "zoom": -1.032922178109487
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
