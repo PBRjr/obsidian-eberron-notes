@@ -15,8 +15,8 @@
               "state": {
                 "file": "Misc Files/Flows/Plot Web.canvas",
                 "viewState": {
-                  "x": 522.4042168674698,
-                  "y": -74.69079203254057,
+                  "x": 382.21219879518094,
+                  "y": -208.15360384759572,
                   "zoom": -0.16547611597800696
                 }
               }
@@ -174,11 +174,13 @@
   },
   "active": "772be329151e2bbf",
   "lastOpenFiles": [
+    "Misc Files/Flows/Marix Arc.canvas",
+    "Misc Files/Flows/Plot Web.canvas",
+    "Misc Files/Flows/Timeline.canvas",
     "Campaign Notes/Story/All Arcs.md",
     "Campaign Notes/Story/Plot Web.md",
     "Campaign Notes/The Party.md",
     "Campaign Notes/Major NPCs/Woe.md",
-    "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Story/Quests/Corrupted Grove.md",
     "Campaign Notes/Story/Encounters/Lost Child.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
@@ -199,7 +201,6 @@
     "Campaign Notes/Lore/Draconic Prophecy.md",
     "Campaign Notes/Lore/Galifar Calender.md",
     "Campaign Notes/Lore/Progenitor Dragons.md",
-    "Campaign Notes/Places/Khorvaire.md",
-    "Campaign Notes/Places/Eberron.md"
+    "Campaign Notes/Places/Khorvaire.md"
   ]
 }

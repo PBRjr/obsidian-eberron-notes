@@ -10,11 +10,8 @@
 		{"id":"aeca6f82cbb0d433","type":"text","text":"Boromar Clan","x":-501,"y":-608,"width":250,"height":60},
 		{"id":"f453ee9d7ac8ba07","type":"text","text":"Shavalant","x":-751,"y":-488,"width":250,"height":60},
 		{"id":"85773e8b6033d1a3","type":"text","text":"Woe","x":11,"y":-53,"width":250,"height":60,"color":"1"},
-		{"id":"fed548b03f4c89f8","type":"text","text":"Sharn","x":35,"y":-608,"width":250,"height":60},
 		{"id":"6ca7f3f38e3ed230","type":"text","text":"Fragmented Dragonshard","x":-251,"y":-290,"width":274,"height":58,"color":"6"},
 		{"id":"ca58cb84c84cb022","x":-751,"y":-292,"width":250,"height":60,"type":"text","text":"Airship Crash"},
-		{"id":"d0097f85efd31964","x":-640,"y":-83,"width":250,"height":60,"color":"6","type":"text","text":"Artifact 3"},
-		{"id":"b818bf3473be854d","x":-887,"y":-108,"width":250,"height":60,"type":"text","text":"Eric's Character"},
 		{"id":"fa966a602d97b4bf","type":"text","text":"Silver Flame","x":235,"y":-488,"width":250,"height":60},
 		{"id":"39bccfd85ea56cc1","type":"text","text":"Coautl","x":235,"y":-292,"width":250,"height":60,"color":"4"},
 		{"id":"c5913a0f3a00186c","type":"text","text":"Varyn \"The Valiant\" Grayburn","x":235,"y":120,"width":250,"height":79,"color":"4"},
@@ -25,7 +22,10 @@
 		{"id":"6a4712ac1be66fee","type":"text","text":"Draven's Amnesia","x":1045,"y":461,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"a41aad56b46b1b5a","type":"text","text":"Draven Flameforge","x":1045,"y":285,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"2012d8a809c88c82","type":"text","text":"White Flameblade","x":1045,"y":-23,"width":250,"height":60,"color":"6"},
-		{"id":"4f09039bc72c5539","type":"text","text":"Rak Tulkesh","x":560,"y":-53,"width":250,"height":60,"color":"1"}
+		{"id":"4f09039bc72c5539","type":"text","text":"Rak Tulkesh","x":560,"y":-53,"width":250,"height":60,"color":"1"},
+		{"id":"d0097f85efd31964","x":235,"y":-840,"width":250,"height":60,"color":"6","type":"text","text":"Artifact 3"},
+		{"id":"b818bf3473be854d","x":-751,"y":-708,"width":250,"height":60,"type":"text","text":"Eric's Character"},
+		{"id":"fed548b03f4c89f8","type":"text","text":"Sharn","x":-40,"y":-608,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"bac70c1e9d04a13c","fromNode":"7d97e1a39c8769f5","fromSide":"right","toNode":"c5913a0f3a00186c","toSide":"left"},
@@ -48,8 +48,6 @@
 		{"id":"936efa843501ef49","fromNode":"0c4a5e8bc856075f","fromSide":"bottom","toNode":"fa966a602d97b4bf","toSide":"top"},
 		{"id":"c1ce0c3268a7e952","fromNode":"6ca7f3f38e3ed230","fromSide":"top","toNode":"fa966a602d97b4bf","toSide":"left"},
 		{"id":"e81d941ce7c8bc59","fromNode":"fa966a602d97b4bf","fromSide":"left","toNode":"6ca7f3f38e3ed230","toSide":"top"},
-		{"id":"e7ceb743073a7f56","fromNode":"6ca7f3f38e3ed230","fromSide":"top","toNode":"0c4a5e8bc856075f","toSide":"left"},
-		{"id":"39d41d30af5bc517","fromNode":"6ca7f3f38e3ed230","fromSide":"top","toNode":"0c4a5e8bc856075f","toSide":"left"},
 		{"id":"4e5e81d3a5a481af","fromNode":"c5913a0f3a00186c","fromSide":"left","toNode":"6ca7f3f38e3ed230","toSide":"bottom"},
 		{"id":"aa2064faf197608e","fromNode":"c5913a0f3a00186c","fromSide":"bottom","toNode":"20f75aab969a0225","toSide":"top"},
 		{"id":"bdbc62d1e14265b0","fromNode":"c0b56b132f233c6d","fromSide":"top","toNode":"7d97e1a39c8769f5","toSide":"bottom"},
@@ -60,7 +58,7 @@
 		{"id":"b478581e8f07835f","fromNode":"978619b39d18e46e","fromSide":"top","toNode":"a408fded727356c9","toSide":"left"},
 		{"id":"96f9285d041e56d9","fromNode":"a408fded727356c9","fromSide":"left","toNode":"978619b39d18e46e","toSide":"top"},
 		{"id":"184f2ca0de6180d8","fromNode":"c0b56b132f233c6d","fromSide":"left","toNode":"978619b39d18e46e","toSide":"bottom"},
-		{"id":"ad7c524190381e27","fromNode":"be62fd3ac77152e0","fromSide":"bottom","toNode":"4f09039bc72c5539","toSide":"top"},
+		{"id":"ad7c524190381e27","fromNode":"be62fd3ac77152e0","fromSide":"left","toNode":"4f09039bc72c5539","toSide":"top"},
 		{"id":"5c0e9088a52cf578","fromNode":"4f09039bc72c5539","fromSide":"left","toNode":"85773e8b6033d1a3","toSide":"right"},
 		{"id":"8abe3a4144b68124","fromNode":"be62fd3ac77152e0","fromSide":"top","toNode":"7105545bb54889a7","toSide":"bottom"},
 		{"id":"aab044a8eae5405a","fromNode":"c5913a0f3a00186c","fromSide":"right","toNode":"4f09039bc72c5539","toSide":"bottom"},
@@ -100,6 +98,9 @@
 		{"id":"31b3f1aa15aa6080","fromNode":"c5913a0f3a00186c","fromSide":"right","toNode":"6a4712ac1be66fee","toSide":"left"},
 		{"id":"c96d5f062ac57292","fromNode":"39bccfd85ea56cc1","fromSide":"left","toNode":"6ca7f3f38e3ed230","toSide":"right"},
 		{"id":"12c82d16325cced3","fromNode":"6ca7f3f38e3ed230","fromSide":"right","toNode":"39bccfd85ea56cc1","toSide":"left"},
-		{"id":"7572a9b10755f52a","fromNode":"6ca7f3f38e3ed230","fromSide":"right","toNode":"4f09039bc72c5539","toSide":"left"}
+		{"id":"7572a9b10755f52a","fromNode":"6ca7f3f38e3ed230","fromSide":"right","toNode":"4f09039bc72c5539","toSide":"left"},
+		{"id":"706f3843ef42bb27","fromNode":"6ca7f3f38e3ed230","fromSide":"left","toNode":"aeca6f82cbb0d433","toSide":"bottom"},
+		{"id":"1d952ce88c57aa3f","fromNode":"5ca42467c5b279aa","fromSide":"right","toNode":"0c4a5e8bc856075f","toSide":"left"},
+		{"id":"17b2c8d10d7615ed","fromNode":"0c4a5e8bc856075f","fromSide":"bottom","toNode":"6ca7f3f38e3ed230","toSide":"top"}
 	]
 }
