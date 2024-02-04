@@ -1,16 +1,11 @@
 {
 	"nodes":[
-		{"id":"85773e8b6033d1a3","type":"text","text":"Woe","x":136,"y":383,"width":250,"height":60,"color":"1"},
-		{"id":"7105545bb54889a7","type":"text","text":"Day of Mourning","x":-475,"y":364,"width":250,"height":60},
 		{"id":"4f09039bc72c5539","type":"text","text":"Rak Tulkesh","x":235,"y":600,"width":250,"height":60,"color":"1"},
-		{"id":"978619b39d18e46e","type":"text","text":"Bjorn's new following","x":-489,"y":295,"width":250,"height":60,"color":"5"},
 		{"id":"c0b56b132f233c6d","type":"text","text":"Bjorn \"Bearwolf\" Ulfr","x":-440,"y":157,"width":250,"height":60,"color":"5"},
 		{"id":"aeca6f82cbb0d433","type":"text","text":"Boromar Clan","x":-140,"y":570,"width":250,"height":60},
 		{"id":"fa966a602d97b4bf","type":"text","text":"Silver Flame","x":235,"y":-340,"width":250,"height":60},
 		{"id":"0c4a5e8bc856075f","type":"text","text":"Church of the Silver Flame","x":235,"y":-560,"width":250,"height":60},
 		{"id":"c5913a0f3a00186c","type":"text","text":"Varyn \"The Valiant\" Grayburn","x":235,"y":-24,"width":250,"height":60,"color":"4"},
-		{"id":"a8a18cf0e658b8dd","type":"text","text":"Clan Flameforge","x":779,"y":-45,"width":250,"height":60,"color":"#ffffff"},
-		{"id":"2012d8a809c88c82","type":"text","text":"White Flameblade","x":779,"y":-211,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"a41aad56b46b1b5a","type":"text","text":"Draven Flameforge","x":970,"y":256,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"b88d31bfb3c7f8f5","type":"text","text":"Byeshk Mountains","x":1135,"y":74,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"6a4712ac1be66fee","type":"text","text":"Amnesia","x":720,"y":403,"width":250,"height":60,"color":"#ffffff"},
@@ -18,8 +13,13 @@
 		{"id":"a408fded727356c9","type":"text","text":"Stormpeak Clan","x":-364,"y":-105,"width":250,"height":60,"color":"5"},
 		{"id":"6ca7f3f38e3ed230","type":"text","text":"Fragmented Dragonshard","x":-114,"y":-269,"width":274,"height":58},
 		{"id":"39bccfd85ea56cc1","type":"text","text":"Coautl","x":235,"y":-211,"width":250,"height":60,"color":"4"},
-		{"id":"be62fd3ac77152e0","type":"text","text":"Lords of Dust","x":529,"y":-440,"width":250,"height":60,"color":"1"},
-		{"id":"20f75aab969a0225","type":"text","text":"Hrothgar","x":160,"y":184,"width":250,"height":66,"color":"3"}
+		{"id":"20f75aab969a0225","type":"text","text":"Hrothgar","x":160,"y":184,"width":250,"height":66,"color":"3"},
+		{"id":"a8a18cf0e658b8dd","type":"text","text":"Clan Flameforge","x":845,"y":-45,"width":250,"height":60,"color":"#ffffff"},
+		{"id":"2012d8a809c88c82","type":"text","text":"White Flameblade","x":845,"y":-211,"width":250,"height":60,"color":"#ffffff"},
+		{"id":"7105545bb54889a7","type":"text","text":"Day of Mourning","x":760,"y":-329,"width":250,"height":60},
+		{"id":"978619b39d18e46e","type":"text","text":"Bjorn's new following","x":-440,"y":353,"width":250,"height":60,"color":"5"},
+		{"id":"be62fd3ac77152e0","type":"text","text":"Lords of Dust","x":560,"y":-440,"width":250,"height":60,"color":"1"},
+		{"id":"85773e8b6033d1a3","type":"text","text":"Woe","x":235,"y":373,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"bac70c1e9d04a13c","fromNode":"7d97e1a39c8769f5","fromSide":"right","toNode":"c5913a0f3a00186c","toSide":"left"},
@@ -50,7 +50,6 @@
 		{"id":"1bcb3098341e0f6f","fromNode":"6a4712ac1be66fee","fromSide":"top","toNode":"c5913a0f3a00186c","toSide":"bottom"},
 		{"id":"2329e2080ef192e9","fromNode":"a41aad56b46b1b5a","fromSide":"bottom","toNode":"6a4712ac1be66fee","toSide":"right"},
 		{"id":"4cef5398c6505dd3","fromNode":"6a4712ac1be66fee","fromSide":"right","toNode":"a41aad56b46b1b5a","toSide":"bottom"},
-		{"id":"c64e25751fb6ae68","fromNode":"20f75aab969a0225","fromSide":"left","toNode":"c0b56b132f233c6d","toSide":"bottom"},
 		{"id":"6701041c0cfbd5be","fromNode":"2012d8a809c88c82","fromSide":"left","toNode":"fa966a602d97b4bf","toSide":"right"},
 		{"id":"936efa843501ef49","fromNode":"0c4a5e8bc856075f","fromSide":"bottom","toNode":"fa966a602d97b4bf","toSide":"top"},
 		{"id":"c1ce0c3268a7e952","fromNode":"6ca7f3f38e3ed230","fromSide":"top","toNode":"fa966a602d97b4bf","toSide":"left"},
@@ -60,6 +59,20 @@
 		{"id":"4e5e81d3a5a481af","fromNode":"c5913a0f3a00186c","fromSide":"top","toNode":"6ca7f3f38e3ed230","toSide":"bottom"},
 		{"id":"aa2064faf197608e","fromNode":"c5913a0f3a00186c","fromSide":"bottom","toNode":"20f75aab969a0225","toSide":"top"},
 		{"id":"bdbc62d1e14265b0","fromNode":"c0b56b132f233c6d","fromSide":"top","toNode":"7d97e1a39c8769f5","toSide":"left"},
-		{"id":"0be149d47f524d12","fromNode":"7d97e1a39c8769f5","fromSide":"left","toNode":"c0b56b132f233c6d","toSide":"top"}
+		{"id":"0be149d47f524d12","fromNode":"7d97e1a39c8769f5","fromSide":"left","toNode":"c0b56b132f233c6d","toSide":"top"},
+		{"id":"f61754565079a083","fromNode":"be62fd3ac77152e0","fromSide":"bottom","toNode":"fa966a602d97b4bf","toSide":"right"},
+		{"id":"4720f13315fbf05f","fromNode":"fa966a602d97b4bf","fromSide":"right","toNode":"be62fd3ac77152e0","toSide":"bottom"},
+		{"id":"57779899931eed53","fromNode":"0c4a5e8bc856075f","fromSide":"right","toNode":"be62fd3ac77152e0","toSide":"top"},
+		{"id":"e8dc4b893c5228f4","fromNode":"be62fd3ac77152e0","fromSide":"top","toNode":"0c4a5e8bc856075f","toSide":"right"},
+		{"id":"fe58c61e00ae0817","fromNode":"fa966a602d97b4bf","fromSide":"right","toNode":"7105545bb54889a7","toSide":"left"},
+		{"id":"5a5d36e2fd9af12a","fromNode":"978619b39d18e46e","fromSide":"top","toNode":"c0b56b132f233c6d","toSide":"bottom"},
+		{"id":"b478581e8f07835f","fromNode":"978619b39d18e46e","fromSide":"left","toNode":"a408fded727356c9","toSide":"left"},
+		{"id":"96f9285d041e56d9","fromNode":"a408fded727356c9","fromSide":"left","toNode":"978619b39d18e46e","toSide":"left"},
+		{"id":"184f2ca0de6180d8","fromNode":"c0b56b132f233c6d","fromSide":"bottom","toNode":"978619b39d18e46e","toSide":"top"},
+		{"id":"940857b3153e91c1","fromNode":"85773e8b6033d1a3","fromSide":"left","toNode":"6ca7f3f38e3ed230","toSide":"bottom"},
+		{"id":"c760e6dbd14806c0","fromNode":"be62fd3ac77152e0","fromSide":"bottom","toNode":"85773e8b6033d1a3","toSide":"right"},
+		{"id":"80213d3dc16922b2","fromNode":"85773e8b6033d1a3","fromSide":"left","toNode":"c0b56b132f233c6d","toSide":"bottom"},
+		{"id":"d108ba02c99c058e","fromNode":"85773e8b6033d1a3","fromSide":"right","toNode":"a41aad56b46b1b5a","toSide":"left"},
+		{"id":"f9cee96cfd6f158c","fromNode":"6ca7f3f38e3ed230","fromSide":"bottom","toNode":"85773e8b6033d1a3","toSide":"left"}
 	]
 }
