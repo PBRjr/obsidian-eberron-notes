@@ -97,7 +97,9 @@
 		- Varyn felt useless, saw potential in Draven as a protector
 		- Aids in travel through the Mournland
 - Artifact 3
-	- Silver Compass, 
+	- Some other key to the vault
+	- NEEDS EXPANDING
+	- Tie to Eric's PC's backstory
 - Villains
 	- Woe
 		- Was killed by Lick's father who was wearing a dragonshard fragment
