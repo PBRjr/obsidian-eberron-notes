@@ -97,7 +97,7 @@
 		- Varyn felt useless, saw potential in Draven as a protector
 		- Aids in travel through the Mournland
 - Artifact 3
-	- Silver Compass
+	- Silver Compass, 
 - Villains
 	- Woe
 		- Was killed by Lick's father who was wearing a dragonshard fragment
@@ -108,9 +108,10 @@
 		- Commands the Lords of Dust
 		- Does not know or only recently learns of Varyn's existence
 - Other antagonists
+	- Hrothgar
 	- Church of the Silver Flame
-		- Views Clan Flameforge as weak and nonthreatening
-		- Wants control of all "Evil" artifacts, even if they are ignorant of how to properly handle or dispose of them
+		- **Secret**: Doesn't actually know where the Silver Flame is kept. 
+		- Lost an ancient artifact that only a few knew about
 		- Any means justify the ends
 	- Boromar clan
 		- Seeks the Dragonshard and fragments for none other than the promise of wealth and power
