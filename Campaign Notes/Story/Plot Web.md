@@ -61,6 +61,7 @@
 	- ***Secret Plot***: The Mourning was caused by the Silver Flame itself. 
 		- Originally located in Cyre, it was discovered by the Lords of Dust and almost destroyed
 		- Caused the Mourning to protect itself, but used most of its power doing so
+		- Slowly burning out, Overlords are straining against their bonds, causing chaos across the world
 - Artifact 1
 	- Fractured Khyber Dragonshard & fragments
 - Artifact 2
