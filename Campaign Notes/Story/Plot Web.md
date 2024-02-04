@@ -6,11 +6,15 @@
 	- Old chieftan?
 	- Bjorn's Father
 		- How did he die?
+- Varyn the Valient
+	- Real name "Varyn Walhardt"
+	- Joined and became friends with Bjorn's father after his birth
+	- Was present for Hrothgar's birth while wearing a dragonshard fragment
+	- Left shortly after once he realized what he had caused
 - Hrothgar Ulfr
 	- Why did he usurp?
 	- Feelings of greed and envy
 	- Was born when a piece of the fractured shard was nearby, tainting his soul
-	- Who had this shard? Varyn the Valient
 	- Slowly gained unnatural (sorcerer-like) powers that use his evil and rage as fuel, increasing the dark cancers hold on him
 - Old Clan members
 	- Some were swayed by Hrothgar
@@ -31,7 +35,6 @@
 - Worship Siberys
 - Varyn the Valiant
 	- Goliath, former member of Stormpeak Clan
-	- 
 	- Carried a fractured dragonshard fragment
 	- Became Bjorn's father's best friend
 	- Was present during Hrothgar's birth, caused his soul to be tainted
