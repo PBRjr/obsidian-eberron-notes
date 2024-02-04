@@ -20,7 +20,7 @@ References
 ### History
 
 - As a part of the ancient ritual involving the sacrifice of the Couatl, Rak Tulkesh's avatar was separated from his demi planes, exposing a vulnerability. 
-- Beaten by a force of ancient dragons, his material avatar was sealed away in this Dragonshard.
+- Beaten by a force of ancient dragons, consciousness was sealed away in this Dragonshard.
 - To keep it out of the hands of the [[Lords of Dust]], it was shattered, its fragments spread across the world.
 
 ### Powers/Abilities
@@ -29,7 +29,8 @@ References
 - These shards are the sources of power [[Woe]] is seeking.
 - They can be combined with a soul through a ritual, giving the user power, but also corrupting them.
 - Once they are all combined again, the user's soul will be consumed as fuel to release Rak Tulkesh's avatar from its bonds.
-
+- Can only be properly wielded by one that is *tainted*
+	- 
 ### Location
 
 - The main gem is [[Woe#Abilities & Powers|Woe's phylactery]]

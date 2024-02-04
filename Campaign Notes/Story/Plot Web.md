@@ -26,7 +26,7 @@
 - Hrothgar Ulfr
 	- Why did he userp?
 	- Feelings of greed and envy
-	- Was born during 
+	- Was born when a piece of the fractured shard was nearby, tainting his soul
 - Old Clan members
 	- Some were swayed by Hrothgar
 	- Most others remain loyal to Bjorn
@@ -57,6 +57,8 @@
 	- Had a flaming sword
 - Lost his memory and extensive training in an unknown incident. 
 - Now ultimately seeks to figure out who he once was, and what caused him to forget.
+
+
 
 ## Core
 **Main Villain**: Rak Tulkesh

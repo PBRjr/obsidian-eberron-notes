@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/The Party.md",
+                "file": "Campaign Notes/Items/Fractured Khyber Dragonshard.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Campaign Notes/Items/Fractured Khyber Dragonshard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Campaign Notes/Items/Fractured Khyber Dragonshard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md"
+                "file": "Campaign Notes/Items/Fractured Khyber Dragonshard.md"
               }
             }
           },
@@ -182,10 +183,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31a1c80cd8583fea",
+  "active": "bc5b1bc676dfecdf",
   "lastOpenFiles": [
-    "Campaign Notes/The Party.md",
     "Campaign Notes/Story/Plot Web.md",
+    "Campaign Notes/Items/Fractured Khyber Dragonshard.md",
+    "Campaign Notes/The Party.md",
     "Campaign Notes/Story/All Arcs.md",
     "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Lore/Rak Tulkesh.md",
@@ -195,7 +197,6 @@
     "Campaign Notes/Story/Quests/Whitehorn Wood.md",
     "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Places/Eberron.md",
-    "Campaign Notes/Items/Fractured Khyber Dragonshard.md",
     "Campaign Notes/Major NPCs/Professor Baelen ir'Torn.md",
     "Campaign Notes/Story/Encounters/Lost Child.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
