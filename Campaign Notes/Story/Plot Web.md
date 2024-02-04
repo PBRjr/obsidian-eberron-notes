@@ -35,7 +35,7 @@
 - Clan Flameforge
 	- Splintered off the CotSF when the Coautl made their sacrifice
 	- Founded by Varyn as a method of keeping watch on the Overlords and their prisons
-	- Eventually left after th
+	- Eventually left after noticing the clan follow in the footsteps of the Church.
 - Worship Siberys 
 - Varyn the Valiant
 	- Is actually the last remaining Coautl
