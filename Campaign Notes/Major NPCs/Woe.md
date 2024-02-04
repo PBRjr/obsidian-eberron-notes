@@ -22,8 +22,13 @@ Woe is a decommissioned warforged soldier who served with distinction in the Las
 
 ### Backstory
 
-Woe was an elite warforged soldier constructed centuries ago by House Cannith. He was unwaveringly loyal and skilled in warfare. One day in the midst of battle, Woe was struck down and killed by a halfling
-In his aimlessness, he was approached by Mordakesh who promised him a new reason for being - serving the overlord Rak Tulkesh. Woe agreed to undergo a profane ritual that fused a Khyber dragonshard fragment containing a sliver of the overlord's essence into his metallic body, awakening sinister powers.
+Woe was an elite warforged soldier constructed centuries ago by House Cannith. He was unwaveringly loyal and skilled in warfare. One day in the midst of battle, Woe was struck down and killed by a halfling known as *Dandal*.
+
+Dandal had been carrying a "lucky" family heirloom - a small fragment of a larger [[Fractured Khyber Dragonshard]] - which attached a dark cancer upon Woe's soul as he died. 
+
+Woe awoke, months later, in the laboratories of [[Mordakhesh]], having been revi
+
+Mordakesh promised him a new reason for being - serving the overlord Rak Tulkesh. Woe agreed to undergo a profane ritual that fused a Khyber dragonshard fragment containing a sliver of the overlord's essence into his metallic body, awakening sinister powers.
 
 ### Motivations
 
