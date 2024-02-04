@@ -7,7 +7,7 @@
 	- Bjorn's Father
 		- How did he die?
 - Varyn Grayburn
-	- Is actually the last remaining Coautl
+	- Is actually the last remaining Couatl
 	- AKA "Varyn the Valiant"
 	- Joined and became friends with Bjorn's father after his birth
 	- Was present for Hrothgar's birth while wearing a dragonshard fragment
@@ -37,14 +37,14 @@
 	- Founded by Varyn as a method of keeping watch on the Overlords and their prisons
 	- Eventually left after clan lost sight of their specific goal and took a more broad approach to evil, similar to CotSF.
 - Worship Siberys 
-	- Coautl are a creation of Siberys, along with dragons
+	- Couatl are a creation of Siberys, along with dragons
 - Varyn the Valiant
-	- Is actually the last remaining Coautl
+	- Is actually the last remaining Couatl
 	- AKA "Varyn Grayburn"
 	- Carried a fractured dragonshard fragment
-	- Joined the Clan several years after Hrothgar's birth
+	- Rejoined Clan Flameforge several years after Hrothgar's birth
 		- Wanted to be close enough to keep an eye on him
-		- Tried to restore Flameforge towards its original purpose
+		- Saw potential in Draven
 	- **Tragedy**: Regrets not sacrificing, no actions lead to good
 	- **Redemption**: Realizes everything has a purpose, saving Draven was his
 - Fought evil around Khorvaire
@@ -71,6 +71,13 @@
 		- Caused the Mourning to protect itself, but used most of its power doing so
 		- Slowly burning out, Overlords are straining against their bonds, causing chaos across the world
 		- Requires a sacrifice of a morally "silver" (silver is a shade of gray) character to revive
+- **Varyn "The Valiant" Walhardt**
+	- Last remaining Couatl, was too scared to sacrifice himself for the Silver Flame
+	- Formed Clan Flameforge to keep watch on the Overlords and their prisons
+		- Directly oppose actions of the Lords of Dust
+	- Clan Flameforge lost its original vision
+		- Varyn let it be run by people
+		- It started hunting all forms of evil, most forgot a
 - Artifact 1
 	- Fractured Khyber Dragonshard & fragments
 	- Contains imprisoned consciousness of Rak Tulkesh
