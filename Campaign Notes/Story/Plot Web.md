@@ -35,7 +35,7 @@
 - Clan Flameforge
 	- Founded separately but around the same time as the CotSF.
 	- Founded by Varyn as a method of keeping watch on the Overlords and their prisons
-	- Eventually left after noticing the clan follow in the footsteps of the Church.
+	- Eventually left after clan lost sight of their specific goal and took a more broad approach to evil, similar to CotSF.
 - Worship Siberys 
 	- Coautl are a creation of Siberys, along with dragons
 - Varyn the Valiant

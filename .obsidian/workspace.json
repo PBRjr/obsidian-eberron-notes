@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "ba879146abfd50f6",
+    "id": "310eafb3a223dec6",
     "type": "split",
     "children": [
       {
-        "id": "c7771f8b5829b077",
+        "id": "05f143c805a84dff",
         "type": "tabs",
         "children": [
           {
-            "id": "31a1c80cd8583fea",
+            "id": "772be329151e2bbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,38 +18,22 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "682d069b45f77d57",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
-                "viewState": {
-                  "x": 327.44906720008794,
-                  "y": -269.8885824415948,
-                  "zoom": -1.567093489867846
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c89c1dece5499f56",
+    "id": "e23ae74200312061",
     "type": "split",
     "children": [
       {
-        "id": "13f5f12e46b1260d",
+        "id": "dcbf893e645d3086",
         "type": "tabs",
         "children": [
           {
-            "id": "a30ed8a325ac3976",
+            "id": "c53494e48cdc091f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,12 +43,12 @@
             }
           },
           {
-            "id": "9d9cbabafaa1ee4d",
+            "id": "57f1042afa072234",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "marix",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +58,7 @@
             }
           },
           {
-            "id": "19ab3218d090977f",
+            "id": "fadadf60fc1fa3f7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,34 +66,35 @@
             }
           },
           {
-            "id": "973294f18a8cfec8",
+            "id": "a6604752702f2141",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 300
   },
   "right": {
-    "id": "f51ec42de61d07dc",
+    "id": "b0044bf8fd719998",
     "type": "split",
     "children": [
       {
-        "id": "295815162ab98832",
+        "id": "6ae638cd131a9d5f",
         "type": "tabs",
         "children": [
           {
-            "id": "1ca1be14abc1c1a1",
+            "id": "92c6edcb23c90a8a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
+                "file": "Campaign Notes/Story/Plot Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,19 +106,19 @@
             }
           },
           {
-            "id": "56445291b3a9ac01",
+            "id": "fdcda6cf72bc9117",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
+                "file": "Campaign Notes/Story/Plot Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1a05a0b466c9391c",
+            "id": "bfe965ce003cc827",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,17 +129,7 @@
             }
           },
           {
-            "id": "31e2977c514c59ed",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas"
-              }
-            }
-          },
-          {
-            "id": "59a7e680c12e0391",
+            "id": "90e841a074ef451b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -164,9 +139,18 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "381f5471695d3281",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaign Notes/Story/Plot Web.md"
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,66 +159,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "682d069b45f77d57",
+  "active": "772be329151e2bbf",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Plot Web.md",
-    "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Major NPCs/Woe.md",
-    "Mordakesh.md",
-    "Campaign Notes/Items/Fractured Khyber Dragonshard.md",
-    "Campaign Notes/The Party.md",
-    "Campaign Notes/Story/All Arcs.md",
-    "Campaign Notes/Lore/Rak Tulkesh.md",
-    "Misc Files/Flows/Timeline.canvas",
-    "Misc Files/Flows/Marix Arc.canvas",
-    "Misc Files/Flows/Factions.canvas",
-    "Campaign Notes/Story/Quests/Whitehorn Wood.md",
-    "Campaign Notes/Story/Sessions/3 Plans.md",
-    "Campaign Notes/Places/Eberron.md",
-    "Campaign Notes/Major NPCs/Professor Baelen ir'Torn.md",
-    "Campaign Notes/Story/Encounters/Lost Child.md",
-    "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
-    "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
-    "Campaign Notes/Items/Boromar Challenge Coin.md",
-    "Campaign Notes/Story/Quests/The Warforged Hermit.md",
-    "Campaign Notes/Story/Quests/The Silver Flame needs help with a Cock.md",
-    "Campaign Notes/Story/Quests/The Haunted Grove.md",
-    "Campaign Notes/Story/Quests/The Mysterious Passenger.md",
+    "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Story/Quests/Corrupted Grove.md",
-    "Campaign Notes/Story/Quests/Aquefukt.md",
-    "Campaign Notes/Story/Encounters/The Bag Man.md",
-    "Campaign Notes/Story/Encounters/The Airship.md",
-    "Campaign Notes/Story/Encounters/Lurking Threat.md",
-    "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
-    "Campaign Notes/Major NPCs",
-    "Campaign Notes/Story/Sessions/2",
-    "Misc Files/Images/Jonston Marsh.png",
-    "Misc Files/Images/argonnessen.jpg",
-    "Misc Files/Images/SF Emblem.png",
-    "Campaign Notes/Places/Underdark",
-    "Campaign Notes/Places/Khorvaire",
-    "Misc Files/Images",
-    "Misc Files/Images/Woe portrait.png",
-    "Campaign Notes/Minor NPCs",
-    "Campaign Notes/Story/Sessions/0",
-    "Campaign Notes/Story/Encounters",
-    "Campaign Notes/Story/Sessions/1",
-    "Campaign Notes/Story/Sessions",
-    "Flows/Session Plans.canvas",
-    "Misc Files/Reevaluate/Lore Flow.canvas",
-    "Untitled.canvas",
-    "Flows/Lore Flow.canvas",
-    "Plot.canvas"
+    "Campaign Notes/Story/Plot Web.md",
+    "Campaign Notes/Story/Encounters/Lost Child.md",
+    "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
+    "Campaign Notes/Major NPCs/Professor Baelen ir'Torn.md",
+    "Campaign Notes/Lore/Misc Books and Texts.md",
+    "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
+    "Campaign Notes/Story/All Arcs.md",
+    "Campaign Notes/Story/Sessions/3 Plans.md",
+    "Misc Files/Reevaluate/Campaign Outline.md",
+    "Misc Files/Reevaluate/Old overview outline.md",
+    "Misc Files/Reevaluate/Journey to the City of Towers.md",
+    "Misc Files/Statblocks.md",
+    "Misc Files/Prompts.md",
+    "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
+    "Campaign Notes/Factions/The Chamber.md",
+    "Campaign Notes/Factions/Sons of the Daughter of Khyber.md",
+    "Campaign Notes/Factions/House Tarkanan.md",
+    "Campaign Notes/Lore/Day of Mourning.md",
+    "Campaign Notes/Lore/Draconic Prophecy.md",
+    "Campaign Notes/Lore/Galifar Calender.md",
+    "Campaign Notes/Lore/Progenitor Dragons.md",
+    "Campaign Notes/Places/Khorvaire.md",
+    "Campaign Notes/Places/Eberron.md",
+    "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md"
   ]
 }
