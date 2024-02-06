@@ -8,7 +8,7 @@
 	- Former chieftan
 	- Killed in battle
 - Varyn Grayburn
-	- Is actually the last remaining Coautl
+	- Is actually the last remaining Couatl
 	- AKA "Varyn the Valiant"
 	- Joined and became friends with Bjorn's father after his birth
 	- Was present for Hrothgar's birth while wearing a dragonshard fragment
@@ -36,16 +36,16 @@
 - Clan Flameforge
 	- Founded separately but around the same time as the CotSF.
 	- Founded by Varyn as a method of keeping watch on the Overlords and their prisons
-	- Eventually left after noticing the clan follow in the footsteps of the Church.
+	- Eventually left after clan lost sight of their specific goal and took a more broad approach to evil, similar to CotSF.
 - Worship Siberys 
-	- Coautl are a creation of Siberys, along with dragons
+	- Couatl are a creation of Siberys, along with dragons
 - Varyn the Valiant
-	- Is actually the last remaining Coautl
+	- Is actually the last remaining Couatl
 	- AKA "Varyn Grayburn"
 	- Carried a fractured dragonshard fragment
-	- Joined the Clan several years after Hrothgar's birth
+	- Rejoined Clan Flameforge several years after Hrothgar's birth
 		- Wanted to be close enough to keep an eye on him
-		- Tried to restore Flameforge towards its original purpose
+		- Saw potential in Draven
 	- **Tragedy**: Regrets not sacrificing, no actions lead to good
 	- **Redemption**: Realizes everything has a purpose, saving Draven was his
 - Fought evil around Khorvaire
@@ -72,16 +72,35 @@
 		- Caused the Mourning to protect itself, but used most of its power doing so
 		- Slowly burning out, Overlords are straining against their bonds, causing chaos across the world
 		- Requires a sacrifice of a morally "silver" (silver is a shade of gray) character to revive
+- **Varyn "The Valiant" Walhardt**
+	- Last remaining Couatl, was too scared to sacrifice himself for the Silver Flame
+	- Formed Clan Flameforge to keep watch on the Overlords and their prisons
+		- Directly oppose actions of the Lords of Dust
+	- Clan Flameforge lost its original vision
+		- Varyn let it be run by people
+		- It started hunting all forms of evil, most forgot about its true origin
+		- Still worship Seberys
+	- Varyn left and wondered on his own for hundreds of years
+	- Was going to try to end his life when Bjorn's Father found him
+	- Carries around a fractured dragonshard fragment
 - Artifact 1
 	- Fractured Khyber Dragonshard & fragments
 	- Contains imprisoned consciousness of Rak Tulkesh
 	- Grants user powers if their soul is tainted
+	- Who has them
+		- Woe: main shard + 1 fragment
+		- Professor Baelen ir'Torn: 1 fragment
+		- Varyn: 1 fragment
 - Artifact 2
 	- Draven's white-hot flaming Sword contains runes that tell of the location of the Silver Flame
-		- Portal to vault sealed deep under Xen'Drik jungle
-	- Aids in travel through the Mournland
-		- Clear navigation/wild magic has less affect?
-	- Acts as a key and unlocks vault
+		- Unlocks a portal in the Mournland that teleports to Vault deep under Xen'Drik jungle
+		- sword was created by Varyn when vault was originally sealed, gave it to Draven
+		- Varyn felt useless, saw potential in Draven as a protector
+		- Aids in travel through the Mournland
+- Artifact 3
+	- Some other key to the vault
+	- NEEDS EXPANDING
+	- Tie to Eric's PC's backstory
 - Villains
 	- Woe
 		- Was killed by Lick's father who was wearing a dragonshard fragment
@@ -92,9 +111,10 @@
 		- Commands the Lords of Dust
 		- Does not know or only recently learns of Varyn's existence
 - Other antagonists
+	- Hrothgar
 	- Church of the Silver Flame
-		- Views Clan Flameforge as weak and nonthreatening
-		- Wants control of all "Evil" artifacts, even if they are ignorant of how to properly handle or dispose of them
+		- **Secret**: Doesn't actually know where the Silver Flame is kept. 
+		- Lost an ancient artifact that only a few knew about
 		- Any means justify the ends
 	- Boromar clan
 		- Seeks the Dragonshard and fragments for none other than the promise of wealth and power
