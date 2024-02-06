@@ -3,9 +3,10 @@
 ### Pieces
 **Bjorn**
 - Stormpeak Clan
-	- Old chieftan?
-	- Bjorn's Father
-		- How did he die?
+- Kvitrafn (White Raven)
+	- Bjorn & Hrothgar's father
+	- Former chieftan
+	- Killed in battle
 - Varyn Grayburn
 	- Is actually the last remaining Coautl
 	- AKA "Varyn the Valiant"
