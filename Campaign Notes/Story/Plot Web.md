@@ -3,10 +3,12 @@
 ### Pieces
 **Bjorn**
 - Stormpeak Clan
-- Kvitrafn (White Raven)
+- Kvitrafn "White Raven" Ulfr
 	- Bjorn & Hrothgar's father
 	- Former chieftan
 	- Killed in battle
+- Traust Ulfr
+	- Bjorn & Hrothgar's mother
 - Varyn Grayburn
 	- Is actually the last remaining Couatl
 	- AKA "Varyn the Valiant"
