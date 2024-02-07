@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31a1c80cd8583fea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "682d069b45f77d57",
             "type": "leaf",
             "state": {
@@ -31,8 +19,25 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "2bfe8a5ec954ee36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dfeaef1d9733550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Notes/The Party.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +190,13 @@
   },
   "active": "682d069b45f77d57",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Campaign Notes/The Party.md",
     "Campaign Notes/Story/Plot Web.md",
+    "conflict-files-obsidian-git.md",
     "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Major NPCs/Woe.md",
     "Mordakesh.md",
     "Campaign Notes/Items/Fractured Khyber Dragonshard.md",
-    "Campaign Notes/The Party.md",
     "Campaign Notes/Story/All Arcs.md",
     "Campaign Notes/Lore/Rak Tulkesh.md",
     "Misc Files/Flows/Timeline.canvas",

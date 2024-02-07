@@ -62,6 +62,9 @@
 	- Varyn used most of his remaining power to heal Draven, but didn't have enough left to return his memories.
 	- Varyn is now old, weak, and near powerless
 
+**Sylas**
+- 
+
 **Story**
 - **Themes**: 
 	- What makes a good character? 
