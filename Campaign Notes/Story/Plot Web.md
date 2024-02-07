@@ -63,7 +63,11 @@
 	- Varyn is now old, weak, and near powerless
 
 **Sylas**
-- 
+- Father was an Elven scholar focused on forbidden knowledge about magic
+- Mother was a human merchant in Sharn's Underbelly
+- Learned of eldritch power through his father
+- Made a pact w/ the Traveler in the sewers
+- Would be randomly taken to a different plane for the Traveler's duties
 
 **Story**
 - **Themes**: 
