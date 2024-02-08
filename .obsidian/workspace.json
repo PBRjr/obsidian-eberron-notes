@@ -11,11 +11,14 @@
             "id": "682d069b45f77d57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
-                "mode": "source",
-                "source": false
+                "file": "Misc Files/Flows/Plot Web.canvas",
+                "viewState": {
+                  "x": 64.49137851910054,
+                  "y": -217.03358375348677,
+                  "zoom": -1.3157624715871417
+                }
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Misc Files/Flows/Plot Web.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Misc Files/Flows/Plot Web.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md"
+                "file": "Misc Files/Flows/Plot Web.canvas"
               }
             }
           },
@@ -172,8 +175,8 @@
   },
   "active": "682d069b45f77d57",
   "lastOpenFiles": [
-    "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Story/Plot Web.md",
+    "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Story/All Arcs.md",
     "Campaign Notes/The Party.md",
     "conflict-files-obsidian-git.md",
