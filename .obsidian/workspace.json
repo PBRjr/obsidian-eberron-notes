@@ -11,14 +11,11 @@
             "id": "682d069b45f77d57",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
-                "viewState": {
-                  "x": 346.28346811940526,
-                  "y": -106.3058557882121,
-                  "zoom": -1.493750429742282
-                }
+                "file": "Campaign Notes/Story/Plot Web.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f51ec42de61d07dc",
@@ -97,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
+                "file": "Campaign Notes/Story/Plot Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
+                "file": "Campaign Notes/Story/Plot Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas"
+                "file": "Campaign Notes/Story/Plot Web.md"
               }
             }
           },
@@ -176,14 +172,14 @@
   },
   "active": "682d069b45f77d57",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Plot Web.md",
-    "Campaign Notes/The Party.md",
-    "conflict-files-obsidian-git.md",
+    "Campaign Notes/Story/All Arcs.md",
     "Misc Files/Flows/Plot Web.canvas",
+    "Campaign Notes/The Party.md",
+    "Campaign Notes/Story/Plot Web.md",
+    "conflict-files-obsidian-git.md",
     "Campaign Notes/Major NPCs/Woe.md",
     "Mordakesh.md",
     "Campaign Notes/Items/Fractured Khyber Dragonshard.md",
-    "Campaign Notes/Story/All Arcs.md",
     "Campaign Notes/Lore/Rak Tulkesh.md",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
@@ -205,7 +201,6 @@
     "Campaign Notes/Story/Encounters/The Bag Man.md",
     "Campaign Notes/Story/Encounters/The Airship.md",
     "Campaign Notes/Story/Encounters/Lurking Threat.md",
-    "Campaign Notes/Story/Encounters/Sharn Tension Encounters.md",
     "Campaign Notes/Major NPCs",
     "Campaign Notes/Story/Sessions/2",
     "Misc Files/Images/Jonston Marsh.png",
