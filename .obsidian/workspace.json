@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Campaign Notes/Story/All Arcs.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Campaign Notes/Story/All Arcs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Campaign Notes/Story/All Arcs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md"
+                "file": "Campaign Notes/Story/All Arcs.md"
               }
             }
           },
@@ -172,8 +172,8 @@
   },
   "active": "682d069b45f77d57",
   "lastOpenFiles": [
-    "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Story/Plot Web.md",
+    "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Story/All Arcs.md",
     "Campaign Notes/The Party.md",
     "conflict-files-obsidian-git.md",
