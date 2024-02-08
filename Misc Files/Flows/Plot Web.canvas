@@ -11,7 +11,7 @@
 		{"id":"f453ee9d7ac8ba07","type":"text","text":"Shavalant","x":-751,"y":-488,"width":250,"height":60},
 		{"id":"85773e8b6033d1a3","type":"text","text":"Woe","x":11,"y":-53,"width":250,"height":60,"color":"1"},
 		{"id":"6ca7f3f38e3ed230","type":"text","text":"Fragmented Dragonshard","x":-251,"y":-290,"width":274,"height":58,"color":"6"},
-		{"id":"ca58cb84c84cb022","x":-751,"y":-292,"width":250,"height":60,"type":"text","text":"Airship Crash"},
+		{"id":"ca58cb84c84cb022","type":"text","text":"Airship Crash","x":-751,"y":-292,"width":250,"height":60},
 		{"id":"fa966a602d97b4bf","type":"text","text":"Silver Flame","x":235,"y":-488,"width":250,"height":60},
 		{"id":"39bccfd85ea56cc1","type":"text","text":"Coautl","x":235,"y":-292,"width":250,"height":60,"color":"4"},
 		{"id":"c5913a0f3a00186c","type":"text","text":"Varyn \"The Valiant\" Grayburn","x":235,"y":120,"width":250,"height":79,"color":"4"},
@@ -23,8 +23,8 @@
 		{"id":"a41aad56b46b1b5a","type":"text","text":"Draven Flameforge","x":1045,"y":285,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"2012d8a809c88c82","type":"text","text":"White Flameblade","x":1045,"y":-23,"width":250,"height":60,"color":"6"},
 		{"id":"4f09039bc72c5539","type":"text","text":"Rak Tulkesh","x":560,"y":-53,"width":250,"height":60,"color":"1"},
-		{"id":"d0097f85efd31964","x":235,"y":-840,"width":250,"height":60,"color":"6","type":"text","text":"Artifact 3"},
-		{"id":"b818bf3473be854d","x":-751,"y":-708,"width":250,"height":60,"type":"text","text":"Eric's Character"},
+		{"id":"d0097f85efd31964","type":"text","text":"Artifact 3","x":235,"y":-840,"width":250,"height":60,"color":"6"},
+		{"id":"b818bf3473be854d","type":"text","text":"Eric's Character","x":-751,"y":-708,"width":250,"height":60},
 		{"id":"fed548b03f4c89f8","type":"text","text":"Sharn","x":-40,"y":-608,"width":250,"height":60}
 	],
 	"edges":[
