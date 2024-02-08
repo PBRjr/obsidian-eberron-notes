@@ -56,6 +56,7 @@
 	- Due to wielding a sword that was engulfed in white-hot flames
 	- Handed down from warrior to warrior within the Clan
 - Somehow lost his memory
+	- **Secret**: Has a dragonmark. Did not know about it.
 	- Was traveling home, encountered Hrothgar
 	- He had grown strong with an unknown dark power
 	- Hrothgar overpowered and killed Draven, took his flaming sword
