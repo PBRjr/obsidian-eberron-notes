@@ -14,12 +14,22 @@
     - Situation: The party enters Shavalant, describe the atmosphere and any notable sights.
     - Encounter: Introduce Prissy and Miri, potentially during a lively interaction or situation that highlights their personalities.
     - Character Moments: Provide an opportunity to get to know Prissy and Miri, allowing players to engage in some roleplaying.
-    
+
 - **Moment 2**
     
     - Situation: Miri reveals the issue of needing papers for Sharn, emphasizing the potential problems this poses for the party.
-    - Encounter: Miri demonstrates the use of a sending stone to contact Aeren d'Cannith (if there's a chance of success/failure, build some tension here).
-    - Character Moments: Perhaps one or more party members have past connections or knowledge of the Boromar clan - have them reveal those tidbits here.
+    - Character Moments: She offers to contact [[Aeren d'Cannith]] with hopes of him assisting if they help her out first.
+
+- **Moment 3**
+
+	- Situation: Miri gets the party to help her with [[Aquefukt]]. The water system has been acting up recently, not providing enough water.
+	- Encounter: The [[Boromar Gang Members]] confront them at the pipes
+
+- **Moment 4**
+
+	- Situation: The party finds out that livestock have been disappearing, and blood trails have been found leading through the woods.
+	- Character Moments: The party is encouraged to ask Prissy about it, who may offer advice or potions of acid resistance.
+	- Encounter: The [[Whitehorn Wood]] quest.
 
 
 ### Locations
