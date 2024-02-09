@@ -1,8 +1,8 @@
-**Outline:**
+### Outline
 
 - (List of key events or topics that will happen in the session)
 
-**Moments:**
+### Moments
 
 - Moment 1
     
@@ -22,7 +22,7 @@
 	 - (Possible Cliffhanger Ending 1)
 	 - (Continue adding possible cliffhangers as needed)
 
-**Locations:**
+### Locations
 
 - (Location 1)
     
@@ -34,7 +34,7 @@
     
 - (Continue adding locations as needed)
 
-**People:**
+### People
 
 - (NPC 1)
     
@@ -48,16 +48,12 @@
     
 - (Continue adding NPCs as needed)
 
-**Plotline:**
+### Plotline
 
 - (Describe the overall plot of the campaign)
 - (Describe what each villain and their factions are up to in the current session)
 - (Describe how the villains' plans are affected by the party's actions)
 
-**Cliffhanger:**
-
-- (Describe a cliffhanger ending that will leave the players wanting more)
-
-**Additional Notes:**
+### Additional Notes
 
 - (Add any other notes or information that you need for the session)
