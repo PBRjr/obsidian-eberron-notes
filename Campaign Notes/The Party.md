@@ -89,4 +89,6 @@ Overall, Draven Flameforge is an unwavering champion of justice and protector of
 ## Eric's new character
 - Loner ranger type
 - gloomstalker
+- drake warden
+- beast master
 - 
