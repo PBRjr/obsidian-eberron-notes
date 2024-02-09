@@ -3,7 +3,8 @@
 - Arrive at Shavalant
 - Meet Prissy and Miri
 - Learn about the need for papers to enter Sharn
-- Miri uses sending stone to potentially contact Aeren d'Cannith
+- Miri requests help with the aqueduct
+- Miri uses sending stone to potentially contact Aeren d'Cannith for papers
 - Introduction of the Boromar clan
 
 ### Moments
@@ -19,14 +20,15 @@
     - Situation: Miri reveals the issue of needing papers for Sharn, emphasizing the potential problems this poses for the party.
     - Encounter: Miri demonstrates the use of a sending stone to contact Aeren d'Cannith (if there's a chance of success/failure, build some tension here).
     - Character Moments: Perhaps one or more party members have past connections or knowledge of the Boromar clan - have them reveal those tidbits here.
-    
+
 
 ### Locations
 
 - [[Shavalant]]
     
-    - Description: (Establish the environment of Shavalant - bustling city, small village, remote outpost? Include a few important details)
-    
+    - Remembered by the *large metal water tower* that looks more advanced than the rest of the town
+	 - Small town with a few shops and various buildings. A few homes here, most are scattered w/ farmland
+	 - Small livestock and farming town that irrigates their crops using complicated magical pipe system    
 
 ### People
 
