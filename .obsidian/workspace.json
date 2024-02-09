@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc Files/Templates/Session Plan Template.md",
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc Files/Templates/Session Plan Template.md",
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc Files/Templates/Session Plan Template.md",
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc Files/Templates/Session Plan Template.md"
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "682d069b45f77d57",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Sessions/3 Plans.md",
     "Misc Files/Templates/Session Plan Template.md",
+    "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Story/Plot Web.md",
     "Campaign Notes/Story/All Arcs.md",
     "Misc Files/Flows/Plot Web.canvas",
