@@ -88,4 +88,5 @@ Overall, Draven Flameforge is an unwavering champion of justice and protector of
 
 ## Eric's new character
 - Connected to nature, likes to protect it
-- beast master
+- Beast master ranger
+- Outlander background
