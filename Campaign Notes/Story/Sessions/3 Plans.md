@@ -1,6 +1,6 @@
 *100 XP to level up*
 
-## Sigs
+## Significant
 - Shavalant
 	- introduce Prissy
 	- introduce Miri
@@ -13,8 +13,7 @@
 - [[Aquefukt]]
 - [[Whitehorn Wood]]
 
-## Battlemaps
+## Encounters
 - Ankheg encounter
 - Gang member encounters
-	- At the aqueducts
-	- At their camp outside of town
+	
