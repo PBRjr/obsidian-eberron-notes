@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
+                "file": "Campaign Notes/The Party.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
+                "file": "Campaign Notes/The Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
+                "file": "Campaign Notes/The Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Plans.md"
+                "file": "Campaign Notes/The Party.md"
               }
             }
           },
@@ -172,9 +172,9 @@
   },
   "active": "682d069b45f77d57",
   "lastOpenFiles": [
+    "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
     "Misc Files/Templates/Session Plan Template.md",
-    "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Story/Plot Web.md",
     "Campaign Notes/Story/All Arcs.md",
     "Misc Files/Flows/Plot Web.canvas",
