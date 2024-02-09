@@ -4,19 +4,23 @@
 
 **Moments:**
 
-- (Moment 1)
+- Moment 1
     
     - Situation: (Describe the situation the characters find themselves in)
     - Encounter: (Describe any combat encounter that takes place)
     - Character Moments: (Describe any specific moments tailored to each player character)
     
-- (Moment 2)
+- Moment 2
     
     - Situation: (Describe the situation the characters find themselves in)
     - Encounter: (Describe any combat encounter that takes place)
     - Character Moments: (Describe any specific moments tailored to each player character)
     
 - (Continue adding moments as needed)
+- Ending
+
+	 - (Possible Cliffhanger Ending 1)
+	 - (Continue adding possible cliffhangers as needed)
 
 **Locations:**
 
@@ -34,7 +38,7 @@
 
 - (NPC 1)
     
-    - Session Level: (Describe the NPC's role in the session)
+    - Session Role: (Describe the NPC's role in the session)
     - Plot Information: (Describe any plot-relevant information about the NPC)
     
 - (NPC 2)

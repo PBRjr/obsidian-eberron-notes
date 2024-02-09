@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
+                "file": "Misc Files/Templates/Session Plan Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
+                "file": "Misc Files/Templates/Session Plan Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Plans.md"
+                "file": "Misc Files/Templates/Session Plan Template.md"
               }
             }
           },
@@ -183,8 +182,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4a26febc5ff0ab5",
+  "active": "682d069b45f77d57",
   "lastOpenFiles": [
+    "Campaign Notes/Story/Sessions/3 Plans.md",
     "Misc Files/Templates/Session Plan Template.md",
     "Campaign Notes/Story/Plot Web.md",
     "Campaign Notes/Story/All Arcs.md",
@@ -199,7 +199,6 @@
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Factions.canvas",
     "Campaign Notes/Story/Quests/Whitehorn Wood.md",
-    "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Places/Eberron.md",
     "Campaign Notes/Major NPCs/Professor Baelen ir'Torn.md",
     "Campaign Notes/Story/Encounters/Lost Child.md",
