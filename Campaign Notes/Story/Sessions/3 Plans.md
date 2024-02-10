@@ -53,19 +53,14 @@
 
 - **Prissy**
     
-    - Session Level: Supporting role, potential source of information
-    - Plot Information: (Outline a few personality traits that might tie into future plot points, or simply their connection to Miri)
+    - Session Level: Supporting role, character moment with Jonston, may provide free/discounted potions.
+    - Plot Information: Jonston's mother, town apothocary, heading up community efforts with [[Whitehorn Wood]]
     
 - **Miri**
     
-    - Session Level: Key interaction, advances the plot with the Sharn issue
-    - Plot Information: (Include her motives for helping and whether she knows ways to get papers or has knowledge of Sharn)
-    
-- **Boromar Clan (representative)**
-    
-    - Session Level: Introduction, potential ally/antagonist/source of side quest
-    - Plot Information: (Briefly outline their general reputation or a distinguishing feature about them)
-    
+    - Session Level: Key interaction, advances the plot with the Sharn issue, helps introduce Boromar interaction.
+    - Plot Information: Town magewright, wants help with [[Aquefukt]], can assist with entry into Sharn through [[Aeren d'Cannith]]
+
 
 ### Encounters
 
@@ -75,7 +70,7 @@
     
 - **Gang Member Encounters**
     
-    - Attempting to intimidate and extort locals with a protection racket. Not afraid to burn down and destroy certain people/places to get their point across. Tries to avoid direct com
+    - Attempting to intimidate and extort locals with a protection racket. Not afraid to burn down and destroy certain people/places to get their point across. Tries to avoid direct combat.
     
 
 ### Additional Notes

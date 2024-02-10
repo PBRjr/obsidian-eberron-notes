@@ -33,9 +33,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6029435119eb4503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Notes/NPCs/Aeren d'Cannith.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "a2bb6aae930cc57c",
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
+                "file": "Campaign Notes/NPCs/Aeren d'Cannith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
+                "file": "Campaign Notes/NPCs/Aeren d'Cannith.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Plans.md"
+                "file": "Campaign Notes/NPCs/Aeren d'Cannith.md"
               }
             }
           }
@@ -203,11 +215,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3a705c17f4a55df",
+  "active": "6029435119eb4503",
   "lastOpenFiles": [
+    "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
-    "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
     "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Story/Encounters/Skill Challenge House Fire.md",
