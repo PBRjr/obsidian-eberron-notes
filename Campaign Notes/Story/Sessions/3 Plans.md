@@ -24,7 +24,9 @@
 - **Moment 3**
 
 	- Situation: Miri gets the party to help her with [[Aquefukt]]. The water system has been acting up recently, not providing enough water.
-	- Encounter: The [[Boromar Gang Members]] confront them at the pipes
+	- Encounter 1: The [[Boromar Gang Members]] confront them at the pipes
+	- Character moments: If they intimidate the Gang or otherwise don't pay them, later that night they will attempt to burn down a significant location as a show of force.
+	- Encounter 2: If nearby, the party may notice the burning building, and has the chance to rescue anyone within. Use a *Skill Challenge* to rescue anyone within.
 
 - **Moment 4**
 

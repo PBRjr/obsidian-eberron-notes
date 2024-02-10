@@ -33,6 +33,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3a705c17f4a55df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -187,10 +199,10 @@
   },
   "active": "bfef9a842363a5ef",
   "lastOpenFiles": [
-    "Misc Files/Flows/Plot Web.canvas",
-    "Campaign Notes/Story/Sessions/3 Plans.md",
-    "Campaign Notes/Places/Underdark/The Temple of the Endless Rage.md",
     "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+    "Campaign Notes/Story/Sessions/3 Plans.md",
+    "Misc Files/Flows/Plot Web.canvas",
+    "Campaign Notes/Places/Underdark/The Temple of the Endless Rage.md",
     "Misc Files/Templates/Important Places.md",
     "Campaign Notes/Places/Khorvaire/Breland/Breland.md",
     "Campaign Notes/Places/Khorvaire/Breland/Sharn/The Dragon's Breath Tavern.md",

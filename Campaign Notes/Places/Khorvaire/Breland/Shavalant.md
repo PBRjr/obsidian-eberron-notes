@@ -1,6 +1,6 @@
 
 ## Description
-> Nestled along a winding dirt road, just south of Lake Galifar, lies a quaint village. As you approach, you notice the rhythmic clinking of tools and the soft murmur of voices emanating from small shops and houses clustered together. The buildings themselves are worn but well-kept, surrounded by fields of crops, some of which are parsley scattered with workers. The air carries the earthy scent of tilled soil and fresh produce. A large metal water tower stands out like a soar thumb, its network of magical pipes extending from the tower into the ground. If you hold your breath, you can almost hear a low-pitched hum emanating from the thing.
+> Nestled along a winding dirt road, just south of Lake Galifar, lies a quaint village. As you approach, you notice the rhythmic clinking of tools and the soft murmur of voices emanating from small shops and houses clustered together. A few houses are blackened and charred, and seemed to have partially collapsed. The buildings themselves are worn but well-kept, surrounded by fields of crops, some of which are parsley scattered with workers. The air carries the earthy scent of tilled soil and fresh produce. A large metal water tower stands out like a soar thumb, its network of magical pipes extending from the tower into the ground. If you hold your breath, you can almost hear a low-pitched hum emanating from the thing.
 
 ## Encounters & Quests
 - [[Boromar Gang Members]] are attempting extortion
