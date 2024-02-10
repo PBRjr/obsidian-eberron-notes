@@ -42,7 +42,13 @@
     - Remembered by the *large metal water tower* that looks more advanced than the rest of the town
 	 - Small town with a few shops and various buildings. A few homes here, most are scattered w/ farmland
 	 - Small livestock and farming town that irrigates their crops using complicated magical pipe system    
-- [[Bort]]
+
+- [[Boromar Gang Campsite]]
+
+	- Contains a few horses & a map
+	- [[Intel on Baelen ir'Torn]]
+	- Trapped with alarm wire
+
 ### People
 
 - **Prissy**
@@ -65,11 +71,11 @@
 
 - **Ankheg Encounter**
     
-    - (Add detail on whether it's a travel ambush, tied to a location, etc.)
+    - NPCs will direct party to talk to Prissy, who is heading up the communities efforts.
     
 - **Gang Member Encounters**
     
-    - (Describe the context. Are they guarding something? Harassing locals? This helps inform the player experience)
+    - Attempting to intimidate and extort locals with a protection racket. Not afraid to burn down and destroy certain people/places to get their point across. Tries to avoid direct com
     
 
 ### Additional Notes

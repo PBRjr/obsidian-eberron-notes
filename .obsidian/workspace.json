@@ -36,6 +36,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "a2bb6aae930cc57c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "384d8505299d3aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,10 +205,12 @@
   },
   "active": "e3a705c17f4a55df",
   "lastOpenFiles": [
+    "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
+    "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
+    "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
     "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Story/Encounters/Skill Challenge House Fire.md",
-    "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Places/Underdark/The Temple of the Endless Rage.md",
     "Misc Files/Templates/Important Places.md",
     "Campaign Notes/Places/Khorvaire/Breland/Breland.md",
@@ -212,7 +232,6 @@
     "Campaign Notes/Lore/Sharn Inquisitor Newspaper/Skyway's Floating Gardens Flourish with Rare Flora.md",
     "Campaign Notes/Lore/Sharn Inquisitor Newspaper/Historic Treaty of Thronehold Ushers In New Era of Peace.md",
     "Campaign Notes/Factions/The Chamber.md",
-    "Campaign Notes/Factions/Dragonmarked Houses/House Cannith/Cannith East.md",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Timeline.canvas"
   ]
