@@ -18,14 +18,15 @@
 		{"id":"a8a18cf0e658b8dd","type":"text","text":"Clan Flameforge","x":1045,"y":130,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"2012d8a809c88c82","type":"text","text":"White Flameblade","x":1045,"y":-23,"width":250,"height":60,"color":"6"},
 		{"id":"4f09039bc72c5539","type":"text","text":"Rak Tulkesh","x":560,"y":-53,"width":250,"height":60,"color":"1"},
-		{"id":"d0097f85efd31964","type":"text","text":"Artifact 3/Cursed weapon?","x":235,"y":-840,"width":250,"height":60,"color":"6"},
-		{"id":"b818bf3473be854d","type":"text","text":"Eric's Character","x":-751,"y":-708,"width":250,"height":60},
 		{"id":"fed548b03f4c89f8","type":"text","text":"Sharn","x":-40,"y":-608,"width":250,"height":60},
 		{"id":"aeca6f82cbb0d433","type":"text","text":"Boromar Clan","x":-515,"y":-608,"width":250,"height":60},
 		{"id":"6a4712ac1be66fee","type":"text","text":"Draven's Amnesia","x":1045,"y":285,"width":250,"height":63,"color":"#ffffff"},
 		{"id":"a41aad56b46b1b5a","type":"text","text":"Draven Flameforge","x":1045,"y":455,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"b88d31bfb3c7f8f5","type":"text","text":"Byeshk Mountains","x":1440,"y":287,"width":250,"height":60,"color":"#ffffff"},
-		{"id":"85773e8b6033d1a3","type":"text","text":"Woe","x":11,"y":-53,"width":250,"height":60,"color":"1"}
+		{"id":"85773e8b6033d1a3","type":"text","text":"Woe","x":11,"y":-53,"width":250,"height":60,"color":"1"},
+		{"id":"64eed97371c2a743","type":"text","text":"Aeren d'Cannith","x":-390,"y":-900,"width":250,"height":60,"color":"3"},
+		{"id":"b818bf3473be854d","type":"text","text":"Eric's Character","x":-680,"y":-900,"width":250,"height":60,"color":"3"},
+		{"id":"d0097f85efd31964","type":"text","text":"Artifact 3","x":-545,"y":-980,"width":231,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"bac70c1e9d04a13c","fromNode":"7d97e1a39c8769f5","fromSide":"right","toNode":"c5913a0f3a00186c","toSide":"left","toEnd":"none"},
@@ -48,9 +49,8 @@
 		{"id":"f44f389a61ec3160","fromNode":"4f09039bc72c5539","fromSide":"top","toNode":"fa966a602d97b4bf","toSide":"right","toEnd":"none"},
 		{"id":"d468a77904e18398","fromNode":"85773e8b6033d1a3","fromSide":"right","toNode":"be62fd3ac77152e0","toSide":"bottom","toEnd":"none"},
 		{"id":"8da5038bfe91fc7b","fromNode":"6ca7f3f38e3ed230","fromSide":"top","toNode":"5ca42467c5b279aa","toSide":"bottom","toEnd":"none"},
-		{"id":"f668c1e7fa1ac302","fromNode":"f453ee9d7ac8ba07","fromSide":"top","toNode":"aeca6f82cbb0d433","toSide":"left","toEnd":"none","color":"2"},
-		{"id":"8482c99dfabd84de","fromNode":"0c4a5e8bc856075f","fromSide":"left","toNode":"fed548b03f4c89f8","toSide":"top","toEnd":"none","color":"2"},
-		{"id":"c60a5b4a1383a97d","fromNode":"5ca42467c5b279aa","fromSide":"bottom","toNode":"fed548b03f4c89f8","toSide":"left","toEnd":"none","color":"2"},
+		{"id":"f668c1e7fa1ac302","fromNode":"f453ee9d7ac8ba07","fromSide":"top","toNode":"aeca6f82cbb0d433","toSide":"left","toEnd":"none"},
+		{"id":"8482c99dfabd84de","fromNode":"0c4a5e8bc856075f","fromSide":"left","toNode":"fed548b03f4c89f8","toSide":"top","toEnd":"none"},
 		{"id":"0a712c2eacf16de7","fromNode":"fed548b03f4c89f8","fromSide":"left","toNode":"aeca6f82cbb0d433","toSide":"right","toEnd":"none"},
 		{"id":"078684b28df9ea42","fromNode":"a8a18cf0e658b8dd","fromSide":"right","toNode":"b88d31bfb3c7f8f5","toSide":"top","toEnd":"none"},
 		{"id":"f844a32028630db3","fromNode":"6ca7f3f38e3ed230","fromSide":"bottom","toNode":"85773e8b6033d1a3","toSide":"left","toEnd":"none"},
@@ -62,10 +62,10 @@
 		{"id":"b3e7dd33f73f2a3e","fromNode":"20f75aab969a0225","fromSide":"top","toNode":"a408fded727356c9","toSide":"right","toEnd":"none"},
 		{"id":"85a09ea970867259","fromNode":"a41aad56b46b1b5a","fromSide":"right","toNode":"b88d31bfb3c7f8f5","toSide":"bottom","toEnd":"none"},
 		{"id":"17b2c8d10d7615ed","fromNode":"0c4a5e8bc856075f","fromSide":"bottom","toNode":"6ca7f3f38e3ed230","toSide":"top","toEnd":"none"},
-		{"id":"77dd9d3ac8449f81","fromNode":"5ca42467c5b279aa","fromSide":"left","toNode":"aeca6f82cbb0d433","toSide":"top","toEnd":"none","color":"2"},
+		{"id":"77dd9d3ac8449f81","fromNode":"5ca42467c5b279aa","fromSide":"left","toNode":"aeca6f82cbb0d433","toSide":"top","toEnd":"none"},
 		{"id":"c6e5b2d3c8f94123","fromNode":"aeca6f82cbb0d433","fromSide":"bottom","toNode":"6ca7f3f38e3ed230","toSide":"left","toEnd":"none"},
 		{"id":"e62d96dd9ac632f4","fromNode":"fa966a602d97b4bf","fromSide":"left","toNode":"6ca7f3f38e3ed230","toSide":"top","toEnd":"none"},
-		{"id":"5579c9c8dfeb5a73","fromNode":"5ca42467c5b279aa","fromSide":"right","toNode":"0c4a5e8bc856075f","toSide":"left","toEnd":"none","color":"2"},
+		{"id":"5579c9c8dfeb5a73","fromNode":"5ca42467c5b279aa","fromSide":"right","toNode":"0c4a5e8bc856075f","toSide":"left","toEnd":"none"},
 		{"id":"16eeba17934c628e","fromNode":"7105545bb54889a7","fromSide":"top","toNode":"5ca42467c5b279aa","toSide":"top","toEnd":"none"},
 		{"id":"2a58a80328470f68","fromNode":"fa966a602d97b4bf","fromSide":"top","toNode":"7105545bb54889a7","toSide":"left","toEnd":"none"},
 		{"id":"3c8d2f8e735dec87","fromNode":"0c4a5e8bc856075f","fromSide":"bottom","toNode":"fa966a602d97b4bf","toSide":"top","toEnd":"none"},
@@ -78,6 +78,7 @@
 		{"id":"b1b94eb8f7c6c5e4","fromNode":"c5913a0f3a00186c","fromSide":"right","toNode":"6a4712ac1be66fee","toSide":"left","toEnd":"none"},
 		{"id":"977b8dad510ff8fe","fromNode":"2012d8a809c88c82","fromSide":"left","toNode":"fa966a602d97b4bf","toSide":"right","toEnd":"none"},
 		{"id":"376002833f97433d","fromNode":"6a4712ac1be66fee","fromSide":"bottom","toNode":"a41aad56b46b1b5a","toSide":"top","toEnd":"none"},
-		{"id":"b097180eb64ce509","fromNode":"a41aad56b46b1b5a","fromSide":"right","toNode":"a8a18cf0e658b8dd","toSide":"right","toEnd":"none"}
+		{"id":"b097180eb64ce509","fromNode":"a41aad56b46b1b5a","fromSide":"right","toNode":"a8a18cf0e658b8dd","toSide":"right","toEnd":"none"},
+		{"id":"c60a5b4a1383a97d","fromNode":"5ca42467c5b279aa","fromSide":"bottom","toNode":"fed548b03f4c89f8","toSide":"left","toEnd":"none"}
 	]
 }
