@@ -1,24 +1,21 @@
 {
   "main": {
-    "id": "310eafb3a223dec6",
+    "id": "ba879146abfd50f6",
     "type": "split",
     "children": [
       {
-        "id": "05f143c805a84dff",
+        "id": "c7771f8b5829b077",
         "type": "tabs",
         "children": [
           {
-            "id": "772be329151e2bbf",
+            "id": "682d069b45f77d57",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
-                "viewState": {
-                  "x": 382.21219879518094,
-                  "y": -208.15360384759572,
-                  "zoom": -0.16547611597800696
-                }
+                "file": "Campaign Notes/The Party.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -28,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e23ae74200312061",
+    "id": "c89c1dece5499f56",
     "type": "split",
     "children": [
       {
-        "id": "dcbf893e645d3086",
+        "id": "13f5f12e46b1260d",
         "type": "tabs",
         "children": [
           {
-            "id": "c53494e48cdc091f",
+            "id": "a30ed8a325ac3976",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,12 +43,12 @@
             }
           },
           {
-            "id": "57f1042afa072234",
+            "id": "9d9cbabafaa1ee4d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "marix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +58,7 @@
             }
           },
           {
-            "id": "fadadf60fc1fa3f7",
+            "id": "19ab3218d090977f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,7 +66,7 @@
             }
           },
           {
-            "id": "a6604752702f2141",
+            "id": "973294f18a8cfec8",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -81,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "b0044bf8fd719998",
+    "id": "f51ec42de61d07dc",
     "type": "split",
     "children": [
       {
-        "id": "6ae638cd131a9d5f",
+        "id": "295815162ab98832",
         "type": "tabs",
         "children": [
           {
-            "id": "92c6edcb23c90a8a",
+            "id": "1ca1be14abc1c1a1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
+                "file": "Campaign Notes/The Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +106,19 @@
             }
           },
           {
-            "id": "fdcda6cf72bc9117",
+            "id": "56445291b3a9ac01",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
+                "file": "Campaign Notes/The Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bfe965ce003cc827",
+            "id": "1a05a0b466c9391c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,7 +129,17 @@
             }
           },
           {
-            "id": "90e841a074ef451b",
+            "id": "31e2977c514c59ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaign Notes/The Party.md"
+              }
+            }
+          },
+          {
+            "id": "59a7e680c12e0391",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -142,18 +149,9 @@
                 "searchQuery": ""
               }
             }
-          },
-          {
-            "id": "381f5471695d3281",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,46 +160,67 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "772be329151e2bbf",
+  "active": "682d069b45f77d57",
   "lastOpenFiles": [
-    "Misc Files/Flows/Marix Arc.canvas",
-    "Misc Files/Flows/Plot Web.canvas",
-    "Misc Files/Flows/Timeline.canvas",
-    "Campaign Notes/Story/All Arcs.md",
-    "Campaign Notes/Story/Plot Web.md",
-    "Campaign Notes/The Party.md",
-    "Campaign Notes/Major NPCs/Woe.md",
-    "Campaign Notes/Story/Quests/Corrupted Grove.md",
-    "Campaign Notes/Story/Encounters/Lost Child.md",
-    "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
-    "Campaign Notes/Major NPCs/Professor Baelen ir'Torn.md",
-    "Campaign Notes/Lore/Misc Books and Texts.md",
-    "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
     "Campaign Notes/Story/Sessions/3 Plans.md",
-    "Misc Files/Reevaluate/Campaign Outline.md",
-    "Misc Files/Reevaluate/Old overview outline.md",
-    "Misc Files/Reevaluate/Journey to the City of Towers.md",
-    "Misc Files/Statblocks.md",
-    "Misc Files/Prompts.md",
+    "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+    "Misc Files/Templates/Session Plan Template.md",
+    "Campaign Notes/Story/Plot Web.md",
+    "Campaign Notes/Story/All Arcs.md",
+    "Misc Files/Flows/Plot Web.canvas",
+    "Campaign Notes/The Party.md",
+    "conflict-files-obsidian-git.md",
+    "Campaign Notes/Major NPCs/Woe.md",
+    "Mordakesh.md",
+    "Campaign Notes/Items/Fractured Khyber Dragonshard.md",
+    "Campaign Notes/Lore/Rak Tulkesh.md",
+    "Misc Files/Flows/Timeline.canvas",
+    "Misc Files/Flows/Marix Arc.canvas",
+    "Misc Files/Flows/Factions.canvas",
+    "Campaign Notes/Story/Quests/Whitehorn Wood.md",
+    "Campaign Notes/Places/Eberron.md",
+    "Campaign Notes/Major NPCs/Professor Baelen ir'Torn.md",
+    "Campaign Notes/Story/Encounters/Lost Child.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
-    "Campaign Notes/Factions/The Chamber.md",
-    "Campaign Notes/Factions/Sons of the Daughter of Khyber.md",
-    "Campaign Notes/Factions/House Tarkanan.md",
-    "Campaign Notes/Lore/Day of Mourning.md",
-    "Campaign Notes/Lore/Draconic Prophecy.md",
-    "Campaign Notes/Lore/Galifar Calender.md",
-    "Campaign Notes/Lore/Progenitor Dragons.md",
-    "Campaign Notes/Places/Khorvaire.md"
+    "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
+    "Campaign Notes/Items/Boromar Challenge Coin.md",
+    "Campaign Notes/Story/Quests/The Warforged Hermit.md",
+    "Campaign Notes/Story/Quests/The Silver Flame needs help with a Cock.md",
+    "Campaign Notes/Story/Quests/The Haunted Grove.md",
+    "Campaign Notes/Story/Quests/The Mysterious Passenger.md",
+    "Campaign Notes/Story/Quests/Corrupted Grove.md",
+    "Campaign Notes/Story/Quests/Aquefukt.md",
+    "Campaign Notes/Story/Encounters/The Bag Man.md",
+    "Campaign Notes/Story/Encounters/The Airship.md",
+    "Campaign Notes/Major NPCs",
+    "Campaign Notes/Story/Sessions/2",
+    "Misc Files/Images/Jonston Marsh.png",
+    "Misc Files/Images/argonnessen.jpg",
+    "Misc Files/Images/SF Emblem.png",
+    "Campaign Notes/Places/Underdark",
+    "Campaign Notes/Places/Khorvaire",
+    "Misc Files/Images",
+    "Misc Files/Images/Woe portrait.png",
+    "Campaign Notes/Minor NPCs",
+    "Campaign Notes/Story/Sessions/0",
+    "Campaign Notes/Story/Encounters",
+    "Campaign Notes/Story/Sessions/1",
+    "Campaign Notes/Story/Sessions",
+    "Flows/Session Plans.canvas",
+    "Misc Files/Reevaluate/Lore Flow.canvas",
+    "Untitled.canvas",
+    "Flows/Lore Flow.canvas",
+    "Plot.canvas"
   ]
 }

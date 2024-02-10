@@ -85,3 +85,7 @@ Ideals: Draven's ideals are rooted in his devotion to Siberys and the tenets of 
 Bonds: Draven holds a strong bond with his clan, the Flameforge lineage. He carries the weight of their legacy and seeks to honor their teachings and traditions. He feels a deep responsibility to protect his family and clan from harm. Additionally, Draven feels a profound connection to Siberys, viewing the Dragon above as his guiding force and protector. He is loyal to his mentor, Varyn the Valiant, and seeks to make him proud by embodying the virtues of a true paladin. 
 
 Overall, Draven Flameforge is an unwavering champion of justice and protector of the weak. He is driven by his faith in Siberys and his desire to bring light and order to a world plagued by darkness. With his fiery determination and unyielding devotion, Draven stands as a symbol of hope and righteousness in a troubled realm.
+
+## Eric's new character
+- Connected to nature, likes to protect it
+- beast master
