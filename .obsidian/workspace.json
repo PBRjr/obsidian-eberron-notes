@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+                "file": "Campaign Notes/Places/Underdark/The Temple of the Endless Rage.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+                "file": "Campaign Notes/Places/Underdark/The Temple of the Endless Rage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+                "file": "Campaign Notes/Places/Underdark/The Temple of the Endless Rage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md"
+                "file": "Campaign Notes/Places/Underdark/The Temple of the Endless Rage.md"
               }
             }
           }
@@ -171,8 +171,8 @@
   },
   "active": "772be329151e2bbf",
   "lastOpenFiles": [
-    "Misc Files/Templates/Important Places.md",
     "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+    "Misc Files/Templates/Important Places.md",
     "Campaign Notes/Places/Khorvaire/Breland/Breland.md",
     "Campaign Notes/Places/Khorvaire/Breland/Sharn/The Dragon's Breath Tavern.md",
     "Campaign Notes/Places/Khorvaire/Breland/Sharn/The Crimson Silk Brothel.md",

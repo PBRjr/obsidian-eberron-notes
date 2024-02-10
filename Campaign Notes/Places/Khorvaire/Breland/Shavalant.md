@@ -1,6 +1,6 @@
 
 ## Description
-
+> Nestled along a winding dirt road, just south of Lake Galifar, lies a quaint village. As you approach, you notice the rhythmic clinking of tools and the soft murmur of voices emanating from small shops and houses clustered together. The buildings themselves are worn but well-kept, surrounded by fields of crops, some of which are parsley scattered with workers. The air carries the earthy scent of tilled soil and fresh produce. A large metal water tower stands out like a soar thumb, its network of magical pipes extending from the tower into the ground. If you hold your breath, you can almost hear a low-pitched hum emanating from the thing.
 
 ## Encounters & Quests
 - [[Boromar Gang Members]] are attempting extortion
@@ -8,9 +8,10 @@
 - [[Whitehorn Wood]] & [[Aquefukt]]
 
 ## Places
-- Church of the Soverign
+- Church of the Sovereign
 - Sleepy Owl Inn
 - Prissy's Potions
+- Jason's Generals
 ## NPCs
 
 **Prissy Marsh**
@@ -23,6 +24,11 @@
 - Town magewright
 - Was an apprentice to [[Aeren d'Cannith]]
 - Left [[Sharn]] to pursues life on her own
+
+**Jason Comley**
+- Sheriff Cromley's Brother
+- Runs a general store
+- More friendly than the Sheriff, claims to be 3x handsome.
 
 **Sheriff Cromley** 
 - Grizzled old human, town sheriff
