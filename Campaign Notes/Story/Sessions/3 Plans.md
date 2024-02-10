@@ -6,6 +6,7 @@
 - Miri requests help with the aqueduct
 - Miri uses sending stone to potentially contact Aeren d'Cannith for papers
 - Introduction of the Boromar clan
+- Learn of their search for Baelen ir'Torn
 
 ### Moments
 

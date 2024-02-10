@@ -15,14 +15,27 @@
               "state": {
                 "file": "Misc Files/Flows/Plot Web.canvas",
                 "viewState": {
-                  "x": 406,
-                  "y": -132,
-                  "zoom": 0
+                  "x": 19.3211325692659,
+                  "y": -338.1948790678961,
+                  "zoom": -0.1111110432942708
                 }
               }
             }
+          },
+          {
+            "id": "bfef9a842363a5ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas"
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md"
               }
             }
           }
@@ -172,8 +185,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "772be329151e2bbf",
+  "active": "bfef9a842363a5ef",
   "lastOpenFiles": [
+    "Misc Files/Flows/Plot Web.canvas",
+    "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Places/Underdark/The Temple of the Endless Rage.md",
     "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
     "Misc Files/Templates/Important Places.md",
@@ -198,9 +213,6 @@
     "Campaign Notes/Factions/The Chamber.md",
     "Campaign Notes/Factions/Dragonmarked Houses/House Cannith/Cannith East.md",
     "Campaign Notes/Factions/Dragonmarked Houses/House Cannith/Cannith West.md",
-    "Campaign Notes/Factions/Dragonmarked Houses/House Cannith/Cannith South.md",
-    "Campaign Notes/Factions/Boromar clan.md",
-    "Misc Files/Flows/Plot Web.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Timeline.canvas"
   ]
