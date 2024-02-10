@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/All Arcs.md",
+                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/All Arcs.md",
+                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/All Arcs.md",
+                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/All Arcs.md"
+                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md"
               }
             }
           }
@@ -172,11 +172,11 @@
   },
   "active": "772be329151e2bbf",
   "lastOpenFiles": [
+    "Campaign Notes/Story/All Arcs.md",
     "Misc Files/Flows/Plot Web.canvas",
     "Misc Files/Templates/Session Plan Template.md",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Timeline.canvas",
-    "Campaign Notes/Story/All Arcs.md",
     "Campaign Notes/Story/Plot Web.md",
     "Campaign Notes/The Party.md",
     "Campaign Notes/Major NPCs/Woe.md",

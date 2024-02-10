@@ -1,4 +1,4 @@
-## Introduction
+## RP encounters
 ##### Water Tower Wizardry
 
 - As the party approaches Shavalant, they notice the town's large metal water tower, a marvel of magical engineering. The tower teleports water from nearby sources and distributes it throughout the town. Players might see local mages performing maintenance on the tower, surrounded by curious onlookers.

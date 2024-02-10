@@ -36,9 +36,10 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 - Continue moving towards Sharn
 - Encounter the town of [[Shavalant]]
 	- Potential sidequests: [[Whitehorn Wood]] [[Boromar Gang Members]]
-- **Completion Point:** The party wraps up their business in Shavalant and continues on their jho
+- **Completion Point:** The party wraps up their business in Shavalant and continues on their journey
 #### Narrative
 ##### Act 1:
-- Completion point:
+- Encapsulates the party's journey to Sharn through the wilderness and their discovery of the overarching plots/villains
+- **Completion point:** The party makes it to [[Sharn]] or decides they have a different, more important objective.
 
 
