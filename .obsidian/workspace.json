@@ -15,8 +15,8 @@
               "state": {
                 "file": "Misc Files/Flows/Plot Web.canvas",
                 "viewState": {
-                  "x": 19.3211325692659,
-                  "y": -338.1948790678961,
+                  "x": 378.981008713853,
+                  "y": -122.18296187921888,
                   "zoom": -0.1111110432942708
                 }
               }
@@ -41,25 +41,6 @@
               "type": "markdown",
               "state": {
                 "file": "Campaign Notes/NPCs/Aeren d'Cannith.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "a2bb6aae930cc57c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "384d8505299d3aad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/NPCs/Aeren d'Cannith.md",
+                "file": "Misc Files/Flows/Plot Web.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/NPCs/Aeren d'Cannith.md",
+                "file": "Misc Files/Flows/Plot Web.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/NPCs/Aeren d'Cannith.md"
+                "file": "Misc Files/Flows/Plot Web.canvas"
               }
             }
           }
@@ -215,8 +196,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6029435119eb4503",
+  "active": "772be329151e2bbf",
   "lastOpenFiles": [
+    "Campaign Notes/NPCs/Aeren d'Cannith.md",
     "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
@@ -243,7 +225,6 @@
     "Campaign Notes/Lore/Day of Mourning.md",
     "Campaign Notes/Lore/Sharn Inquisitor Newspaper/Skyway's Floating Gardens Flourish with Rare Flora.md",
     "Campaign Notes/Lore/Sharn Inquisitor Newspaper/Historic Treaty of Thronehold Ushers In New Era of Peace.md",
-    "Campaign Notes/Factions/The Chamber.md",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Timeline.canvas"
   ]
