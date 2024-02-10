@@ -26,7 +26,7 @@
 	- Situation: Miri gets the party to help her with [[Aquefukt]]. The water system has been acting up recently, not providing enough water.
 	- Encounter 1: The [[Boromar Gang Members]] confront them at the pipes
 	- Character moments: If they intimidate the Gang or otherwise don't pay them, later that night they will attempt to burn down a significant location as a show of force.
-	- Encounter 2: If nearby, the party may notice the burning building, and has the chance to rescue anyone within. Use a *Skill Challenge* to rescue anyone within.
+	- Encounter 2: If nearby, the party may notice the burning building, and has the chance to rescue anyone within. Use a [[Skill Challenge House Fire|Skill Challenge]] to rescue anyone within.
 
 - **Moment 4**
 
@@ -42,7 +42,7 @@
     - Remembered by the *large metal water tower* that looks more advanced than the rest of the town
 	 - Small town with a few shops and various buildings. A few homes here, most are scattered w/ farmland
 	 - Small livestock and farming town that irrigates their crops using complicated magical pipe system    
-
+- [[Bort]]
 ### People
 
 - **Prissy**
