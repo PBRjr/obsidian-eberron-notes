@@ -56,7 +56,7 @@
 	- Wolfsbane is Norbit's family name
 	- They both adopted the d'Cannith name, then later gave it up after they left the house.
 - Parents died when he was young
-	- Killed by Garick as ordered by Marix d'Cannith.
+	- Killed by Garick (prior to tr) as ordered by Marix d'Cannith.
 - Geralt's parents originally created the first designs of the Steelhardt while they were a part of House Cannith
 	- It was originally intended to be a way of transferring one's "soul" to a new body, effectively producing immortality.
 		- The consciousness was attached to the Steelhardt in a magical ritual
@@ -64,17 +64,12 @@
 	- They worked for years refining the designs.
 	- Marix, working with the LoD, took an interest in these designs and ordered a prototype made.
 		- Yelena and Norbit found out about the prototypes intended use, and fled House Cannith with all of the designs, hiding with their young son near the Whitehorn Woods.
-	- Geralt found something linking Garick to a faction in Sharn?
-	- He knew that his parents worked or used to work for House Cannith
-	- The artifact? Made by a faction, maybe House Cannith
-		- House Cannith (Marix) worked with Mordakesh to attempt to create a 'focus' for Rak Tulkesh's consciousness
-		- This was before they found the Fractured shard
-		- The ritual using this focus didn't work as intended, turned him into the thing he is now.
-- Who were Geralt's Parents?
-	- Workers in House Cannith?
-	- Helped design/create artifact 3?
-- Why were they killed by Garick?
-
+- Geralt was snooping in his father's office when he found the designs laid out across his desk.
+		- Being unable to read them, he stole a page that had 'cool' designs and runes on it, also bearing the Gorgon seal of House Cannith.
+		- He still has this page to this day.
+		- A part of why he has learnt so many languages was to decode this page, but he was never able to.
+			- It is written in an ancient language that his parents spoke, due to their inherent secrecy
+- When his parents were killed by 
 #### Sylas Stormshadow (Deceased)
 - Father was an Elven scholar focused on forbidden knowledge about magic
 - Mother was a human merchant in Sharn's Underbelly
