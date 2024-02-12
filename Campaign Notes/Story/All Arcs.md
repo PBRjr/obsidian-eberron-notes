@@ -3,6 +3,10 @@ Story arcs are set up in a very specific way that is shown below. The idea is th
 
 If a list under an Arc is numbered, this represents the order of priority, not necessarily the order it will be completed. The plot points towards the top of each list are more significant, while the ones towards the bottom may be less significant to the main plot, and more prone to being changed or discarded.
 
+Each arc has a "completion point" which indicates when that arc will be wrapped up and the next one will begin.
+
+Arcs do not have to be completed in any particular order, and many immediate arcs may be completed before a narrative arc is completed (or even before it becomes the main focus).
+
 ##### Immediate Arc
 - This is what the players are attempting to accomplish at this moment or in the immediate future.
 - Each is generally wrapped up within a few sessions
@@ -29,36 +33,13 @@ If a list under an Arc is numbered, this represents the order of priority, not n
 ## TYFYS Arcs
 ### Current
 #### Immediate
-1. Travel to [[Sharn]]
-2. Obtain a better method of travel
-3. Visit [[Shavalant]]
-4. Encounter [[Boromar Gang Members]]
-5. [[Whitehorn Wood]] sidequest
-
+- Continue moving towards Sharn
+- Encounter the town of [[Shavalant]]
+	- Potential sidequests: [[Whitehorn Wood]] [[Boromar Gang Members]]
+- **Completion Point:** The party wraps up their business in Shavalant and continues on their journey
 #### Narrative
 ##### Act 1:
-1. The party undergoes a dangerous journey to Sharn
-	- They will encounter various threats and make a few allies
-	- Other encounters hint at Woe's backstory and his possible motivations
+- Encapsulates the party's journey to Sharn through the wilderness and their discovery of the overarching plots/villains
+- **Completion point:** The party makes it to [[Sharn]] or decides they have a different, more important objective.
 
-2. Woe is collecting [[Fractured Khyber Dragonshard|Khyber Dragonshards]] for his mysterious purposes
-	- Crashes [[The Airship]] and takes Lick's fragment
-	- Goes to [[Morgrave University]] in search for another
-	- Encounters the party again once they find a shard
 
-3. The party is forced into a confrontation with [[Woe]]
-##### Act 2:
-1. The party receives a strange magical compass from an unknown entity
-	- They come into conflict with the [[Church of the Silver Flame]], who is attempting to acquire it, claiming its evil
-	- [[Mordakhesh]] is constantly scrying them
-	- The compass leads them to [[Xen'Drik]]
-
-2.  The party must travel to the tomb the compass is leading them to
-	- They continue receiving information explaining the Church is evil and the compass will lead them to an entity that can destroy an overlord
-	- They encounter various dangers on their journey
-	- They might unknowingly release the overlord trapped there
-
-##### Act 3:
-The party must navigate the world that is now being altered by this released overlord and possibly reverse it
-
-### Old/Completed
