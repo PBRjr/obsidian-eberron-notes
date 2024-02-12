@@ -1,4 +1,4 @@
-## PC Backstory Elements
+## PC Backstory Plot Pieces
 
 #### Bjorn "Bearwolf" Ulfr
 - Stormpeak Clan
@@ -73,29 +73,31 @@
 
 
 
-**Story**
+## Story Plot Pieces
 - **Themes**: 
-	- What makes a good character? 
-	- Better to be born good or overcome evil nature and become good?
-	- Most villains aren't purely evil, just have their own justifications
+	- What makes a person good? 
+	- Better to be born good or overcome evil nature through great struggle?
+	- Most villains aren't purely evil, just have their own justifications.
 - **Central Tension**: The Silver Flame is missing, the Lords of Dust are trying to free Rak Tulkesh
-	- ***Secret Plot***: The Mourning was caused by the Silver Flame itself. 
+	- ***Plot Secret***: The Mourning was caused by the Silver Flame itself. 
 		- Originally located in Cyre, it was discovered by the Lords of Dust and almost destroyed
-			- How was it discovered? *Eric's character*?
+			- How was it discovered?
 		- Caused the Mourning to protect itself, but used most of its power doing so
 		- Slowly burning out, Overlords are straining against their bonds, causing chaos across the world
 		- Requires a sacrifice of a morally "silver" (silver is a shade of gray) character to revive
-- **Varyn "The Valiant" Walhardt**
-	- Last remaining Couatl, was too scared to sacrifice himself for the Silver Flame
-	- Formed Clan Flameforge to keep watch on the Overlords and their prisons
-		- Directly oppose actions of the Lords of Dust
-	- Clan Flameforge lost its original vision
-		- Varyn let it be run by people
-		- It started hunting all forms of evil, most forgot about its true origin
-		- Still worship Seberys
-	- Varyn left and wondered on his own for hundreds of years
-	- Was going to try to end his life when Bjorn's Father found him
-	- Carries around a fractured dragonshard fragment
+
+- **Significant Characters**
+	- **Varyn "The Valiant" Grayburn**
+		- Last remaining Couatl, was too scared to sacrifice himself for the Silver Flame
+		- Formed Clan Flameforge to keep watch on the Overlords and their prisons
+			- Directly oppose actions of the Lords of Dust
+		- Clan Flameforge lost its original vision
+			- Varyn let it be run by people
+			- It started hunting all forms of evil, most forgot about its true origin
+			- Still worship Seberys
+		- Varyn left and wondered on his own for hundreds of years
+		- Was going to try to end his life when Bjorn's Father found him
+		- Carries around a fractured dragonshard fragment
 - Artifact 1
 	- Fractured Khyber Dragonshard & fragments
 	- Contains imprisoned consciousness of Rak Tulkesh
