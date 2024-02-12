@@ -144,6 +144,8 @@
 	- This failed because:
 		- It was intended for a consciousness to take over a corpse, not to absorb a great power into a living body
 		- The consciousness of an Overlord can never be contained within a Siberys Dragonshard, only a Khyber dragonshard.
+	- Instead, the power of Rak Tulkesh corrupted the shard within the device, along with Garick's body. While this granted him increased power, it came at the cost of a short life.
+	- However, when he attempted to destroy the Silver Flame, the Mourning completely fused his power 
 
 - **Villains**
 	- Garick
