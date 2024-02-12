@@ -63,6 +63,12 @@
 	- Varyn is now old, weak, and near powerless
 
 #### Geralt Wolfsbane
+- Parents died when he was young
+	- Killed by Garick?
+	- Who were his parents?
+	- Geralt found something linking Garick to a faction in Sharn?
+		- The artifact? Made by a faction, maybe House Cannith
+		- House Cannith ()
 
 #### Sylas Stormshadow (Deceased)
 - Father was an Elven scholar focused on forbidden knowledge about magic
@@ -121,7 +127,10 @@
 - **Villains**
 	- Garick
 		- Underwent ritual before Woe, it failed, he was turned into a raging creature of destruction
-		- Cursed, destroys villages, feeds off the rage of the survivors, uses it to ressurrect himself
+		- Cursed, destroys villages, feeds off the rage of the survivors, uses it to resurrect himself
+		- Heart is replaced with a compass? 3rd artifact?
+			- The survivors get the unrelenting urge to find Garick and kill him, but if Garick is dead they find the artifact instead.
+			- It consumed their soul and body and Garick is formed anew.
 	- Woe
 		- Was killed by Lick's father who was wearing a dragonshard fragment
 		- Tainted soul
