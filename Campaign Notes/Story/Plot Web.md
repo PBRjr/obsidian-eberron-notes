@@ -107,17 +107,18 @@
 		- Woe: main shard + 1 fragment
 		- Professor Baelen ir'Torn: 1 fragment
 		- Varyn: 1 fragment
-- Artifact 2: White
+- Artifact 2: *White Flameblade*
 	- Draven's white-hot flaming Sword contains runes that tell of the location of the Silver Flame
 		- Unlocks a portal in the Mournland that teleports to Vault deep under Xen'Drik jungle
 		- sword was created by Varyn when vault was originally sealed, gave it to Draven
 		- Varyn felt useless, saw potential in Draven as a protector
-		- Aids in travel through the Mournland
+		- Aids in travel through the Mournland, glows blue when pointed in the correct direction
 - Artifact 3
 	- Some other key to the vault
 	- NEEDS EXPANDING
-	- Tie to Eric's PC's backstory
-- Villains
+	- Tie to Geralt's backstory
+
+- **Villains**
 	- Woe
 		- Was killed by Lick's father who was wearing a dragonshard fragment
 		- Tainted soul
