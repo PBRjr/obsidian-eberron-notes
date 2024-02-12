@@ -36,17 +36,13 @@
 	- May have crossed paths after Bjorn was usurped
 - Clan Flameforge
 	- Founded by Varyn to keep overwatch on the Overlords and oppose the LoD.
-- Worship Siberys 
+- He worships Siberys along with the clan 
 	- Couatl are a creation of Siberys, along with dragons
-- Varyn the Valiant
-	- Is actually the last remaining Couatl
-	- AKA "Varyn Grayburn"
-	- Carried a fractured dragonshard fragment
-	- Rejoined Clan Flameforge several years after Hrothgar's birth
-		- Wanted to be close enough to keep an eye on him
-		- Saw potential in Draven
-	- **Tragedy**: Regrets not sacrificing, no actions lead to good
-	- **Redemption**: Realizes everything has a purpose, saving Draven was his
+- Trained by Varyn to be a great warrior, Draven took an oath to use the light of Siberys to hold back the forces of Khyber, and to protect the Khyber Dragonshard fragment gifted to him by Varyn.
+- He traveled Khorvaire and fought creatures of Khyber when they popped up.
+	- He eventually found his way to the Stormpeak clan, after Hrothgar had usurped Bjorn.
+	- Draven could sense the dark cancer on his soul, and tried to vanquish him.
+	- During their battle, Hrothgar took the dragonshard fragment and used the power it gave him to kill Draven
 - Fought evil around Khorvaire
 	- Encountered Hrothgar and could sense the evil leech on his soul
 - White Knight of the North
