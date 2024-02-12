@@ -106,12 +106,16 @@
 			- Directly oppose actions of the Lords of Dust
 			- A small group within felt that Clan Flameforge's scope was to narrow.
 			- They branched off and formed the Church of the Silver Flame.
+		- Varyn felt the increasing forces of the LoD that were fighting to release their Overlords.
+			- He grew fearful that they would learn about the Dragonshard that kept Rak Tulkesh imprisoned.
 		- Varyn left and wondered on his own for hundreds of years
 		- Was going to try to end his life when Bjorn's Father found him
 		- Carries around a fractured dragonshard fragment
 
 **Artifact**
 - Artifact 1: *Fractured Khyber Dragonshard & Fragments*
+	- Their existence was kept a closely guarded secret by Varyn.
+		- Mordakesh and his follower
 	- Contains imprisoned consciousness of Rak Tulkesh
 	- Grants user powers if their soul is tainted
 	- Who has them
