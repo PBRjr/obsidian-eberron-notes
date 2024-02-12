@@ -108,6 +108,7 @@
 			- They branched off and formed the Church of the Silver Flame.
 		- Varyn felt the increasing forces of the LoD that were fighting to release their Overlords.
 			- He grew fearful that they would learn about the Dragonshard that kept Rak Tulkesh imprisoned.
+			- Knowing of their existence but not their location, he began a search that spanned many decades. He finally found a single fragment.
 		- Varyn left and wondered on his own for hundreds of years
 		- Was going to try to end his life when Bjorn's Father found him
 		- Carries around a fractured dragonshard fragment
@@ -115,7 +116,8 @@
 **Artifact**
 - Artifact 1: *Fractured Khyber Dragonshard & Fragments*
 	- Their existence was kept a closely guarded secret by Varyn.
-		- Mordakesh and his follower
+		- Mordakesh and his followers eventually learned of them, and have been hunting them down since.
+		- Varyn was followed when he began searching for them. He found the first fragment, but tipped the LoD off to the others.
 	- Contains imprisoned consciousness of Rak Tulkesh
 	- Grants user powers if their soul is tainted
 	- Who has them
@@ -154,8 +156,7 @@
 - Other antagonists
 	- Hrothgar
 	- Church of the Silver Flame
-		- **Secret**: Doesn't actually know where the Silver Flame is kept. 
-		- Lost an ancient artifact that only a few knew about
+		- **Secret**: Doesn't actually know where the Silver Flame is kept.
 		- Any means justify the ends
 	- Boromar clan
 		- Seeks the Dragonshard and fragments for none other than the promise of wealth and power
