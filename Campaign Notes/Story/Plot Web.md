@@ -119,6 +119,9 @@
 	- Tie to Geralt's backstory
 
 - **Villains**
+	- Garick
+		- Underwent ritual before Woe, it failed, he was turned into a raging creature of destruction
+		- Cursed, destroys villages, feeds off the rage of the survivors, uses it to ressurrect himself
 	- Woe
 		- Was killed by Lick's father who was wearing a dragonshard fragment
 		- Tainted soul
