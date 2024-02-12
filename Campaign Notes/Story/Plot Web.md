@@ -108,10 +108,11 @@
 			- Knowing of their existence but not their location, he began a search that spanned many decades. He finally found a single fragment.
 			- The LoD found out and also began a search.
 			- After learning that his efforts alerted the LoD to the existence of the Shards, he lost hope, and was immensely disappointed in himself.
-			- During a blizzard of a cliffside in the mountains, just as he was going to end his existance, Bjorn's father Kvitrafn found him.
-		- He saw the purity within Draven
+			- During a blizzard of a cliffside in the mountains, just as he was going to end his existence, Bjorn's father Kvitrafn found him.
+		- After seeing the fragment's effect on Hrothgar, Varyn left the Stormpeak clan and returned to Clan Flameforge to find a young Draven.
+		- He saw the purity and potential within Draven
 			- The darkness within the shard never affected him.
-		- Seeing Draven as an ultimate force for good, he gave Draven two things:
+		- Seeing Draven as an ultimate force for good, he gave him two things:
 			- The White Flameblade
 			- The dragonshard fragment
 		- Draven took an Oath to protect the Shard with his life, and to use the light of Siberys to hold back the forces of Khyber
@@ -161,17 +162,20 @@
 		- Was killed by Lick's father who was wearing a dragonshard fragment
 		- Tainted soul
 		- Destined to become Rak Tulkesh's new avatar/vessel
+
 	- Mordakesh
 		- Lieutenant to Rak Tulkesh
 		- Commands the Lords of Dust
 		- Does not know or only recently learns of Varyn's existence
-- Other antagonists
+
+- **Other antagonists**
 	- Hrothgar
 	- Church of the Silver Flame
-		- **Secret**: Doesn't actually know where the Silver Flame is kept.
+		- ***Secret***: Doesn't actually know where the Silver Flame is kept.
 		- Any means justify the ends
 	- Boromar clan
 		- Seeks the Dragonshard and fragments for none other than the promise of wealth and power
+		- Has been tracking Baelen ir'Torn
 ### PCs
 #### Bjorn "Bearwolf" Ulfr
 - Stormpeak Clan
