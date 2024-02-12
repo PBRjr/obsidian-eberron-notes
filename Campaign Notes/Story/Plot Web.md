@@ -56,8 +56,10 @@
 	- Wolfsbane is Norbit's family name
 	- They both adopted the d'Cannith name, then later gave it up after they left the house.
 - Parents died when he was young
-	- Killed by Garick?
-	- Who were his parents?
+	- Killed by Garick as ordered by Marix d'Cannith.
+- Geralt's parents originally created the first designs of the Steelhardt while they were a part of House Cannith
+	- It was originally intended to be a way of transferring one's "soul"
+	- They worked for years refining the designs.
 	- Geralt found something linking Garick to a faction in Sharn?
 	- He knew that his parents worked or used to work for House Cannith
 	- The artifact? Made by a faction, maybe House Cannith
@@ -144,8 +146,9 @@
 - **Villains**
 	- Garick
 		- Underwent ritual before Woe using the Steelhardt and led the forces of the LoD in their attack against the Silver Flame on the Day of Mourning.
-			- Due to an inherent failure in the Steelhardt, his attempt to destroy the Silver Flame failed and al
-		- Destroys villages, feeds off the rage of the survivors, uses it to resurrect himself
+			- Due to an inherent failure in the Steelhardt, his attempt to destroy the Silver Flame failed and rebounded, turning him into a rage-fueled creature of destruction, and allowing the Silver Flame to defend itself with the Mourning.
+		- He was sent by Marix d'Cannith to kill Geralt's parents after they fled House Cannith.
+		- Now he roams the land, destroying villages, feeding off the rage of the survivors, and using it to resurrect himself should he fall in battle.
 		- Heart was replaced with the Steelhardt.
 			- The survivors get the unrelenting urge to find Garick and kill him, but if Garick is dead they find the Steelhardt instead.
 			- The rage consumed them, and forces them to plunge the artifact into their own chest, killing them, and allowing Garick to resurrect through their body.
