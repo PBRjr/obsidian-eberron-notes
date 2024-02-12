@@ -58,8 +58,12 @@
 - Parents died when he was young
 	- Killed by Garick as ordered by Marix d'Cannith.
 - Geralt's parents originally created the first designs of the Steelhardt while they were a part of House Cannith
-	- It was originally intended to be a way of transferring one's "soul"
+	- It was originally intended to be a way of transferring one's "soul" to a new body, effectively producing immortality.
+		- The consciousness was attached to the Steelhardt in a magical ritual
+		- It then had to be implanted into a corpse for the consciousness to then take over.
 	- They worked for years refining the designs.
+	- Marix, working with the LoD, took an interest in these designs and ordered a prototype made.
+		- Yelena and Norbit found out about the prototypes intended use, and fled House Cannith with all of the designs, hiding with their young son near the Whitehorn Woods.
 	- Geralt found something linking Garick to a faction in Sharn?
 	- He knew that his parents worked or used to work for House Cannith
 	- The artifact? Made by a faction, maybe House Cannith
