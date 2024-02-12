@@ -109,9 +109,6 @@
 			- The LoD found out and also began a search.
 			- After learning that his efforts alerted the LoD to the existence of the Shards, he lost hope, and was immensely disappointed in himself.
 			- During a blizzard of a cliffside in the mountains, just as he was going to end his existance, Bjorn's father Kvitrafn found him.
-		- Carries around a fractured dragonshard fragment
-			- Corrupted Hrothgar during his birth.
-			- Varyn left shortly after, returned to Clan Flameforge
 		- He saw the purity within Draven
 			- The darkness within the shard never affected him.
 		- Seeing Draven as an ultimate force for good, he gave Draven two things:
@@ -130,6 +127,7 @@
 		- Woe: main shard + 1 fragment
 		- Professor Baelen ir'Torn: 1 fragment
 		- Hrothgar: 1 fragment
+
 - Artifact 2: *White Flameblade*
 	- Currently in Varyn's possession
 	- Contains runes that tell of the location of the Silver Flame
@@ -137,6 +135,7 @@
 		- sword was created by Varyn when vault was originally sealed, gave it to Draven
 		- Varyn felt useless, saw potential in Draven as a protector
 		- Aids in travel through the Mournland, glows blue when pointed in the correct direction
+
 - Artifact 3: *Steelhardt*
 	- Originally developed by Geralt's Parents as a device that could transfer consciousness to a corpse, producing immortality.
 	- Worked by attaching a willing consciousness to a Siberys Dragonshard, then implanting the device into a corpse.
@@ -145,7 +144,8 @@
 		- It was intended for a consciousness to take over a corpse, not to absorb a great power into a living body
 		- The consciousness of an Overlord can never be contained within a Siberys Dragonshard, only a Khyber dragonshard.
 	- Instead, the power of Rak Tulkesh corrupted the shard within the device, along with Garick's body. While this granted him increased power, it came at the cost of a short life.
-	- However, when he attempted to destroy the Silver Flame, the Mourning completely fused his power 
+	- However, when he attempted to destroy the Silver Flame, the strange magic of the Mourning caused most of Garick's personality to be cast out and replaced by a desire to kill and destroy, while the shard within the machine now continuously seeks out bodies to fuel him. 
+	- The only way to destroy Garick is to complete a ritual that can 'cleanse' the corrupted shard within.
 
 - **Villains**
 	- Garick
