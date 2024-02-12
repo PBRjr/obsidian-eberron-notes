@@ -15,10 +15,9 @@
 	- Was present for Hrothgar's birth while wearing a dragonshard fragment
 	- Left shortly after once he realized what he had caused
 - Hrothgar Ulfr
-	- Why did he usurp?
-	- Feelings of greed and envy
 	- Was born when a piece of the fractured shard was nearby, tainting his soul
 	- Slowly gained unnatural (sorcerer-like) powers that use his evil and rage as fuel, increasing the dark cancers hold on him
+	- Fueled by these emotions and the dark taint on his soul, he led a group of clan members and usurped his brother's 
 - Old Clan members
 	- Some were swayed by Hrothgar
 	- Most others remain loyal to Bjorn
@@ -40,19 +39,12 @@
 	- Couatl are a creation of Siberys, along with dragons
 - Trained by Varyn to be a great warrior, Draven took an oath to use the light of Siberys to hold back the forces of Khyber, and to protect the Khyber Dragonshard fragment gifted to him by Varyn.
 - He traveled Khorvaire and fought creatures of Khyber when they popped up.
-	- He eventually found his way to the Stormpeak clan, after Hrothgar had usurped Bjorn.
+- He became a legend, known as the Knight of the North.
+- He eventually found his way to the Stormpeak clan, after Hrothgar had usurped Bjorn.
 	- Draven could sense the dark cancer on his soul, and tried to vanquish him.
-	- During their battle, Hrothgar took the dragonshard fragment and used the power it gave him to kill Draven
-- Fought evil around Khorvaire
-	- Encountered Hrothgar and could sense the evil leech on his soul
-- White Knight of the North
-	- Due to wielding a sword that was engulfed in white-hot flames
-	- Handed down from warrior to warrior within the Clan
-- Somehow lost his memory
-	- **Secret**: Has a dragonmark. Did not know about it. 
-	- Was traveling home, encountered Hrothgar
-	- He had grown strong with an unknown dark power
-	- Hrothgar overpowered and killed Draven, took his flaming sword
+	- During their battle, Hrothgar took the dragonshard fragment and used the power it gave him to kill Draven, solidifying the hold Hrothgar had over the Clan.
+	- Draven's body fell off a cliffside, and the white flameblade along with him.
+- Varyn found Draven's corpse.
 	- Varyn used most of his remaining power to heal Draven, but didn't have enough left to return his memories.
 	- Varyn is now old, weak, and near powerless
 
