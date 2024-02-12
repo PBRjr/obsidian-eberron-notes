@@ -138,11 +138,12 @@
 		- Varyn felt useless, saw potential in Draven as a protector
 		- Aids in travel through the Mournland, glows blue when pointed in the correct direction
 - Artifact 3: *Steelhardt*
-	- The Lords of Dust were not powerful enough to destroy the Silver Flame on their own
-	- This allowed it to defend itself with the Mourning.
-	- The LoD knew they needed to channel Rak Tulkesh's power into a vessel, which can then destroy the Flame when they find it again.
-	- Created by House Cannith, this device was a failed attempt at that, before they located the Fractured Dragonshard.
-	- It now acts as a focus for Garick's rage-fueled powers.
+	- Originally developed by Geralt's Parents as a device that could transfer consciousness to a corpse, producing immortality.
+	- Worked by attaching a willing consciousness to a Siberys Dragonshard, then implanting the device into a corpse.
+	- Marix d'Cannith & the LoD wanted to use it to create an avatar that could wield Rak Tulkesh's power and destroy the Silver Flame
+	- This failed because:
+		- It was intended for a consciousness to take over a corpse, not to absorb a great power into a living body
+		- The consciousness of an Overlord can never be contained within a Siberys Dragonshard, only a Khyber dragonshard.
 
 - **Villains**
 	- Garick
