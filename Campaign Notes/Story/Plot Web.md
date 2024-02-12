@@ -126,19 +126,21 @@
 		- sword was created by Varyn when vault was originally sealed, gave it to Draven
 		- Varyn felt useless, saw potential in Draven as a protector
 		- Aids in travel through the Mournland, glows blue when pointed in the correct direction
-- Artifact 3: *Device built by Cannith to Channel Rak Tulkesh's Power*
+- Artifact 3: *Steelhardt*
 	- The Lords of Dust were not powerful enough to destroy the Silver Flame on their own
 	- This allowed it to defend itself with the Mourning.
 	- The LoD knew they needed to channel Rak Tulkesh's power into a vessel, which can then destroy the Flame when they find it again.
-	- This device was a failed attempt at that, before they located the Fractured Dragonshard
+	- Created by House Cannith, this device was a failed attempt at that, before they located the Fractured Dragonshard.
+	- It now acts as a focus for Garick's rage-fueled powers.
 
 - **Villains**
 	- Garick
 		- Underwent ritual before Woe, it failed, he was turned into a raging creature of destruction
-		- Cursed, destroys villages, feeds off the rage of the survivors, uses it to resurrect himself
-		- Heart is replaced with a compass? 3rd artifact?
-			- The survivors get the unrelenting urge to find Garick and kill him, but if Garick is dead they find the artifact instead.
-			- It consumed their soul and body and Garick is formed anew.
+		- Destroys villages, feeds off the rage of the survivors, uses it to resurrect himself
+		- Heart was replaced with the Steelhardt.
+			- The survivors get the unrelenting urge to find Garick and kill him, but if Garick is dead they find the Steelhardt instead.
+			- The rage consumed them, and forces them to plunge the artifact into their own chest, killing them, and allowing Garick to resurrect through their body.
+
 	- Woe
 		- Was killed by Lick's father who was wearing a dragonshard fragment
 		- Tainted soul
