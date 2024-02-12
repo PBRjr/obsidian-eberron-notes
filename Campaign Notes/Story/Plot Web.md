@@ -1,6 +1,6 @@
 ## PC Backstory Plot Pieces
 
-#### Bjorn "Bearwolf" Ulfr
+#### PC: Bjorn "Bearwolf" Ulfr
 - Stormpeak Clan
 - Kvitrafn "White Raven" Ulfr
 	- Bjorn & Hrothgar's father
@@ -31,7 +31,7 @@
 	- Some members are former Stormpeak members
 	- left after Hrothgar takeover
 
-#### Draven Flameforge
+#### PC: Draven Flameforge
 - Byeshk Mountains
 	- Neighboring Stormpeak Clan
 	- May have crossed paths after Bjorn was usurped
@@ -50,7 +50,7 @@
 	- Varyn used most of his remaining power to heal Draven, but didn't have enough left to return his memories.
 	- Varyn is now old, weak, and near powerless
 
-#### Geralt Wolfsbane
+#### PC: Geralt Wolfsbane
 - Yelena & Norbit Wolfsbane
 	- Geralt's mother and father
 	- Wolfsbane is Norbit's family name
@@ -71,7 +71,7 @@
 			- It is written in an ancient language that his parents spoke, due to their inherent secrecy
 - When his parents were killed, he escaped and fled into the woods. He was about 12. He learned to live off the land and was able to survive.
 - He now lives near Shavalant and the Whitehorn Woods.
-#### Sylas Stormshadow (Deceased)
+#### PC: Sylas Stormshadow (Deceased)
 - Father was an Elven scholar focused on forbidden knowledge about magic
 - Mother was a human merchant in Sharn's Underbelly
 - Learned of eldritch power through his father
