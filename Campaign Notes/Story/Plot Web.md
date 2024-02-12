@@ -51,7 +51,10 @@
 	- Varyn is now old, weak, and near powerless
 
 #### Geralt Wolfsbane
-- Elena & 
+- Yelena & Norbit Wolfsbane
+	- Geralt's mother and father
+	- Wolfsbane is Norbit's family name
+	- They both adopted the d'Cannith name, then later gave it up after they left the house.
 - Parents died when he was young
 	- Killed by Garick?
 	- Who were his parents?
@@ -114,7 +117,7 @@
 			- The dragonshard fragment
 		- Draven took an Oath to protect the Shard with his life, and to use the light of Siberys to hold back the forces of Khyber
 
-**Artifact**
+**Artifacts**
 - Artifact 1: *Fractured Khyber Dragonshard & Fragments*
 	- Their existence was kept a closely guarded secret by Varyn.
 		- Mordakesh and his followers eventually learned of them, and have been hunting them down since.
@@ -140,7 +143,8 @@
 
 - **Villains**
 	- Garick
-		- Underwent ritual before Woe, it failed, he was turned into a raging creature of destruction
+		- Underwent ritual before Woe using the Steelhardt and led the forces of the LoD in their attack against the Silver Flame on the Day of Mourning.
+			- Due to an inherent failure in the Steelhardt, his attempt to destroy the Silver Flame failed and al
 		- Destroys villages, feeds off the rage of the survivors, uses it to resurrect himself
 		- Heart was replaced with the Steelhardt.
 			- The survivors get the unrelenting urge to find Garick and kill him, but if Garick is dead they find the Steelhardt instead.
