@@ -86,7 +86,7 @@ Bonds: Draven holds a strong bond with his clan, the Flameforge lineage. He carr
 
 Overall, Draven Flameforge is an unwavering champion of justice and protector of the weak. He is driven by his faith in Siberys and his desire to bring light and order to a world plagued by darkness. With his fiery determination and unyielding devotion, Draven stands as a symbol of hope and righteousness in a troubled realm.
 
-## Eric's new character
+## Geralt Wolfsbane
 - Connected to nature, likes to protect it
 - Beast master ranger
 - Outlander background

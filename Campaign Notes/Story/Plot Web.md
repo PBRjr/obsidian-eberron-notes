@@ -1,7 +1,6 @@
 ## PC Backstory Elements
 
-### Pieces
-**Bjorn**
+#### Bjorn "Bearwolf" Ulfr
 - Stormpeak Clan
 - Kvitrafn "White Raven" Ulfr
 	- Bjorn & Hrothgar's father
@@ -31,7 +30,7 @@
 	- Some members are former Stormpeak members
 	- left after Hrothgar takeover
 
-**Draven**
+#### Draven Flameforge
 - Byeshk Mountains
 	- Neighboring Stormpeak Clan
 	- May have crossed paths after Bjorn was usurped
@@ -63,12 +62,16 @@
 	- Varyn used most of his remaining power to heal Draven, but didn't have enough left to return his memories.
 	- Varyn is now old, weak, and near powerless
 
-**Sylas**
+#### Geralt Wolfsbane
+
+#### Sylas Stormshadow (Deceased)
 - Father was an Elven scholar focused on forbidden knowledge about magic
 - Mother was a human merchant in Sharn's Underbelly
 - Learned of eldritch power through his father
 - Made a pact w/ the Traveler in the sewers
 - Would be randomly taken to a different plane for the Traveler's duties
+
+
 
 **Story**
 - **Themes**: 
