@@ -56,7 +56,7 @@
 	- Wolfsbane is Norbit's family name
 	- They both adopted the d'Cannith name, then later gave it up after they left the house.
 - Parents died when he was young
-	- Killed by Garick (prior to tr) as ordered by Marix d'Cannith.
+	- Killed by Garick (prior to transformation) as ordered by Marix d'Cannith.
 - Geralt's parents originally created the first designs of the Steelhardt while they were a part of House Cannith
 	- It was originally intended to be a way of transferring one's "soul" to a new body, effectively producing immortality.
 		- The consciousness was attached to the Steelhardt in a magical ritual
@@ -69,7 +69,8 @@
 		- He still has this page to this day.
 		- A part of why he has learnt so many languages was to decode this page, but he was never able to.
 			- It is written in an ancient language that his parents spoke, due to their inherent secrecy
-- When his parents were killed by 
+- When his parents were killed, he escaped and fled into the woods. He was about 12. He learned to live off the land and was able to survive.
+- He now lives near Shavalant and the Whitehorn Woods.
 #### Sylas Stormshadow (Deceased)
 - Father was an Elven scholar focused on forbidden knowledge about magic
 - Mother was a human merchant in Sharn's Underbelly
@@ -128,9 +129,10 @@
 	- Who has them
 		- Woe: main shard + 1 fragment
 		- Professor Baelen ir'Torn: 1 fragment
-		- Varyn: 1 fragment
+		- Hrothgar: 1 fragment
 - Artifact 2: *White Flameblade*
-	- Draven's white-hot flaming Sword contains runes that tell of the location of the Silver Flame
+	- Currently in Varyn's possession
+	- Contains runes that tell of the location of the Silver Flame
 		- Unlocks a portal in the Mournland that teleports to Vault deep under Xen'Drik jungle
 		- sword was created by Varyn when vault was originally sealed, gave it to Draven
 		- Varyn felt useless, saw potential in Draven as a protector
