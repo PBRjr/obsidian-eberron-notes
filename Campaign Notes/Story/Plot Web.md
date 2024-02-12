@@ -109,9 +109,14 @@
 		- Varyn felt the increasing forces of the LoD that were fighting to release their Overlords.
 			- He grew fearful that they would learn about the Dragonshard that kept Rak Tulkesh imprisoned.
 			- Knowing of their existence but not their location, he began a search that spanned many decades. He finally found a single fragment.
-		- Varyn left and wondered on his own for hundreds of years
-		- Was going to try to end his life when Bjorn's Father found him
+			- The LoD found out and also began a search.
+			- After learning that his efforts alerted the LoD to the existence of the Shards, he lost hope, and was immensely disappointed in himself.
+			- During a blizzard of a cliffside in the mountains, just as he was going to end his existance, Bjorn's father Kvitrafn found him.
 		- Carries around a fractured dragonshard fragment
+			- Corrupted Hrothgar during his birth.
+			- Varyn left shortly after, returned to Clan Flameforge
+		- He saw the purity within Draven
+			- The darkness within the shard never affected
 
 **Artifact**
 - Artifact 1: *Fractured Khyber Dragonshard & Fragments*
