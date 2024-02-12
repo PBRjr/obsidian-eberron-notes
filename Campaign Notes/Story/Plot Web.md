@@ -72,7 +72,7 @@
 		- House Cannith (Marix) worked with Mordakesh to attempt to create a 'focus' for Rak Tulkesh's consciousness
 		- This was before they found the Fractured shard
 		- The ritual using this focus didn't work as intended, turned him into the thing he is now.
-- Who were Geralts Parents?
+- Who were Geralt's Parents?
 	- Workers in House Cannith?
 	- Helped design/create artifact 3?
 - Why were they killed by Garick?
@@ -126,10 +126,11 @@
 		- sword was created by Varyn when vault was originally sealed, gave it to Draven
 		- Varyn felt useless, saw potential in Draven as a protector
 		- Aids in travel through the Mournland, glows blue when pointed in the correct direction
-- Artifact 3
-	- Some other key to the vault
-	- NEEDS EXPANDING
-	- Tie to Geralt's backstory
+- Artifact 3: *Device built by Cannith to Channel Rak Tulkesh's Power*
+	- The Lords of Dust were not powerful enough to destroy the Silver Flame on their own
+	- This allowed it to defend itself with the Mourning.
+	- The LoD knew they needed to channel Rak Tulkesh's power into a vessel, which can then destroy the Flame when they find it again.
+	- This device was a failed attempt at that, before they located the Fractured Dragonshard
 
 - **Villains**
 	- Garick
