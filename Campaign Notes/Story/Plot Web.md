@@ -36,7 +36,6 @@
 	- May have crossed paths after Bjorn was usurped
 - Clan Flameforge
 	- Founded by Varyn to keep overwatch on the Overlords and oppose the LoD.
-	- Those within Worship Siberys
 - Worship Siberys 
 	- Couatl are a creation of Siberys, along with dragons
 - Varyn the Valiant
@@ -90,6 +89,7 @@
 	- What makes a person good? 
 	- Better to be born good or overcome evil nature through great struggle?
 	- Most villains aren't purely evil, just have their own justifications.
+	- What does it take to redeem oneself of a great failure? When does one become irredeemable?
 - **Central Tension**: The Silver Flame is missing, the Lords of Dust are trying to free Rak Tulkesh
 	- ***Plot Secret***: The Mourning was caused by the Silver Flame itself. 
 		- Originally located in Cyre, it was discovered by the Lords of Dust and almost destroyed
@@ -100,6 +100,8 @@
 
 - **Significant Characters**
 	- **Varyn "The Valiant" Grayburn**
+		- ***Major Regret:*** Varyn feels as though he has never done anything right, and all of his actions have only diminished the sacrifice his kind made.
+		- ***Major Motivation:*** To protect the world against the Overlords, and become worthy of calling himself a Couatl
 		- Last remaining Couatl, was too scared to sacrifice himself for the Silver Flame
 		- Formed Clan Flameforge to keep watch on the Overlords and their prisons
 			- Directly oppose actions of the Lords of Dust
@@ -119,7 +121,7 @@
 		- Seeing Draven as an ultimate force for good, he gave Draven two things:
 			- The White Flameblade
 			- The dragonshard fragment
-		- Draven took an Oath to protect the Shard with his life, and to use the light of Flame of Siberys to hold back the F
+		- Draven took an Oath to protect the Shard with his life, and to use the light of Siberys to hold back the forces of Khyber
 
 **Artifact**
 - Artifact 1: *Fractured Khyber Dragonshard & Fragments*
