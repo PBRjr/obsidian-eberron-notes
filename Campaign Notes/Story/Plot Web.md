@@ -104,10 +104,8 @@
 		- Last remaining Couatl, was too scared to sacrifice himself for the Silver Flame
 		- Formed Clan Flameforge to keep watch on the Overlords and their prisons
 			- Directly oppose actions of the Lords of Dust
-		- Clan Flameforge lost its original vision
-			- Varyn let it be run by people
-			- It started hunting all forms of evil, most forgot about its true origin
-			- Still worship Seberys
+			- A small group within felt that Clan Flameforge's scope was to narrow.
+			- They branched off and formed the Church of the Silver Flame.
 		- Varyn left and wondered on his own for hundreds of years
 		- Was going to try to end his life when Bjorn's Father found him
 		- Carries around a fractured dragonshard fragment
