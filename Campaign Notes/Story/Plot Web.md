@@ -98,15 +98,16 @@
 		- Varyn left and wondered on his own for hundreds of years
 		- Was going to try to end his life when Bjorn's Father found him
 		- Carries around a fractured dragonshard fragment
-- Artifact 1
-	- Fractured Khyber Dragonshard & fragments
+
+**Artifact**
+- Artifact 1: *Fractured Khyber Dragonshard & Fragments*
 	- Contains imprisoned consciousness of Rak Tulkesh
 	- Grants user powers if their soul is tainted
 	- Who has them
 		- Woe: main shard + 1 fragment
 		- Professor Baelen ir'Torn: 1 fragment
 		- Varyn: 1 fragment
-- Artifact 2
+- Artifact 2: White
 	- Draven's white-hot flaming Sword contains runes that tell of the location of the Silver Flame
 		- Unlocks a portal in the Mournland that teleports to Vault deep under Xen'Drik jungle
 		- sword was created by Varyn when vault was originally sealed, gave it to Draven
