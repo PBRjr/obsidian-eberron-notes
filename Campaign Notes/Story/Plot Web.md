@@ -68,7 +68,9 @@
 	- Who were his parents?
 	- Geralt found something linking Garick to a faction in Sharn?
 		- The artifact? Made by a faction, maybe House Cannith
-		- House Cannith ()
+		- House Cannith (Marix) worked with Mordakesh to attempt to create a 'focus' for Rak Tulkesh's consciousness
+		- This was before they found the Fractured shard
+		- The focus didn't work as intended, it 
 
 #### Sylas Stormshadow (Deceased)
 - Father was an Elven scholar focused on forbidden knowledge about magic
