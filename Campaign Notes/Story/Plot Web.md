@@ -17,11 +17,13 @@
 - Hrothgar Ulfr
 	- Was born when a piece of the fractured shard was nearby, tainting his soul
 	- Slowly gained unnatural (sorcerer-like) powers that use his evil and rage as fuel, increasing the dark cancers hold on him
-	- Fueled by these emotions and the dark taint on his soul, he led a group of clan members and usurped his brother's 
+	- Fueled by these emotions and the dark taint on his soul, he led a group of clan members and usurped his brother's rule.
+	- He eventually killed Draven, and the dragonshard fragment he obtained continued fueling his rage and increasing his power.
+	- His power now noticeably plagues the land.
 - Old Clan members
 	- Some were swayed by Hrothgar
 	- Most others remain loyal to Bjorn
-	- Ones that didn't leave are forced to hide their disagreement d/t threats of violence
+	- Ones that didn't leave are forced to hide their disagreement d/t Hrothgar's increasing power.
 - Bjorn's new group
 	- Whos it composed of?
 	- Why do they hate Hrothgar
@@ -49,6 +51,7 @@
 	- Varyn is now old, weak, and near powerless
 
 #### Geralt Wolfsbane
+- Elena & 
 - Parents died when he was young
 	- Killed by Garick?
 	- Who were his parents?
