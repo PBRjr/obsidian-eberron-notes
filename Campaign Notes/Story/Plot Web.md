@@ -67,10 +67,15 @@
 	- Killed by Garick?
 	- Who were his parents?
 	- Geralt found something linking Garick to a faction in Sharn?
-		- The artifact? Made by a faction, maybe House Cannith
+	- He knew that his parents worked or used to work for House Cannith
+	- The artifact? Made by a faction, maybe House Cannith
 		- House Cannith (Marix) worked with Mordakesh to attempt to create a 'focus' for Rak Tulkesh's consciousness
 		- This was before they found the Fractured shard
-		- The focus didn't work as intended, it 
+		- The ritual using this focus didn't work as intended, turned him into the thing he is now.
+- Who were Geralts Parents?
+	- Workers in House Cannith?
+	- Helped design/create artifact 3?
+- Why were they killed by Garick?
 
 #### Sylas Stormshadow (Deceased)
 - Father was an Elven scholar focused on forbidden knowledge about magic
