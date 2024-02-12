@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Campaign Notes/Items/Steelhardt Schematic.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Campaign Notes/Items/Steelhardt Schematic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Campaign Notes/Items/Steelhardt Schematic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md"
+                "file": "Campaign Notes/Items/Steelhardt Schematic.md"
               }
             }
           },
@@ -172,8 +172,9 @@
   },
   "active": "682d069b45f77d57",
   "lastOpenFiles": [
-    "Campaign Notes/The Party.md",
     "Campaign Notes/Story/Plot Web.md",
+    "Campaign Notes/Items/Steelhardt Schematic.md",
+    "Campaign Notes/The Party.md",
     "Campaign Notes/Story/Encounters/Skill Challenge House Fire.md",
     "Campaign Notes/NPCs/Woe.md",
     "Campaign Notes/NPCs/Thora Tarkanan.md",
@@ -202,7 +203,6 @@
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Factions.canvas",
     "Campaign Notes/Story/Quests/Whitehorn Wood.md",
-    "Campaign Notes/Places/Eberron.md",
     "Campaign Notes/Major NPCs",
     "Campaign Notes/Story/Sessions/2",
     "Misc Files/Images/Jonston Marsh.png",
