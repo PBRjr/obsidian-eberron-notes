@@ -35,9 +35,8 @@
 	- Neighboring Stormpeak Clan
 	- May have crossed paths after Bjorn was usurped
 - Clan Flameforge
-	- Founded separately but around the same time as the CotSF.
-	- Founded by Varyn as a method of keeping watch on the Overlords and their prisons
-	- Eventually left after clan lost sight of their specific goal and took a more broad approach to evil, similar to CotSF.
+	- Founded by Varyn to keep overwatch on the Overlords and oppose the LoD.
+	- Those within Worship Siberys
 - Worship Siberys 
 	- Couatl are a creation of Siberys, along with dragons
 - Varyn the Valiant
@@ -116,7 +115,11 @@
 			- Corrupted Hrothgar during his birth.
 			- Varyn left shortly after, returned to Clan Flameforge
 		- He saw the purity within Draven
-			- The darkness within the shard never affected
+			- The darkness within the shard never affected him.
+		- Seeing Draven as an ultimate force for good, he gave Draven two things:
+			- The White Flameblade
+			- The dragonshard fragment
+		- Draven took an Oath to protect the Shard with his life, and to use the light of Flame of Siberys to hold back the F
 
 **Artifact**
 - Artifact 1: *Fractured Khyber Dragonshard & Fragments*
