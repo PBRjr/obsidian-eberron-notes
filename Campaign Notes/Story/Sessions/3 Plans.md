@@ -1,38 +1,38 @@
 ### Outline
 
-- Arrive at Shavalant
-- Meet Prissy and Miri
-- Learn about the need for papers to enter Sharn
-- Miri requests help with the aqueduct
-- Miri uses sending stone to potentially contact Aeren d'Cannith for papers
-- Introduction of the Boromar clan
-- Learn of their search for Baelen ir'Torn
+- Draven begins having an evolving reoccurring dream about his death
+- Finish looting the Cave
+- [[Shavalant]]
+	- Meet Prissy and Miri
+	- Learn about the need for papers to enter Sharn
+	- Miri requests help with the aqueduct
+	- Miri uses sending stone to potentially contact Aeren d'Cannith for papers
+	- Hear rumors about a nearby town going quiet.
+- Introduction of the [[Boromar Gang Members]]
+	- Either through [[Aquefukt]], roadside encounter, or [[Boromar Gang Campsite]]
+	- Learn of their search for [[Professor Baelen ir'Torn]]
 
 ### Moments
 
-- **Moment 1**
-    
-    - Situation: The party enters Shavalant, describe the atmosphere and any notable sights.
-    - Encounter: Introduce Prissy and Miri, potentially during a lively interaction or situation that highlights their personalities.
-    - Character Moments: Provide an opportunity to get to know Prissy and Miri, allowing players to engage in some roleplaying.
+**Moment 1**
+- Situation: The party enters Shavalant, describe the atmosphere and any notable sights.
+- Encounter: Introduce Prissy and Miri, Prissy in her shop, Miri attaching a note to the town bulletin
+- Character Moments: Provide an opportunity to get to know Prissy and Miri, allowing players to engage in some roleplaying.
 
-- **Moment 2**
-    
-    - Situation: Miri reveals the issue of needing papers for Sharn, emphasizing the potential problems this poses for the party.
-    - Character Moments: She offers to contact [[Aeren d'Cannith]] with hopes of him assisting if they help her out first.
+**Moment 2**
+- Situation: Miri gets the party to help her with [[Aquefukt]]. The water system has been acting up recently, not providing enough water.
+- Encounter 1: The [[Boromar Gang Members]] confront them at the pipes
+- Character moments: If they intimidate the Gang or otherwise don't pay them, later that night they will attempt to burn down a significant location as a show of force.
+- Encounter 2: If nearby, the party may notice the burning building, and has the chance to rescue anyone within. Use a [[Skill Challenge House Fire|Skill Challenge]] to rescue anyone within.
 
-- **Moment 3**
+**Moment 3**
+- Situation: Miri reveals the issue of needing papers for Sharn, emphasizing the potential problems this poses for the party.
+- Character Moments: She offers to contact [[Aeren d'Cannith]] with hopes of him assisting if they help her out first.
 
-	- Situation: Miri gets the party to help her with [[Aquefukt]]. The water system has been acting up recently, not providing enough water.
-	- Encounter 1: The [[Boromar Gang Members]] confront them at the pipes
-	- Character moments: If they intimidate the Gang or otherwise don't pay them, later that night they will attempt to burn down a significant location as a show of force.
-	- Encounter 2: If nearby, the party may notice the burning building, and has the chance to rescue anyone within. Use a [[Skill Challenge House Fire|Skill Challenge]] to rescue anyone within.
-
-- **Moment 4**
-
-	- Situation: The party finds out that livestock have been disappearing, and blood trails have been found leading through the woods.
-	- Character Moments: The party is encouraged to ask Prissy about it, who may offer advice or potions of acid resistance.
-	- Encounter: The [[Whitehorn Wood]] quest.
+**Moment 4**
+- Situation: The party finds out that livestock have been disappearing, and blood trails have been found leading through the woods.
+- Character Moments: The party is encouraged to ask Prissy about it, who may offer advice or potions of acid resistance.
+- Encounter: The [[Whitehorn Wood]] quest.
 
 
 ### Locations
