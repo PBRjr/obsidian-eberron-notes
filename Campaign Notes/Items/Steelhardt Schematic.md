@@ -18,19 +18,20 @@ The illustration showcases a partially deconstructed view of the Steelhardt's Tr
     - Material: Veins of pure leyline quartz, wrapped in silver and gold filigree.
     - Function: Channels ambient magical energy to maintain the Core's operational integrity, ensuring a constant energy flow.
     - Notation: Conduits are aligned according to the planar geometry, optimizing the draw of arcane power.
-3. Soul Resonance Chamber:
+
+1. Soul Resonance Chamber:
     - Structure: A spherical chamber surrounding the Core, layered with echo crystal and moonstone.
     - Function: Amplifies the soul's vibrational energy, ensuring compatibility with the mechanical body and enhancing control fidelity.
-    - Notation: The chamber's interior is engraved with sigils of harmony, designed to soothe the soul during its adaptation phase.
-4. Elemental Spirit Integrator (Detail C):
-    - Component Makeup: A matrix of elemental gemstones: ruby (fire), sapphire (air), emerald (earth), and aquamarine (water).
-    - Function: Synchronizes elemental spirits with the mechanical body, granting it life and movement.
+
+2. Transference Shard (Detail C):
+    - Material: A perfectly intact Siberys Dragonshard, no smaller than 0.77 Aundair Shard Standard but no larger than 0.86 ASS.
+    - Function: Container for the willing conscious soul, maintains spiritual alignment.
     - Notation: Elemental balance is crucial; misalignment may result in erratic behavior or loss of control.
-5. Feedback Loop Stabilizer:
+3. Feedback Loop Stabilizer:
     - Mechanism: A dual-layered coil of electrum and orichalcum, interwoven with strands of unicorn mane.
     - Function: Regulates the flow of magical energy within the device, preventing overload or burnout during the transference process.
     - Notation: The stabilizer is tuned to the soul's unique frequency, ensuring a seamless integration without loss of essence.
-6. Ethical Safeguard Latch (Detail D):
+4. Ethical Safeguard Latch (Detail D):
     - Mechanism: A small, but complex lock mechanism, accessible only through a key made of pure conscience crystal.
     - Function: Ensures the device can only be activated with informed consent from the soul being transferred.
     - Notation: The key is metaphysical, formed from the collective agreement of all parties involved, manifesting as a tangible object.
