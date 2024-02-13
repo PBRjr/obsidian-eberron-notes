@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Items/Steelhardt Schematic.md",
+                "file": "Campaign Notes/Story/Plot Web.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Items/Steelhardt Schematic.md",
+                "file": "Campaign Notes/Story/Plot Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Items/Steelhardt Schematic.md",
+                "file": "Campaign Notes/Story/Plot Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Items/Steelhardt Schematic.md"
+                "file": "Campaign Notes/Story/Plot Web.md"
               }
             }
           },
@@ -172,8 +172,8 @@
   },
   "active": "682d069b45f77d57",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Plot Web.md",
     "Campaign Notes/Items/Steelhardt Schematic.md",
+    "Campaign Notes/Story/Plot Web.md",
     "Campaign Notes/The Party.md",
     "Campaign Notes/Story/Encounters/Skill Challenge House Fire.md",
     "Campaign Notes/NPCs/Woe.md",
