@@ -26,16 +26,14 @@ The illustration showcases a partially deconstructed view of the Steelhardt's Tr
 2. Transference Shard (Detail C):
     - Material: A perfectly intact Siberys Dragonshard, no smaller than 0.77 Aundair Shard Standard but no larger than 0.86 ASS.
     - Function: Container for the willing conscious soul, maintains spiritual alignment.
-    - Notation: Elemental balance is crucial; misalignment may result in erratic behavior or loss of control.
+    - Notation: Elemental balance is crucial; misalignment may result in fragmentation of soul and/or complete or partial uninstallation of persona.
 3. Feedback Loop Stabilizer:
     - Mechanism: A dual-layered coil of electrum and orichalcum, interwoven with strands of unicorn mane.
     - Function: Regulates the flow of magical energy within the device, preventing overload or burnout during the transference process.
-    - Notation: The stabilizer is tuned to the soul's unique frequency, ensuring a seamless integration without loss of essence.
-4. Ethical Safeguard Latch (Detail D):
+
+1. Ethical Safeguard Latch (Detail D):
     - Mechanism: A small, but complex lock mechanism, accessible only through a key made of pure conscience crystal.
     - Function: Ensures the device can only be activated with informed consent from the soul being transferred.
     - Notation: The key is metaphysical, formed from the collective agreement of all parties involved, manifesting as a tangible object.
 
-Closing Remarks: This page of the schematic serves as a crucial reference for the assembly and understanding of the Steelhardt's core components. It highlights the Wolfsbanes' commitment to precision, balance, and ethical considerations in their groundbreaking work. Builders and operators of the Steelhardt must possess not only a deep understanding of arcane mechanics but also a profound respect for the soul and life itself.
-
-_Annotations by Yelena & Norbit Wolfsbane_
+*Annotations by Yelena & Norbit d'Cannith*
