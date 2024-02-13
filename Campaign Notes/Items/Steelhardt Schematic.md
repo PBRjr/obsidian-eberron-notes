@@ -3,8 +3,6 @@ Written in Sibernyan - an ancient Celestial dialect that was prominently used by
 ---
 Figure 7.1: Steelhardt Transference Core Assembly - Partial Deconstruction
 
-The illustration showcases a partially deconstructed view of the Steelhardt's Transference Core Assembly, highlighting the intricate balance between arcane engineering and ethereal dynamics. Each component is carefully labeled, with detailed notations on function, material composition, and magical imbue.
-
 Transference Core Housing:
     - Material: Arcanite Alloy; a blend of mithral and adamantine, tempered with dragon's blood.
     - Function: Provides an indestructible container for the Transference Core, ensuring no external magical or physical forces can disrupt the soul's containment.
@@ -23,15 +21,15 @@ Soul Resonance Chamber:
     - Structure: A spherical chamber surrounding the Core, layered with echo crystal and moonstone.
     - Function: Amplifies the soul's vibrational energy, ensuring compatibility with the mechanical body and enhancing control fidelity.
 
-2. Transference Shard (Detail C):
+Transference Shard:
     - Material: A perfectly intact Siberys Dragonshard, no smaller than 0.77 Aundair Shard Standard but no larger than 0.86 ASS.
     - Function: Container for the willing conscious soul, maintains spiritual alignment.
     - Notation: Elemental balance is crucial; misalignment may result in fragmentation of soul and/or complete or partial uninstallation of persona.
-3. Feedback Loop Stabilizer:
+Feedback Loop Stabilizer:
     - Mechanism: A dual-layered coil of electrum and orichalcum, interwoven with strands of unicorn mane.
     - Function: Regulates the flow of magical energy within the device, preventing overload or burnout during the transference process.
 
-1. Ethical Safeguard Latch (Detail D):
+Ethical Safeguard Latch:
     - Mechanism: A small, but complex lock mechanism, accessible only through a key made of pure conscience crystal.
     - Function: Ensures the device can only be activated with informed consent from the soul being transferred.
     - Notation: The key is metaphysical, formed from the collective agreement of all parties involved, manifesting as a tangible object.
