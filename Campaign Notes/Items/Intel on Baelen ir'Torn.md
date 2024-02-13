@@ -6,8 +6,8 @@
 **Key Observations:**
 
 - **Individual:** Professor Baelin ir'Torn, Morgrave University.
-- **Location:** Road to Shavalant.
-- **Item of Interest:** Carries a secured container; likely contains a valuable artifact. Specifics: a purple crystal, origins and properties unknown.
+- **Location:** Road to Shavalant. Suspected to be returning to Morgrave University in Sharn.
+- **Item of Interest:** Carries a secured container; likely contains a valuable artifact. Specifics: a purple crystal, origins and properties unknown. Highly Valuable.
 
 **Security Detail:**
 
