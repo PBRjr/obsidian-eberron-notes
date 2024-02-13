@@ -15,9 +15,9 @@
               "state": {
                 "file": "Misc Files/Flows/Plot Web.canvas",
                 "viewState": {
-                  "x": 576.4236445783135,
-                  "y": -198.41754518072293,
-                  "zoom": -0.3141723540236988
+                  "x": 529.6628288004141,
+                  "y": -81.31214982349306,
+                  "zoom": -0.5555555216471354
                 }
               }
             }
@@ -28,13 +28,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas"
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md"
               }
             }
           }
@@ -185,7 +186,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "684f00f356ac1492",
+  "active": "0be984901d0edea6",
   "lastOpenFiles": [
     "Campaign Notes/Story/Plot Web.md",
     "Misc Files/Flows/Plot Web.canvas",
