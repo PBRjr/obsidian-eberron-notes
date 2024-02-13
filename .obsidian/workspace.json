@@ -15,8 +15,8 @@
               "state": {
                 "file": "Misc Files/Flows/Plot Web.canvas",
                 "viewState": {
-                  "x": 404.8484939759038,
-                  "y": -238.20308734939746,
+                  "x": 576.4236445783135,
+                  "y": -198.41754518072293,
                   "zoom": -0.3141723540236988
                 }
               }
@@ -34,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Misc Files/Flows/Plot Web.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Misc Files/Flows/Plot Web.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md"
+                "file": "Misc Files/Flows/Plot Web.canvas"
               }
             }
           }
@@ -186,10 +185,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0be984901d0edea6",
+  "active": "684f00f356ac1492",
   "lastOpenFiles": [
-    "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Story/Plot Web.md",
+    "Misc Files/Flows/Plot Web.canvas",
     "conflict-files-obsidian-git.md",
     "Campaign Notes/NPCs/Aeren d'Cannith.md",
     "Campaign Notes/Story/Sessions/3 Plans.md",
