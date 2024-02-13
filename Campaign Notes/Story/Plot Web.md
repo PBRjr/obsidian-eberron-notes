@@ -68,7 +68,8 @@
 		- Being unable to read them, he stole a page that had 'cool' designs and runes on it, also bearing the Gorgon seal of House Cannith.
 		- He still has this page to this day.
 		- A part of why he has learnt so many languages was to decode this page, but he was never able to.
-			- It is written in an ancient language that his parents spoke, due to their inherent secrecy
+			- It is written in an ancient language that his parents spoke, due to their inherent secrecy (**Sibernyan**)
+			- Language was prominently spoken by the Couatl.
 - When his parents were killed, he escaped and fled into the woods. He was about 12. He learned to live off the land and was able to survive.
 - He now lives near Shavalant and the Whitehorn Woods.
 #### PC: Sylas Stormshadow (Deceased)

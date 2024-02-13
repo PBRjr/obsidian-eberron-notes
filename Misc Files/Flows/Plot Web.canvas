@@ -21,7 +21,6 @@
 		{"id":"a41aad56b46b1b5a","type":"text","text":"Draven Flameforge","x":1045,"y":455,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"b88d31bfb3c7f8f5","type":"text","text":"Byeshk Mountains","x":1440,"y":287,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"85773e8b6033d1a3","type":"text","text":"Woe","x":11,"y":-53,"width":250,"height":60,"color":"1"},
-		{"id":"64eed97371c2a743","type":"text","text":"Aeren d'Cannith","x":1401,"y":-83,"width":250,"height":60,"color":"4"},
 		{"id":"7105545bb54889a7","type":"text","text":"Day of Mourning/Mournland","x":755,"y":-743,"width":250,"height":65},
 		{"id":"fed548b03f4c89f8","type":"text","text":"Sharn","x":-15,"y":-608,"width":250,"height":60},
 		{"id":"f434fbeb0543d193","x":485,"y":-608,"width":250,"height":60,"type":"text","text":"Marix/House Cannith"},
@@ -29,7 +28,9 @@
 		{"id":"a84c11ddcb40b3aa","x":1005,"y":-608,"width":250,"height":60,"color":"#ff00ff","type":"text","text":"Geralt's Parents"},
 		{"id":"d0097f85efd31964","type":"text","text":"Steelhardt","x":765,"y":-290,"width":231,"height":58,"color":"6"},
 		{"id":"6f800102ae8db8d6","x":1100,"y":-291,"width":250,"height":60,"color":"1","type":"text","text":"Garick"},
-		{"id":"b818bf3473be854d","type":"text","text":"Geralt Wolfsbane","x":1350,"y":-488,"width":250,"height":60,"color":"#ff00ff"}
+		{"id":"64eed97371c2a743","type":"text","text":"Aeren d'Cannith","x":235,"y":-940,"width":250,"height":60,"color":"4"},
+		{"id":"b818bf3473be854d","type":"text","text":"Geralt Wolfsbane","x":1350,"y":-488,"width":250,"height":60,"color":"#ff00ff"},
+		{"id":"24b5f0140402cc55","x":936,"y":-927,"width":250,"height":60,"type":"text","text":"Sibernyan Language"}
 	],
 	"edges":[
 		{"id":"bac70c1e9d04a13c","fromNode":"7d97e1a39c8769f5","fromSide":"right","toNode":"c5913a0f3a00186c","toSide":"left","toEnd":"none"},
@@ -89,8 +90,11 @@
 		{"id":"5358571d2b41e835","fromNode":"a84c11ddcb40b3aa","fromSide":"bottom","toNode":"d0097f85efd31964","toSide":"top","toEnd":"none"},
 		{"id":"c0130f386ed9345b","fromNode":"f434fbeb0543d193","fromSide":"bottom","toNode":"d0097f85efd31964","toSide":"top","toEnd":"none"},
 		{"id":"03e3ec42c3e0bf9a","fromNode":"be62fd3ac77152e0","fromSide":"bottom","toNode":"d0097f85efd31964","toSide":"top","toEnd":"none"},
-		{"id":"4f1c5a6fe4103bfc","fromNode":"a84c11ddcb40b3aa","fromSide":"right","toNode":"b818bf3473be854d","toSide":"top","toEnd":"none"},
+		{"id":"4f1c5a6fe4103bfc","fromNode":"a84c11ddcb40b3aa","fromSide":"right","toNode":"b818bf3473be854d","toSide":"left","toEnd":"none"},
 		{"id":"85ab54e03eb34abe","fromNode":"d0097f85efd31964","fromSide":"right","toNode":"6f800102ae8db8d6","toSide":"left","toEnd":"none"},
-		{"id":"dc44915834608e51","fromNode":"6f800102ae8db8d6","fromSide":"top","toNode":"a84c11ddcb40b3aa","toSide":"bottom","toEnd":"none"}
+		{"id":"dc44915834608e51","fromNode":"6f800102ae8db8d6","fromSide":"top","toNode":"a84c11ddcb40b3aa","toSide":"bottom","toEnd":"none"},
+		{"id":"14ad2b5103fe466e","fromNode":"64eed97371c2a743","fromSide":"right","toNode":"f434fbeb0543d193","toSide":"top","toEnd":"none"},
+		{"id":"d84f993246adfbbd","fromNode":"64eed97371c2a743","fromSide":"left","toNode":"f453ee9d7ac8ba07","toSide":"top","toEnd":"none"},
+		{"id":"92d3dfb8388b6476","fromNode":"64eed97371c2a743","fromSide":"left","toNode":"fed548b03f4c89f8","toSide":"top","toEnd":"none"}
 	]
 }

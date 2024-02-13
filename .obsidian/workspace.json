@@ -15,14 +15,27 @@
               "state": {
                 "file": "Misc Files/Flows/Plot Web.canvas",
                 "viewState": {
-                  "x": 723.1328313253015,
-                  "y": -192.20105421686725,
+                  "x": 404.8484939759038,
+                  "y": -238.20308734939746,
                   "zoom": -0.3141723540236988
                 }
               }
             }
+          },
+          {
+            "id": "0be984901d0edea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Notes/Story/Plot Web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
+                "file": "Campaign Notes/Story/Plot Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
+                "file": "Campaign Notes/Story/Plot Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas"
+                "file": "Campaign Notes/Story/Plot Web.md"
               }
             }
           }
@@ -173,10 +186,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "684f00f356ac1492",
+  "active": "0be984901d0edea6",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Plot Web.md",
     "Misc Files/Flows/Plot Web.canvas",
+    "Campaign Notes/Story/Plot Web.md",
     "conflict-files-obsidian-git.md",
     "Campaign Notes/NPCs/Aeren d'Cannith.md",
     "Campaign Notes/Story/Sessions/3 Plans.md",
@@ -201,7 +214,6 @@
     "Campaign Notes/Lore/Rak Tulkesh.md",
     "Campaign Notes/Lore/Progenitor Dragons.md",
     "Campaign Notes/Lore/Galifar Calender.md",
-    "Campaign Notes/Lore/Draconic Prophecy.md",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Timeline.canvas"
   ]
