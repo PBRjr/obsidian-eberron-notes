@@ -33,9 +33,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d770d75b8e7aa4a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b25652baf7f0bce7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc Files/Statblocks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
+                "file": "Misc Files/Statblocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
+                "file": "Misc Files/Statblocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Plans.md"
+                "file": "Misc Files/Statblocks.md"
               }
             }
           }
@@ -186,13 +210,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0be984901d0edea6",
+  "active": "b25652baf7f0bce7",
   "lastOpenFiles": [
+    "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
+    "Misc Files/Statblocks.md",
+    "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Story/Plot Web.md",
     "Misc Files/Flows/Plot Web.canvas",
     "conflict-files-obsidian-git.md",
     "Campaign Notes/NPCs/Aeren d'Cannith.md",
-    "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Items/Steelhardt Schematic.md",
     "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
@@ -213,7 +239,6 @@
     "Campaign Notes/NPCs/Axe man.md",
     "Campaign Notes/Lore/Rak Tulkesh.md",
     "Campaign Notes/Lore/Progenitor Dragons.md",
-    "Campaign Notes/Lore/Galifar Calender.md",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Timeline.canvas"
   ]
