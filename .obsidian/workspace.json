@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3762f099c0000b97",
+        "id": "1f266f813e595933",
         "type": "tabs",
         "children": [
           {
-            "id": "3df605c4b19247cd",
+            "id": "087989f1fd6fe47c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Misc Files/Flows/Plot Web.canvas",
+                "viewState": {
+                  "x": 624.9605310218979,
+                  "y": -315.86773175182486,
+                  "zoom": -1.5522119035929067
+                }
+              }
             }
           }
         ]
@@ -90,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Misc Files/Flows/Plot Web.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Misc Files/Flows/Plot Web.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Misc Files/Flows/Plot Web.canvas"
+              }
             }
           },
           {
@@ -163,7 +174,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3df605c4b19247cd",
+  "active": "087989f1fd6fe47c",
   "lastOpenFiles": [
     "Misc Files/Flows/Plot Web.canvas",
     "conflict-files-obsidian-git.md",
