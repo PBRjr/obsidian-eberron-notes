@@ -14,7 +14,7 @@
 	- Joined and became friends with Bjorn's father after his birth
 	- Was present for Hrothgar's birth while wearing a dragonshard fragment
 	- Left shortly after once he realized what he had caused
-- Hrothgar Ulfr
+- Hrothgar Ulfr (antagonist)
 	- Was born when a piece of the fractured shard was nearby, tainting his soul
 	- Slowly gained unnatural (sorcerer-like) powers that use his evil and rage as fuel, increasing the dark cancers hold on him
 	- Fueled by these emotions and the dark taint on his soul, he led a group of clan members and usurped his brother's rule.
@@ -94,7 +94,7 @@
 		- Slowly burning out, Overlords are straining against their bonds, causing chaos across the world
 		- Requires a sacrifice of a morally "silver" (silver is a shade of gray) character to revive
 
-- **Significant Characters**
+- **Significant NPCs**
 	- **Varyn "The Valiant" Grayburn**
 		- ***Major Regret:*** Varyn feels as though he has never done anything right, and all of his actions have only diminished the sacrifice his kind made.
 		- ***Major Motivation:*** To protect the world against the Overlords, and become worthy of calling himself a Couatl
@@ -118,7 +118,7 @@
 		- Draven took an Oath to protect the Shard with his life, and to use the light of Siberys to hold back the forces of Khyber
 
 **Artifacts**
-- Artifact 1: *Fractured Khyber Dragonshard & Fragments*
+- Artifact 1: ***Fractured Khyber Dragonshard & Fragments***
 	- Their existence was kept a closely guarded secret by Varyn.
 		- Mordakesh and his followers eventually learned of them, and have been hunting them down since.
 		- Varyn was followed when he began searching for them. He found the first fragment, but tipped the LoD off to the others.
@@ -129,7 +129,7 @@
 		- Professor Baelen ir'Torn: 1 fragment
 		- Hrothgar: 1 fragment
 
-- Artifact 2: *White Flameblade*
+- Artifact 2: ***White Flameblade***
 	- Currently in Varyn's possession
 	- Contains runes that tell of the location of the Silver Flame
 		- Unlocks a portal in the Mournland that teleports to Vault deep under Xen'Drik jungle
@@ -137,16 +137,18 @@
 		- Varyn felt useless, saw potential in Draven as a protector
 		- Aids in travel through the Mournland, glows blue when pointed in the correct direction
 
-- Artifact 3: *Steelhardt*
+- Artifact 3: ***Steelhardt***
 	- Originally developed by Geralt's Parents as a device that could transfer consciousness to a corpse, producing immortality.
 	- Worked by attaching a willing consciousness to a Siberys Dragonshard, then implanting the device into a corpse.
 	- Marix d'Cannith & the LoD wanted to use it to create an avatar that could wield Rak Tulkesh's power and destroy the Silver Flame
 	- This failed because:
 		- It was intended for a consciousness to take over a corpse, not to absorb a great power into a living body
-		- The consciousness of an Overlord can never be contained within a Siberys Dragonshard, only a Khyber dragonshard.
+		- The consciousness of an Overlord can never be contained within a Siberys Dragonshard, it is too closely connected to Siberys.
 	- Instead, the power of Rak Tulkesh corrupted the shard within the device, along with Garick's body. While this granted him increased power, it came at the cost of a short life.
 	- However, when he attempted to destroy the Silver Flame, the strange magic of the Mourning caused most of Garick's personality to be cast out and replaced by a desire to kill and destroy, while the shard within the machine now continuously seeks out bodies to fuel him. 
 	- The only way to destroy Garick is to complete a ritual that can 'cleanse' the corrupted shard within.
+	- It can then be used as a way to 'cleanse' Woe?
+		- It was made to store a consciousness, so it can be used to steal Rak Tulkesh's consciousness from the Fractured Dragonshard (once the fragments are reunited).
 
 - **Villains**
 	- Garick
