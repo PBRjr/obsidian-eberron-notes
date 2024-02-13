@@ -1,5 +1,6 @@
 ### Outline
-
+- Give handouts (character sheets, Geralt's schematics, quest cards when they come up). 
+	- Have Eric create Geralt's rumors
 - Draven begins having an evolving reoccurring dream about his death
 - Finish looting the Cave
 - [[Shavalant]]
@@ -36,7 +37,7 @@
 
 **Moment 5**
 - Situation: The Boromar gang members confront the party while on the road or when the party finds their camp.
-- Encounter: Use 
+- Encounter: [[Boromar Gang Members]]
 
 
 ### Locations

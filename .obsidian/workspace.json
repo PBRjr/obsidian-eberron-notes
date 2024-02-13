@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc Files/Statblocks.md",
+                "file": "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc Files/Statblocks.md",
+                "file": "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc Files/Statblocks.md"
+                "file": "Campaign Notes/Story/Encounters/Boromar Gang Members.md"
               }
             }
           }
@@ -210,11 +210,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b25652baf7f0bce7",
+  "active": "d770d75b8e7aa4a7",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
-    "Misc Files/Statblocks.md",
     "Campaign Notes/Story/Sessions/3 Plans.md",
+    "Misc Files/Statblocks.md",
+    "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
     "Campaign Notes/Story/Plot Web.md",
     "Misc Files/Flows/Plot Web.canvas",
     "conflict-files-obsidian-git.md",
