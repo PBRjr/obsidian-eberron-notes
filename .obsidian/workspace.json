@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "577bce1ab1c59330",
+        "id": "99d7a747d2f8eaee",
         "type": "tabs",
         "children": [
           {
-            "id": "5ec10fbede752475",
+            "id": "684f00f356ac1492",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Misc Files/Flows/Plot Web.canvas",
                 "viewState": {
-                  "x": 457.0670180722891,
-                  "y": -184.74126506024095,
+                  "x": 631.1287650602409,
+                  "y": -220.79691265060222,
                   "zoom": -0.3141723540236988
                 }
               }
@@ -173,8 +173,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ec10fbede752475",
+  "active": "684f00f356ac1492",
   "lastOpenFiles": [
+    "Campaign Notes/Story/Plot Web.md",
     "Misc Files/Flows/Plot Web.canvas",
     "conflict-files-obsidian-git.md",
     "Campaign Notes/NPCs/Aeren d'Cannith.md",
