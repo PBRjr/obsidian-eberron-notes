@@ -5,21 +5,21 @@ Figure 7.1: Steelhardt Transference Core Assembly - Partial Deconstruction
 
 The illustration showcases a partially deconstructed view of the Steelhardt's Transference Core Assembly, highlighting the intricate balance between arcane engineering and ethereal dynamics. Each component is carefully labeled, with detailed notations on function, material composition, and magical imbue.
 
-1. Transference Core Housing:
+Transference Core Housing:
     - Material: Arcanite Alloy; a blend of mithral and adamantine, tempered with dragon's blood.
     - Function: Provides an indestructible container for the Transference Core, ensuring no external magical or physical forces can disrupt the soul's containment.
     - Notation: Forged under a full moon, cooled in the waters of a Thelanis spring to enhance magical conductivity.
 
-1. Runes of Binding (Detail A):
+ Runes of Binding:
     - Inscription Technique: Laser precision etching with a phoenix feather quill, imbued with essence of a previously used and now unoccupied lich phylactery.
     - Function: Anchors the soul within the Transference Core, preventing drift or dissolution during and after transfer.
 
-2. Arcane Conduits (Detail B):
+ Arcane Conduits:
     - Material: Veins of pure leyline quartz, wrapped in silver and gold filigree.
     - Function: Channels ambient magical energy to maintain the Core's operational integrity, ensuring a constant energy flow.
     - Notation: Conduits are aligned according to the planar geometry, optimizing the draw of arcane power.
 
-1. Soul Resonance Chamber:
+Soul Resonance Chamber:
     - Structure: A spherical chamber surrounding the Core, layered with echo crystal and moonstone.
     - Function: Amplifies the soul's vibrational energy, ensuring compatibility with the mechanical body and enhancing control fidelity.
 
