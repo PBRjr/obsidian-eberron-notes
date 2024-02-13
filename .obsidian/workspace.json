@@ -18,8 +18,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab85a0435818d76e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Misc Files/Flows/Plot Web.canvas",
+                "viewState": {
+                  "x": -199.84865823339697,
+                  "y": -586.8670714148652,
+                  "zoom": -0.5911797024100967
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f51ec42de61d07dc",
@@ -93,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Misc Files/Flows/Plot Web.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Misc Files/Flows/Plot Web.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md"
+                "file": "Misc Files/Flows/Plot Web.canvas"
               }
             }
           },
@@ -170,10 +187,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "682d069b45f77d57",
+  "active": "ab85a0435818d76e",
   "lastOpenFiles": [
-    "Campaign Notes/Items/Steelhardt Schematic.md",
     "Campaign Notes/Story/Plot Web.md",
+    "Campaign Notes/Items/Steelhardt Schematic.md",
     "Campaign Notes/The Party.md",
     "Campaign Notes/Story/Encounters/Skill Challenge House Fire.md",
     "Campaign Notes/NPCs/Woe.md",
