@@ -5,8 +5,8 @@
  - Sent by Castar from the [[Boromar clan]]
 
 ## NPCs
-*Garhorn* - Halfling enchanter, mid 30s, polite and manipulative, **sounds like Billy Butcher**
-*Orc 1 & Orc 2* - Dumb orc brutes, prone to violence, quick to anger
+*Garhorn* - Halfling [[Statblocks#Enchanter|enchanter]], mid 30s, polite and manipulative, **sounds like Billy Butcher** 
+*Orc 1 & Orc 2* - Dumb orc [[Statblocks#Bandit (Increased Diff)|brutes]], prone to violence, quick to anger
 ## Encounters
 [[Aquefukt]]
 - Don't want to fight, just want protection fee

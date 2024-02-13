@@ -257,6 +257,7 @@ Challenge 1/4 (50 XP)
 **Shortsword:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 
 **Spear:** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+
 ### Enchanter
 Medium humanoid (any race), any alignment
 
@@ -295,6 +296,7 @@ Challenge 1 (200 XP)
 **Actions**
 
 **Dagger.** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+
 ## Beasts
 ### Pteranodons
 Medium Beast, Unaligned

@@ -5,6 +5,7 @@
 	- ***DC 16*** to detect
 - [[Boromar Gang Members|Garhorn, Orc 1, Orc 3]]
 	- Orc 2 died trying to fight the [[Whitehorn Wood|Ankheg]]
+- The escaped Kobold that was covered in oil was captured here. It is being held, chained to a tree.
 ## Loot
 #### Treasure
 1.  **Stolen Goods**
@@ -27,8 +28,8 @@
 #### Exposition
 - **Detailed Ledger**
 	- Contains information on which townsfolk have payed protection money and those who have not
-	- Payed: Sheriff Cromley, Innkeeper, Elder Finn
-	- Unpaid: Magewright, Apothecary
+	- Payed: Sheriff Cromley, Elder Finn, Innkeeper
+	- Unpaid: Magewright, Apothecary, ~~Innkeeper~~
 - [[Intel on Baelen ir'Torn]]
 	- Found inside the ledger, this letter provides intel to the gang members on a potential score
 	- Professor ir'Torn was seen traveling through [[Shavalant]] on his way to Sharn, suspected to have a powerful artifact
