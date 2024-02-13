@@ -162,19 +162,25 @@
 
 	- Woe
 		- Was killed by Lick's father who was wearing a dragonshard fragment
-		- Tainted soul
-		- Destined to become Rak Tulkesh's new avatar/vessel
+		- Tainted soul due to the ritual that implanted him with the main piece of the Fractured Dragonshard
+		- With the whispers of Rak Tulkesh in his head, he seeks to reunite the shard fragments and use the power to unleash his Overlord upon Eberron.
 
 	- Mordakesh
 		- Lieutenant to Rak Tulkesh
-		- Commands the Lords of Dust
-		- Does not know or only recently learns of Varyn's existence
+		- Commands the Lords of Dust & performed ritual on Woe
+		- Has been hunting the Dragonshard fragments for a long time
+			- Ever since Varyn went looking for them
 
 - **Other antagonists**
 	- Hrothgar
+		- Bjorn's brother
+		- Usurped Bjorn's position as the Chieftian of the Stormpeak Clan
+		- Killed Draven and took his fractured dragonshard fragment, further increasing his power and dark taint on the surrounding land.
 	- Church of the Silver Flame
 		- ***Secret***: Doesn't actually know where the Silver Flame is kept.
-		- Any means justify the ends
+		- ***Motication:*** Find the Silver Flame and 
+		- Know of the Boromar's attempts to track down Baelin ir'Torn
+		- Are working with Baelen trying to locate the Silver Flame
 	- Boromar clan
 		- Seeks the Dragonshard and fragments for none other than the promise of wealth and power
 		- Has been tracking Baelen ir'Torn
