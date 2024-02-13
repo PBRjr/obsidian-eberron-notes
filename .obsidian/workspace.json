@@ -11,14 +11,35 @@
             "id": "087989f1fd6fe47c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
-                "viewState": {
-                  "x": 624.9605310218979,
-                  "y": -315.86773175182486,
-                  "zoom": -1.5522119035929067
-                }
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc4349fff17fb65a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Notes/Story/Quests/Kobold Cave.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d29ee3ae65878c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Notes/Items/Brains to Woe.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas"
+                "file": "Campaign Notes/Story/Sessions/2 Recap.md"
               }
             }
           },
@@ -176,6 +197,9 @@
   },
   "active": "087989f1fd6fe47c",
   "lastOpenFiles": [
+    "Campaign Notes/Story/Quests/Kobold Cave.md",
+    "Campaign Notes/Story/Sessions/2 Recap.md",
+    "Campaign Notes/Items/Brains to Woe.md",
     "Misc Files/Flows/Plot Web.canvas",
     "conflict-files-obsidian-git.md",
     "Campaign Notes/Story/Plot Web.md",
@@ -201,8 +225,6 @@
     "Campaign Notes/Story/All Arcs.md",
     "Campaign Notes/Major NPCs/Woe.md",
     "Mordakesh.md",
-    "Campaign Notes/Items/Fractured Khyber Dragonshard.md",
-    "Campaign Notes/Lore/Rak Tulkesh.md",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Factions.canvas",
