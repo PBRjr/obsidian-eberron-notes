@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "05f143c805a84dff",
+        "id": "577bce1ab1c59330",
         "type": "tabs",
         "children": [
           {
-            "id": "e7846cbed20715a7",
+            "id": "5ec10fbede752475",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Misc Files/Flows/Plot Web.canvas",
                 "viewState": {
-                  "x": 469.5,
-                  "y": -229.5,
+                  "x": 457.0670180722891,
+                  "y": -184.74126506024095,
                   "zoom": -0.3141723540236988
                 }
               }
@@ -173,11 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7846cbed20715a7",
+  "active": "5ec10fbede752475",
   "lastOpenFiles": [
+    "Misc Files/Flows/Plot Web.canvas",
     "conflict-files-obsidian-git.md",
     "Campaign Notes/NPCs/Aeren d'Cannith.md",
-    "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Items/Steelhardt Schematic.md",
     "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
