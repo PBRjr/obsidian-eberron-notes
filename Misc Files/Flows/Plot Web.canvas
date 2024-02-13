@@ -24,9 +24,9 @@
 		{"id":"a41aad56b46b1b5a","type":"text","text":"Draven Flameforge","x":1045,"y":455,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"b88d31bfb3c7f8f5","type":"text","text":"Byeshk Mountains","x":1440,"y":287,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"85773e8b6033d1a3","type":"text","text":"Woe","x":11,"y":-53,"width":250,"height":60,"color":"1"},
-		{"id":"64eed97371c2a743","type":"text","text":"Aeren d'Cannith","x":-390,"y":-900,"width":250,"height":60,"color":"3"},
 		{"id":"b818bf3473be854d","type":"text","text":"Eric's Character","x":-680,"y":-900,"width":250,"height":60,"color":"3"},
-		{"id":"d0097f85efd31964","type":"text","text":"Artifact 3","x":-545,"y":-980,"width":231,"height":60,"color":"3"}
+		{"id":"64eed97371c2a743","type":"text","text":"Aeren d'Cannith","x":-420,"y":-900,"width":250,"height":60,"color":"3"},
+		{"id":"d0097f85efd31964","type":"text","text":"Artifact 3","x":-535,"y":-980,"width":231,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"bac70c1e9d04a13c","fromNode":"7d97e1a39c8769f5","fromSide":"right","toNode":"c5913a0f3a00186c","toSide":"left","toEnd":"none"},

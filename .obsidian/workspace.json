@@ -15,9 +15,9 @@
               "state": {
                 "file": "Misc Files/Flows/Plot Web.canvas",
                 "viewState": {
-                  "x": -120.00656719845705,
-                  "y": -481.84283802380594,
-                  "zoom": -0.1111110432942708
+                  "x": 231.5,
+                  "y": -276.99998107910164,
+                  "zoom": 0
                 }
               }
             }
@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas"
+                "file": "Campaign Notes/Story/Sessions/3 Plans.md"
               }
             }
           }
@@ -196,14 +198,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "772be329151e2bbf",
+  "active": "e3a705c17f4a55df",
   "lastOpenFiles": [
+    "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/NPCs/Aeren d'Cannith.md",
     "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
     "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
-    "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Story/Encounters/Skill Challenge House Fire.md",
     "Campaign Notes/Places/Underdark/The Temple of the Endless Rage.md",
     "Misc Files/Templates/Important Places.md",
@@ -224,7 +226,6 @@
     "Campaign Notes/Lore/Draconic Prophecy.md",
     "Campaign Notes/Lore/Day of Mourning.md",
     "Campaign Notes/Lore/Sharn Inquisitor Newspaper/Skyway's Floating Gardens Flourish with Rare Flora.md",
-    "Campaign Notes/Lore/Sharn Inquisitor Newspaper/Historic Treaty of Thronehold Ushers In New Era of Peace.md",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Timeline.canvas"
   ]
