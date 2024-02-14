@@ -1,0 +1,6 @@
+- Very hung up on kobolds
+- Miri overheard that the party is going to travel to Sharn next, Will ask [[Aeren d'Cannith]] about getting them passage through the gate into the city
+	- Is also asking Aeren about the Schematics from Geralt's parents
+	- Will also provide them with horses free of charge
+- The party is going to get up early in the morning and attempt to ambush the [[Boromar Gang Campsite]]
+- The party inquired about the Elvish owner of [[The Airship|The Merkentile]]

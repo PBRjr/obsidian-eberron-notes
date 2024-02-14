@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+                "file": "Campaign Notes/Story/Sessions/3 Recap.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+                "file": "Campaign Notes/Story/Sessions/3 Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+                "file": "Campaign Notes/Story/Sessions/3 Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md"
+                "file": "Campaign Notes/Story/Sessions/3 Recap.md"
               }
             }
           },
@@ -186,8 +186,9 @@
   },
   "active": "43cf07e55a4cb79c",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Sessions/2 Recap.md",
     "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+    "Campaign Notes/Story/Sessions/3 Recap.md",
+    "Campaign Notes/Story/Sessions/2 Recap.md",
     "conflict-files-obsidian-git.md",
     "Campaign Notes/Story/Quests/Kobold Cave.md",
     "Campaign Notes/Items/Brains to Woe.md",
@@ -213,7 +214,6 @@
     "Misc Files/Templates/Session Plan Template.md",
     "Campaign Notes/Story/All Arcs.md",
     "Campaign Notes/Major NPCs/Woe.md",
-    "Mordakesh.md",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Factions.canvas",
