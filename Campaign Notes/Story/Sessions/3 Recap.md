@@ -8,3 +8,4 @@
 - Killed the Ankheg and threw it's head in a field
 - Gave the latter to Prissy and got 2 potions of acid resistance
 - Bjorn ate the blueberry pie
+- They found the [[Boromar Challenge Coin]] in the corpse of Orc 2

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "087989f1fd6fe47c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes/Story/Sessions/2 Recap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "43cf07e55a4cb79c",
             "type": "leaf",
             "state": {
@@ -30,9 +18,23 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "429713967892bf26",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Misc Files/Flows/Plot Web.canvas",
+                "viewState": {
+                  "x": -250.05433104120576,
+                  "y": -686.030006584541,
+                  "zoom": -0.5121526371074782
+                }
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +188,13 @@
   },
   "active": "43cf07e55a4cb79c",
   "lastOpenFiles": [
-    "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
+    "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Story/Sessions/3 Recap.md",
     "Campaign Notes/Story/Sessions/2 Recap.md",
+    "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
     "conflict-files-obsidian-git.md",
     "Campaign Notes/Story/Quests/Kobold Cave.md",
     "Campaign Notes/Items/Brains to Woe.md",
-    "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Story/Plot Web.md",
     "Campaign Notes/Items/Steelhardt Schematic.md",
     "Campaign Notes/The Party.md",
@@ -213,7 +215,6 @@
     "Campaign Notes/Story/Sessions/3 Plans.md",
     "Misc Files/Templates/Session Plan Template.md",
     "Campaign Notes/Story/All Arcs.md",
-    "Campaign Notes/Major NPCs/Woe.md",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Factions.canvas",
