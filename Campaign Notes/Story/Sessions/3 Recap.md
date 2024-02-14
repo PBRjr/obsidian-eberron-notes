@@ -4,7 +4,8 @@
 	- Will also provide them with horses free of charge
 - The party is going to get up early in the morning and attempt to ambush the [[Boromar Gang Campsite]]
 - The party inquired about the Elvish owner of [[The Airship|The Merkentile]]
-- They learned about a scholar ([[Professor Baelen ir'Torn]]) and a religious group ([[Church of the Silver Flame]])of guards traveling through the town about 1 or 2 days before the [[Boromar Gang Members]] arrived.
+	- They are suspicious of the merchandise that the ship was carrying
+- They learned about a scholar ([[Professor Baelen ir'Torn]]) and a religious group ([[Church of the Silver Flame]]) of guards traveling through the town about 1 or 2 days before the [[Boromar Gang Members]] arrived.
 - Killed the Ankheg and threw it's head in a field
 - Gave the latter to Prissy and got 2 potions of acid resistance
 - Bjorn ate the blueberry pie
