@@ -56,7 +56,7 @@
 	- Wolfsbane is Norbit's family name
 	- They both adopted the d'Cannith name, then later gave it up after they left the house.
 - Parents died when he was young
-	- Killed by Garick (prior to transformation) as ordered by Marix d'Cannith.
+	- Killed by Vorak (prior to transformation) as ordered by Marix d'Cannith.
 - Geralt's parents originally created the first designs of the Steelhardt while they were a part of House Cannith
 	- It was originally intended to be a way of transferring one's "soul" to a new body, effectively producing immortality.
 		- The consciousness was attached to the Steelhardt in a magical ritual

@@ -35,19 +35,16 @@
             "id": "429713967892bf26",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Misc Files/Flows/Plot Web.canvas",
-                "viewState": {
-                  "x": -136.65189878452267,
-                  "y": -686.030006584541,
-                  "zoom": -0.5121526371074782
-                }
+                "file": "Campaign Notes/Story/Plot Web.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Lore/Day of Mourning.md",
+                "file": "Campaign Notes/Story/Plot Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Lore/Day of Mourning.md",
+                "file": "Campaign Notes/Story/Plot Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Lore/Day of Mourning.md"
+                "file": "Campaign Notes/Story/Plot Web.md"
               }
             }
           },
@@ -199,10 +196,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb8f76b10f8c3934",
+  "active": "429713967892bf26",
   "lastOpenFiles": [
-    "Campaign Notes/NPCs/Aeren d'Cannith.md",
     "Misc Files/Flows/Plot Web.canvas",
+    "Campaign Notes/NPCs/Aeren d'Cannith.md",
+    "Campaign Notes/Lore/Day of Mourning.md",
     "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
     "Campaign Notes/Story/Sessions/3 Recap.md",
     "Campaign Notes/Story/Sessions/2 Recap.md",
@@ -227,7 +225,6 @@
     "Campaign Notes/NPCs",
     "Campaign Notes/Story/Sessions/3 Plans.md",
     "Misc Files/Templates/Session Plan Template.md",
-    "Campaign Notes/Story/All Arcs.md",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Factions.canvas",
