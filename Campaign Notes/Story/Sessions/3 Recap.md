@@ -1,4 +1,4 @@
-- Very hung up on kobolds
+- Very hung up on the Kobolds and their cult being involved in everything (they are)
 - Miri overheard that the party is going to travel to Sharn next, Will ask [[Aeren d'Cannith]] about getting them passage through the gate into the city
 	- Is also asking Aeren about the Schematics from Geralt's parents
 	- Will also provide them with horses free of charge
