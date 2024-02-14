@@ -4,6 +4,4 @@ The [[Dragons of Argonnessen]], combined with the full force of the [[Couatl]], 
 
 Though they can be imprisoned, the Overlords can never be defeated. In modern times, with the Last War's destruction threatening to plunge the entirety of Khorvaire into chaos, the [[Lords of Dust]] threaten to use the prophecy to break their lords bonds.
 
-Knowing that to allow this war to continue would be to release the most dangerous of the Children of Khyber, the Dragons of Argonnessen decided to use their ancient magic to stifle the life of [[Cyre]], knowing it would bring an end to the Last War and disrupt the Overlords' plans.
-
-Should a similar situation arise in the future, [[The Chamber]] will not hesitate to use their terrible and awesome power again to bring stability and maintain order in the face of absolute destruction.
+After learning the location of the Silver Flame, [[Garick]] led demonic forces into the depths of its containment. Armed with the misleading power granted to him by the [[Steelhardt]], Garick attacked the Silver Flame. It defended itself by releasing a portion of its power, causing the Mourning. The protection mechanisms of the Steelhardt within Garick broke under the awesome power of the Flame's retaliation, corrupting Garick into a rage-fueled killer.
