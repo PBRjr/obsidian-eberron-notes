@@ -4,3 +4,4 @@
 	- Will also provide them with horses free of charge
 - The party is going to get up early in the morning and attempt to ambush the [[Boromar Gang Campsite]]
 - The party inquired about the Elvish owner of [[The Airship|The Merkentile]]
+- They learned about a scholar ([[Professor Baelen ir'Torn]]) and a religious group ([[Church of the Silver Flame]])of guards traveling through the town about 1 or 2 days before the [[Boromar Gang Members]] arrived.
