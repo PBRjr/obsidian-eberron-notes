@@ -8,7 +8,7 @@ Aeren is a cunning and charming half-elf Artificer with a mind for pattern recog
 
 - Personality: He is naturally curious, friendly, and charismatic but also a shrewd investigator.
 
-- Mannerisms: He is constantly probing, searching, and looking for hidden meanings.
+- Mannerisms: He is constantly probing, searching, and looking for hidden meanings. He has a knack for pattern recognition.
 
 ### Backstory
 

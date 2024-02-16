@@ -147,19 +147,19 @@
 		- The consciousness of an Overlord can never be contained within a Siberys Dragonshard, it is too closely connected to Siberys.
 	- Instead, the power of Rak Tulkesh corrupted the shard within the device, along with Vorak's body. While this granted him increased power, it came at the cost of a short life.
 	- However, when he attempted to destroy the Silver Flame, the awesome power of the Silver Flame broke the Steelhardt's protection mechanisms, allowing the corrupted power to consume Vorak completely. This gave him a quasi-immortality, similar to Lichdom, but cost him his individuality, turning him into a rage-fueled killer.
-	- The only way to destroy Garick is to complete a ritual that can 'cleanse' the corrupted shard within.
+	- The only way to destroy Vorak is to complete a ritual that can 'cleanse' the corrupted shard within.
 	- It can then be used as a way to 'cleanse' Woe?
 		- It was made to store a consciousness, so it can be used to steal Rak Tulkesh's consciousness from the Fractured Dragonshard (once the fragments are reunited).
 
 - **Villains**
-	- Garick
+	- Vorak
 		- Underwent ritual before Woe using the Steelhardt and led the forces of the LoD in their attack against the Silver Flame on the Day of Mourning.
 			- Due to an inherent failure in the Steelhardt, his attempt to destroy the Silver Flame failed and rebounded, turning him into a rage-fueled creature of destruction, and allowing the Silver Flame to defend itself with the Mourning.
 		- He was sent by Marix d'Cannith to kill Geralt's parents after they fled House Cannith.
 		- Now he roams the land, destroying villages, feeding off the rage of the survivors, and using it to resurrect himself should he fall in battle.
 		- Heart was replaced with the Steelhardt.
-			- The survivors get the unrelenting urge to find Garick and kill him, but if Garick is dead they find the Steelhardt instead.
-			- The rage consumed them, and forces them to plunge the artifact into their own chest, killing them, and allowing Garick to resurrect through their body.
+			- The survivors get the unrelenting urge to find Vorak and kill him, but if Vorak is dead they find the Steelhardt instead.
+			- The rage consumed them, and forces them to plunge the artifact into their own chest, killing them, and allowing Vorak to resurrect through their body.
 
 	- Woe
 		- Was killed by Lick's father who was wearing a dragonshard fragment
