@@ -145,8 +145,8 @@
 	- This failed because:
 		- It was intended for a consciousness to take over a corpse, not to absorb a great power into a living body
 		- The consciousness of an Overlord can never be contained within a Siberys Dragonshard, it is too closely connected to Siberys.
-	- Instead, the power of Rak Tulkesh corrupted the shard within the device, along with Garick's body. While this granted him increased power, it came at the cost of a short life.
-	- However, when he attempted to destroy the Silver Flame, the strange magic of the Mourning caused most of Garick's personality to be cast out and replaced by a desire to kill and destroy, while the shard within the machine now continuously seeks out bodies to fuel him. 
+	- Instead, the power of Rak Tulkesh corrupted the shard within the device, along with Vorak's body. While this granted him increased power, it came at the cost of a short life.
+	- However, when he attempted to destroy the Silver Flame, the awesome power of the Silver Flame broke the Steelhardt's protection mechanisms, allowing the corrupted power to consume Vorak completely. This gave him a quasi-immortality, similar to Lichdom, but cost him his individuality, turning him into a rage-fueled killer.
 	- The only way to destroy Garick is to complete a ritual that can 'cleanse' the corrupted shard within.
 	- It can then be used as a way to 'cleanse' Woe?
 		- It was made to store a consciousness, so it can be used to steal Rak Tulkesh's consciousness from the Fractured Dragonshard (once the fragments are reunited).
