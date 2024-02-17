@@ -42,7 +42,7 @@
 - Can point PCs to areas of concern
 
 **Innkeeper Jorna**
-- Gnome innkeeper at the *Sleepy Owl Inn*
+- Human innkeeper at the *Sleepy Owl Inn*
 - Gossipful, knows about everything happening in town
 - May overhear something useful from patrons
 
