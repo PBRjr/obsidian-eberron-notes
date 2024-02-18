@@ -1,5 +1,5 @@
 - Very hung up on the Kobolds and their cult being involved in everything (they aren't)
-	- The oiled up kobold escape and wandered into the Boromar Gang campsite, is now restrained there in a 
+	- The oiled up kobold escape and wandered into the Boromar Gang campsite, is now restrained there.
 - Miri overheard that the party is going to travel to Sharn next, Will ask [[Aeren d'Cannith]] about getting them passage through the gate into the city
 	- Is also asking Aeren about the Schematics from Geralt's parents
 		- He recognizes them as being related to secret Cannith dealings he has been looking into.

@@ -15,8 +15,8 @@
               "state": {
                 "file": "Misc Files/Flows/Plot Web.canvas",
                 "viewState": {
-                  "x": 529.6628288004141,
-                  "y": -81.31214982349306,
+                  "x": 488.51026398392787,
+                  "y": -240.04347125851186,
                   "zoom": -0.5555555216471354
                 }
               }
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Recap.md",
+                "file": "Campaign Notes/Story/Sessions/4 Plans.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Recap.md",
+                "file": "Campaign Notes/Story/Sessions/4 Plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Recap.md",
+                "file": "Campaign Notes/Story/Sessions/4 Plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Recap.md"
+                "file": "Campaign Notes/Story/Sessions/4 Plans.md"
               }
             }
           }
@@ -186,10 +186,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0be984901d0edea6",
+  "active": "a6604752702f2141",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
     "Campaign Notes/Story/Sessions/3 Recap.md",
+    "Campaign Notes/Story/Sessions/4 Plans.md",
+    "Campaign Notes/NPCs/Aeren d'Cannith.md",
+    "Misc Files/Flows/Plot Web.canvas",
+    "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
     "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Story/Sessions/2 Recap.md",
     "Campaign Notes/Lore/Galifar Calender.md",
@@ -197,9 +200,7 @@
     "Campaign Notes/Items/Intel on Baelen ir'Torn.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Members.md",
     "Campaign Notes/Story/Plot Web.md",
-    "Misc Files/Flows/Plot Web.canvas",
     "conflict-files-obsidian-git.md",
-    "Campaign Notes/NPCs/Aeren d'Cannith.md",
     "Campaign Notes/Items/Steelhardt Schematic.md",
     "Campaign Notes/Places/Khorvaire/Breland/Shavalant.md",
     "Campaign Notes/Story/Encounters/Skill Challenge House Fire.md",
@@ -214,7 +215,6 @@
     "Campaign Notes/Places/Khorvaire/Breland/Sharn/Blackstone Church.md",
     "Campaign Notes/Places/Khorvaire.md",
     "Campaign Notes/Places/Eberron.md",
-    "Campaign Notes/Places/Argonnessen.md",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Timeline.canvas"
   ]

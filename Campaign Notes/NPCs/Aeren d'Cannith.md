@@ -16,7 +16,7 @@ A lower-ranking member of[[ House Cannith]], Aeren has always been more interest
 
 ### Motivations
 
-- Alignment: Chaotic Good
+- Alignment: Chaotic Goo
 - Short term goals: Unravel the mystery behind the coded documents.
 - Long term aspirations: Expose secrets from Eberron's past.
 
