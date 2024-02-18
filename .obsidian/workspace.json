@@ -34,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/4 Plans.md",
+                "file": "Misc Files/Flows/Plot Web.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/4 Plans.md",
+                "file": "Misc Files/Flows/Plot Web.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/4 Plans.md"
+                "file": "Misc Files/Flows/Plot Web.canvas"
               }
             }
           }
@@ -186,10 +185,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6604752702f2141",
+  "active": "684f00f356ac1492",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Sessions/3 Recap.md",
     "Campaign Notes/Story/Sessions/4 Plans.md",
+    "Campaign Notes/Story/Sessions/3 Recap.md",
     "Campaign Notes/NPCs/Aeren d'Cannith.md",
     "Misc Files/Flows/Plot Web.canvas",
     "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
