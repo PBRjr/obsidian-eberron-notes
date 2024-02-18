@@ -28,19 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c8e9e1dd9738be9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
+                "file": "Campaign Notes/Story/Sessions/3 Recap.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
+                "file": "Campaign Notes/Story/Sessions/3 Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Plans.md",
+                "file": "Campaign Notes/Story/Sessions/3 Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Sessions/3 Plans.md"
+                "file": "Campaign Notes/Story/Sessions/3 Recap.md"
               }
             }
           }
@@ -200,10 +188,10 @@
   },
   "active": "0be984901d0edea6",
   "lastOpenFiles": [
-    "Campaign Notes/Story/Sessions/3 Recap.md",
-    "Campaign Notes/Story/Sessions/2 Recap.md",
-    "Campaign Notes/Story/Sessions/3 Plans.md",
     "Campaign Notes/Story/Encounters/Boromar Gang Campsite.md",
+    "Campaign Notes/Story/Sessions/3 Recap.md",
+    "Campaign Notes/Story/Sessions/3 Plans.md",
+    "Campaign Notes/Story/Sessions/2 Recap.md",
     "Campaign Notes/Lore/Galifar Calender.md",
     "Misc Files/Statblocks.md",
     "Campaign Notes/Items/Intel on Baelen ir'Torn.md",

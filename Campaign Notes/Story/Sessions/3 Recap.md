@@ -1,4 +1,5 @@
 - Very hung up on the Kobolds and their cult being involved in everything (they aren't)
+	- The oiled up kobold escape and wandered into the Boromar Gang campsite, is now restrained there in a 
 - Miri overheard that the party is going to travel to Sharn next, Will ask [[Aeren d'Cannith]] about getting them passage through the gate into the city
 	- Is also asking Aeren about the Schematics from Geralt's parents
 		- He recognizes them as being related to secret Cannith dealings he has been looking into.
@@ -8,6 +9,6 @@
 	- They are suspicious of the merchandise that the ship was carrying
 - They learned about a scholar ([[Professor Baelen ir'Torn]]) and a religious group ([[Church of the Silver Flame]]) of guards traveling through the town about 1 or 2 days before the [[Boromar Gang Members]] arrived.
 - Killed the Ankheg and threw it's head in a field
-- Gave the latter to Prissy and got 2 potions of acid resistance
+- Gave the letter to Prissy and got 2 potions of acid resistance
 - Bjorn ate the blueberry pie
 - They found the [[Boromar Challenge Coin]] in the corpse of Orc 2
