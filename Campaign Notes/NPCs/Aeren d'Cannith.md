@@ -12,8 +12,7 @@ Aeren is a cunning and charming half-elf Artificer with a mind for pattern recog
 
 ### Backstory
 
-A lower-ranking member of[[ House Cannith]], Aeren has always been more interested in uncovering secrets than creating magical devices. This curiosity led him to become an information broker trading in secrets in Sharn's underworld.
-
+A proficient and acclaimed artificer of House Cannith ()
 ### Motivations
 
 - Alignment: Chaotic Good
