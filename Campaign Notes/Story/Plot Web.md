@@ -180,10 +180,10 @@
 
 - **Factions**
 	- House Cannith
-		- Marix d'Cannith ordered the use of the Steelhardt
+		- Marix d'Cannith ordered the use of the Steelhardt in 
 	- Church of the Silver Flame
 		- ***Secret***: Doesn't actually know where the Silver Flame is kept.
-		- ***Motication:*** Find the Silver Flame and claim dominion over it, to protect it.
+		- ***Motivation:*** Find the Silver Flame and claim dominion over it, to protect it.
 		- Know of the Boromar Clan's attempts to track down Baelin ir'Torn for the dragonshard fragment.
 		- Are working with Baelen trying to locate the Silver Flame, giving him their resources.
 	- Boromar clan
