@@ -180,7 +180,9 @@
 
 - **Factions**
 	- House Cannith
-		- Marix d'Cannith ordered the use of the Steelhardt in 
+		- The leader of Cannith south is Marix d'Cannith.
+			- He was kidnapped and replaced by a shape-shifting agent of the Lords of Dust a month before the 
+		- Marix d'Cannith ordered the use of the Steelhardt in the ritual involving Garick.
 	- Church of the Silver Flame
 		- ***Secret***: Doesn't actually know where the Silver Flame is kept.
 		- ***Motivation:*** Find the Silver Flame and claim dominion over it, to protect it.
