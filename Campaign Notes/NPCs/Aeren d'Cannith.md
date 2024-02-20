@@ -15,7 +15,7 @@ Aeren is a cunning and charming half-elf Artificer with a mind for pattern recog
 A proficient and acclaimed artificer of House Cannith ()
 ### Motivations
 
-- Alignment: Chaotic Good
+- Alignment: Chaotic Goo
 - Short term goals: Unravel the mystery behind the coded documents.
 - Long term aspirations: Expose secrets from Eberron's past.
 

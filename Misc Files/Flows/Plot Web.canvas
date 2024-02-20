@@ -28,11 +28,11 @@
 		{"id":"a84c11ddcb40b3aa","type":"text","text":"Geralt's Parents","x":1005,"y":-608,"width":250,"height":60,"color":"#ff00ff"},
 		{"id":"d0097f85efd31964","type":"text","text":"Steelhardt","x":765,"y":-290,"width":231,"height":58,"color":"6"},
 		{"id":"b818bf3473be854d","type":"text","text":"Geralt Wolfsbane","x":1420,"y":-488,"width":250,"height":60,"color":"#ff00ff"},
-		{"id":"24b5f0140402cc55","type":"text","text":"Steelhardt Schematics","x":1338,"y":-743,"width":275,"height":60,"color":"#ff00ff"},
 		{"id":"6f800102ae8db8d6","type":"text","text":"Vorak the Rageblight","x":996,"y":-380,"width":250,"height":60,"color":"1"},
 		{"id":"24953c68b90ee4d9","type":"text","text":"Destroyed Villages","x":1420,"y":-378,"width":250,"height":58},
 		{"id":"a1fd39f1c885abad","type":"text","text":"Sibernyan - Celestial Dialect","x":1065,"y":-200,"width":210,"height":68},
-		{"id":"64eed97371c2a743","type":"text","text":"Aeren d'Cannith","x":235,"y":-940,"width":250,"height":60,"color":"4"}
+		{"id":"64eed97371c2a743","type":"text","text":"Aeren d'Cannith","x":235,"y":-940,"width":250,"height":60,"color":"4"},
+		{"id":"24b5f0140402cc55","type":"text","text":"Steelhardt Schematics","x":1408,"y":-768,"width":275,"height":60,"color":"#ff00ff"}
 	],
 	"edges":[
 		{"id":"bac70c1e9d04a13c","fromNode":"7d97e1a39c8769f5","fromSide":"right","toNode":"c5913a0f3a00186c","toSide":"left","toEnd":"none"},
@@ -74,7 +74,6 @@
 		{"id":"5579c9c8dfeb5a73","fromNode":"5ca42467c5b279aa","fromSide":"right","toNode":"0c4a5e8bc856075f","toSide":"left","toEnd":"none"},
 		{"id":"16eeba17934c628e","fromNode":"7105545bb54889a7","fromSide":"top","toNode":"5ca42467c5b279aa","toSide":"top","toEnd":"none"},
 		{"id":"2a58a80328470f68","fromNode":"fa966a602d97b4bf","fromSide":"top","toNode":"7105545bb54889a7","toSide":"left","toEnd":"none"},
-		{"id":"3c8d2f8e735dec87","fromNode":"0c4a5e8bc856075f","fromSide":"bottom","toNode":"fa966a602d97b4bf","toSide":"top","toEnd":"none"},
 		{"id":"2635ca4428ef3fb1","fromNode":"be62fd3ac77152e0","fromSide":"left","toNode":"fa966a602d97b4bf","toSide":"right","toEnd":"none"},
 		{"id":"771d757c804a3592","fromNode":"39bccfd85ea56cc1","fromSide":"bottom","toNode":"c5913a0f3a00186c","toSide":"top","toEnd":"none"},
 		{"id":"f0835010df865f6a","fromNode":"6ca7f3f38e3ed230","fromSide":"right","toNode":"39bccfd85ea56cc1","toSide":"left","toEnd":"none"},
@@ -104,6 +103,7 @@
 		{"id":"d00e32a1633a41f1","fromNode":"a1fd39f1c885abad","fromSide":"left","toNode":"39bccfd85ea56cc1","toSide":"right","toEnd":"none"},
 		{"id":"11baa0d0916e6b4d","fromNode":"a1fd39f1c885abad","fromSide":"left","toNode":"c5913a0f3a00186c","toSide":"right","toEnd":"none"},
 		{"id":"7bcb5e5af45cf782","fromNode":"6f800102ae8db8d6","fromSide":"right","toNode":"24953c68b90ee4d9","toSide":"left","toEnd":"none"},
-		{"id":"977860cd428727d1","fromNode":"20f75aab969a0225","fromSide":"left","toNode":"6ca7f3f38e3ed230","toSide":"bottom"}
+		{"id":"977860cd428727d1","fromNode":"20f75aab969a0225","fromSide":"left","toNode":"6ca7f3f38e3ed230","toSide":"bottom"},
+		{"id":"3c8d2f8e735dec87","fromNode":"0c4a5e8bc856075f","fromSide":"bottom","toNode":"fa966a602d97b4bf","toSide":"top","toEnd":"none"}
 	]
 }
