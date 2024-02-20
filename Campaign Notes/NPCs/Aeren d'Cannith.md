@@ -12,7 +12,7 @@ Aeren is a cunning and charming half-elf Artificer with a mind for pattern recog
 
 ### Backstory
 
-A proficient and acclaimed artificer of House Cannith ()
+A proficient and acclaimed artificer of House Cannith (invented the Everbright lantern), Aeren holds the title of the youngest Master Artificer House Cannith has ever known. Having been born outside of the Dragonmarked house to an Elven mother and human father, Aeren is also
 ### Motivations
 
 - Alignment: Chaotic Goo
