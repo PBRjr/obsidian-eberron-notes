@@ -177,6 +177,10 @@
 		- Bjorn's brother
 		- Usurped Bjorn's position as the Chieftian of the Stormpeak Clan
 		- Killed Draven and took his fractured dragonshard fragment, further increasing his power and dark taint on the surrounding land.
+
+- **Factions**
+	- House Cannith
+		- Marix d'Cannith
 	- Church of the Silver Flame
 		- ***Secret***: Doesn't actually know where the Silver Flame is kept.
 		- ***Motication:*** Find the Silver Flame and claim dominion over it, to protect it.
