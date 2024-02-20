@@ -180,7 +180,7 @@
 
 - **Factions**
 	- House Cannith
-		- Marix d'Cannith
+		- Marix d'Cannith ordered the use of the Steelhardt
 	- Church of the Silver Flame
 		- ***Secret***: Doesn't actually know where the Silver Flame is kept.
 		- ***Motication:*** Find the Silver Flame and claim dominion over it, to protect it.
