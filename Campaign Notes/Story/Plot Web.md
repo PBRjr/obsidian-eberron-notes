@@ -87,6 +87,7 @@
 	- Better to be born good or overcome evil nature through great struggle?
 	- Most villains aren't purely evil, just have their own justifications.
 	- What does it take to redeem oneself of a great failure? When does one become irredeemable?
+
 - **Central Tension**: The Silver Flame is missing, the Lords of Dust are trying to free Rak Tulkesh
 	- ***Plot Secret***: The Mourning was caused by the Silver Flame itself. 
 		- Originally located in Cyre, it was discovered by the Lords of Dust and almost destroyed
@@ -162,15 +163,15 @@
 	- Vorak
 		- Underwent ritual before Woe using the Steelhardt and led the forces of the LoD in their attack against the Silver Flame on the Day of Mourning.
 			- Due to an inherent failure in the Steelhardt, his attempt to destroy the Silver Flame failed and rebounded, turning him into a rage-fueled creature of destruction, and allowing the Silver Flame to defend itself with the Mourning.
-		- He was sent by Marix d'Cannith to kill Geralt's parents after they fled House Cannith.
+		- He was sent by Marix d'Clone to kill Geralt's parents after they fled House Cannith.
 		- Now he roams the land, destroying villages, feeding off the rage of the survivors, and using it to resurrect himself should he fall in battle.
 		- Heart was replaced with the Steelhardt.
 			- The survivors get the unrelenting urge to find Vorak and kill him, but if Vorak is dead they find the Steelhardt instead.
 			- The rage consumed them, and forces them to plunge the artifact into their own chest, killing them, and allowing Vorak to resurrect through their body.
 
 	- Woe
-		- Was killed by Lick's father who was wearing a dragonshard fragment
-		- Tainted soul due to the ritual that implanted him with the main piece of the Fractured Dragonshard
+		- Was killed by Lick's father who was wearing a dragonshard fragment, during a battle in the Last War.
+		- He was revived by Mordakesh a
 		- With the whispers of Rak Tulkesh in his head, he seeks to reunite the shard fragments and use the power to unleash his Overlord upon Eberron.
 
 	- Mordakesh
