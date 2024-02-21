@@ -123,6 +123,8 @@
 			- Due to his invention of the ingenious Everbright Lantern
 		- He is now the Mentor to Miri, the magewright currently living in Shavelant.
 		- Aeren knew Geralt's parents for a short time when he was adopted into the House.
+		- He does not know what Geralt's schematics say, but he knows that they are written in Sibernyan
+		- He has the resources 
 
 **Artifacts**
 - Artifact 1: ***Fractured Khyber Dragonshard & Fragments***
