@@ -96,7 +96,7 @@
 		- Requires a sacrifice of a morally "silver" (silver is a shade of gray) character to revive
 
 - **Significant NPCs**
-	- **Varyn "The Valiant" Grayburn**
+	- Varyn "The Valiant" Grayburn
 		- ***Major Regret:*** Varyn feels as though he has never done anything right, and all of his actions have only diminished the sacrifice his kind made.
 		- ***Major Motivation:*** To protect the world against the Overlords, and become worthy of calling himself a Couatl
 		- Last remaining Couatl, was too scared to sacrifice himself for the Silver Flame
@@ -118,6 +118,10 @@
 			- The dragonshard fragment
 		- Draven took an Oath to protect the Shard with his life, and to use the light of Siberys to hold back the forces of Khyber
 
+	- Aeren d'Cannith
+		- Was adopted into House Cannith about 20 years ago at the age of 18 y/o as the Youngest Master Artificer (and only Master Artificer without a Mark of Creation) ever named within the house.
+			- Due to his invention of the ingenious Everbright Lantern
+		- He is now the Mentor to Miri, the magewright currently living in Shavelant.
 **Artifacts**
 - Artifact 1: ***Fractured Khyber Dragonshard & Fragments***
 	- Their existence was kept a closely guarded secret by Varyn.
