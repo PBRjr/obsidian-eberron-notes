@@ -181,16 +181,19 @@
 - **Factions**
 	- House Cannith
 		- The leader of Cannith south is Marix d'Cannith.
-			- He was kidnapped and replaced by a shape-shifting agent (AKA Marix d'Clone) sometime before the Steelhardt was completed and used on Garick.
+			- He was kidnapped and replaced by a shape-shifting agent (AKA Marix d'Clone) sometime before the Steelhardt was completed and used on Vorack.
 			- The real Marix is being held? Or is he dead?
-		- Marix d'Clone ordered the use of the Steelhardt in the ritual involving Garick.
+		- Marix d'Clone ordered the use of the Steelhardt in the ritual involving Vorack.
 		- He also put the hit out on Geralt's parents.
 		- ***Secret***: Marix d'Cannith was replaced by a LoD shapeshifter several years ago, before the Day of Mourning.
+		- *Needs developing:* Who is the shapeshifter specifically? What are his motivations?
+
 	- Church of the Silver Flame
 		- ***Secret***: Doesn't actually know where the Silver Flame is kept.
 		- ***Motivation:*** Find the Silver Flame and claim dominion over it, to protect it.
 		- Know of the Boromar Clan's attempts to track down Baelin ir'Torn for the dragonshard fragment.
 		- Are working with Baelen trying to locate the Silver Flame, giving him their resources.
+
 	- Boromar clan
 		- Seeks the Dragonshard and fragments for none other than the promise of wealth and power
 		- Have been tracking Baelen ir'Torn
