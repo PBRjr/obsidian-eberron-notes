@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Campaign Notes-merged.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Campaign Notes-merged.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Campaign Notes-merged.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md"
+                "file": "Campaign Notes-merged.md"
               }
             }
           },
@@ -197,8 +197,9 @@
   },
   "active": "43cf07e55a4cb79c",
   "lastOpenFiles": [
-    "Campaign Notes/NPCs/Woe.md",
     "Campaign Notes/Story/Plot Web.md",
+    "Campaign Notes-merged.md",
+    "Campaign Notes/NPCs/Woe.md",
     "Campaign Notes/NPCs/Aeren d'Cannith.md",
     "Campaign Notes/Lore/Day of Mourning.md",
     "Campaign Notes/Story/Sessions/4 Plans.md",
@@ -224,7 +225,6 @@
     "Campaign Notes/NPCs/Axe man.md",
     "Campaign Notes/NPCs",
     "Campaign Notes/Story/Sessions/3 Plans.md",
-    "Misc Files/Templates/Session Plan Template.md",
     "Misc Files/Flows/Timeline.canvas",
     "Misc Files/Flows/Marix Arc.canvas",
     "Misc Files/Flows/Factions.canvas",
