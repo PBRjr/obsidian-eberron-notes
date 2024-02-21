@@ -121,7 +121,7 @@
 		- He is now the Mentor to Miri, the magewright currently living in Shavelant.
 		- Aeren knew Geralt's parents for a short time when he was adopted into the House.
 		- He does not know what Geralt's schematics say, but he knows that they are written in Sibernyan
-		- 
+		- He knows House Cannith had something to do with the Day of Mourning, and is trying to find out more. (needs development: why does he know something is up?)
 
 **Artifacts**
 - Artifact 1: ***Fractured Khyber Dragonshard & Fragments***
