@@ -14,7 +14,7 @@
 	- Joined and became friends with Bjorn's father after his birth
 	- Was present for Hrothgar's birth while wearing a dragonshard fragment
 	- Left shortly after once he realized what he had caused
-- Hrothgar Ulfr (antagonist)
+- Hrothgar Ulfr (Bjorn's brother)
 	- Was born when a piece of the fractured shard was nearby, tainting his soul
 	- Slowly gained unnatural (sorcerer-like) powers that use his evil and rage as fuel, increasing the dark cancers hold on him
 	- Fueled by these emotions and the dark taint on his soul, he led a group of clan members and usurped his brother's rule.
@@ -180,7 +180,7 @@
 			- Ever since Varyn went looking for them
 
 - **Other antagonists**
-	- Hrothgar
+	- Hrothgar 
 		- Bjorn's brother
 		- Usurped Bjorn's position as the Chieftian of the Stormpeak Clan
 		- Killed Draven and took his fractured dragonshard fragment, further increasing his power and dark taint on the surrounding land.
@@ -193,7 +193,7 @@
 		- Marix d'Clone ordered the use of the Steelhardt in the ritual involving Vorack.
 		- He also put the hit out on Geralt's parents.
 		- ***Secret***: Marix d'Cannith was replaced by a LoD shapeshifter several years ago, before the Day of Mourning.
-		- *Needs developing:* Who is the shapeshifter specifically? What are his motivations?
+		- (Needs developing: Who is the shapeshifter specifically? What are his motivations?)
 
 	- Church of the Silver Flame
 		- ***Secret***: Doesn't actually know where the Silver Flame is kept.
