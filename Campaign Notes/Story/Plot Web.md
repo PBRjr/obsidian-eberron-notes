@@ -122,6 +122,8 @@
 		- Was adopted into House Cannith about 20 years ago at the age of 18 y/o as the Youngest Master Artificer (and only Master Artificer without a Mark of Creation) ever named within the house.
 			- Due to his invention of the ingenious Everbright Lantern
 		- He is now the Mentor to Miri, the magewright currently living in Shavelant.
+		- Aeren knew Geralt's parents for a short time when he was adopted into the House.
+
 **Artifacts**
 - Artifact 1: ***Fractured Khyber Dragonshard & Fragments***
 	- Their existence was kept a closely guarded secret by Varyn.
