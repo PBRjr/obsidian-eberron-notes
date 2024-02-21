@@ -171,8 +171,10 @@
 
 	- Woe
 		- Was killed by Lick's father who was wearing a dragonshard fragment, during a battle in the Last War.
-		- He was revived by Mordakesh a
-		- With the whispers of Rak Tulkesh in his head, he seeks to reunite the shard fragments and use the power to unleash his Overlord upon Eberron.
+		- He was revived by Mordakesh and the resources of the Lords of Dust.
+		- He accepted a deal from Mordakesh to undergo a profane ritual, implanting the main piece of the Fractured Khyber Dragonshard into his chest.
+		- This gave him dark powers, sourced from Rak Tulkesh's consciousness, which is trapped within.
+		- With the whispers of Rak Tulkesh in his head, he seeks to reunite the shard fragments and use the power to unleash the Overlord upon Eberron once again.
 
 	- Mordakesh
 		- Lieutenant to Rak Tulkesh
