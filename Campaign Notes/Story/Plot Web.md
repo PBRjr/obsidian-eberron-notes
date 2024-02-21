@@ -88,10 +88,8 @@
 - **Central Tension**: The Silver Flame is missing, the Lords of Dust are trying to free Rak Tulkesh
 	- ***Plot Secret***: The Mourning was caused by the Silver Flame itself. 
 		- Originally located in Cyre, it was discovered by the Lords of Dust and almost destroyed
-			- How was it discovered?
-		- Caused the Mourning to protect itself, but used most of its power doing so
+		- The silver flame caused the Mourning to protect itself, but used most of its power doing so
 		- Slowly burning out, Overlords are straining against their bonds, causing chaos across the world
-		- Requires a sacrifice of a morally "silver" (silver is a shade of gray) character to revive
 
 - **Significant NPCs**
 	- Varyn "The Valiant" Grayburn
@@ -117,11 +115,13 @@
 		- Draven took an Oath to protect the Shard with his life, and to use the light of Siberys to hold back the forces of Khyber
 
 	- Aeren d'Cannith
+		- ***Major Motivation:*** To discover the extent of House Cannith's involvement in the Day of Mourning
 		- Was adopted into House Cannith about 20 years ago at the age of 18 y/o as the Youngest Master Artificer (and only Master Artificer without a Mark of Creation) ever named within the house.
 			- Due to his invention of the ingenious Everbright Lantern
 		- He is now the Mentor to Miri, the magewright currently living in Shavelant.
 		- Aeren knew Geralt's parents for a short time when he was adopted into the House.
 		- He does not know what Geralt's schematics say, but he knows that they are written in Sibernyan
+		- 
 
 **Artifacts**
 - Artifact 1: ***Fractured Khyber Dragonshard & Fragments***
