@@ -78,11 +78,8 @@
 - Learned of eldritch power through his father
 - Made a pact w/ the Traveler in the sewers
 - Would be randomly taken to a different plane for the Traveler's duties
-
-
-
 ## Story Plot Pieces
-- **Themes**: 
+- **Themes**:
 	- What makes a person good? 
 	- Better to be born good or overcome evil nature through great struggle?
 	- Most villains aren't purely evil, just have their own justifications.
