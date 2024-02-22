@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Campaign Notes/Story/Sessions/1 Recap.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Campaign Notes/Story/Sessions/1 Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Campaign Notes/Story/Sessions/1 Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md"
+                "file": "Campaign Notes/Story/Sessions/1 Recap.md"
               }
             }
           },
@@ -198,9 +198,9 @@
   },
   "active": "429713967892bf26",
   "lastOpenFiles": [
+    "Campaign Notes/Story/Plot Web.md",
     "Campaign Notes-merged.md",
     "Campaign Notes/NPCs/Woe.md",
-    "Campaign Notes/Story/Plot Web.md",
     "Campaign Notes/NPCs/Aeren d'Cannith.md",
     "Campaign Notes/Lore/Day of Mourning.md",
     "Campaign Notes/Story/Sessions/4 Plans.md",
