@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43cf07e55a4cb79c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0ad4da76b723ce9f",
             "type": "leaf",
             "state": {
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Campaign Notes/NPCs/Woe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md",
+                "file": "Campaign Notes/NPCs/Woe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Story/Plot Web.md"
+                "file": "Campaign Notes/NPCs/Woe.md"
               }
             }
           },
@@ -195,13 +183,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "43cf07e55a4cb79c",
+  "active": "0ad4da76b723ce9f",
   "lastOpenFiles": [
-    "Campaign Notes-merged.docx",
     "Campaign Notes-merged.md",
+    "Campaign Notes/Story/Plot Web.md",
+    "Campaign Notes-merged.docx",
     "Campaign Notes/Story/Sessions/1 Recap.md",
     "Campaign Notes-merged.docs",
-    "Campaign Notes/Story/Plot Web.md",
     "Campaign Notes/NPCs/Woe.md",
     "Campaign Notes/NPCs/Aeren d'Cannith.md",
     "Campaign Notes/Lore/Day of Mourning.md",
@@ -240,7 +228,6 @@
     "Misc Files/Images/Woe portrait.png",
     "Campaign Notes/Minor NPCs",
     "Campaign Notes/Story/Sessions/0",
-    "Campaign Notes/Story/Encounters",
     "Flows/Session Plans.canvas",
     "Misc Files/Reevaluate/Lore Flow.canvas",
     "Untitled.canvas",
