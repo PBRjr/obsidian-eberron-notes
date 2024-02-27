@@ -184,7 +184,7 @@
 		- Usurped Bjorn's position as the Chieftian of the Stormpeak Clan
 		- Killed Draven and took his fractured dragonshard fragment and white flameblade, further increasing his power and dark taint on the surrounding land.
 
-- **Faction Pieces**
+- **Factions**
 	- House Cannith
 		- The leader of Cannith south is Marix d'Cannith.
 			- He was kidnapped and replaced by a shape-shifting agent (AKA Marix d'Clone) sometime before the Steelhardt was completed and used on Vorack.
