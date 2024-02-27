@@ -34,8 +34,7 @@
 
 #### Encounters
 
-- **Boromar Gang Campsite Encounter**: The outcome of this encounter could shape the party's reputation in Sharn.
-- **Sharn Gatekeepers**: A potential encounter with the guards or officials at the city gates that sets the tone for law and order in Sharn.
+- **Boromar Gang Campsite Encounter**: The outcome of this encounter could shape the party's reputation in Sharn and their status with the Boromar Clan
 
 #### Additional Notes
 
