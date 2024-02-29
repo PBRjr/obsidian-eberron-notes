@@ -24,7 +24,8 @@
 
 #### Locations
 
-- **Boromar Gang Campsite**: Finalize the campsite encounter with detailed maps and NPC strategies.
+- **Boromar Gang Campsite.** Finalize the campsite encounter with detailed maps and NPC strategies.
+- **Shavalant.** 
 
 #### People
 
