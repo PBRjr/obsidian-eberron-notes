@@ -35,8 +35,9 @@
 
 #### Encounters
 
-- **Boromar Gang Campsite Encounter**: The outcome of this encounter could shape the party's reputation in Sharn and their status with the Boromar Clan
-
+- **Boromar Gang Campsite Encounter.** The outcome of this encounter could shape the party's reputation in Sharn and their status with the Boromar Clan
+- **Random Encounters.** If the party aquires horses and begins their journey, they may have a random encounter
+- **Desolated Village.** During their journey, the party will come across a town that was devastated by Vorak, leaving only a few angry survivors, providing opportunity for more random encounters with various creatures.
 #### Additional Notes
 
 - Remember the Ankheg head in the field and decide how it has affected the local area.
