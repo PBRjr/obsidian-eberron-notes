@@ -16,9 +16,9 @@
 - Situation: Depending on the outcome of the campsite encounter, the party may be negotiating safe passage to Sharn, gathering intelligence, or dealing with the aftermath of a fight.
 - Character Moments: Provide a chance for characters to interact with Garhorn, potentially leveraging his connections for their benefit.
 
-**Moment 5**
+**Moment 3**
 
-- Situation: The party discovers the consequences of their Ankheg head antics, which could range from a comedic misunderstanding to an unexpected new quest.
+- Situation:  The party sees the consequences of throwing the Ankheg head away.
 - Encounter: A young orc boy named [[Oak Dryfire]] has begun to drag the head around like a pet. He also recognizes Draven as the *Knight of the North*
 - Character Moments: Provide opportunities for humor and light-hearted roleplay, allowing the party to engage with the locals in unexpected ways.
 

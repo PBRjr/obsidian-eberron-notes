@@ -1,28 +1,3 @@
-## Mourning weapon usage (25% each attack)
-
-|Roll (d20)|Effect Description|
-|---|---|
-|1|The weapon emits a blinding flash, causing all creatures within 10 feet to be blinded for 1 round.|
-|2|The weapon's user feels a surge of energy, gaining advantage on their next attack roll.|
-|3|A mournful wail emanates from the weapon, causing all creatures within 20 feet to become frightened for 1 round.|
-|4|The weapon glows with a radiant light, shedding bright light in a 20-foot radius and dim light for an additional 20 feet.|
-|5|The weapon becomes incredibly heavy for a moment, causing the user to drop it.|
-|6|The user's wounds begin to close, healing them for 1d6 hit points.|
-|7|A ghostly apparition appears for a moment, attempting to grapple the nearest creature.|
-|8|The weapon's blade becomes sharper, dealing an additional 1d4 damage on the next hit.|
-|9|The ground around the user becomes unstable, turning into difficult terrain in a 10-foot radius.|
-|10|The weapon vibrates with power, granting the user a +1 bonus to AC for 1 round.|Positive|
-|11|A sudden gust of mournful wind pushes all creatures within 10 feet of the user 5 feet away.|
-|12|The weapon's user feels invigorated, gaining 10 feet of movement speed for 1 round.|
-|13|The weapon leaks a toxic substance, poisoning the user for 1 round.|
-|14|The weapon hums with a protective aura, granting the user resistance to the next source of damage they receive.|
-|15|The weapon's user hears haunting whispers, becoming distracted and suffering disadvantage on their next attack roll.|
-|16|The weapon releases a burst of energy, allowing the user to immediately take an additional bonus action.|
-|17|The weapon becomes extremely cold, dealing 1d4 cold damage to the user.|
-|18|The weapon resonates with a harmonious tone, granting the user advantage on their next saving throw.|
-|19|The weapon's user feels a sudden weakness, reducing their strength score by 1 for 1 hour.|
-|20|The weapon shines with a guiding light, granting the user a +2 bonus to their next skill check.|
-
 ## Falling In Sharn
 
 To use these tables, when a character falls from height in the City of Towers, first have them roll on the _Outcome_ table. If that entry ends with * then the DM rolls on the _Extra Effects_ table.
@@ -166,28 +141,28 @@ To use these tables, when a character falls from height in the City of Towers, f
 
 ## Random encounters in the wild
 
-|No.|Encounter|Type|
-|---|---|---|
-|1|Bandit Roadblock: A group of bandits demanding tolls.|Combat|
-|2|Stranded Traveler: A lone traveler needs help with a broken wagon.|Exploration|
-|3|Friendly Merchant: A traveling merchant offers rare goods.|Interaction|
-|4|Riddle Bridge: A talking statue blocks a bridge, asking a riddle.|Puzzle|
-|5|Lost Hermit: An eccentric hermit asks for directions.|Interaction|
-|6|Druid's Plea: A druid requests help to heal a sick tree.|Exploration|
-|7|Goblin Ambush: Goblins unexpectedly attack the party.|Combat|
-|8|Mischievous Sprite: A sprite plays tricks, leading to hidden treasure.|Puzzle|
-|9|Collapsed Cave Entrance: Exploration needed to find another way.|Exploration|
-|10|Wandering Minstrels: Musicians with a secret message.|Interaction|
-|11|Lost Puppy: A puppy leads to its owner in trouble.|Exploration|
-|12|Dueling Wizards: Two wizards dueling on the road.|Combat|
-|13|Mysterious Peddler: Sells magical trinkets of dubious origin.|Interaction|
-|14|Abandoned Campsite: Clues lead to a nearby threat or treasure.|Exploration|
-|15|High-speed Chase: A thief rushes past, pursued by guards.|Exploration|
-|16|Escaped Farm Animal: A large, rowdy animal blocks the path.|Exploration|
-|17|Ghostly Apparition: A ghost seeks help to find peace.|Exploration|
-|18|Boisterous Adventurers: A rival party challenges the players.|Interaction|
-|19|Sage's Request: A sage needs rare ingredients found nearby.|Interaction|
-|20|Hidden Shrine: A deity's shrine offers blessings or curses.|Interaction|
+| No. | Encounter                                                              | Type        |
+| --- | ---------------------------------------------------------------------- | ----------- |
+| 1   | Bandit Roadblock: A group of bandits demanding tolls.                  | Combat      |
+| 2   | Stranded Traveler: A lone traveler needs help with a broken wagon.     | Exploration |
+| 3   | Friendly Merchant: A traveling merchant offers rare goods.             | Interaction |
+| 4   | Riddle Bridge: A talking statue blocks a bridge, asking a riddle.      | Puzzle      |
+| 5   | Lost Hermit: An eccentric hermit asks for directions.                  | Interaction |
+| 6   | Druid's Plea: A druid requests help to heal a sick tree.               | Exploration |
+| 7   | Goblin Ambush: Goblins unexpectedly attack the party.                  | Combat      |
+| 8   | Mischievous Sprite: A sprite plays tricks, leading to hidden treasure. | Puzzle      |
+| 9   | Collapsed Cave Entrance: Exploration needed to find another way.       | Exploration |
+| 10  | Wandering Minstrels: Musicians with a secret message.                  | Interaction |
+| 11  | Lost Puppy: A puppy leads to its owner in trouble.                     | Exploration |
+| 12  | Dueling Wizards: Two wizards dueling on the road.                      | Combat      |
+| 13  | Mysterious Peddler: Sells magical trinkets of dubious origin.          | Interaction |
+| 14  | Abandoned Campsite: Clues lead to a nearby threat or treasure.         | Exploration |
+| 15  | High-speed Chase: A thief rushes past, pursued by guards.              | Exploration |
+| 16  | Escaped Farm Animal: A large, rowdy animal blocks the path.            | Exploration |
+| 17  | Ghostly Apparition: A ghost seeks help to find peace.                  | Exploration |
+| 18  | Boisterous Adventurers: A rival party challenges the players.          | Interaction |
+| 19  | Sage's Request: A sage needs rare ingredients found nearby.            | Interaction |
+| 20  | Hidden Shrine: A deity's shrine offers blessings or curses.            | Interaction |
 ## Need Names
 ### Important names
 1. **Eldric "Stormweaver" Thorne**: A name given to a mage known for his control over tempestuous weather.
