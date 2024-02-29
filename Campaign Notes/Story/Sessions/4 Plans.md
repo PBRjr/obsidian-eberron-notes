@@ -1,7 +1,6 @@
 #### Outline
 
 - Prepare handouts for session 4 (e.g., maps of Sharn, notes from NPCs, quest cards for new objectives).
-- Continue developing Draven's evolving dreams, potentially hinting at his past or future challenges.
 - Resolve the Boromar Gang Campsite encounter, including possible outcomes and repercussions.
 
 #### Moments
@@ -10,7 +9,7 @@
 
 - Situation: The party confronts the [[Boromar Gang Campsite]].
 - Encounter: The gang members, including Garhorn and the remaining orcs, will react based on the party's approach.
-- Character Moments: Allow for players to strategize and play to their strengths, whether that's diplomacy, combat, or cunning.
+- Character Moments: They notice a small trial of oil leading to the campsite.
 
 **Moment 2**
 
@@ -29,8 +28,9 @@
 
 #### People
 
-- **Garhorn**: If still relevant, Garhorn could become a recurring character, offering tasks or information to the party.
-- **Oak Dryfire** A young orc boy that provides light hearted roleplay opportunity and reveals Draven's status as a known hero.
+- **Garhorn.** If still relevant, Garhorn could become a recurring character, offering tasks or information to the party.
+- **Oak Dryfire.** A young orc boy that provides light hearted roleplay opportunity and reveals Draven's status as a known hero.
+- **Chewy.** The Kobold that was covered in oil in [[2 Recap|session 2]] that escaped and was captured by the gang members.
 
 #### Encounters
 
