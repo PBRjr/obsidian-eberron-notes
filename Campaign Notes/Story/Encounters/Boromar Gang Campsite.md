@@ -5,7 +5,9 @@
 	- ***DC 16*** to detect
 - [[Boromar Gang Members|Garhorn, Orc 1, Orc 3]]
 	- Orc 2 died trying to fight the [[Whitehorn Wood|Ankheg]]
-- The escaped Kobold that was covered in oil was captured here. It is being held, chained to a tree.
+- Chewy is chained to a tree here, still partially covered in oil
+	- He was caught trying to steal a horse in the middle of the night
+	- RP tip: play him like a coward that will break under minimal pressure
 ## Loot
 #### Treasure
 1.  **Stolen Goods**
@@ -36,4 +38,4 @@
 - **Map to Shavalant**
 	- Found in saddlebags
 	- A basic map of Khorvaire, with marked-out distances (800 miles) leading to Shavalant, which is circled
-	- At the top is scribbled "Horseback = 8 days"
+	- At the top is scribbled "Horseback = 6 days"

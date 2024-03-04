@@ -1,7 +1,6 @@
 #### Outline
 
 - Prepare handouts for session 4 (e.g., maps of Sharn, notes from NPCs, quest cards for new objectives).
-- Continue developing Draven's evolving dreams, potentially hinting at his past or future challenges.
 - Resolve the Boromar Gang Campsite encounter, including possible outcomes and repercussions.
 
 #### Moments
@@ -10,32 +9,35 @@
 
 - Situation: The party confronts the [[Boromar Gang Campsite]].
 - Encounter: The gang members, including Garhorn and the remaining orcs, will react based on the party's approach.
-- Character Moments: Allow for players to strategize and play to their strengths, whether that's diplomacy, combat, or cunning.
+- Character Moments: They notice a small trial of oil leading to the campsite.
 
 **Moment 2**
 
 - Situation: Depending on the outcome of the campsite encounter, the party may be negotiating safe passage to Sharn, gathering intelligence, or dealing with the aftermath of a fight.
 - Character Moments: Provide a chance for characters to interact with Garhorn, potentially leveraging his connections for their benefit.
 
-**Moment 5**
+**Moment 3**
 
-- Situation: The party discovers the consequences of their Ankheg head antics, which could range from a comedic misunderstanding to an unexpected new quest.
+- Situation:  The party sees the consequences of throwing the Ankheg head away.
 - Encounter: A young orc boy named [[Oak Dryfire]] has begun to drag the head around like a pet. He also recognizes Draven as the *Knight of the North*
 - Character Moments: Provide opportunities for humor and light-hearted roleplay, allowing the party to engage with the locals in unexpected ways.
 
 #### Locations
 
-- **Boromar Gang Campsite**: Finalize the campsite encounter with detailed maps and NPC strategies.
+- **Boromar Gang Campsite.** Finalize the campsite encounter with detailed maps and NPC strategies.
+- **Shavalant.** 
 
 #### People
 
-- **Garhorn**: If still relevant, Garhorn could become a recurring character, offering tasks or information to the party.
-- **Oak Dryfire** A young orc boy that provides light hearted roleplay opportunity and reveals Draven's status as a known hero.
+- **Garhorn.** If still relevant, Garhorn could become a recurring character, offering tasks or information to the party.
+- **Oak Dryfire.** A young orc boy that provides light hearted roleplay opportunity and reveals Draven's status as a known hero.
+- **Chewy.** The Kobold that was covered in oil in [[2 Recap|session 2]] that escaped and was captured by the gang members.
 
 #### Encounters
 
-- **Boromar Gang Campsite Encounter**: The outcome of this encounter could shape the party's reputation in Sharn and their status with the Boromar Clan
-
+- **Boromar Gang Campsite Encounter.** The outcome of this encounter could shape the party's reputation in Sharn and their status with the Boromar Clan
+- **Random Encounters.** If the party aquires horses and begins their journey, they may have a random encounter
+- **Desolated Village.** During their journey, the party will come across a town that was devastated by Vorak, leaving only a few angry survivors, providing opportunity for more random encounters with various creatures.
 #### Additional Notes
 
 - Remember the Ankheg head in the field and decide how it has affected the local area.
