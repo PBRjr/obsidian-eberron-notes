@@ -2,6 +2,7 @@
 
 - Prepare handouts for session 4 (e.g., maps of Sharn, notes from NPCs, quest cards for new objectives).
 - Resolve the Boromar Gang Campsite encounter, including possible outcomes and repercussions.
+- Resolve the moment 4 encounter.
 
 #### Moments
 
