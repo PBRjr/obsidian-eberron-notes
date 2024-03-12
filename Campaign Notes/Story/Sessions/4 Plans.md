@@ -54,10 +54,11 @@
 - **Boromar Gang Campsite Encounter.** The outcome of this encounter could shape the party's reputation in Sharn and their status with the Boromar Clan
 - **Random Encounters.** If the party aquires horses and begins their journey, they may have a random encounter
 - **Desolated Village.** During their journey, the party will come across a town that was devastated by Vorak, leaving only a few angry survivors, providing opportunity for more random encounters with various creatures.
-- **Remains of LoD & CotSF Battle.** Party may come upon the reminents of a fights between evil creatures and the security detail for Baelin. The CotSF won, but lost a member.
-	- A small rock burial can be found a small walk away. Inside is the corpse of a strong-jawed human draped with a white canvas cloth. He holds a Silver Flame pendant, a metal arrowhead with a silver flame running along it.
-	- He also lays with his Holy Sword
-		- ***Holy Sword.*** +1 Great sword. Utilitarian in its design, the shining silvery metal of this weapon stays clean and gleaming despite constant use-and-abuse. A subtle off-white flame decorates the thick metal handle, its harsh angles making the thing 
+- **Remains of LoD & CotSF Battle.** Party may come upon the reminants of a fight between evil creatures and the security detail for Baelin. The CotSF won, but lost a member.
+	- Scorch marks, broken arrows, and dried blood tells the story of a short skirmish, the result of an ambush that originated from a tree line along the road.
+	- A small rock burial can be found a small walk away. Inside is the corpse of a strong-jawed human draped with a white canvas cloth. He holds a Silver Flame pendant, a metal arrowhead with a silver flame running along it, in addition to his Holy Sword set next to him.
+		- ***Holy Sword.*** +1 Great sword. Utilitarian in its design, the shining silvery metal of this weapon stays clean and gleaming despite constant use-and-abuse. A subtle off-white flame decorates the thick metal handle, its harsh angles making the thing uncomfortable to wield.
+	- An ash-covered burn pile can be found just off the road, various blood trails telling a story.
 #### Additional Notes
 
 - Remember the Ankheg head in the field and decide how it has affected the local area.
