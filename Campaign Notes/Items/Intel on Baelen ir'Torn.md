@@ -17,7 +17,7 @@
 **Actionable Intel:**
 
 - Continue surveillance. Avoid direct engagement.
-- Gather specific data relating to attachment of Silver Flame agents.
+- Gather specific intel on attachment of Silver Flame agents.
 - Assess opportunities for discreet acquisition of the artifact.
 
 **Priority:** High. Potential significant value to Clan operations. Potential significant detriment to Church operations in Sharn if acquired.
@@ -26,5 +26,7 @@
 
 ---
 
-Scribbled on the back:
-"Not in Shavalant, passed through days before our arrival"
+Scribbled on the back in course handwriting:
+Professor passed through Shavalant days ago. Intel gleemed from commoners:
+
+ 
