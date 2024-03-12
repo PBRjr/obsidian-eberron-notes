@@ -26,7 +26,7 @@
 	- A small smooth black rock, almost indistinguishable from an ordinary one.
 		- Paired with another sending stone held by Garhorn's handler.
 		- Carried by Garhorn at all times. He will quickly send a message if he is under attack.
-		- This message would include the attacker's descriptions, which would be sent out to Sharn guards that are in the clan's pocket to be on the look out.
+		- This message would include the attacker's descriptions, which would be sent out to Sharn guards that are in the clan's pocket, to be on the look out.
 1. **Potions**
 	- Several potions of healing scattered about
 2. **Boromar Challenge Coins**

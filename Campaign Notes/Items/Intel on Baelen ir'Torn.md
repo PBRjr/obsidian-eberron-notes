@@ -12,14 +12,15 @@
 **Security Detail:**
 
 - The professor is not considered a direct threat.
-- Accompanied by hired guards, suggesting the artifact's significant value.
+- Accompanied by a detail of knights and a bishop of the Silver Flame.
 
 **Actionable Intel:**
 
 - Continue surveillance. Avoid direct engagement.
+- Gather specific data relating to attachment of Silver Flame agents.
 - Assess opportunities for discreet acquisition of the artifact.
 
-**Priority:** High. Potential significant value to Clan operations.
+**Priority:** High. Potential significant value to Clan operations. Potential significant detriment to Church operations in Sharn if acquired.
 
 **End of Brief**
 
