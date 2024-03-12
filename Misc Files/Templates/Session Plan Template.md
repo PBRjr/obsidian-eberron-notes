@@ -4,7 +4,7 @@
 ### Moments & Encounters
 
 Session Start
-- X
+- (based on where/how last session ended)
 
 Moment 1: *Name*
 - X
@@ -18,34 +18,26 @@ Encounter 1: *Name*
 Encounter 2: *Name*
 - X
 
+(continue as needed, may nest encounters inside moments)
+
 Session End
 - (possible cliffhanger)
 
-### Locations
+### Location Details
 
-- (Location 1)
-    
-    - Description: (Describe the location in detail)
-    
-- (Location 2)
-    
-    - Description: (Describe the location in detail)
-    
-- (Continue adding locations as needed)
+Place 1: *Name*
+- X (brief and relevant to the session)
 
+Place 2: *Name*
+- X
+
+(continue as needed)
 ### People
 
-- (NPC 1)
-    
-    - Session Role: (Describe the NPC's role in the session)
-    - Plot Information: (Describe any plot-relevant information about the NPC)
-    
-- (NPC 2)
-    
-    - Session Level: (Describe the NPC's role in the session)
-    - Plot Information: (Describe any plot-relevant information about the NPC)
-    
-- (Continue adding NPCs as needed)
+Person 1:
+- X (information relevant to session)
+*Plot Information*
+- X()
 
 ### Plotline
 
