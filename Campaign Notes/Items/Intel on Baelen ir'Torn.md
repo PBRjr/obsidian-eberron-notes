@@ -2,6 +2,7 @@
 
 **Subject:** Observation Report
 **Date:** 20 Olarune, 998 YK
+**Call** - The sun shines through the clouds.
 
 **Key Observations:**
 
@@ -27,9 +28,11 @@
 ---
 
 Scribbled on the back in course handwriting:
+Agent G12290 - response - and rains daggers on the city below.
+
 Professor passed through Shavalant days ago. Intel obtained from commoners, status unverified.
-Disheveled "nervous" man carrying a brown satchel was accompanied by a detail of 6 knights in plate, and one Bishop in silver/red robes. Nervous man was being ordered around by bishop, who seemed in charge. 
 
-Group stayed at Sleepy Owl Inn, causing little disturbance. Left before dawn. Were seen leaving town to the West, assumed to be traveling to known CotSF safehouse Castle Arakhain, long termed "The Light House".
+Disheveled "nervous" man carrying a brown satchel was accompanied by a detail of 6 knights in plate, and one Bishop in silver/red robes. Nervous man was being ordered around by the bishop, who seemed in charge.
 
+Group stayed at Sleepy Owl Inn, causing little disturbance. Left before dawn. Were seen leaving town to the West, assumed to be traveling to known CotSF safehouse Castle Arakhain, long termed "The Lighthouse". End of report.
  
