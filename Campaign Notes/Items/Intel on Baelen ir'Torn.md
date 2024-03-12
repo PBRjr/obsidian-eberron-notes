@@ -20,7 +20,7 @@
 - Gather specific intel on attachment of Silver Flame agents.
 - Assess opportunities for discreet acquisition of the artifact.
 
-**Priority:** High. Potential significant value to Clan operations. Potential significant detriment to Church operations in Sharn if acquired.
+**Priority:** High. Potential for significant value to Clan operations. Acquisition may result in significant blow to CotSF operations in Sharn.
 
 **End of Brief**
 
