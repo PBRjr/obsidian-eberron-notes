@@ -36,8 +36,12 @@
 
 #### People
 
-- **Garhorn.** Sounds like Billy Butcher. Mid 30's halfling, black hair, polite and manipulative.
-	- DOES KNOW: 
+- **Garhorn.** Sounds like Billy Butcher. Mid 30's halfling, black hair, polite and manipulative, fiercly loyal to the clan.
+	- DOES KNOW & WILL GIVE UP: Part of the Boromar clan, sent to create a protection racket, location of valuables.
+	- DOES KNOW & WON'T GIVE UP: Bosses name, anything that humiliates him, anything that can be directly used against the clan.
+	- DOES NOT KNOW: Castar's motives, deeper questions about the workings of the clan.
+- **Orc 1 & 3.**  Dumb and strong. Typical brutes, low knowledge of clan workings, low knowledge of current job. Loyal to Halak Boromar, were sent along with Garhorn as Halak's way of keeping an eye on things.
+	- 
 - **Oak Dryfire.** A young orc boy that provides light hearted roleplay opportunity and reveals Draven's status as a known hero.
 - **Chewy.** The Kobold that was covered in oil in [[2 Recap|session 2]] that escaped and was captured by the gang members. Will be very scared. 
 	- DOES KNOW: SotDoK is a fairly new group put together by Brains in an effort to create his own clan, he was always vague about their rituals, kept information to himself. Demanded a lot from the members.
