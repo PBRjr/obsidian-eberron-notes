@@ -19,13 +19,17 @@
 3. **Counterfeit Coins**
 	- A small pouch containing 150 counterfeit gold pieces.
 	- Stashed next to the extortion money.
-4. **Thieves' Tools**
+4. **Thieves' Tools & Sending Stone**
 	-  A set of high-quality thieves' tools with the Boromar symbol etched into each piece
 		- *"A silver dragon with folded wings perched atop a tower"*
-	- Wrapped in a cloth and carried by Garhorn
-5. **Potions**
+		- Wrapped in a cloth and carried by Garhorn
+	- A small smooth black rock, almost indistinguishable from an ordinary one.
+		- Paired with another sending stone held by Garhorn's handler.
+		- Carried by Garhorn at all times. He will quickly send a message if he is under attack.
+		- This message would include the attacker's descriptions, which would be sent out to Sharn guards that are in the clan's pocket to be on the look out.
+1. **Potions**
 	- Several potions of healing scattered about
-6. **Boromar Challenge Coins**
+2. **Boromar Challenge Coins**
 
 #### Exposition
 - **Detailed Ledger**
