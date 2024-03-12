@@ -37,14 +37,25 @@ Place 2: *Name*
 Person 1:
 - X (information relevant to session)
 *Plot Information*
-- X()
+- X (information relevant to overall plot)
 
-### Plotline
+Person 2:
+- X
+*Plot Information*
+- X 
 
-- (Describe the overall plot of the campaign)
-- (Describe what each villain and their factions are up to in the current session)
-- (Describe how the villains' plans are affected by the party's actions)
+(continue as needed)
+### Plot Actions
 
+Action 1: *Name of significant NPC(s) or organization(s) involved*
+- Goal: X (immediate goal of involved person/org)
+- X (what that person/org is doing to accomplish that goal, assuming PCs don't interfere)
+
+Action 2: *Name of significant NPC(s) or organization(s) involved*
+- Goal: X
+- X
+
+(continue as needed)
 ### Additional Notes
 
 - (Add any other notes or information that you need for the session)
