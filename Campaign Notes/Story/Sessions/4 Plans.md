@@ -9,7 +9,7 @@
 
 - Situation: The party confronts the [[Boromar Gang Campsite]].
 - Encounter: The gang members, including Garhorn and the remaining orcs, will react based on the party's approach.
-- Character Moments: They notice a small trial of oil leading to the campsite.
+- Character Moments: They notice a small trail of oil leading to the campsite.
 
 **Moment 2**
 
@@ -29,9 +29,12 @@
 
 #### People
 
-- **Garhorn.** If still relevant, Garhorn could become a recurring character, offering tasks or information to the party.
+- **Garhorn.** Sounds like Billy Butcher. Mid 30's halfling, black hair, polite and manipulative.
+	- DOES KNOW: 
 - **Oak Dryfire.** A young orc boy that provides light hearted roleplay opportunity and reveals Draven's status as a known hero.
-- **Chewy.** The Kobold that was covered in oil in [[2 Recap|session 2]] that escaped and was captured by the gang members.
+- **Chewy.** The Kobold that was covered in oil in [[2 Recap|session 2]] that escaped and was captured by the gang members. Will be very scared. 
+	- DOES KNOW: SotDoK is a fairly new group put together by Brains in an effort to create his own clan, he was always vague about their rituals, kept information to himself. Demanded a lot from the members.
+	- DOES NOT KNOW: Who Woe is, why they attacked the airship, why they took Marsh.
 
 #### Encounters
 
