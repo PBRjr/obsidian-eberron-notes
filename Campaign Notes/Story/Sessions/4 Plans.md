@@ -4,7 +4,7 @@
 - Resolve the Boromar Gang Campsite encounter, including possible outcomes and repercussions.
 - Resolve the moment 4 encounter.
 
-#### Moments
+#### Moments & Encounters
 
 **Moment 1**
 

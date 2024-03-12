@@ -1,26 +1,25 @@
 ### Outline
-
 - (List of key events or topics that will happen in the session)
 
-### Moments
+### Moments & Encounters
 
-- Moment 1
-    
-    - Situation: (Describe the situation the characters find themselves in)
-    - Encounter: (Describe any combat encounter that takes place)
-    - Character Moments: (Describe any specific moments tailored to each player character)
-    
-- Moment 2
-    
-    - Situation: (Describe the situation the characters find themselves in)
-    - Encounter: (Describe any combat encounter that takes place)
-    - Character Moments: (Describe any specific moments tailored to each player character)
-    
-- (Continue adding moments as needed)
-- Ending
+Session Start
+- X
 
-	 - (Possible Cliffhanger Ending 1)
-	 - (Continue adding possible cliffhangers as needed)
+Moment 1: *Name*
+- X
+
+Moment 2: *Name*
+- X
+
+Encounter 1: *Name*
+- X
+
+Encounter 2: *Name*
+- X
+
+Session End
+- (possible cliffhanger)
 
 ### Locations
 
