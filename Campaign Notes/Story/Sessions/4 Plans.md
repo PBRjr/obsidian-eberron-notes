@@ -2,6 +2,7 @@
 
 - Prepare handouts for session 4 (e.g., maps of Sharn, notes from NPCs, quest cards for new objectives).
 - Resolve the Boromar Gang Campsite encounter, including possible outcomes and repercussions.
+- Resolve the moment 4 encounter.
 
 #### Moments
 
@@ -22,10 +23,16 @@
 - Encounter: A young orc boy named [[Oak Dryfire]] has begun to drag the head around like a pet. He also recognizes Draven as the *Knight of the North*
 - Character Moments: Provide opportunities for humor and light-hearted roleplay, allowing the party to engage with the locals in unexpected ways.
 
+**Moment 4**
+
+- Situation: The party encounters the remains of a short skirmish between agents of the Lords of Dust and Baelen's CotSF knight guards.
+- Encounter: A LoD agent may still be alive, or plot info may be found throughout the remains.
+- Character Moments: Potential for interrogation scene or discovery of leads/clues pointing to Baelen, the CotSF, or the Fractured Khyber Dragonshard Fragments.
+
 #### Locations
 
 - **Boromar Gang Campsite.** Finalize the campsite encounter with detailed maps and NPC strategies.
-- **Shavalant.** 
+- **Site of skirmish between CotSF knights and LoD agents.** Found on any road or path traveling to Sharn.
 
 #### People
 
@@ -41,6 +48,7 @@
 - **Boromar Gang Campsite Encounter.** The outcome of this encounter could shape the party's reputation in Sharn and their status with the Boromar Clan
 - **Random Encounters.** If the party aquires horses and begins their journey, they may have a random encounter
 - **Desolated Village.** During their journey, the party will come across a town that was devastated by Vorak, leaving only a few angry survivors, providing opportunity for more random encounters with various creatures.
+- **Remains of LoD & CotSF Battle.**
 #### Additional Notes
 
 - Remember the Ankheg head in the field and decide how it has affected the local area.
