@@ -15,7 +15,7 @@ To use these tables, when a character falls from height in the City of Towers, f
 | 7          | A mage or artificer nearby notices and casts a spell or uses a device to slow the individual's descent after they've fallen 10 feet. They land softly and take no damage. Now they are asking for payment for their services.             |
 | 8          | The individual falls into one of Sharn's many waterways or canals after a drop of 1d12 * 10 feet. The water cushions their fall, reducing the effective fall distance by 50 feet.                                                         |
 | 9          | The fall is long and harrowing. The individual falls 100 feet before making a hard impact, taking 10d6 bludgeoning damage.*                                                                                                               |
-| 10         | 
+| 10         | Roll again                                                                                                                                                                                                                                |
 ### Extra Effects
 
 | Percentile | Effect Description                                                                                   |
