@@ -10,16 +10,17 @@ Session Start
 
 - Based on the outcome of session 3
 
-Moment 1: Boromar Gang Campsite
+Moment 1: [[Boromar Gang Campsite]]
 
-- The party confronts the Boromar Gang.
-- The gang members, including Garhorn and the remaining orcs, will react based on the party's approach.
+- The party confronts the Boromar Gang Members.
+- The [[Boromar Gang Members]], including Garhorn and the remaining orcs, will react based on the party's approach.
 - They notice a small trail of oil leading to the campsite.
 
 Moment 2: Aftermath of Campsite Encounter
 
-- Depending on the outcome of the campsite encounter, the party may be negotiating safe passage to Sharn, gathering intelligence, or dealing with the aftermath of a fight.
-- Provide a chance for characters to interact with Garhorn, potentially leveraging his connections for their benefit.
+- Garhorn may try to send a warning to his handler via his sending stone
+- The [[Shavalant|town]] will be very thankful, though Sheriff Gromley will be angry and scared that the gang will return and burn the town.
+- Prissi will gift the party 
 
 Moment 3: Ankheg Head Consequences
 
