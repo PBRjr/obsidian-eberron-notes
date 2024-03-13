@@ -1,9 +1,9 @@
 ### Its Kismet
-**Kismet** is one of the personas of ***The Traveler***, the first hag to walk upon Eberron, born of the Age of Demons. Being the first, Kismet is so powerful
+**Kismet** is one of the personas of ***The Traveler***, the first hag to walk upon Eberron, born of the Age of Demons. Being the first, Kismet is so powerful her effect on the land is now worshipped as godhood. 
 
-He is old an mysterious, though friendly and comforting. She knows when to say something wise.
+Kismet presents herself as a frazzled old half-elf woman, with a weak frame and loose skin. She claims her wagon, which is seen filled with various trade goods, lost a wheel, and that she needs help repairing it so she may continue her journey.
 
-Her wagon lost a wheel during her travels, and the party encounters her along a road. She offers a free reading of their fate lines if they aid her in repairing her wagon so she may return to her travels.
+She claims to be a seer, and offers her services in exchange for help.
 
 ### Reading of Fate
 
