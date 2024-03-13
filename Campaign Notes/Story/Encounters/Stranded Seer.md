@@ -11,4 +11,4 @@ Bjorn's reading
 >  Ahh, the Bearwolf. The storm within you rages, your heart torn between duty and blood. Yesss, I feel your fury, one that is only matched by the darkness that taint's your brother's soul.
 
 Draven's reading:
-> Though others name you from story, you have only just begun to rediscover the history your name carries. The Knight's past is shrouded
+> Though others name you from story, you have only just begun to rediscover the history your name carries. The Knight's past is shrouded in mist, though have faith that the light of Siberys will burn a path to divine clarity.
