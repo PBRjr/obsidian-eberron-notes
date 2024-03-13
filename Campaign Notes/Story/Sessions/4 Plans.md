@@ -8,7 +8,7 @@
 
 Session Start
 
-- Waking up at the Sleepy Ow
+- Waking up at the Sleepy Owl Inn early in the morning, may encounter Oak Dryfire outside messing with the Ankheg head as they leave.
 
 Moment 1: [[Boromar Gang Campsite]]
 
