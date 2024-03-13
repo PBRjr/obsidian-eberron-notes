@@ -16,3 +16,13 @@ To use these tables, when a character falls from height in the City of Towers, f
 | 8          | The individual falls into one of Sharn's many waterways or canals after a drop of 1d12 * 10 feet. The water cushions their fall, reducing the effective fall distance by 50 feet.                                                         |
 | 9          | The fall is long and harrowing. The individual falls 100 feet before making a hard impact, taking 10d6 bludgeoning damage.*                                                                                                               |
 | 10         | 
+### Extra Effects
+
+| Percentile | Effect Description                                                                                   |
+| ---------- | ---------------------------------------------------------------------------------------------------- |
+| 1-20       | No additional effect.                                                                                |
+| 21-40      | You land on a pedestrian, slightly dampening your fall but maiming/killing the person you landed on. |
+| 41-50      | You fall through the roof of a building, taking a hard landing inside.                               |
+| 51-70      | You land on an outcropping. If you surive, you are now stuck in a precarious position.               |
+| 71-90      | An air elemental breaks your fall! Now it wants to break your face too.                              |
+| 91-100     | The ground is enchanted with _Featherfall_.
