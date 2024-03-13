@@ -30,7 +30,7 @@ Moment 3: Ankheg Head Consequences
 Moment 4: Skirmish Remains CotSF vs. LoD
 
 - The party encounters the remains of a short skirmish between agents of the Lords of Dust and Baelen's CotSF knight guards.
-- Describe an odor of
+- Describe an odor of **sulfur & freshly cut grass** as a reoccurring symbol for the minions of the LoD.
 - Potential for interrogation scene or discovery of leads/clues pointing to Baelen, the CotSF, or the Fractured Khyber Dragonshard Fragments.
 
 Encounter 1: Boromar Gang Campsite
