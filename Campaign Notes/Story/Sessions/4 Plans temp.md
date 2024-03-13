@@ -89,11 +89,12 @@ Oak Dryfire:
 Chewy:
 
 - The Kobold that was covered in oil in session 2 that escaped and was captured by the gang members. Will be very scared.
+- DOES KNOW: SotDoK is a fairly new group put together by Brains in an effort to create his own clan, he was always vague about their rituals, kept information to himself. Demanded a lot from the members.
+- DOES NOT KNOW: Who Woe is, why they attacked the airship, why they took Marsh.
 
 _Plot Information_
 
-- DOES KNOW: SotDoK is a fairly new group put together by Brains in an effort to create his own clan, he was always vague about their rituals, kept information to himself. Demanded a lot from the members.
-- DOES NOT KNOW: Who Woe is, why they attacked the airship, why they took Marsh.
+- Is proving annoying to the gang members, will be killed before they leave for the day
 
 ### Plot Actions
 
@@ -101,14 +102,15 @@ Action 1: Boromar Clan
 
 - Goal: Establish a protection racket in the area
 - Garhorn and the orcs are setting up a campsite and gathering information on potential targets for extortion.
+- Castar's men are trying to establish control in smaller strategic locations across the continent
 
 Action 2: Lords of Dust
 
 - Goal: Retrieve the Fractured Khyber Dragonshard Fragments
-- LoD agents ambushed Baelen's CotSF knight guards, but were defeated. The party may find clues or a surviving agent at the skirmish site.
+- LoD agents ambushed Baelen's CotSF knight guards, but were defeated. The party may find clues or a surviving agent at the skirmish site. [[Woe]] returned to Mordakesh to have the recently acquired fragment from session 1 merged with his core.
 
 ### Additional Notes
 
 - Remember the Ankheg head in the field and decide how it has affected the local area.
-- Be prepared for the party's actions to have long-term effects on their relationship with the Boromar Clan.
-- Keep track of unresolved threads from session 3 that could resurface in Sharn.
+- Be prepared for the party's actions to have long-term effects on their relationship with the Boromar Clan and make them known (and possibly wanted) in Sharn.
+- Try to indicate the Sons of the Daughter of Khyber are unimportant pawns.
