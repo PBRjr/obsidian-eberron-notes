@@ -1,5 +1,5 @@
 ### Its Kismet
-**Kismet** is one of the persona of ***The Traveler***, 
+**Kismet** is one of the personas of ***The Traveler***, the oldest and most powerful
 
 He is old an mysterious, though friendly and comforting. She knows when to say something wise.
 
