@@ -2,7 +2,6 @@
 
 - Prepare handouts for session 4 (e.g., maps of Sharn, notes from NPCs, quest cards for new objectives).
 - Resolve the Boromar Gang Campsite encounter, including possible outcomes and repercussions.
-- Resolve the moment 4 encounter.
 
 ### Moments & Encounters
 
@@ -34,7 +33,7 @@ Moment 4: Skirmish Remains CotSF vs. LoD
 - A LoD agent may still be alive, or plot info may be found throughout the remains.
 - Potential for interrogation scene or discovery of leads/clues pointing to Baelen, the CotSF, or the Fractured Khyber Dragonshard Fragments.
 
-Encounter 1: Random Encounters
+Encounter 1: Boromar Gang Campsite
 
 - If the party acquires horses and begins their journey, they may have a random encounter.
 
