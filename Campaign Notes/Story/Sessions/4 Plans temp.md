@@ -61,12 +61,15 @@ Site of skirmish between CotSF knights and LoD agents
 Garhorn:
 
 - Sounds like Billy Butcher. Mid 30's halfling, black hair, polite and manipulative, fiercely loyal to the clan.
-
-_Plot Information_
-
 - DOES KNOW & WILL GIVE UP: Part of the Boromar clan, sent to create a protection racket, location of valuables.
 - DOES KNOW & WON'T GIVE UP: Bosses name, anything that humiliates him, anything that can be directly used against the clan.
 - DOES NOT KNOW: Castar's motives, deeper questions about the workings of the clan.
+
+_Plot Information_
+- Seeks to bring the town under Boromar control through protection racket and intimidation. Reason clan wants to control Shavalant:
+	- Water tower is a unique piece of magitech - knowledge of workings could be worth good money
+	- Shavalant is along a commonly traveled road - traveling merchants can be easily extorted.
+
 
 Orc 1 & 3:
 
