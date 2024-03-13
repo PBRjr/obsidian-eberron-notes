@@ -14,4 +14,4 @@ Draven's reading:
 > A man of many names, and yet you've barely begun to discover what any one of them mean to you. The Knight's own mind betrays him, a Valiant sacrifice your curse and your savior. Will the light of Siberys grant you divine clarity? Or has it already killed you, your body still connecting the dots?
 
 Geralt's reading:
-> The lost child, a wolf born of oak and stone.
+> The lost child, a wolf born of oak and stone, bird song and a quiet breeze your comfort, your solace, a second home created out of the destruction of another. The creations of man have taken so much from you, 
