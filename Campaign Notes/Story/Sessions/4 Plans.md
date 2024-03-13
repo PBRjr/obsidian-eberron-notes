@@ -5,43 +5,43 @@
 
 ### Moments & Encounters
 
-Session Start
+**Session Start**
 
 - Waking up at the Sleepy Owl Inn early in the morning, may encounter Oak Dryfire outside messing with the Ankheg head as they leave.
 
-Moment 1: [[Boromar Gang Campsite]]
+**Moment 1:** [[Boromar Gang Campsite]]
 
 - The party confronts the Boromar Gang Members.
 - The [[Boromar Gang Members]], including Garhorn and the remaining orcs, will react based on the party's approach.
 - They notice a small trail of oil leading to the campsite.
 
-Moment 2: Aftermath of Campsite Encounter
+**Moment 2:** Aftermath of Campsite Encounter
 
 - Garhorn may try to send a warning to his handler via his sending stone
 - The [[Shavalant|town]] will be very thankful, though Sheriff Gromley will be angry and scared that the gang will return and burn the town.
 - Prissi will gift the party a *Potion of Fire Breath* & *Potion of Growth*.
 
-Moment 3: Ankheg Head Consequences
+**Moment 3:** Ankheg Head Consequences
 
 - The party sees the consequences of throwing the Ankheg head away.
 - A young orc boy named Oak Dryfire has begun to drag the head around like a pet. He also recognizes Draven as the Knight of the North.
 - Provide opportunities for humor and light-hearted roleplay, allowing the party to engage with the locals in unexpected ways.
 
-Moment 4: Skirmish Remains CotSF vs. LoD
+**Moment 4:** Skirmish Remains CotSF vs. LoD
 
 - The party encounters the remains of a short skirmish between agents of the Lords of Dust and Baelen's CotSF knight guards.
-- Describe an odor of **sulfur & freshly cut grass** as a reoccurring symbol for the minions of the LoD.
+- Describe an odor of *sulfur & freshly cut grass* as a reoccurring symbol for the minions of the LoD.
 - Potential for interrogation scene or discovery of leads/clues pointing to Baelen, the CotSF, or the Fractured Khyber Dragonshard Fragments.
 
-Encounter 1: Boromar Gang Campsite
+**Encounter 1:** Boromar Gang Campsite
 
 - If the party acquires horses and begins their journey, they may have a random encounter.
 
-Encounter 2: Desolated Village
+**Encounter 2:** Desolated Village
 
 - During their journey, the party will come across a town that was devastated by Vorak, leaving only a few angry survivors, providing opportunity for more random encounters with various creatures.
 
-Session End
+**Session End**
 
 - [[Its Kismet]]
 
@@ -84,7 +84,8 @@ _Plot Information_
 
 Person 3: [[Its Kismet|Kismet]]
 
-- Will find a way to convince the 
+- Will find a way to convince the PCs to have their fates read.
+- Appears as small graying half-elf woman, acts a bit crazy.
 
 Person 4: Oak Dryfire
 

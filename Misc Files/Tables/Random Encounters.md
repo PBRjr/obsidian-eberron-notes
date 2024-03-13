@@ -24,27 +24,27 @@
 | 20  | Market Bargain: Extraordinary bargain with a hidden secret          | Interaction |
 
 
-## Random encounters in the wild
+## Plot encounters
 
-| No. | Encounter                                                                                                                              | Type        |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| 1   | Bandit Roadblock: A group of bandits demanding tolls.                                                                                  | Combat      |
+| No. | Encounter                                                                                                                           | Type        |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| 1   | Bandit Roadblock: A group of bandits demanding tolls.                                                                               | Combat      |
 | 2   | [[Its Kismet]]: A mysterious woman claiming to be a seer offers to read the party's fates in exchange for help repairing her wagon. | Exploration |
-| 3   | Friendly Merchant: A traveling merchant offers rare goods.                                                                             | Interaction |
-| 4   | Silver Flame Pilgrims: Ask for help clearing wildlife blocking the path to a sacred site.                                              | Puzzle      |
-| 5   | Lost Hermit: An eccentric hermit asks for directions.                                                                                  | Interaction |
-| 6   | Druid's Plea: A druid requests help to heal a sick tree.                                                                               | Exploration |
-| 7   | Goblin Ambush: Goblins unexpectedly attack the party.                                                                                  | Combat      |
-| 8   | Mischievous Sprite: A sprite plays tricks, leading to hidden treasure.                                                                 | Puzzle      |
-| 9   | Collapsed Cave Entrance: Exploration needed to find another way.                                                                       | Exploration |
-| 10  | Wandering Minstrels: Musicians with a secret message.                                                                                  | Interaction |
-| 11  | Lost Puppy: A puppy leads to its owner in trouble.                                                                                     | Exploration |
-| 12  | Dueling Wizards: Two wizards dueling on the road.                                                                                      | Combat      |
-| 13  | Mysterious Peddler: Sells magical trinkets of dubious origin.                                                                          | Interaction |
-| 14  | Abandoned Campsite: Clues lead to a nearby threat or treasure.                                                                         | Exploration |
-| 15  | High-speed Chase: A thief rushes past, pursued by guards.                                                                              | Exploration |
-| 16  | Escaped Farm Animal: A large, rowdy animal blocks the path.                                                                            | Exploration |
-| 17  | Ghostly Apparition: A ghost seeks help to find peace.                                                                                  | Exploration |
-| 18  | Boisterous Adventurers: A rival party challenges the players.                                                                          | Interaction |
-| 19  | Sage's Request: A sage needs rare ingredients found nearby.                                                                            | Interaction |
-| 20  | Hidden Shrine: A deity's shrine offers blessings or curses.                                                                            | Interaction |
+| 3   | Friendly Merchant: A traveling merchant offers rare goods.                                                                          | Interaction |
+| 4   | Silver Flame Pilgrims: Ask for help clearing wildlife blocking the path to a sacred site.                                           | Puzzle      |
+| 5   | Lost Hermit: An eccentric hermit asks for directions.                                                                               | Interaction |
+| 6   | Druid's Plea: A druid requests help to heal a sick tree.                                                                            | Exploration |
+| 7   | Goblin Ambush: Goblins unexpectedly attack the party.                                                                               | Combat      |
+| 8   | Mischievous Sprite: A sprite plays tricks, leading to hidden treasure.                                                              | Puzzle      |
+| 9   | Collapsed Cave Entrance: Exploration needed to find another way.                                                                    | Exploration |
+| 10  | Wandering Minstrels: Musicians with a secret message.                                                                               | Interaction |
+| 11  | Lost Puppy: A puppy leads to its owner in trouble.                                                                                  | Exploration |
+| 12  | Dueling Wizards: Two wizards dueling on the road.                                                                                   | Combat      |
+| 13  | Mysterious Peddler: Sells magical trinkets of dubious origin.                                                                       | Interaction |
+| 14  | Abandoned Campsite: Clues lead to a nearby threat or treasure.                                                                      | Exploration |
+| 15  | High-speed Chase: A thief rushes past, pursued by guards.                                                                           | Exploration |
+| 16  | Escaped Farm Animal: A large, rowdy animal blocks the path.                                                                         | Exploration |
+| 17  | Ghostly Apparition: A ghost seeks help to find peace.                                                                               | Exploration |
+| 18  | Boisterous Adventurers: A rival party challenges the players.                                                                       | Interaction |
+| 19  | Sage's Request: A sage needs rare ingredients found nearby.                                                                         | Interaction |
+| 20  | Hidden Shrine: A deity's shrine offers blessings or curses.                                                                         | Interaction |
