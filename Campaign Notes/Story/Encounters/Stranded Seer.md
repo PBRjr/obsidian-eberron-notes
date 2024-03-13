@@ -8,10 +8,10 @@ Her wagon lost a wheel during her travels, and the party encounters her along a 
 ### Reading of Fate
 
 Bjorn's reading
->  Ahh, the Bearwolf. The storm within you rages, your heart torn between duty and blood. Yesss, I feel your fury, one that is only matched by the darkness that taint's your brother's soul.
+>  Ahh, the Bearwolf. The storm within you rages, your heart torn between duty and blood. Yesss, I feel your fury, one that is only matched by the darkness that taint's your brother's soul. 
 
 Draven's reading:
 > A man of many names, and yet you've barely begun to discover what any one of them mean to you. The Knight's own mind betrays him, a Valiant sacrifice your curse and your savior. Will the light of Siberys grant you divine clarity? Or has it already killed you, your body still connecting the dots?
 
 Geralt's reading:
-> The lost child, a wolf born of oak and stone, bird song and a quiet breeze your comfort, your solace, a second home created out of the destruction of another. The creations of man have taken so much from you. Yes... I feel anger and disgust. But is it born from what has been taken from you? Or is it from knowing, deep down, that the relief of investigat
+> The lost child, a wolf born of oak and stone, bird song and a quiet breeze your comfort, your solace, a second home created out of the destruction of another. The creations of man have taken so much from you. Yes... I feel anger and disgust. But is it born from what has been taken from you? Or is it from knowing, deep down, that your only chance of discovering why you lost everything lies in the origin of your family's heart?
