@@ -1,5 +1,8 @@
 {
 	"nodes":[
+		{"id":"9041f4a3c8aa5b77","x":985,"y":-930,"width":718,"height":432,"type":"group","label":"Geralt"},
+		{"id":"9f650774c908532e","x":1025,"y":110,"width":685,"height":425,"type":"group","label":"Draven"},
+		{"id":"cd56867760750ef1","x":-660,"y":100,"width":610,"height":441,"type":"group","label":"Bjorn"},
 		{"id":"5ca42467c5b279aa","type":"text","text":"Baelen ir'Torn","x":-239,"y":-738,"width":250,"height":60,"color":"4"},
 		{"id":"a408fded727356c9","type":"text","text":"Stormpeak Clan","x":-320,"y":120,"width":250,"height":60,"color":"5"},
 		{"id":"c0b56b132f233c6d","type":"text","text":"Bjorn \"Bearwolf\" Ulfr","x":-320,"y":458,"width":250,"height":63,"color":"5"},
