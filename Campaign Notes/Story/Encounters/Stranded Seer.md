@@ -3,4 +3,7 @@
 
 He is old an mysterious, though friendly and comforting. She knows when to say something wise.
 
-Her wagon lost a wheel during her travels, and the party encounters her along a rode.
+Her wagon lost a wheel during her travels, and the party encounters her along a road. She offers a free reading of their fate lines if they aid her in repairing her wagon so she may return to her travels.
+
+### Reading of Fate
+To Bjorn and 
