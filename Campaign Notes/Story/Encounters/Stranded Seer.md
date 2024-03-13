@@ -6,4 +6,6 @@ He is old an mysterious, though friendly and comforting. She knows when to say s
 Her wagon lost a wheel during her travels, and the party encounters her along a road. She offers a free reading of their fate lines if they aid her in repairing her wagon so she may return to her travels.
 
 ### Reading of Fate
-To Bjorn and 
+
+Bjorn's reading
+>  Ahh, the Bearwolf. The storm within you rages, your heart torn between duty and blood, between 
