@@ -29,7 +29,7 @@
 | No. | Encounter                                                                                                                              | Type        |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | 1   | Bandit Roadblock: A group of bandits demanding tolls.                                                                                  | Combat      |
-| 2   | [[Stranded Seer]]: A mysterious woman claiming to be a seer offers to read the party's fates in exchange for help repairing her wagon. | Exploration |
+| 2   | [[Its Kismet]]: A mysterious woman claiming to be a seer offers to read the party's fates in exchange for help repairing her wagon. | Exploration |
 | 3   | Friendly Merchant: A traveling merchant offers rare goods.                                                                             | Interaction |
 | 4   | Silver Flame Pilgrims: Ask for help clearing wildlife blocking the path to a sacred site.                                              | Puzzle      |
 | 5   | Lost Hermit: An eccentric hermit asks for directions.                                                                                  | Interaction |

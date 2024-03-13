@@ -43,7 +43,7 @@ Encounter 2: Desolated Village
 
 Session End
 
-- (possible cliffhanger)
+- [[Its Kismet]]
 
 ### Location Details
 
