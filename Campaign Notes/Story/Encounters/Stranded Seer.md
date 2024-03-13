@@ -8,7 +8,7 @@ Her wagon lost a wheel during her travels, and the party encounters her along a 
 ### Reading of Fate
 
 Bjorn's reading
->  Ahh, the Bearwolf. The storm within you rages, your heart torn between duty and blood. Yesss, I feel your fury, one that is only matched by the darkness that taint's your brother's soul. 
+>  Ahh, the Bearwolf. The storm within you rages, your heart torn between duty and blood. Yes, I feel your fury, one that is matched only by the darkness that taint's your brother's soul. And in the tidal forces of your anger lies a riptide of betrayal, confusion, and... grief.
 
 Draven's reading:
 > A man of many names, and yet you've barely begun to discover what any one of them mean to you. The Knight's own mind betrays him, a Valiant sacrifice your curse and your savior. Will the light of Siberys grant you divine clarity? Or has it already killed you, your body still connecting the dots?
