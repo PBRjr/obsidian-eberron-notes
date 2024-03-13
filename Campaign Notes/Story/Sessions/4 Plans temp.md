@@ -20,7 +20,7 @@ Moment 2: Aftermath of Campsite Encounter
 
 - Garhorn may try to send a warning to his handler via his sending stone
 - The [[Shavalant|town]] will be very thankful, though Sheriff Gromley will be angry and scared that the gang will return and burn the town.
-- Prissi will gift the party 
+- Prissi will gift the party a *Potion of Fire Breath* & *Potion of Growth*.
 
 Moment 3: Ankheg Head Consequences
 
@@ -28,7 +28,7 @@ Moment 3: Ankheg Head Consequences
 - A young orc boy named Oak Dryfire has begun to drag the head around like a pet. He also recognizes Draven as the Knight of the North.
 - Provide opportunities for humor and light-hearted roleplay, allowing the party to engage with the locals in unexpected ways.
 
-Moment 4: Skirmish Remains
+Moment 4: Skirmish Remains CotSF vs. LoD
 
 - The party encounters the remains of a short skirmish between agents of the Lords of Dust and Baelen's CotSF knight guards.
 - A LoD agent may still be alive, or plot info may be found throughout the remains.
@@ -48,7 +48,7 @@ Session End
 
 ### Location Details
 
-Boromar Gang Campsite
+[[Boromar Gang Campsite]]
 
 - Finalize the campsite encounter with detailed maps and NPC strategies.
 
