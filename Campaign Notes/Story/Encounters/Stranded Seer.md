@@ -11,4 +11,7 @@ Bjorn's reading
 >  Ahh, the Bearwolf. The storm within you rages, your heart torn between duty and blood. Yesss, I feel your fury, one that is only matched by the darkness that taint's your brother's soul.
 
 Draven's reading:
-> A man of many names, and yet you've only barely begun to discover what any one of them mean to you. The Knight's own mind betrays him, a Valiant sacrifice the only reprieve for your
+> A man of many names, and yet you've barely begun to discover what any one of them mean to you. The Knight's own mind betrays him, a Valiant sacrifice your curse and your savior. Will the light of Siberys grant you divine clarity? Or has it already killed you, your body still connecting the dots?
+
+Geralt's reading:
+> The lost child, a wolf born of oak and stone.
