@@ -30,7 +30,7 @@ Moment 3: Ankheg Head Consequences
 Moment 4: Skirmish Remains CotSF vs. LoD
 
 - The party encounters the remains of a short skirmish between agents of the Lords of Dust and Baelen's CotSF knight guards.
-- A LoD agent may still be alive, or plot info may be found throughout the remains.
+- Describe an odor of
 - Potential for interrogation scene or discovery of leads/clues pointing to Baelen, the CotSF, or the Fractured Khyber Dragonshard Fragments.
 
 Encounter 1: Boromar Gang Campsite
