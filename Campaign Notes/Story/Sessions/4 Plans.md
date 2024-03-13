@@ -47,17 +47,18 @@ Session End
 
 ### Location Details
 
-[[Boromar Gang Campsite]]
+Place 1: [[Boromar Gang Campsite]]
 
 - Finalize the campsite encounter with detailed maps and NPC strategies.
 
-Site of skirmish between CotSF knights and LoD agents
+Place 2: Road to Sharn
 
-- Found on any road or path traveling to Sharn.
+- Broken wagon on the side of the road, Kismet asks for help
+- Site of skirmish between CotSF knights and LoD agents
 
 ### People
 
-Garhorn:
+Person 1: Garhorn
 
 - Sounds like Billy Butcher. Mid 30's halfling, black hair, polite and manipulative, fiercely loyal to the clan.
 - DOES KNOW & WILL GIVE UP: Part of the Boromar clan, sent to create a protection racket, location of valuables.
@@ -70,7 +71,7 @@ _Plot Information_
 	- Shavalant is along a commonly traveled road - traveling merchants can be easily extorted.
 
 
-Orc 1 & 3:
+Person 2: Orc 1 & 3
 
 - Dumb and strong. Will not succumb to physical torture, can be easily tricked into giving up information.
 - DO KNOW: they were told to 'keep an eye' on Garhorn.
@@ -81,11 +82,15 @@ _Plot Information_
 - Typical brutes, low knowledge of clan workings, low knowledge of current job. Loyal to Halak Boromar, were sent along with Garhorn as Halak's way of keeping an eye on things.
 - Many such 'guards' were sent along with Castar's men as a result of the inner conflict of the Clan
 
-Oak Dryfire:
+Person 3: [[Its Kismet|Kismet]]
+
+- Will find a way to convince the 
+
+Person 4: Oak Dryfire
 
 - A young orc boy that provides light hearted roleplay opportunity and reveals Draven's status as a known hero.
 
-Chewy:
+Person 5: Chewy
 
 - The Kobold that was covered in oil in session 2 that escaped and was captured by the gang members. Will be very scared.
 - DOES KNOW: SotDoK is a fairly new group put together by Brains in an effort to create his own clan, he was always vague about their rituals, kept information to himself. Demanded a lot from the members.
