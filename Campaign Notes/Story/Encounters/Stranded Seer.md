@@ -1,5 +1,5 @@
 ### Its Kismet
-**Kismet** is an old dwarven woman that claims to be a seer, able to read the 'fate lines' of people. She wanders the land, setting up shop in towns then moving on after a few days, never visiting the same place twice.
+**Kismet** is one of the persona of ***The Traveler***, 
 
 He is old an mysterious, though friendly and comforting. She knows when to say something wise.
 
