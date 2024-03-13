@@ -8,4 +8,7 @@ Her wagon lost a wheel during her travels, and the party encounters her along a 
 ### Reading of Fate
 
 Bjorn's reading
->  Ahh, the Bearwolf. The storm within you rages, your heart torn between duty and blood, between 
+>  Ahh, the Bearwolf. The storm within you rages, your heart torn between duty and blood. Yesss, I feel your fury, one that is only matched by the darkness that taint's your brother's soul.
+
+Draven's reading:
+> A man known of many names, 
