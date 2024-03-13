@@ -1,5 +1,5 @@
 ### Its Kismet
-**Kismet** is one of the personas of ***The Traveler***, the oldest and most powerful
+**Kismet** is one of the personas of ***The Traveler***, the first hag to walk upon Eberron, born of the Age of Demons. Being the first, Kismet is so powerful
 
 He is old an mysterious, though friendly and comforting. She knows when to say something wise.
 
