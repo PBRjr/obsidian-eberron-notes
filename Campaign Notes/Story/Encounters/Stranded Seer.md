@@ -8,7 +8,7 @@ She claims to be a seer, and offers her services in exchange for help.
 ### Reading of Fate
 
 Bjorn's reading
->  Ahh, the Bearwolf. The storm within you rages, your heart torn between duty and blood. Yes, I feel your fury, one that is matched only by the darkness that taint's your brother's soul. And in the tidal forces of your anger lies a riptide of betrayal, confusion, and... grief. In time, he will know your pain, your anger his fuel, for your destiny was forged in flame and storm.
+>  Ahh, the Bearwolf. The storm within you rages, your heart torn between duty and blood. Yes, I feel your fury, one that is matched only by the darkness that taint's your brother's soul. And in the tidal forces of your anger lies a riptide of betrayal, confusion, and... grief. In time, he will know your pain, and your anger will be his fuel, for your destiny was forged in flame and storm long ago.
 
 Draven's reading:
 > A man of many names, and yet you've barely begun to discover what any one of them mean to you. The Knight's own mind betrays him, a Valiant sacrifice your curse and your savior. Will the light of Siberys grant you divine clarity? Or has it already killed you, your body not yet informed?
