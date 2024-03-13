@@ -73,13 +73,14 @@ _Plot Information_
 
 Orc 1 & 3:
 
-- Dumb and strong. Typical brutes, low knowledge of clan workings, low knowledge of current job. Loyal to Halak Boromar, were sent along with Garhorn as Halak's way of keeping an eye on things.
-- Will not succumb to physical torture, can be easily tricked into giving up information.
+- Dumb and strong. Will not succumb to physical torture, can be easily tricked into giving up information.
+- DO KNOW: they were told to 'keep an eye' on Garhorn.
+- DO NOT KNOW: Much else. Basic info about the clan.
 
 _Plot Information_
 
-- DO KNOW: they were told to 'keep an eye' on Garhorn.
-- DO NOT KNOW: Much else. Basic info about the clan.
+- Typical brutes, low knowledge of clan workings, low knowledge of current job. Loyal to Halak Boromar, were sent along with Garhorn as Halak's way of keeping an eye on things.
+- Many such 'guards' were sent along with Castar's men as a result of the inner conflict of the Clan
 
 Oak Dryfire:
 
