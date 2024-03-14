@@ -98,7 +98,7 @@
 		- Last remaining Couatl, was too scared to sacrifice himself for the Silver Flame
 		- Formed Clan Flameforge to keep watch on the Overlords and their prisons
 			- Directly oppose actions of the Lords of Dust
-			- A small group within felt that Clan Flameforge's scope was to narrow.
+			- A small group within felt that Clan Flameforge's scope was too narrow.
 			- They branched off and formed the Church of the Silver Flame.
 		- Varyn felt the increasing forces of the LoD that were fighting to release their Overlords.
 			- He grew fearful that they would learn about the Dragonshard that kept Rak Tulkesh imprisoned.
@@ -132,11 +132,11 @@
 	- Grants user powers if their soul is tainted
 	- Who has them
 		- Woe: main shard + 1 fragment
-		- Professor Baelen ir'Torn: 1 fragment
-		- Hrothgar: 1 fragment
+		- Professor Baelen ir'Torn: 1 fragment (Needs development, where/how did he find it?)
+		- Hrothgar: 1 fragment, obtained from Draven when Hrothgar battled and killed him
 
 - Artifact 2: ***White Flameblade***
-	- Currently in Varyn's possession
+	- Currently in Varyn's possession, obtained when he battled and killed Draven
 	- Contains runes that tell of the location of the Silver Flame
 		- Unlocks a portal in the Mournland that teleports to Vault deep under Xen'Drik jungle
 		- sword was created by Varyn when vault was originally sealed, gave it to Draven
