@@ -29,8 +29,10 @@
 **Moment 4:** Skirmish Remains CotSF vs. LoD
 
 - The party encounters the remains of a short skirmish between agents of the Lords of Dust and Baelen's CotSF knight guards.
-- Describe an odor of *sulfur & freshly cut grass* as a reoccurring symbol for the minions of the LoD.
-- Potential for interrogation scene or discovery of leads/clues pointing to Baelen, the CotSF, or the Fractured Khyber Dragonshard Fragments.
+- Describe an odor of *sulfur & freshly cut grass* as a reoccurring sign for the minions of the LoD.
+- A perception check reveals flattened grass from a recently walked bath down to a small rocky creek bed that has dried up. A recent grave covered in smooth stones can be easily spotted.
+- The grave contains the remains of a recently killed Knight, body draped in a white canvas cloth.
+	- He is buried along with a pende
 
 
 **Encounter 2:** Desolated Village
