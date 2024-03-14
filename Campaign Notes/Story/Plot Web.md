@@ -145,7 +145,7 @@
 
 - Artifact 3: ***Steelhardt***
 	- Originally developed by Geralt's Parents as a device that could transfer consciousness to a corpse, producing immortality.
-	- Worked by attaching a willing consciousness to a Siberys Dragonshard, then implanting the device into a corpse.
+	- Worked by attaching a willing soul to a Siberys Dragonshard, then implanting the device into a corpse.
 	- Marix d'Cannith & the LoD wanted to use it to create an avatar that could wield Rak Tulkesh's power and destroy the Silver Flame
 	- This failed because:
 		- It was intended for a consciousness to take over a corpse, not to absorb a great power into a living body
