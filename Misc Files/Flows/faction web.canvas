@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"1","type":"text","text":"Boromar Clan","x":-500,"y":0,"width":250,"height":60},
+		{"id":"2","type":"text","text":"Church of the Silver Flame","x":500,"y":0,"width":250,"height":60},
+		{"id":"3","type":"text","text":"Sharn","x":-500,"y":200,"width":250,"height":60},
+		{"id":"4","type":"text","text":"Criminal Underworld","x":-500,"y":400,"width":250,"height":60},
+		{"id":"5","type":"text","text":"Supernatural Evils","x":500,"y":400,"width":250,"height":60},
+		{"id":"6","type":"text","text":"Thrane","x":500,"y":200,"width":250,"height":60},
+		{"id":"7","type":"text","text":"Fractured Khyber Dragonshard","x":0,"y":600,"width":250,"height":60},
+		{"id":"9","type":"text","text":"Religious Artifacts","x":500,"y":-200,"width":250,"height":60},
+		{"id":"14","type":"text","text":"White Flameblade","x":1000,"y":200,"width":250,"height":60},
+		{"id":"15","type":"text","text":"House Cannith","x":0,"y":-800,"width":250,"height":60},
+		{"id":"12","type":"text","text":"Geralt Wolfsbane","x":0,"y":-600,"width":250,"height":60},
+		{"id":"16","type":"text","text":"Steelhardt","x":0,"y":-400,"width":250,"height":60},
+		{"id":"13","type":"text","text":"Hrothgar's Dark Powers","x":-980,"y":200,"width":250,"height":60},
+		{"id":"10","type":"text","text":"Bjorn \"Bearwolf\" Ulfr","x":-980,"y":-400,"width":250,"height":60},
+		{"id":"11","type":"text","text":"Draven Flameforge","x":1000,"y":-400,"width":250,"height":60},
+		{"id":"8","type":"text","text":"Corrupt Officials","x":-500,"y":-200,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"1","fromSide":"right","toNode":"2","toSide":"left"},
+		{"id":"e2","fromNode":"1","fromSide":"bottom","toNode":"3","toSide":"top"},
+		{"id":"e3","fromNode":"1","fromSide":"bottom","toNode":"4","toSide":"top"},
+		{"id":"e4","fromNode":"2","fromSide":"bottom","toNode":"5","toSide":"top"},
+		{"id":"e5","fromNode":"2","fromSide":"bottom","toNode":"6","toSide":"top"},
+		{"id":"e6","fromNode":"1","fromSide":"right","toNode":"7","toSide":"left"},
+		{"id":"e7","fromNode":"2","fromSide":"left","toNode":"7","toSide":"right"},
+		{"id":"e8","fromNode":"1","fromSide":"top","toNode":"8","toSide":"bottom"},
+		{"id":"e9","fromNode":"2","fromSide":"top","toNode":"9","toSide":"bottom"},
+		{"id":"e10","fromNode":"10","fromSide":"bottom","toNode":"13","toSide":"top"},
+		{"id":"e11","fromNode":"13","fromSide":"bottom","toNode":"7","toSide":"left"},
+		{"id":"e12","fromNode":"11","fromSide":"bottom","toNode":"14","toSide":"top"},
+		{"id":"e13","fromNode":"14","fromSide":"left","toNode":"9","toSide":"right"},
+		{"id":"e14","fromNode":"12","fromSide":"top","toNode":"15","toSide":"bottom"},
+		{"id":"e15","fromNode":"15","fromSide":"left","toNode":"16","toSide":"left"},
+		{"id":"e16","fromNode":"16","fromSide":"bottom","toNode":"7","toSide":"top"},
+		{"id":"e17","fromNode":"16","fromSide":"right","toNode":"5","toSide":"left"},
+		{"id":"26096dad3456fd40","fromNode":"8","fromSide":"left","toNode":"3","toSide":"left"}
+	]
+}
