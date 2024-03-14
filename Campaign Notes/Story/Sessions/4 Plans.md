@@ -32,7 +32,8 @@
 - Describe an odor of *sulfur & freshly cut grass* as a reoccurring sign for the minions of the LoD.
 - A perception check reveals flattened grass from a recently walked bath down to a small rocky creek bed that has dried up. A recent grave covered in smooth stones can be easily spotted.
 - The grave contains the remains of a recently killed Knight, body draped in a white canvas cloth.
-	- He is buried along with a pende
+	- He is buried along with a pendant of the Silver Flame and his issued sword, "Holy Silver".
+	- ***Holy Silver.*** Greatword. 
 
 
 **Encounter 2:** Desolated Village
