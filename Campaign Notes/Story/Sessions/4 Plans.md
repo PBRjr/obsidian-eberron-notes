@@ -11,8 +11,7 @@
 
 **Moment 1:** [[Boromar Gang Campsite]]
 
-- The party confronts the Boromar Gang Members.
-- The [[Boromar Gang Members]], including Garhorn and the remaining orcs, will react based on the party's approach.
+- The party confronts the [[Boromar Gang Members]].
 - They notice a small trail of oil leading to the campsite.
 
 **Moment 2:** Aftermath of Campsite Encounter
@@ -33,9 +32,6 @@
 - Describe an odor of *sulfur & freshly cut grass* as a reoccurring symbol for the minions of the LoD.
 - Potential for interrogation scene or discovery of leads/clues pointing to Baelen, the CotSF, or the Fractured Khyber Dragonshard Fragments.
 
-**Encounter 1:** Boromar Gang Campsite
-
-- If the party acquires horses and begins their journey, they may have a random encounter.
 
 **Encounter 2:** Desolated Village
 
