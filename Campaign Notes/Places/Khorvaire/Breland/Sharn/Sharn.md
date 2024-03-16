@@ -18,7 +18,10 @@ References
 	- [[#Points of Interest#Morgrave University|Morgrave University]]
 	- [[#Points of Interest#Torchfire Theatre|Torchfire Theatre]]
 	- [[#Points of Interest#Citadel Tower|Citadel Tower]]
-- [[#Society & Culture|Society & Culture]]
+- [[#Shops|Shops]]
+	- [[#Shops#Wealthy shops|Wealthy shops]]
+	- [[#Shops#Food and Provisions|Food and Provisions]]
+	- [[#Shops#Services|Services]]
 - [[#Travel|Travel]]
 	- [[#Travel#Travel Time|Travel Time]]
 	- [[#Travel#Travel Prices|Travel Prices]]
@@ -30,7 +33,27 @@ References
 
 ## Overview
 
-Sharn, also known as the "City of Towers," is a thriving metropolis located in the southeast of Khorvaire. It is the largest city in the continent and is known for its magical towers that reach high into the sky, earning its nickname. Sharn is an eclectic city, brimming with different races, cultures, and factions.
+| District        | Main Factions/Guilds                                                  | Major Attitudes                                            | Quick Descriptors                        | Other Important Info                                          |
+| --------------- | --------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------- |
+| Central Plateau | City Council, Dragonmarked Houses, Aurum                              | Wealthy, powerful, influential, corrupt                    | Bustling, opulent, secure                | Seat of city government, financial center                     |
+| Dura            | Boromar Clan, Daask, House Tarkanan                                   | Poor, desperate, hardened, resourceful                     | Seedy, dangerous, chaotic                | Gateway to the Dagger River, warehouse district, black market |
+| Menthis Plateau | Morgrave University, entertainment guilds, diverse ethnic communities | Artistic, intellectual, pleasure-seeking, diverse          | Vibrant, creative, crowded, exciting     | Entertainment hub, educational center                         |
+| Northedge       | Skilled crafters, merchants, shifter communities                      | Hardworking, peaceful, close-knit, suspicious of outsiders | Quiet, residential, traditional          | Home to many dwarves and shifters                             |
+| Skyway          | Wealthy elite, House Lyrandar                                         | Privileged, isolated, aloof, decadent                      | Luxurious, exclusive, breathtaking views | Floating towers above the city                                |
+| Cogs            | Daask, House Cannith, warforged laborers                              | Oppressed, dangerous, hardworking, resilient               | Industrial, hot, smoky, dark             | Foundries and forges fueling Sharn's economy                  |
+**Reading Aloud Tips:**
+
+- **Central Plateau:** Emphasize the grandeur and wealth, but also hint at the underlying corruption and power struggles.
+    
+- **Dura:** Highlight the gritty atmosphere and sense of danger, but also acknowledge the resilience and resourcefulness of its residents.
+    
+- **Menthis Plateau:** Capture the vibrant energy and diverse cultures, focusing on the sights and sounds of entertainment and creativity.
+    
+- **Northedge:** Describe the quiet, peaceful atmosphere and the strong sense of community, but also mention the suspicion towards outsiders.
+    
+- **Skyway:** Paint a picture of luxury and exclusivity, emphasizing the breathtaking views and the aloofness of its residents.
+    
+- **Cogs:** Focus on the industrial nature and harsh conditions, highlighting the darkness, heat, and constant sounds of machinery.
 
 ## Districts
 
@@ -84,12 +107,40 @@ Home to world-renowned playwrights and actors. It’s a symbol of culture in Sha
 ### Citadel Tower 
 Headquarters of Sharn’s Watch and base for the city guard. It’s one of the most secured locations in the city.
 
-## Society & Culture
 
-Sharn is a melting pot where cultures from across Eberron mingle. Its residents include humans, elves, dwarves, changelings, warforged - even members of more exotic races like goblins or tieflings can be found here. This diversity is reflected in every aspect of life in Sharn from its cuisine to its architecture.
+## Shops
+### Wealthy shops
+**1. Aurora Gallery (Central Plateau - Platinum Heights):** This exclusive auction house specializes in magical items, attracting wealthy collectors and adventurers seeking powerful artifacts. The items on offer are of exceptional quality, but the prices can be exorbitant, and competition among bidders can be fierce.
 
-Despite this diversity though, social inequality runs deep in Sharn with a clear divide between those who live in its soaring towers versus those who dwell beneath them in The Cogs or The Depths. This tension frequently leads to conflicts but also fuels much of the city's vibrant art scene as well as its ceaseless political intrigue.
+**2. Clebdecher's Loom (Dura - Highhold):** This renowned shop caters to the city's dwarven population, offering exquisitely crafted clothing and armor in traditional Mrorian and Zil styles. Hellien Clamas Clebdecher, the shop's owner and a master of glamerweave, is highly sought after by discerning clientele from across the city.
 
+**3. The Augury (Dura - Clifftop):** This mystical shop houses a circle of magewrights specializing in divination magic. Adventurers can purchase a variety of useful spells, including augury, locate creature, and scrying, to aid them in their endeavors. The Augury's master, Kestia, is a powerful and enigmatic elf with a reputation for exceptional mystical talents.
+
+**4. The Silver Bough (Northedge - Shae Lias):** This shop showcases the work of Tanar Mendyrian, one of the finest woodshapers in Khorvaire. Tanar crafts exquisite weapons and armor from exotic Aerenal woods, and his creations are prized for their beauty and magical properties. Acquiring an enchanted item from Tanar requires not only wealth, but also the woodshaper's respect.
+
+**5. The Winding Root (Northedge - Shae Lias):** This gallery displays the work of talented elven artisans, featuring intricate wooden sculptures, stunning tapestries, and exquisite jewelry. The items sold here are of the highest quality and command exorbitant prices, attracting wealthy collectors and connoisseurs of elven artistry.
+
+**6. The Crystals of Denion (Tavick's Landing - Silvergate):** This magic emporium caters to the city's elite, offering a variety of expensive and potent magical items. Denion specializes in items related to charm effects and charisma enhancement, as well as magical artwork prized for its beauty and enchantment.
+
+**7. The Wounded Dragon (Cogs - Khyber's Gate):** This hidden shop, accessible only to those with connections to the Daask organization, serves as a source for illegal alchemical substances and the mysterious drug known as dragon's blood. Cask, the changeling owner, is a skilled alchemist who plays a key role in Daask's criminal enterprises.
+
+### Food and Provisions
+- **The Daily Bread (Central Plateau - North Towers):** This bustling bakery offers a wide variety of fresh breads, pastries, and other baked goods. It's a popular spot for residents and workers seeking a quick and affordable breakfast or lunch.
+    
+- **The Spice Merchant (Dura - Redstone):** This aromatic shop offers a vast selection of spices and herbs from across Khorvaire and beyond, catering to both everyday cooks and aspiring alchemists.
+    
+- **The Green Market (Northedge - North Market):** This lively market features stalls overflowing with fresh produce, meats, cheeses, and other foodstuffs. Farmers from the surrounding countryside bring their goods here, making it a prime location for finding fresh and affordable ingredients.
+    
+- **The Cogs Provisions (Cogs - Khyber's Gate):** This no-frills shop provides basic foodstuffs and other necessities to the undercity's residents. While the quality may not be the best, it's a vital resource for those who live and work in the harsh environment of the Cogs.
+
+### Services
+- **The Mending Hand (Central Plateau - Dava Gate):** This reputable tailor shop offers clothing repair and alterations, as well as custom tailoring for special occasions.
+    
+- **The Sharpened Edge (Dura - Redstone):** This blacksmith shop provides weapon and tool sharpening, repair, and even custom crafting for those seeking high-quality equipment.
+    
+- **The Healing Touch (Northedge - High Hope):** This small clinic offers basic medical care and herbal remedies to the residents of Northedge. While not as advanced as a House Jorasco establishment, it provides affordable and accessible healthcare.
+    
+- **The Cogs Repair (Cogs - Blackbones):** This workshop offers repair services for tools, weapons, and even constructs, catering to the needs of the Cogs' workforce.
 ## Travel
 ### Travel Time
 Travel in Sharn can be unpredictable. Residents joke that it takes about an hour to get anywhere, whether it’s just down three levels in the same tower or all the way across town. Of course, skycoaches reduce the time dramatically compared to walking from place to place, and characters who really know their way around (as well as characters who are willing to ask for directions frequently along the way) can get to their destinations more quickly than newcomers who refuse to display their ignorance. 

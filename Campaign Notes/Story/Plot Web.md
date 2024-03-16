@@ -98,7 +98,7 @@
 		- Last remaining Couatl, was too scared to sacrifice himself for the Silver Flame
 		- Formed Clan Flameforge to keep watch on the Overlords and their prisons
 			- Directly oppose actions of the Lords of Dust
-			- A small group within felt that Clan Flameforge's scope was to narrow.
+			- A small group within felt that Clan Flameforge's scope was too narrow.
 			- They branched off and formed the Church of the Silver Flame.
 		- Varyn felt the increasing forces of the LoD that were fighting to release their Overlords.
 			- He grew fearful that they would learn about the Dragonshard that kept Rak Tulkesh imprisoned.
@@ -132,11 +132,11 @@
 	- Grants user powers if their soul is tainted
 	- Who has them
 		- Woe: main shard + 1 fragment
-		- Professor Baelen ir'Torn: 1 fragment
-		- Hrothgar: 1 fragment
+		- Professor Baelen ir'Torn: 1 fragment (Needs development, where/how did he find it?)
+		- Hrothgar: 1 fragment, obtained from Draven when Hrothgar battled and killed him
 
 - Artifact 2: ***White Flameblade***
-	- Currently in Varyn's possession
+	- Currently in Varyn's possession, obtained when he battled and killed Draven
 	- Contains runes that tell of the location of the Silver Flame
 		- Unlocks a portal in the Mournland that teleports to Vault deep under Xen'Drik jungle
 		- sword was created by Varyn when vault was originally sealed, gave it to Draven
@@ -145,7 +145,7 @@
 
 - Artifact 3: ***Steelhardt***
 	- Originally developed by Geralt's Parents as a device that could transfer consciousness to a corpse, producing immortality.
-	- Worked by attaching a willing consciousness to a Siberys Dragonshard, then implanting the device into a corpse.
+	- Worked by attaching a willing soul to a Siberys Dragonshard, then implanting the device into a corpse.
 	- Marix d'Cannith & the LoD wanted to use it to create an avatar that could wield Rak Tulkesh's power and destroy the Silver Flame
 	- This failed because:
 		- It was intended for a consciousness to take over a corpse, not to absorb a great power into a living body

@@ -11,8 +11,7 @@
 
 **Moment 1:** [[Boromar Gang Campsite]]
 
-- The party confronts the Boromar Gang Members.
-- The [[Boromar Gang Members]], including Garhorn and the remaining orcs, will react based on the party's approach.
+- The party confronts the [[Boromar Gang Members]].
 - They notice a small trail of oil leading to the campsite.
 
 **Moment 2:** Aftermath of Campsite Encounter
@@ -30,12 +29,12 @@
 **Moment 4:** Skirmish Remains CotSF vs. LoD
 
 - The party encounters the remains of a short skirmish between agents of the Lords of Dust and Baelen's CotSF knight guards.
-- Describe an odor of *sulfur & freshly cut grass* as a reoccurring symbol for the minions of the LoD.
-- Potential for interrogation scene or discovery of leads/clues pointing to Baelen, the CotSF, or the Fractured Khyber Dragonshard Fragments.
+- Describe an odor of *sulfur & freshly cut grass* as a reoccurring sign for the minions of the LoD.
+- A perception check reveals flattened grass from a recently walked bath down to a small rocky creek bed that has dried up. A recent grave covered in smooth stones can be easily spotted.
+- The grave contains the remains of a recently killed Knight, body draped in a white canvas cloth.
+	- He is buried along with a pendant of the Silver Flame and his issued sword, "Holy Silver".
+	- ***Holy Silver.*** + 1 silvered great sword. Attacks count as magical. Looks like it was build for function. Blade and handle are impeccably polished, the handle made of a white marble and sanded smooth.
 
-**Encounter 1:** Boromar Gang Campsite
-
-- If the party acquires horses and begins their journey, they may have a random encounter.
 
 **Encounter 2:** Desolated Village
 
