@@ -18,7 +18,10 @@ References
 	- [[#Points of Interest#Morgrave University|Morgrave University]]
 	- [[#Points of Interest#Torchfire Theatre|Torchfire Theatre]]
 	- [[#Points of Interest#Citadel Tower|Citadel Tower]]
-- [[#Society & Culture|Society & Culture]]
+- [[#Shops|Shops]]
+	- [[#Shops#Wealthy shops|Wealthy shops]]
+	- [[#Shops#Food and Provisions|Food and Provisions]]
+	- [[#Shops#Services|Services]]
 - [[#Travel|Travel]]
 	- [[#Travel#Travel Time|Travel Time]]
 	- [[#Travel#Travel Prices|Travel Prices]]
@@ -130,7 +133,7 @@ Headquarters of Sharn’s Watch and base for the city guard. It’s one of the m
     
 - **The Cogs Provisions (Cogs - Khyber's Gate):** This no-frills shop provides basic foodstuffs and other necessities to the undercity's residents. While the quality may not be the best, it's a vital resource for those who live and work in the harsh environment of the Cogs.
 
-# Services
+### Services
 - **The Mending Hand (Central Plateau - Dava Gate):** This reputable tailor shop offers clothing repair and alterations, as well as custom tailoring for special occasions.
     
 - **The Sharpened Edge (Dura - Redstone):** This blacksmith shop provides weapon and tool sharpening, repair, and even custom crafting for those seeking high-quality equipment.
