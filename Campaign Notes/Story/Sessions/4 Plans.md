@@ -1,7 +1,9 @@
 ### Outline
 
-- Prepare handouts for session 4 (e.g., maps of Sharn, notes from NPCs, quest cards for new objectives).
-- Resolve the Boromar Gang Campsite encounter, including possible outcomes and repercussions.
+- Oak Dryfire interaction with Ankheg head and Draven interaction
+- Boromar gang encounter
+- Skirmish remains
+- Kismet encounter
 
 ### Moments & Encounters
 
@@ -27,12 +29,12 @@
 - Provide opportunities for humor and light-hearted roleplay, allowing the party to engage with the locals in unexpected ways.
 
 **Moment 4:** Skirmish Remains CotSF vs. LoD
-
-- The party encounters a scene of upturned earch, scatter leaved, and broken branches. A tree lays along the side of the road, shallow paths dragged through the dirt indicate this tree once blocked the road, then was moved out of the way.
+- *Professor Baelen ir'Torn and his detail of 6 Knights Templar and a Priest were ambushed by LoD agents, including hellhounds, magma memphits, and imps. All LoD agents died, and one Knight died and was buried in a smal *
+- The party encounters a scene of upturned earth, scatter leaves, and broken branches. A tree lays along the side of the road, shallow paths dragged through the dirt indicate this tree once blocked the road, then was moved out of the way.
 - Describe an odor of *sulfur & rot* as a reoccurring sign for the minions of the LoD.
 - **Signs pointing to agents:** singed paw prints, tufts of burnt black fur (*hellhounds*) | claw markings in rock, small black barbs embedded in trees (*imps*) | cooled, hardened lava splatters (*magma memphites*)
 - A perception check reveals flattened grass from a recently walked bath down to a small rocky creek bed that has dried up. A recent grave covered in smooth stones can be easily spotted.
-- The grave contains the remains of a recently killed Knight, body draped in a white canvas cloth.
+- The grave contains the remains of a recently killed Knight Templar, body draped in a white canvas cloth.
 	- He is buried along with a pendant of the Silver Flame and his issued sword, "Holy Silver".
 	- ***Holy Silver.*** + 1 silvered longsword. Attacks count as magical. Looks like it was build for function. Blade and handle are impeccably polished, the handle made of a white marble and sanded smooth.
 
@@ -54,7 +56,7 @@ Place 1: [[Boromar Gang Campsite]]
 Place 2: Road to Sharn
 
 - Broken wagon on the side of the road, Kismet asks for help
-- Site of skirmish between CotSF knights and LoD agents
+- Site of skirmish between CotSF and LoD agents
 
 ### People
 
