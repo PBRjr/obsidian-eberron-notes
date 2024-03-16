@@ -29,7 +29,8 @@
 **Moment 4:** Skirmish Remains CotSF vs. LoD
 
 - The party encounters the remains of a short skirmish between agents of the Lords of Dust and Baelen's CotSF knight guards.
-- Describe an odor of *sulfur & freshly cut grass* as a reoccurring sign for the minions of the LoD.
+- Describe an odor of *sulfur & brimstone* as a reoccurring sign for the minions of the LoD.
+- *Signs pointing to agents:* 
 - A perception check reveals flattened grass from a recently walked bath down to a small rocky creek bed that has dried up. A recent grave covered in smooth stones can be easily spotted.
 - The grave contains the remains of a recently killed Knight, body draped in a white canvas cloth.
 	- He is buried along with a pendant of the Silver Flame and his issued sword, "Holy Silver".
