@@ -25,4 +25,4 @@ To use these tables, when a character falls from height in the City of Towers, f
 | 41-50      | You fall through the roof of a building, taking a hard landing inside.                               |
 | 51-70      | You land on an outcropping. If you surive, you are now stuck in a precarious position.               |
 | 71-90      | An air elemental breaks your fall! Now it wants to break your face too.                              |
-| 91-100     | The ground is enchanted with _Featherfall_.
+| 91-100     | The ground is enchanted with _Featherfall_.                                                          |

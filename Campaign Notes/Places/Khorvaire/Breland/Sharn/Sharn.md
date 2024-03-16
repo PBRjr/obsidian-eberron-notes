@@ -30,7 +30,7 @@ References
 
 ## Overview
 
-Sharn, also known as the "City of Towers," is a thriving metropolis located in the southeast of Khorvaire. It is the largest city in the continent and is known for its magical towers that reach high into the sky, earning its nickname. Sharn is an eclectic city, brimming with different races, cultures, and factions.
+
 
 ## Districts
 
