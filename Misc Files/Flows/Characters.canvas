@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"9849c5da771a5272","type":"text","text":"![[Baelen.webp]]\n[[Professor Baelen ir'Torn]]","x":-1240,"y":-900,"width":340,"height":440},
 		{"id":"10414be9c5ecdddc","type":"text","text":"![[Jonston Marsh.png]]\n[[Jonston Marsh (deceased)]]","x":-840,"y":-900,"width":340,"height":440},
-		{"id":"729d6efb67b23f42","type":"text","text":"![[Woe portrait.png]]\n[[Woe|]]","x":-420,"y":-900,"width":260,"height":440}
+		{"id":"729d6efb67b23f42","type":"text","text":"![[Woe portrait.png]]\n[[Woe]]","x":-420,"y":-900,"width":260,"height":440}
 	],
 	"edges":[]
 }
