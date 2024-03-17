@@ -6,9 +6,9 @@ Before you can even take a breath, you're surrounded by a swarm of people. Porte
 Through the crowd, you can see the many shops and stalls that line the edges of the station. House Orien maintains a strong presence here, with offices for arranging transport and shipping, as well as a small enclave for its heirs. House Sivis has a message station here, and House Deneith has a small outpost where you can hire bodyguards or laborers. House Vadalis even operates a large stable and hostelry, should you need to secure your mounts while exploring the city.
 
 **Via land road at Wroann's Gate.**
-As you pass through the colossal Wroann's Gate, the City of Towers truly lives up to its name. A breathtaking panorama of soaring spires and towering structures stretches before you, reaching up into the sky as if to pierce the heavens themselves. The sheer scale of the city is overwhelming, and you can't help but feel a sense of awe and wonder.
+As you approach the colossal Wroann's Gate, the City of Towers truly lives up to its name. A breathtaking panorama of soaring spires and towering structures stretches before you, reaching up into the sky as if to pierce the heavens themselves. The sheer scale of the city is overwhelming, and you can't help but feel a sense of awe and wonder.
 
-The gate itself is a marvel of engineering, a massive archway carved from black granite and topped by a titanic statue of Queen Wroann. The queen holds a scepter in one hand and a sword above her head, a symbol of the power and authority of Breland.
+The gate itself is a marvel of engineering, a massive archway carved from black granite and topped by a titanic statue of Queen Wroann of Breland. The queen holds a scepter in one hand and a sword above her head.
 
 The streets of Wroann's Gate teem with life. Merchants and traders hawk their wares, their voices blending into a cacophony of sound. Travelers from across Khorvaire mingle with the city's residents, their faces reflecting a myriad of cultures and backgrounds. Skycoaches flit through the air like giant dragonflies, carrying passengers to their destinations. And beneath it all, you can hear the constant hum of the Cogs, the beating heart of Sharn's industry.
 
