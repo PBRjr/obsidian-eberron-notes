@@ -3,7 +3,7 @@
 	- 30ft away from center of camp
 	- Will ring small bells that alert gang members
 	- ***DC 16*** to detect
-- [[Boromar Gang Members|Garhorn, Orc 1, Orc 3]]
+- [[Boromar Gang Members|Garhorn, Orc 1, Orc 3, ]]
 	- Orc 2 died trying to fight the [[Whitehorn Wood|Ankheg]]
 - Chewy is chained to a tree here, still partially covered in oil
 	- He was caught trying to steal a horse in the middle of the night
