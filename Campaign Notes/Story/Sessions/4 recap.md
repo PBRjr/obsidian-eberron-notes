@@ -12,3 +12,5 @@ Raided the camp
 - Prissy gave the party a potion of fire breath and potion of growth
 - They read the intel letter and plan to head to Sharn by horse and try to find the professor they heard about
 - Heading south.
+- Encountered Kismet, got their fate readings, left really fast after they got freaked out. They helped her repair her wagon.
+- Came upon the scene of the KotSF and Lod agents and camped nearby.
