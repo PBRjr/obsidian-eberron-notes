@@ -6,3 +6,7 @@ Raided the camp
 - Killed Orc 1 & 3
 - Took other horse
 	- The horse that LOVES apples
+- Went back to town, townsfolk were scared at the sight of them carrying the heads of the orcs
+- Sheriff Cromley asked them to leave, payed for horses out of there
+- Prissy gave the party a potion of fire breath and potion of growth
+- 
