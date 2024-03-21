@@ -1,9 +1,9 @@
-Raided the camp
-- Found the exposition
-- Let Garhorn and his blink dog Flicker go on a horse
-	- The horse that LOVES carrots
-	- DID NOT SEARCH HIM
-- Killed Orc 1 & 3
+Raided the boromar gang campsite
+- Found Garhorn's ledger, his intel on Baelen ir'Torn, and his map of Khorvaire, in addition to loot listed below.
+- Let Garhorn and his blink dog Flicker leave alive, along with one of their horses (the one Geralt that demanded carrots from Geralt when he used speak with animals).
+	- The party did not search Garhorn, he left with his sending stone and special lockpicking set.
+	- Garhorn will travel to the closest known Boromar safe house and get aid. He used his sending stone to contact his superior and order a hit out on the party. He will also return to Shavalant with more gang members and burn the town to the ground since they aided the party.
+- 
 - Let the captured Kobold go
 - Took other horse
 	- The horse that LOVES apples
