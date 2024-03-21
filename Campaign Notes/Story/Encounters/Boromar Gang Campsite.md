@@ -42,4 +42,4 @@
 - **Map to Shavalant**
 	- Found in saddlebags
 	- A basic map of Khorvaire, with marked-out distances (700 miles) leading to Shavalant, which is circled.
-	- At the top is scribbled "Horseback = 6 days" & "Lightning rail = 27 hours = ".
+	- At the top is scribbled "Horseback = 6 days" & "Lightning rail = 27 hours  ".
