@@ -26,10 +26,14 @@ During first day of travel they completed the "It's Kismet" encounter.
 - The party left shortly after, a bit freaked out.
 - Bjorn was less jolted by the encounter, due to his mother being the Stormpeak Clan's seer.
 
-Found the remains of the skirmish between Baelen's guards and the LoD ambush
-- Found the initial clues about the ambush, investegated 
+Found the remains of the skirmish between Baelen's guards and the LoD ambush.
+- Found the initial clues about the ambush, investigated the scene a bit.
+- Bjorn spotted the path leading towards the creek bed that contains the dead Knight Templar.
+- The party elected to set up camp a short distance away from the skirmish site and long rest before investigating further.
 
-Treasure
+SESSION END
+
+SESSION LOOT
 - 180 gp 200 sp 300 cp
 - gems and valuables 200-300 gp
 - 2 challenge coins
