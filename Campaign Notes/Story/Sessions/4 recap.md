@@ -14,3 +14,12 @@ Raided the camp
 - Heading south.
 - Encountered Kismet, got their fate readings, left really fast after they got freaked out. They helped her repair her wagon.
 - Came upon the scene of the KotSF and Lod agents and camped nearby.
+
+Treasure
+- 180 gp 200 sp 300 cp
+- gems and valuables 200-300 gp
+- 2 challenge coins
+- ledger, intel letter
+- map of khorvaire
+- postions of fire breath and growth
+- 3 potions of healing
