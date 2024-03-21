@@ -8,8 +8,14 @@ Raided the boromar gang campsite
 	- Garhorn will travel to the closest known Boromar safe house and get aid. He used his sending stone to contact his superior and order a hit out on the party. He will also return to Shavalant with more gang members and burn the town to the ground since they aided the party.
 	- PCs took the remaining horse from camp (the one that was very thankful for the apple Geralt fed it).
 
-The party returned to Shavalant soon after, and scared the townsfolk
-- Sheriff Cromley asked them to leave, payed for horses out of there
+The party returned to Shavalant soon after, and went to talk to Miri.
+- The townsfolk they passed were quite startled by the party and their appearence due to their recent fight with the gang members.
+- Miri was concerned at how they handled it, though she was grateful they helped at all.
+	- She is afraid that Garhorn will send for more muscle and come back to burn the town to the ground.
+	- She relays to the party that she spoke with her mentor Aeren d'Cannith, and that he needs the names of the party so he can aid them through the Sharn gates once they arrive.
+	- Miri also told the PCs that he was intrigued about Geralt's steelhardt schematics, though he wouldn't reveal anything over sending stone.
+	- (Aeren will recognize Geralt's last name and will begin looking into his family further, suspecting they are connected to House Cannith's involvement in the Day of Mourning.)
+- Sheriff Cromley showed up at Miri's workshop during this conversatasked them to leave, payed for horses out of there
 - Prissy gave the party a potion of fire breath and potion of growth
 - They read the intel letter and plan to head to Sharn by horse and try to find the professor they heard about
 - Heading south.
