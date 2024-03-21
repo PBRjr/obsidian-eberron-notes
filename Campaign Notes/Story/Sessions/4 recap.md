@@ -4,9 +4,11 @@ Raided the camp
 	- The horse that LOVES carrots
 	- DID NOT SEARCH HIM
 - Killed Orc 1 & 3
+- Let the captured Kobold go
 - Took other horse
 	- The horse that LOVES apples
 - Went back to town, townsfolk were scared at the sight of them carrying the heads of the orcs
 - Sheriff Cromley asked them to leave, payed for horses out of there
 - Prissy gave the party a potion of fire breath and potion of growth
-- 
+- They read the intel letter and plan to head to Sharn by horse and try to find the professor they heard about
+- Heading south.
