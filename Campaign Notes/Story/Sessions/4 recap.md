@@ -18,10 +18,16 @@ The party returned to Shavalant soon after, and went to talk to Miri.
 - Sheriff Cromley showed up at Miri's workshop during this conversation, very irate. He asked the party to leave, and payed for another horse they could ride out of town.
 	- He is concered for the same reasons Miri is, though he is less grateful towards the party than her.
 - The PCs stopped by Prissy's apothecary on the way out, and she gave the party a potion of fire breath and potion of growth as thanks for delivering news of her son's passing (which happened in session 1).
-- They read the intel letter concernig Baelen and his group of CotSF guards and pl
-- Heading south.
-- Encountered Kismet, got their fate readings, left really fast after they got freaked out. They helped her repair her wagon.
-- Came upon the scene of the KotSF and Lod agents and camped nearby.
+- They read the intel letter concernig Baelen and his group of CotSF guards and planned on heading to Sharn, with a possible detour to Castle Arakhain (AKA "The Lighthouse") to investigate a potential lead on the purple crystal he has, hoping to discover more about Woe.
+
+During first day of travel they completed the "It's Kismet" encounter.
+- Helped her repair her wagon using some glue she had.
+- She announced herself as a seer and offered palm readings. Things got weird fast and she gave their fate readings detailed in the encounter.
+- The party left shortly after, a bit freaked out.
+- Bjorn was less jolted by the encounter, due to his mother being the Stormpeak Clan's seer.
+
+Found the remains of the skirmish between Baelen's guards and the LoD ambush
+- Found the initial clues about the ambush, investegated 
 
 Treasure
 - 180 gp 200 sp 300 cp
