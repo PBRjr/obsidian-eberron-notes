@@ -15,8 +15,9 @@ The party returned to Shavalant soon after, and went to talk to Miri.
 	- She relays to the party that she spoke with her mentor Aeren d'Cannith, and that he needs the names of the party so he can aid them through the Sharn gates once they arrive.
 	- Miri also told the PCs that he was intrigued about Geralt's steelhardt schematics, though he wouldn't reveal anything over sending stone.
 	- (Aeren will recognize Geralt's last name and will begin looking into his family further, suspecting they are connected to House Cannith's involvement in the Day of Mourning.)
-- Sheriff Cromley showed up at Miri's workshop during this conversatasked them to leave, payed for horses out of there
-- Prissy gave the party a potion of fire breath and potion of growth
+- Sheriff Cromley showed up at Miri's workshop during this conversation, very irate. He asked the party to leave, and payed for another horse they could ride out of town.
+	- He is concered for the same reasons Miri is, though he is less grateful towards the party than her.
+- The PCs stopped by Prissy's apothecary on the way out, and she gave the party a potion of fire breath and potion of growth as thanks for delivering news of her son's passing (which happened in session 1).
 - They read the intel letter and plan to head to Sharn by horse and try to find the professor they heard about
 - Heading south.
 - Encountered Kismet, got their fate readings, left really fast after they got freaked out. They helped her repair her wagon.
