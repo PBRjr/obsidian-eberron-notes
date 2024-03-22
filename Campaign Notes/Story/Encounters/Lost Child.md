@@ -1,1 +1,0 @@
-Help [[Oak Dryfire]] to his nearby home and be rewarded.
