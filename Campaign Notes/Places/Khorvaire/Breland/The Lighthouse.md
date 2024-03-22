@@ -1,6 +1,7 @@
 AKA ***The Lighthouse***
 ## Concept
-- Once a sanctuary for shifters during the 
+- Once a sanctuary and signal of safety for shifters and their families, Castle Arak embodied the culture of its inhabitants when they were at risk of being eradicated.
+- During the 50 year *Silver Crusade* wrought by the Church of the Silver Flame, Castle 
 
 ## Description
 > A 1 or 2 paragraph description of the location from the viewpoints of the players, that can be directly read to the players, in the style of Matthew Mercer. Only describe things the players would notice, assuming they don't know anything about the place except for what they would have seen upon initial approach and entrance.
