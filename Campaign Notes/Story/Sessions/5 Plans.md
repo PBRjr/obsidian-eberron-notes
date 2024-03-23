@@ -8,10 +8,12 @@
 ### Moments & Encounters
 
 Session Start
-- (based on where/how last session ended)
+- Allow PCs to explore skirmish site and find the holy sword.
 
-Moment 1: *Name*
-- X
+Moment 1: Arrival at the Lighthouse
+- Encounter 1: 
+	- A shape-shifting LoD agent poses as a child in distress, trying to find their grandpa Baelen ir'Torn
+	- The agents will attack and ambush the party
 
 Moment 2: *Name*
 - X
@@ -65,5 +67,6 @@ Exposition - book and scroll passages:
 - Book 1 (something relating to how Liches work, introducing the concept of phylacteries)
 	- Passage
 - Book 2 (vague history about the origin of the Silver Flame)
-	- Passage 2
-- Scroll 1 (different short recounts of the day of mourning from surviviors with direct exp)
+	- Passage 
+- Scroll 1 (a few firsthand accounts of the day of mourning from Cyran refugees)
+	- Passage
