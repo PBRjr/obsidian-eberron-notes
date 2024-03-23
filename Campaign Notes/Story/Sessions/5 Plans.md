@@ -1,5 +1,7 @@
 ### Outline
-- Discover the holy sword in the 
+- Discover the holy sword in the knight's grave
+- Travel to Castle Arakhain, encounter w/ deceptive LoD agents
+- Discover the castle was ransacked, find leads/clues about Baelen
 
 ### Moments & Encounters
 
