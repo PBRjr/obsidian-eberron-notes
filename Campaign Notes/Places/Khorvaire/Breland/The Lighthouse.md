@@ -12,7 +12,7 @@ AKA ***Castle Arakhain***
 - List what faction(s), governments, or groups have control or are attempting to gain control, if any
 
 ## History
-- Once a sanctuary and signal of safety for shifters and their families, Castle Arakain embodied the culture of its inhabitants when they were at risk of being eradicated.
+- This fortress has served as one of the largest collections of religious histories
 - During the 50 year *Silver Crusade* wrought by the Church of the Silver Flame, Castle Arakhain was sieged, its walls raised, its people slaughtered. 
 - The wicked flames burned so brightly their glow could be seen from neighboring cities and kingdoms. Thus, the place was named "The Lighthouse," serving as a warning to those who aim to stand against the Church in the future.
 ## Hooks
