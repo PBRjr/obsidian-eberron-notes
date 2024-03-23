@@ -12,9 +12,9 @@ AKA ***Castle Arakhain***
 - List what faction(s), governments, or groups have control or are attempting to gain control, if any
 
 ## History
-- This fortress has served as one of the largest collections of religious histories
-- During the 50 year *Silver Crusade* wrought by the Church of the Silver Flame, Castle Arakhain was sieged, its walls raised, its people slaughtered. 
-- The wicked flames burned so brightly their glow could be seen from neighboring cities and kingdoms. Thus, the place was named "The Lighthouse," serving as a warning to those who aim to stand against the Church in the future.
+- This fortress has served as the largest collection of religious histories the CotSF controls. The lighthouse is were their most prestigious scholars and researchers conducted their work, surrounded by books and scrolls.
+- Since the Last War, the Lighthouse has also served as a FOB, allowing for early notification of possible invasion from the west into Thrane.
+- Knowing that this was the closest safe house Baelen and his guards could be heading to, they attacked, destorying 
 ## Hooks
 - Ideas for quests, events, encounters, etc. that could happen at this location
 - Ideas for why the PCs would be here in the first place
