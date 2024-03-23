@@ -2,7 +2,8 @@
 - Discover the holy sword in the knight's grave
 - Travel to Castle Arakhain, encounter w/ deceptive LoD agents
 - Discover the castle was ransacked, find leads/clues about the Church's history and goals.
-- Find clues/leads concerning the Day of Mourning and the Silver Flame, possibly find references to Varak
+- Find clues/leads concerning the Day of Mourning and the Silver Flame, possibly find references to Varak and his phylactery.
+- References to Lichdom and how it works, introduce the concept of phylacteries.
 
 ### Moments & Encounters
 
@@ -60,5 +61,9 @@ Action 2: *Name of significant NPC(s) or organization(s) involved*
 
 (continue as needed)
 ### Additional Notes
-
-- (Add any other notes or information that you need for the session)
+Exposition - book and scroll passages:
+- Book 1 (something relating to how Liches work, introducing the concept of phylacteries)
+	- Passage
+- Book 2 (vague history about the origin of the Silver Flame)
+	- Passage 2
+- Scroll 1 (different short recounts of the day of mourning from surviviors with direct exp)
