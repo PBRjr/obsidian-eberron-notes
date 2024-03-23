@@ -1,7 +1,8 @@
 ### Outline
 - Discover the holy sword in the knight's grave
 - Travel to Castle Arakhain, encounter w/ deceptive LoD agents
-- Discover the castle was ransacked, find leads/clues about Baelen
+- Discover the castle was ransacked, find leads/clues about the Church's history and goals.
+- Find clues/leads concerning the Day of Mourning and the Silver Flame, possibly find references to Varak
 
 ### Moments & Encounters
 
