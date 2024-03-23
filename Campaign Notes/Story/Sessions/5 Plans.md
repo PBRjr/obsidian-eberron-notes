@@ -4,11 +4,13 @@
 - Discover the castle was ransacked, find leads/clues about the Church's history and goals.
 - Find clues/leads concerning the Day of Mourning and the Silver Flame, possibly find references to Varak and his phylactery.
 - References to Lichdom and how it works, introduce the concept of phylacteries.
-
+- Find a teleportation circle inside a sealed chamber that requires a riddle/puzzle to open? 
+- The priest and Baelen escaped through the circle to Sharn then destroyed the circle at their destination so that others cannot follow them.
 ### Moments & Encounters
 
 Session Start
 - Allow PCs to explore skirmish site and find the holy sword.
+- Nearby agents watch the party at night, avoid encounter until they get close to the Lighthouse
 
 Moment 1: Arrival at the Lighthouse
 - Encounter 1: 
