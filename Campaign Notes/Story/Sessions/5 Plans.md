@@ -65,7 +65,7 @@ Action 2: *Name of significant NPC(s) or organization(s) involved*
 
 (continue as needed)
 ### Additional Notes
-Exposition - book and scroll passages:
+Exposition - book and scroll passages found inside the Lighthouse:
 - Book 1 (something relating to how Liches work, introducing the concept of phylacteries)
 	- Passage
 - Book 2 (vague history about the origin of the Silver Flame)
