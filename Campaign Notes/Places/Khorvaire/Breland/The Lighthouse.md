@@ -14,11 +14,10 @@ AKA ***Castle Arakhain***
 ## History
 - This fortress has served as the largest collection of religious histories the CotSF controls. The lighthouse is were their most prestigious scholars and researchers conducted their work, surrounded by books and scrolls.
 - Since the Last War, the Lighthouse has also served as a FOB, allowing for early notification of possible invasion from the west into Thrane.
-- Knowing that this was the closest safe house Baelen and his guards could be heading to, they attacked, destroying parts of the fortress.
+-
 ## Hooks
-- Ideas for quests, events, encounters, etc. that could happen at this location
-- Ideas for why the PCs would be here in the first place
-
+- Knowing that this was the closest safe house Baelen and his guards could be heading to, they attacked, destroying parts of the fortress.
+- The LoD agents attacked the castle shortly after Baelen and his guards arrived. All of the knights perished, Baelen and the Priest being the only two that escaped, via a teleportation circle to Sharn, which was cut off from the other side once they used it.
 ## Secrets
 - Hidden things about this place the PCs could discover
 
