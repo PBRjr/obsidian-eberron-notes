@@ -2,7 +2,7 @@
 - Briefly (2-3 sentences) describe the general idea of this place and why its important
 
 ## Description
-> A 1 or 2 paragraph description of the location from the viewpoints of the players, that can be directly read to the players, in the style of Matthew Mercer. Only describe things the players would notice, assuming they don't know anything about the place except for what they would have seen upon initial approach and entrance.
+> 'box text' description of the overall location.
 
 ## Notable Locations
 - Locations or places within this location that are important, along with a short description of each
