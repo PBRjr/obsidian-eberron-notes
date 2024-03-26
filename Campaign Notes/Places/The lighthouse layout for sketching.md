@@ -74,4 +74,55 @@ Contents:
     - Remnants of protective magical wards can be found etched into the walls or floor, now weakened or broken by the attack.
     - These wards hint at the importance and sensitivity of the knowledge once contained within the library.
 
-###
+### Research Labs
+Layout:
+
+- The research labs are located in a large, rectangular room adjacent to the library.
+- The room is divided into several smaller sections, each dedicated to a specific area of study or experimentation.
+- Workbenches and tables are arranged throughout the room, with various alchemical and arcane apparatus set up on them.
+- The room has suffered significant damage, with a portion of the ceiling having collapsed, blocking off a section of the labs.
+- Debris from the caved-in ceiling litters the floor, making navigation through the room challenging.
+
+Contents:
+
+1. Alchemical Equipment:
+    - Beakers, alembics, and other glassware used for alchemical experiments can be found on the workbenches, many of them broken or overturned.
+    - Remnants of alchemical substances, both mundane and magical, are spilled across the tables and floor.
+2. Arcane Artifacts:
+    - Various arcane artifacts, such as enchanted crystals, runic tablets, and ancient relics, can be found scattered throughout the labs.
+    - Some of these artifacts appear to have been the focus of intense study, with accompanying notes and diagrams nearby.
+3. Partially Collapsed Section:
+    - The caved-in portion of the room is filled with rubble, broken beams, and shattered masonry.
+    - Characters may be able to catch glimpses of additional workstations or storage areas beyond the collapse, but accessing them would require significant effort or magic.
+4. Damaged Experiments:
+    - Evidence of ongoing experiments can be found in the form of shattered glass, spilled potions, and scorched or frozen surfaces.
+    - Some of these experiments may have been volatile or dangerous, adding an element of risk to exploring the area.
+5. Professor's Workstation:
+    - A specific workbench or desk can be identified as Professor Baelen ir'Torn's personal workstation.
+    - Scattered notes, diagrams, and research materials related to the Khyber dragonshard fragments can be found here, providing clues to the professor's work.
+
+Layout:
+
+- The chapel is a modest, rectangular room with a high, vaulted ceiling.
+- An altar dedicated to the Silver Flame stands at the far end of the room, with a large, ornate symbol of the flame carved into the wall above it.
+- Rows of wooden pews line either side of a central aisle leading up to the altar.
+- Stained glass windows depicting scenes of the Silver Flame and its champions line the walls, some now shattered.
+
+Contents:
+
+1. Altar:
+    - The altar is made of white marble, with intricate carvings and silver inlays.
+    - A silver chalice, now tarnished and overturned, rests on the altar.
+    - Remnants of burnt offerings and scattered prayer beads can be found around the altar.
+2. Shattered Pews:
+    - Several of the wooden pews have been splintered and broken, likely used as makeshift weapons or barricades during the battle.
+    - Torn prayer books and hymnal pages are scattered among the debris.
+3. Defaced Symbols:
+    - The symbol of the Silver Flame and other religious iconography in the chapel show signs of deliberate defacement, with scratch marks or scorch marks marring their surfaces.
+    - This desecration suggests a targeted attack on the beliefs and practices of the Church of the Silver Flame.
+4. Hidden Reliquary:
+    - A small, concealed compartment behind the altar may contain a reliquary or sacred texts related to the Silver Flame.
+    - These items could provide additional insight into the church's history or the significance of the castle.
+5. Prayer Alcoves:
+    - Small alcoves along the side walls contain prayer candles, offering bowls, and other religious paraphernalia.
+    - Some of these alcoves may have been used as impromptu shelters during the attack, with signs of hastily erected barricades or personal belongings left behind.
