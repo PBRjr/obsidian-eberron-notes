@@ -6,7 +6,8 @@ AKA ***Castle Arakhain***
 > A 1 or 2 paragraph description of the location from the viewpoints of the players, that can be directly read to the players, in the style of Matthew Mercer. Only describe things the players would notice, assuming they don't know anything about the place except for what they would have seen upon initial approach and entrance.
 
 ## Notable Locations
-- Locations or places within this location that are important, along with a short description of each
+#### Main chamber
+Several tapestries hang from the grand vaulted ceiling here, depicting the history of the Silver Flame. Though they eminate no signs of magic, they seem to be the only thing left untouched here
 ## Inhabitants
 - List major characters that inhabit this place
 - List what faction(s), governments, or groups have control or are attempting to gain control, if any
