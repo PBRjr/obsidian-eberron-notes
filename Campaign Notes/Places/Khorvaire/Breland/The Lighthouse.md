@@ -7,7 +7,25 @@ AKA ***Castle Arakhain***
 
 ## Notable Locations
 #### Main chamber
-Several tapestries hang from the grand vaulted ceiling here, depicting the history of the Silver Flame. Though they eminate no signs of magic, they seem to be the only thing left untouched here
+Four tapestries hang from the grand vaulted ceiling here, depicting the history of the Silver Flame. Though they emanate no signs of magic, they seem to be the only thing left untouched here.
+
+Tapestry 1: The Birth of the Silver Flame
+
+> The tapestry depicts a great battle, with a brilliant silver flame erupting from the center, pushing back the surrounding darkness. Silhouettes of armed figures stand around the flame, their weapons raised.
+
+Tapestry 2: The Sacrifice of the Couatl
+
+> The tapestry shows serpentine creatures with feathered wings arranged in a circle, silver light emanating from their bodies. A dark, menacing presence looms in the background, shattered by a blinding silver radiance.
+
+Tapestry 3: The founding of the Church
+
+> The tapestry portrays a gathering of robed figures, with a tall woman holding a glowing tome at the center. The other figures kneel around her, hands outstretched. In the background, the foundations of a grand cathedral are being laid.
+
+Tapestry 4: The Battle Against the Overlords
+
+> The tapestry depicts a chaotic battle scene, with armored figures bearing the Silver Flame emblem on one side and monstrous creatures on the other. A large, shadowy figure with burning eyes looms at the center of the battle.
+
+
 ## Inhabitants
 - List major characters that inhabit this place
 - List what faction(s), governments, or groups have control or are attempting to gain control, if any
