@@ -2353,6 +2353,35 @@ Sheriff Cromley, a grizzled human, is seen in the Sleepy Owl Inn organizing a se
 - Players might come across Miri, the town's magewright, deep in discussion about magical theories with a group of locals. This could be an opportunity for arcane-inclined players to learn something new or offer their insights.
 
 
+#### The Lighthouse
+
+
+AKA ***Castle Arakhain***
+## Concept
+- The Lighthouse is a well-known research facility and FOB for the Church of the Silver Flame. Recently, it came under attack by Lords of Dust Agents, who are on the hunt for the Fragmented Khyber Dragonshard that Baelen carries.
+
+## Description
+> A 1 or 2 paragraph description of the location from the viewpoints of the players, that can be directly read to the players, in the style of Matthew Mercer. Only describe things the players would notice, assuming they don't know anything about the place except for what they would have seen upon initial approach and entrance.
+
+## Notable Locations
+- Locations or places within this location that are important, along with a short description of each
+## Inhabitants
+- List major characters that inhabit this place
+- List what faction(s), governments, or groups have control or are attempting to gain control, if any
+
+## History
+- This fortress has served as the largest collection of religious histories the CotSF controls. The lighthouse is were their most prestigious scholars and researchers conducted their work, surrounded by books and scrolls.
+- Since the Last War, the Lighthouse has also served as a FOB, allowing for early notification of possible invasion from the west into Thrane.
+- Ancient texts and recent research can both be found here, though most of it was destroyed in the recent attack.
+## Hooks
+- X
+## Secrets
+ - Knowing that this was the closest safe house Baelen and his guards could be heading to, they attacked, destroying parts of the fortress.
+- The LoD agents attacked the castle shortly after Baelen and his guards arrived. All of the knights perished, Baelen and the Priest being the only two that escaped, via a teleportation circle to Sharn, which was cut off from the other side once they used it.
+
+## Other notes
+- Miscellaneous details
+
 ### Mournland
 
 
@@ -2448,219 +2477,6 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 
 
 
-
-
-## Encounters
-
-### Arrival at Sharn
-
-
-**Via lightning rail at Terminus Station.**
-As you step off the lightning rail coach, the cacophony of Terminus Station washes over you. The air hums with the energy of a thousand voices, all clamoring, bartering, and calling out greetings or farewells. The station itself is a colossal structure, its high, vaulted ceiling supported by thick columns of dark, polished wood. Enormous everbright lanterns hang from the ceiling, bathing the station in a warm, welcoming glow.
-
-Before you can even take a breath, you're surrounded by a swarm of people. Porters push their way through the throng, their carts piled high with luggage and crates. Skycoach drivers tout the speed and comfort of their vehicles, hoping to lure travelers to their flying chariots. Guides, their faces eager and hopeful, offer their services to help navigate the labyrinthine city. And of course, there are the inevitable beggars, their pleas for alms blending into the general din.
-
-Through the crowd, you can see the many shops and stalls that line the edges of the station. House Orien maintains a strong presence here, with offices for arranging transport and shipping, as well as a small enclave for its heirs. House Sivis has a message station here, and House Deneith has a small outpost where you can hire bodyguards or laborers. House Vadalis even operates a large stable and hostelry, should you need to secure your mounts while exploring the city.
-
-**Via land road at Wroann's Gate.**
-As you approach the colossal entrance to the City of Towers, you begin to understand the depth of its name. A breathtaking panorama of soaring spires and towering structures stretches before you, reaching up into the sky as if to pierce the heavens themselves. The sheer scale of the city is overwhelming, and you can't help but feel a sense of awe and wonder.
-
-The gate itself is a marvel of engineering, a massive archway carved from black granite and topped by a titanic statue of Queen Wroann of Breland. The queen holds a scepter in one hand and a sword above her head.
-
-The streets of Wroann's Gate teem with life. Merchants and traders hawk their wares, their voices blending into a cacophony of sound. Travelers from across Khorvaire mingle with the city's residents, their faces reflecting a myriad of cultures and backgrounds. Skycoaches flit through the air like giant dragonflies, carrying passengers to their destinations. And beneath it all, you can hear the constant hum of the Cogs, the beating heart of Sharn's industry.
-
-Crossing the threshold into the impossibly tall city, the first thing that hits you is the smell. It's a complex, ever-shifting blend of a thousand different scents: the tang of smoke and sulfur from the Cogs, the sweet aroma of exotic spices, the stench of sewage and garbage, and the faint but unmistakable fragrance of magic.
-
-The next thing you notice is the noise. Sharn is a city that never sleeps, and the din of its inhabitants is constant. You hear the shouts of merchants hawking their wares, the clatter of hooves on cobblestones, the rhythmic clang of hammers in the Cogs, and the distant roar of the crowds in the entertainment districts. It's a noise that can be overwhelming at first, but it's also a noise that pulsates with life and energy.
-
-You're struck by the diversity of the city's inhabitants. Humans, dwarves, elves, halflings, gnomes, and even more exotic creatures all rub shoulders in the crowded streets. You see merchants from the Lhazaar Principalities haggling with traders from the Mror Holds. You see warforged laborers hauling goods alongside halfling teamsters. You see goblin families begging for alms, their faces etched with the hardship of life in the lower wards.
-
-### Boromar Gang Campsite
-
-
-## Sigs
-- An **alarm tripwire** is setup around the camp
-	- 30ft away from center of camp
-	- Will ring small bells that alert gang members
-	- ***DC 16*** to detect
-- [[Boromar Gang Members|Garhorn, Orc 1, Orc 3, Flicker]]
-	- Orc 2 died trying to fight the [[Whitehorn Wood|Ankheg]]
-- Chewy is chained to a tree here, still partially covered in oil
-	- He was caught trying to steal a horse in the middle of the night
-	- RP tip: play him like a coward that will break under minimal pressure
-## Loot
-#### Treasure
-1.  **Stolen Goods**
-	- Various pieces of jewelry, fine cloth, and small art pieces worth around 200-300 gold pieces in total. 
-	- These items are likely pilfered from town homes and are stashed away in a locked chest (***DC 15*** to pick).
-2. **Extortion Money**
-	-  A pouch containing 150 gold pieces, the proceeds of recent protection rackets. 
-	- Stashed in a saddlebag tied to one of the horses. 
-3. **Counterfeit Coins**
-	- A small pouch containing 150 counterfeit gold pieces.
-	- Stashed next to the extortion money.
-4. **Thieves' Tools & Sending Stone**
-	-  A set of high-quality thieves' tools with the Boromar symbol etched into each piece
-		- *"A silver dragon with folded wings perched atop a tower"*
-		- Wrapped in a cloth and carried by Garhorn
-	- A small smooth black rock, almost indistinguishable from an ordinary one.
-		- Paired with another sending stone held by Garhorn's handler.
-		- Carried by Garhorn at all times. He will quickly send a message if he is under attack.
-		- This message would include the attacker's descriptions, which would be sent out to Sharn guards that are in the clan's pocket, to be on the look out.
-1. **Potions**
-	- Several potions of healing scattered about
-2. **Boromar Challenge Coins**
-
-#### Exposition
-- **Detailed Ledger**
-	- Contains information on which townsfolk have payed protection money and those who have not
-	- Payed: Sheriff Cromley, Elder Finn, Innkeeper
-	- Unpaid: Magewright, Apothecary, ~~Innkeeper~~
-- [[Intel on Baelen ir'Torn]]
-	- Found inside the ledger, this letter provides intel to the gang members on a potential score
-	- Professor ir'Torn was seen traveling through [[Shavalant]] on his way to Sharn, suspected to have a powerful artifact
-- **Map to Shavalant**
-	- Found in saddlebags
-	- A basic map of Khorvaire, with marked-out distances (700 miles) leading to Shavalant, which is circled.
-	- At the top is scribbled "Horseback = 6 days" & "Lightning rail = 27 hours  ".
-
-### Boromar Gang Members
-
-
-## Sigs
- - Taken up residence in a small camp outside of town
- - Don't like to fight
- - Will find cowards way to get back at people
- - Sent by Castar from the [[Boromar clan]]
-
-## NPCs
-*Garhorn* - Halfling [[Statblocks#Enchanter|enchanter]], mid 30s, polite and manipulative, **sounds like Billy Butcher** 
-*Orc 1 & Orc 2* - Dumb orc [[Statblocks#Bandit (Increased Diff)|brutes]], prone to violence, quick to anger
-*Blinker* - Blink dog (MM 319) companion to Garhorn, fiercely loyal to only him.
-## Encounters
-[[Aquefukt]]
-- Don't want to fight, just want protection fee
-- Will Burn down Miri's home that night if not payed
-
-[[Boromar Gang Campsite |Campsite]]
-
-
-
-
-### Its Kismet
-
-
-### Its Kismet
-**Kismet** is one of the personas of ***The Traveler***, the first hag to walk upon Eberron, born of the Age of Demons. Being the first, Kismet is so powerful her effect on the land is now worshipped as godhood. 
-
-Kismet presents herself as a frazzled old half-elf woman, with a weak frame and loose skin. She claims her wagon, which is seen filled with various trade goods, lost a wheel, and that she needs help repairing it so she may continue her journey.
-
-She claims to be a seer, and offers her services in exchange for help.
-
-### Reading of Fate
-
-Bjorn's reading
->  Ahh, the Bearwolf. The storm within you rages, your heart torn between duty and blood. Yes, I feel your fury, one that is matched only by the darkness that taints your brother's soul. And in the tidal forces of your anger lies a riptide of betrayal, confusion, and... grief. In time, he will know your pain, and your anger will be his fuel, for your destiny was forged in flame and storm long ago.
-
-Draven's reading:
-> A knight of many names, and yet you've barely begun to rediscover what any of them mean to you. The Knight's own mind betrays him, a Valiant sacrifice your curse and your savior. Your mind is shrouded in mist, your memories hidden to you. Its barely perceivable, but you know something is very wrong. Its as if a subtle noise that was comforting your ear has suddenly been snuffed out, its absence your only hint at its presence. Will the light of Siberys grant you divine clarity? Or has it already killed the knight, his body not yet informed?
-
-Geralt's reading:
-> The lost child, a wolf born of oak and stone, bird song and a quiet breeze your comfort, your solace, a second home created out of the destruction of another. The creations of man have ripped so much from you. Yes... I feel anger and disgust. But is it born only from what has been taken from you? Or is part of it from knowing, deep down, that your only chance of discovering why you lost everything lies in the story of your family's still-beating heart?
-
-### Lost Child
-
-
-Help [[Oak Dryfire]] to his nearby home and be rewarded.
-
-### Lurking Threat
-
-
- - The cover reads "The Mimic: How to Identify a Lurking Threat"
-- This book looks like any ordinary book, with a brown leather cover and simple lettering for the title. The book has no listed author.
-- A DC 11 investigation check reveals this book has less dust on it than other objects, like it was recently disturbed.
-
-### Sharn Tension Encounters
-
-
-Here is a table with some brief encounter ideas for Sharn and related details to help the DM if players investigate further:
-
-| Encounter | Details for DM |
-|-|-|  
-| A tiefling preacher rants about "end times" while fearful citizens hurry past. | The preacher is a madman named Jorik who claims to receive visions of doom. DC 15 Insight check reveals he seems sincere in his beliefs. |
-| Guards question a ragged half-orc about spotting 'Tarks'. | The guards are referring to House Tarkanan agents rumored to be in the area. The half-orc knows nothing. |
-| An elf peddles rare demonic tomes from a cart for exorbitant prices. | The elf is a black market dealer named Talian who sells books about devils and demons, including one titled '[[Misc Books and Texts#In the Details An Exploration of Devil Sociology\|In the Details: An Exploration of Devil Sociology]].' |
-| A drunk dwarf mutters about the "flame dying out" before being hushed. | He's referring to a secret cult that believes the Silver Flame is fading. DC 13 Persuasion could convince him to share meeting location. |  
-| Guards discuss "troubling omens" in hushed tones. | Omens include unnatural fog, aberrant creature sightings, and night terrors afflicting citizens. |
-| Strange symbols warn of "ancient lords" and "serpents." | DC 11 Religion or Arcana check identifies them as connected to Overlords of the First Age. |
-| An urchin slips a warning about "enemies in masks." | The urchin knows little but has overheard things suggesting shapeshifters or changelings are operating in the city. |
-| Cries ring out from a home before a bloodied resident calmly exits. | DC 13 Insight suspects they are under some kind of charm or mind control magic. |
-| Guards extinguish blazes sparked by strange green flames. | The flames radiate conjuration magic and have appeared in seemingly random spots around the city. |
-
-### Skill Challenge House Fire
-
-
-**Objective:** Rescue the trapped individuals and minimize damage to the building and its surroundings.
-
-**Successes Needed:** 3-5 successes before 3 failures. Adjust based on your party size and desired difficulty.
-
-**Possible Skills and Applications:**
-
-- **Athletics** to force open jammed doors or clear debris.
-- **Acrobatics** to navigate through unstable parts of the building or avoid hazards.
-- **Perception** or **Investigation** to quickly identify the safest routes or locate trapped individuals.
-- **Arcana** or **Nature** to control or mitigate the spread of the fire with magic or natural elements.
-- **Persuasion** or **Intimidation** to organize the bystanders into helping, either by forming bucket brigades or staying clear of danger.
-- **Medicine** to provide first aid to those injured in the fire or affected by smoke inhalation.
-
-**Failure Consequences:**
-
-- Increased damage to the structure, risking its collapse.
-- Injuries to party members or NPCs due to backdrafts, structural failures, or smoke inhalation.
-- The fire spreads to adjacent buildings, escalating the crisis.
-
-**Success Outcomes:**
-
-- All trapped individuals are rescued, and the fire is contained before it can spread further.
-- The party gains the gratitude of the town and possibly some rewards from the town or those they saved.
-- The incident exposes the gang's actions, possibly leading to further investigations or confrontations.
-
-### The Airship
-
-
-# Gyott Byu-fem-i-tle (elvish, The Merkentile)
-
-## Mechanics of flying
-- Held aloft by special buoyant wood from a rare tree (soar-wood)
-- Driven by trapped air elemental in [[Dragonshards#^023b44|Khybar Dragonshard]] at stern
-- Controlled by someone with Mark of Storm on Wheel of Wind and Water
-- Pilot can 'suppress' airship to cease movement
-
-## Manifest 
-- Ianhorn Gillflower - Ship owner, high elf male, not on ship
-- [[Jonston Marsh (deceased)]] - Tiefling ship captain
-	- Stubborn and firm but fair, leads by example, respected by most
-	- Left home at a young age to pursue contract work
-	- Positive outlook on life
-- Lick - Halfling First mate
-	-  wears a necklace with a pulsing fragment of the Dragonshard.
- - Veteran guards:
-	- Kilb Hilltop, red dragonborn female
-	- Bedwanza "Bouncing Beddy", dwarf male
-- Commoner workers (2 cooks, 1 engineer, 4 deckhands, 1 quartermaster, 2 lookouts, several passengers)
-
-## Strange commoners
-- A warforged cook that doubles as a bard at night and uses its body as a percussion instrument to entertain the others.
-- A well-dressed dwarf wearing eight copper rings paces restlessly, worried about the debts awaiting him at the destination.
-- Two changelings, acting as Karrnathi soldiers, sit isolated and 'people watch'.
-- A nervous goblin holds traveling papers out to anyone passing by, as if expecting to be challenged at any time.
-
-### The Bag Man
-
-
-- Originally a cowardly man that got lost in the bag after hiding in one when his party was attacked.
-- Now, lost in the interdimensional space between bags of holding, he hops from bag to bag, seeking out others to drag into the bag with him.
-- Repeating "Follow my voice" 3 times into a bag of holding will summon the Bag Man.
 
 ## Plot points that need development
 
@@ -2881,7 +2697,7 @@ How did Aeren learn House Cannith may have been involved in the Day of Mourning?
 		- Have been tracking Baelen ir'Torn
 
 
-## Quests
+## Quests & Encounters
 
 ### Airship Crash
 
@@ -2953,6 +2769,101 @@ The attacking 'bandits' will target the strongest people first. Their objective 
 
 [[Boromar Gang Members]]
 
+### Arrival at Sharn
+
+
+**Via lightning rail at Terminus Station.**
+As you step off the lightning rail coach, the cacophony of Terminus Station washes over you. The air hums with the energy of a thousand voices, all clamoring, bartering, and calling out greetings or farewells. The station itself is a colossal structure, its high, vaulted ceiling supported by thick columns of dark, polished wood. Enormous everbright lanterns hang from the ceiling, bathing the station in a warm, welcoming glow.
+
+Before you can even take a breath, you're surrounded by a swarm of people. Porters push their way through the throng, their carts piled high with luggage and crates. Skycoach drivers tout the speed and comfort of their vehicles, hoping to lure travelers to their flying chariots. Guides, their faces eager and hopeful, offer their services to help navigate the labyrinthine city. And of course, there are the inevitable beggars, their pleas for alms blending into the general din.
+
+Through the crowd, you can see the many shops and stalls that line the edges of the station. House Orien maintains a strong presence here, with offices for arranging transport and shipping, as well as a small enclave for its heirs. House Sivis has a message station here, and House Deneith has a small outpost where you can hire bodyguards or laborers. House Vadalis even operates a large stable and hostelry, should you need to secure your mounts while exploring the city.
+
+**Via land road at Wroann's Gate.**
+As you approach the colossal entrance to the City of Towers, you begin to understand the depth of its name. A breathtaking panorama of soaring spires and towering structures stretches before you, reaching up into the sky as if to pierce the heavens themselves. The sheer scale of the city is overwhelming, and you can't help but feel a sense of awe and wonder.
+
+The gate itself is a marvel of engineering, a massive archway carved from black granite and topped by a titanic statue of Queen Wroann of Breland. The queen holds a scepter in one hand and a sword above her head.
+
+The streets of Wroann's Gate teem with life. Merchants and traders hawk their wares, their voices blending into a cacophony of sound. Travelers from across Khorvaire mingle with the city's residents, their faces reflecting a myriad of cultures and backgrounds. Skycoaches flit through the air like giant dragonflies, carrying passengers to their destinations. And beneath it all, you can hear the constant hum of the Cogs, the beating heart of Sharn's industry.
+
+Crossing the threshold into the impossibly tall city, the first thing that hits you is the smell. It's a complex, ever-shifting blend of a thousand different scents: the tang of smoke and sulfur from the Cogs, the sweet aroma of exotic spices, the stench of sewage and garbage, and the faint but unmistakable fragrance of magic.
+
+The next thing you notice is the noise. Sharn is a city that never sleeps, and the din of its inhabitants is constant. You hear the shouts of merchants hawking their wares, the clatter of hooves on cobblestones, the rhythmic clang of hammers in the Cogs, and the distant roar of the crowds in the entertainment districts. It's a noise that can be overwhelming at first, but it's also a noise that pulsates with life and energy.
+
+You're struck by the diversity of the city's inhabitants. Humans, dwarves, elves, halflings, gnomes, and even more exotic creatures all rub shoulders in the crowded streets. You see merchants from the Lhazaar Principalities haggling with traders from the Mror Holds. You see warforged laborers hauling goods alongside halfling teamsters. You see goblin families begging for alms, their faces etched with the hardship of life in the lower wards.
+
+### Boromar Gang Campsite
+
+
+## Sigs
+- An **alarm tripwire** is setup around the camp
+	- 30ft away from center of camp
+	- Will ring small bells that alert gang members
+	- ***DC 16*** to detect
+- [[Boromar Gang Members|Garhorn, Orc 1, Orc 3, Flicker]]
+	- Orc 2 died trying to fight the [[Whitehorn Wood|Ankheg]]
+- Chewy is chained to a tree here, still partially covered in oil
+	- He was caught trying to steal a horse in the middle of the night
+	- RP tip: play him like a coward that will break under minimal pressure
+## Loot
+#### Treasure
+1.  **Stolen Goods**
+	- Various pieces of jewelry, fine cloth, and small art pieces worth around 200-300 gold pieces in total. 
+	- These items are likely pilfered from town homes and are stashed away in a locked chest (***DC 15*** to pick).
+2. **Extortion Money**
+	-  A pouch containing 150 gold pieces, the proceeds of recent protection rackets. 
+	- Stashed in a saddlebag tied to one of the horses. 
+3. **Counterfeit Coins**
+	- A small pouch containing 150 counterfeit gold pieces.
+	- Stashed next to the extortion money.
+4. **Thieves' Tools & Sending Stone**
+	-  A set of high-quality thieves' tools with the Boromar symbol etched into each piece
+		- *"A silver dragon with folded wings perched atop a tower"*
+		- Wrapped in a cloth and carried by Garhorn
+	- A small smooth black rock, almost indistinguishable from an ordinary one.
+		- Paired with another sending stone held by Garhorn's handler.
+		- Carried by Garhorn at all times. He will quickly send a message if he is under attack.
+		- This message would include the attacker's descriptions, which would be sent out to Sharn guards that are in the clan's pocket, to be on the look out.
+1. **Potions**
+	- Several potions of healing scattered about
+2. **Boromar Challenge Coins**
+
+#### Exposition
+- **Detailed Ledger**
+	- Contains information on which townsfolk have payed protection money and those who have not
+	- Payed: Sheriff Cromley, Elder Finn, Innkeeper
+	- Unpaid: Magewright, Apothecary, ~~Innkeeper~~
+- [[Intel on Baelen ir'Torn]]
+	- Found inside the ledger, this letter provides intel to the gang members on a potential score
+	- Professor ir'Torn was seen traveling through [[Shavalant]] on his way to Sharn, suspected to have a powerful artifact
+- **Map to Shavalant**
+	- Found in saddlebags
+	- A basic map of Khorvaire, with marked-out distances (700 miles) leading to Shavalant, which is circled.
+	- At the top is scribbled "Horseback = 6 days" & "Lightning rail = 27 hours  ".
+
+### Boromar Gang Members
+
+
+## Sigs
+ - Taken up residence in a small camp outside of town
+ - Don't like to fight
+ - Will find cowards way to get back at people
+ - Sent by Castar from the [[Boromar clan]]
+
+## NPCs
+*Garhorn* - Halfling [[Statblocks#Enchanter|enchanter]], mid 30s, polite and manipulative, **sounds like Billy Butcher** 
+*Orc 1 & Orc 2* - Dumb orc [[Statblocks#Bandit (Increased Diff)|brutes]], prone to violence, quick to anger
+*Blinker* - Blink dog (MM 319) companion to Garhorn, fiercely loyal to only him.
+## Encounters
+[[Aquefukt]]
+- Don't want to fight, just want protection fee
+- Will Burn down Miri's home that night if not payed
+
+[[Boromar Gang Campsite |Campsite]]
+
+
+
+
 ### Corrupted Grove
 
 
@@ -2962,6 +2873,27 @@ The attacking 'bandits' will target the strongest people first. Their objective 
 - **Guardians:** Mutated creatures or corrupted plant life, transformed by the shard's power.
 - **Atmosphere:** Thick with malevolence, the air glows faintly purple from the shard's light, casting an unsettling pall over the area.
 
+
+### Its Kismet
+
+
+### Its Kismet
+**Kismet** is one of the personas of ***The Traveler***, the first hag to walk upon Eberron, born of the Age of Demons. Being the first, Kismet is so powerful her effect on the land is now worshipped as godhood. 
+
+Kismet presents herself as a frazzled old half-elf woman, with a weak frame and loose skin. She claims her wagon, which is seen filled with various trade goods, lost a wheel, and that she needs help repairing it so she may continue her journey.
+
+She claims to be a seer, and offers her services in exchange for help.
+
+### Reading of Fate
+
+Bjorn's reading
+>  Ahh, the Bearwolf. The storm within you rages, your heart torn between duty and blood. Yes, I feel your fury, one that is matched only by the darkness that taints your brother's soul. And in the tidal forces of your anger lies a riptide of betrayal, confusion, and... grief. In time, he will know your pain, and your anger will be his fuel, for your destiny was forged in flame and storm long ago.
+
+Draven's reading:
+> A knight of many names, and yet you've barely begun to rediscover what any of them mean to you. The Knight's own mind betrays him, a Valiant sacrifice your curse and your savior. Your mind is shrouded in mist, your memories hidden to you. Its barely perceivable, but you know something is very wrong. Its as if a subtle noise that was comforting your ear has suddenly been snuffed out, its absence your only hint at its presence. Will the light of Siberys grant you divine clarity? Or has it already killed the knight, his body not yet informed?
+
+Geralt's reading:
+> The lost child, a wolf born of oak and stone, bird song and a quiet breeze your comfort, your solace, a second home created out of the destruction of another. The creations of man have ripped so much from you. Yes... I feel anger and disgust. But is it born only from what has been taken from you? Or is part of it from knowing, deep down, that your only chance of discovering why you lost everything lies in the story of your family's still-beating heart?
 
 ### Kobold Cave
 
@@ -3037,53 +2969,94 @@ References
 - [[Journey to the City of Towers]]
 
 
-### The Haunted Grove
+### Lurking Threat
 
 
-##### The Haunted Grove (Influence: Draven Flameforge):
-- **Objective:** Free a trapped spirit in a grove.
-- **Combat/Puzzle:** Combat with the malevolent entity and solving the curse's riddle.
-- **Subtle Influence:** The entity's curse ties into themes of memory and loss, mirroring Draven's struggle with his lost memories.
-- **Outcome:** Offers Draven cryptic clues about his past and the cause of his amnesia, potentially tied to a larger plot.
+ - The cover reads "The Mimic: How to Identify a Lurking Threat"
+- This book looks like any ordinary book, with a brown leather cover and simple lettering for the title. The book has no listed author.
+- A DC 11 investigation check reveals this book has less dust on it than other objects, like it was recently disturbed.
 
-### The Mysterious Passenger
+### Sharn Tension Encounters
 
 
-##### The Mysterious Passenger
-- **Objective:** Protect a charismatic figure through Sharn's underbelly.
-- **Social/Puzzle:** Navigate through complex social situations and uncover the passenger's true intentions.
-- **Subtle Influence:** The passenger's connections to Sharn's underworld echo Sylas' own past, offering him insights into his own search for power and the nature of his patron.
-- **Outcome:** Deepens Sylas' understanding of his patron's mysteries, but also entangles him further in Sharn's shadowy politics.
+Here is a table with some brief encounter ideas for Sharn and related details to help the DM if players investigate further:
 
-### The Silver Flame needs help with a Cock
+| Encounter | Details for DM |
+|-|-|  
+| A tiefling preacher rants about "end times" while fearful citizens hurry past. | The preacher is a madman named Jorik who claims to receive visions of doom. DC 15 Insight check reveals he seems sincere in his beliefs. |
+| Guards question a ragged half-orc about spotting 'Tarks'. | The guards are referring to House Tarkanan agents rumored to be in the area. The half-orc knows nothing. |
+| An elf peddles rare demonic tomes from a cart for exorbitant prices. | The elf is a black market dealer named Talian who sells books about devils and demons, including one titled '[[Misc Books and Texts#In the Details An Exploration of Devil Sociology\|In the Details: An Exploration of Devil Sociology]].' |
+| A drunk dwarf mutters about the "flame dying out" before being hushed. | He's referring to a secret cult that believes the Silver Flame is fading. DC 13 Persuasion could convince him to share meeting location. |  
+| Guards discuss "troubling omens" in hushed tones. | Omens include unnatural fog, aberrant creature sightings, and night terrors afflicting citizens. |
+| Strange symbols warn of "ancient lords" and "serpents." | DC 11 Religion or Arcana check identifies them as connected to Overlords of the First Age. |
+| An urchin slips a warning about "enemies in masks." | The urchin knows little but has overheard things suggesting shapeshifters or changelings are operating in the city. |
+| Cries ring out from a home before a bloodied resident calmly exits. | DC 13 Insight suspects they are under some kind of charm or mind control magic. |
+| Guards extinguish blazes sparked by strange green flames. | The flames radiate conjuration magic and have appeared in seemingly random spots around the city. |
 
-
-While on their travels, the party encounters a small group of [[Church of the Silver Flame|Knights of the Silver Flame]]. They are traveling with a Friar on a mission to convert people to the cause. 
-
-The party encounters this small group while they are on the hunt for a cockatrice, which has been troubling local townsfolk, in hopes of earning their trust and appreciation. 
-
-## Hook
-- The Knights request aid in tracking down the cockatrice, and promise a reward if they are successful
-- To aid in this request, the knights gift the party a single **Potion of Basilisk Bile**, which can reverse petrification
-
-## Quest
-- *Kill the cockatrice, return with proof.*
-- The knights will part way with the party, informing them to meet back at the closest village/town in the case that they are successful, for their reward. 
-- After tracking a blood trail suspected to be the dinner of the cockatrice, the party discovers 3 black bears - a mother and her two cubs - feasting on the small creature.
-
-## Rewards
-- 2d6-4d6 x10 Galifars (negotiated)
-- 2d4 healing potions
-- **Letter of Light**: Allows for free board at Silver Flame churches.
-
-### The Warforged Hermit
+### Skill Challenge House Fire
 
 
-##### The Warforged Hermit (General Influence)
-- **Objective:** Assist and defend a warforged hermit.
-- **Combat/Social:** Protect the workshop and engage with the hermit's dilemmas.
-- **Subtle Influence:** Highlights themes of identity and free will, resonating with the party's diverse backgrounds and personal quests.
-- **Outcome:** Provides crucial insights into Woe's transformation, while also presenting moral questions about freedom, war, and identity.
+**Objective:** Rescue the trapped individuals and minimize damage to the building and its surroundings.
+
+**Successes Needed:** 3-5 successes before 3 failures. Adjust based on your party size and desired difficulty.
+
+**Possible Skills and Applications:**
+
+- **Athletics** to force open jammed doors or clear debris.
+- **Acrobatics** to navigate through unstable parts of the building or avoid hazards.
+- **Perception** or **Investigation** to quickly identify the safest routes or locate trapped individuals.
+- **Arcana** or **Nature** to control or mitigate the spread of the fire with magic or natural elements.
+- **Persuasion** or **Intimidation** to organize the bystanders into helping, either by forming bucket brigades or staying clear of danger.
+- **Medicine** to provide first aid to those injured in the fire or affected by smoke inhalation.
+
+**Failure Consequences:**
+
+- Increased damage to the structure, risking its collapse.
+- Injuries to party members or NPCs due to backdrafts, structural failures, or smoke inhalation.
+- The fire spreads to adjacent buildings, escalating the crisis.
+
+**Success Outcomes:**
+
+- All trapped individuals are rescued, and the fire is contained before it can spread further.
+- The party gains the gratitude of the town and possibly some rewards from the town or those they saved.
+- The incident exposes the gang's actions, possibly leading to further investigations or confrontations.
+
+### The Airship
+
+
+# Gyott Byu-fem-i-tle (elvish, The Merkentile)
+
+## Mechanics of flying
+- Held aloft by special buoyant wood from a rare tree (soar-wood)
+- Driven by trapped air elemental in [[Dragonshards#^023b44|Khybar Dragonshard]] at stern
+- Controlled by someone with Mark of Storm on Wheel of Wind and Water
+- Pilot can 'suppress' airship to cease movement
+
+## Manifest 
+- Ianhorn Gillflower - Ship owner, high elf male, not on ship
+- [[Jonston Marsh (deceased)]] - Tiefling ship captain
+	- Stubborn and firm but fair, leads by example, respected by most
+	- Left home at a young age to pursue contract work
+	- Positive outlook on life
+- Lick - Halfling First mate
+	-  wears a necklace with a pulsing fragment of the Dragonshard.
+ - Veteran guards:
+	- Kilb Hilltop, red dragonborn female
+	- Bedwanza "Bouncing Beddy", dwarf male
+- Commoner workers (2 cooks, 1 engineer, 4 deckhands, 1 quartermaster, 2 lookouts, several passengers)
+
+## Strange commoners
+- A warforged cook that doubles as a bard at night and uses its body as a percussion instrument to entertain the others.
+- A well-dressed dwarf wearing eight copper rings paces restlessly, worried about the debts awaiting him at the destination.
+- Two changelings, acting as Karrnathi soldiers, sit isolated and 'people watch'.
+- A nervous goblin holds traveling papers out to anyone passing by, as if expecting to be challenged at any time.
+
+### The Bag Man
+
+
+- Originally a cowardly man that got lost in the bag after hiding in one when his party was attacked.
+- Now, lost in the interdimensional space between bags of holding, he hops from bag to bag, seeking out others to drag into the bag with him.
+- Repeating "Follow my voice" 3 times into a bag of holding will summon the Bag Man.
 
 ### Whitehorn Wood
 
@@ -3512,7 +3485,7 @@ Action 2: Lords of Dust
 - Be prepared for the party's actions to have long-term effects on their relationship with the Boromar Clan and make them known (and possibly wanted) in Sharn.
 - Try to indicate the Sons of the Daughter of Khyber are unimportant pawns.
 
-### 4 recap
+### 4 Recap
 
 
 Raided the boromar gang campsite
@@ -3558,6 +3531,84 @@ SESSION LOOT
 - map of khorvaire
 - postions of fire breath and growth
 - 3 potions of healing
+
+### 5 Plans
+
+
+### Outline
+- Discover the holy sword in the knight's grave
+- Travel to Castle Arakhain, encounter w/ deceptive LoD agents
+- Discover the castle was ransacked, find leads/clues about the Church's history and goals.
+- Find clues/leads concerning the Day of Mourning and the Silver Flame, possibly find references to Varak and his phylactery.
+- References to Lichdom and how it works, introduce the concept of phylacteries.
+- Find a teleportation circle inside a sealed chamber that requires a riddle/puzzle to open? 
+- The priest and Baelen escaped through the circle to Sharn then destroyed the circle at their destination so that others cannot follow them.
+### Moments & Encounters
+
+Session Start
+- Allow PCs to explore skirmish site and find the holy sword.
+- Nearby agents watch the party at night, avoid encounter until they get close to the Lighthouse
+
+Moment 1: Arrival at the Lighthouse
+- Encounter 1: 
+	- A shape-shifting LoD agent poses as a child in distress, trying to find their grandpa Baelen ir'Torn
+	- The agents will attack and ambush the party
+
+Moment 2: *Name*
+- X
+
+Encounter 1: *Name*
+- X
+
+Encounter 2: *Name*
+- X
+
+(continue as needed, may nest encounters inside moments)
+
+Session End
+- (possible cliffhanger)
+
+### Location Details
+
+Place 1: *Name*
+- X (brief and relevant to the session)
+
+Place 2: *Name*
+- X
+
+(continue as needed)
+### People
+
+Person 1:
+- X (information relevant to session)
+*Plot Information*
+- X (information relevant to overall plot)
+
+Person 2:
+- X
+*Plot Information*
+- X 
+
+(continue as needed)
+### Plot Actions
+
+Action 1: *Name of significant NPC(s) or organization(s) involved*
+- Goal: X (immediate goal of involved person/org)
+- X (what that person/org is doing to accomplish that goal, assuming PCs don't interfere)
+
+Action 2: *Name of significant NPC(s) or organization(s) involved*
+- Goal: X
+- X
+
+(continue as needed)
+### Additional Notes
+Exposition - book and scroll passages found inside the Lighthouse:
+- Book 1 (something relating to how Liches work, introducing the concept of phylacteries)
+	- Passage
+- Book 2 (vague history about the origin of the Silver Flame)
+	- Passage 
+- Scroll 1 (a few firsthand accounts of the day of mourning from Cyran refugees)
+	- Passage
 
 # The Party
 
