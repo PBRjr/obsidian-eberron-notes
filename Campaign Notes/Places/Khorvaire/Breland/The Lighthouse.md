@@ -17,9 +17,9 @@ Tapestry 2: The Sacrifice of the Couatl
 
 > The tapestry shows serpentine creatures with feathered wings arranged in a circle, silver light emanating from their bodies. A dark, menacing presence looms in the background, shattered by a blinding silver radiance.
 
-Tapestry 3: The sealing of the Overlord
+Tapestry 3: The Sealing of the Overlord
 
-> 
+> The tapestry shows a circle of colorful dragons surrounding a large purple crystal with runic symbols on it, a dark figure wearing a hateful expression is being sucked into it. In the background, a desolate and war-worn landscape stretches to the horizon.
 
 Tapestry 3: The founding of the Church
 
