@@ -17,6 +17,10 @@ Tapestry 2: The Sacrifice of the Couatl
 
 > The tapestry shows serpentine creatures with feathered wings arranged in a circle, silver light emanating from their bodies. A dark, menacing presence looms in the background, shattered by a blinding silver radiance.
 
+Tapestry 3: The sealing of the Overlord
+
+> 
+
 Tapestry 3: The founding of the Church
 
 > The tapestry portrays a gathering of robed figures, with a tall woman holding a glowing tome at the center. The other figures kneel around her, hands outstretched. In the background, the foundations of a grand cathedral are being laid.
