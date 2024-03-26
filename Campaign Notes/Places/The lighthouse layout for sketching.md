@@ -126,3 +126,44 @@ Contents:
 5. Prayer Alcoves:
     - Small alcoves along the side walls contain prayer candles, offering bowls, and other religious paraphernalia.
     - Some of these alcoves may have been used as impromptu shelters during the attack, with signs of hastily erected barricades or personal belongings left behind.
+
+### Basement Level
+Layout:
+
+- The basement level is a series of interconnected rooms and corridors, with a more labyrinthine layout compared to the upper floors.
+- The main staircase from the ground floor leads down to a central hub area in the basement.
+- Several passages branch off from the hub, leading to various storage rooms, archives, and the hidden chamber.
+- The basement level has a lower ceiling and a more claustrophobic feel, with narrow passages and tight corners.
+- Some sections of the basement have suffered structural damage, with cracked walls and partially collapsed ceilings.
+
+Access Points:
+
+1. Main Staircase:
+    - The primary access to the basement level is through the main staircase from the ground floor.
+    - The staircase is made of stone and descends into the central hub area.
+2. Secret Passage:
+    - A secret passage can be found behind a movable bookshelf in the library on the ground floor.
+    - This passage leads to a narrow tunnel that connects to one of the storage rooms in the basement.
+    - Characters may discover this passage through careful investigation or by accidentally triggering the mechanism.
+3. Collapsed Floor:
+    - In one of the damaged sections of the ground floor, a portion of the floor has collapsed, revealing a hole that drops into a basement corridor.
+    - This access point may require characters to navigate the debris and make a controlled descent into the basement level.
+
+Hidden Chamber and Puzzle:
+
+1. Locked Door:
+    - The entrance to the hidden chamber is a solid, reinforced door with intricate carvings and a complex locking mechanism.
+    - The door bears the symbol of the Silver Flame, along with a riddle or puzzle that must be solved to unlock it.
+2. Riddle:
+    - The riddle on the door reads: "In the depths of knowledge, the flame's truth resides. Seek the tomes that bind the light, and the path shall open wide."
+    - The solution to the riddle involves locating specific books within the library that contain information about the Silver Flame and arranging them in a particular order on a nearby shelf.
+    - When the correct books are placed in the right sequence, the door to the hidden chamber will unlock.
+3. Secondary Access:
+    - In case the characters are unable to solve the riddle, a secondary access point can be found within one of the storage rooms.
+    - A hidden trapdoor beneath a stack of crates leads to a narrow, winding passage that connects to the hidden chamber.
+    - This secondary access may require characters to navigate tight spaces or overcome additional challenges, such as traps or guardian constructs.
+4. Teleportation Circle Chamber:
+    - The hidden chamber itself is a circular room with a domed ceiling, similar in design to the library above.
+    - The teleportation circle is embedded into the floor at the center of the room, with intricate runic patterns and arcane sigils carved into the stone.
+    - Various magical apparatus and focusing crystals are arranged around the circle, used to power and stabilize the teleportation magic.
+    - A control pedestal or lectern nearby may contain additional clues or instructions for activating the teleportation circle.
