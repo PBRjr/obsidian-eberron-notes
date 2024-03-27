@@ -1,4 +1,4 @@
-### Main hall
+ ### Main hall
 Layout:
 
 - The main hall is a large, rectangular room, approximately 60 feet long and 40 feet wide.
