@@ -89,7 +89,7 @@ Contents:
     - Beakers, alembics, and other glassware used for alchemical experiments can be found on the workbenches, many of them broken or overturned.
     - Remnants of alchemical substances, both mundane and magical, are spilled across the tables and floor.
 2. Arcane Artifacts:
-    - Various arcane artifacts, such as enchanted crystals, runic tablets, and ancient relics, can be found scattered throughout the labs.
+    - *Siberys Dragonshard*
     - Some of these artifacts appear to have been the focus of intense study, with accompanying notes and diagrams nearby.
 3. Partially Collapsed Section:
     - The caved-in portion of the room is filled with rubble, broken beams, and shattered masonry.
