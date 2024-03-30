@@ -1,3 +1,5 @@
+## Locations
+
 ### Main hall
 Layout:
 
@@ -167,3 +169,28 @@ Hidden Chamber and Puzzle:
     - The teleportation circle is embedded into the floor at the center of the room, with intricate runic patterns and arcane sigils carved into the stone.
     - Various magical apparatus and focusing crystals are arranged around the circle, used to power and stabilize the teleportation magic.
     - A control pedestal or lectern nearby may contain additional clues or instructions for activating the teleportation circle.
+
+## Needs Development
+**Challenges and Atmosphere:**
+
+- **Exploration and Investigation:** Make exploration and investigation key aspects of the encounter. Design the castle layout with hidden passages, secret compartments, and environmental puzzles that reward curious players. Scatter clues throughout the location, such as partially burned research notes, cryptic symbols on walls, and remnants of magical experiments. These clues can be related to Baelen's research, the Day of Mourning, the Silver Flame, or even foreshadow future encounters with the LoD.
+
+- **Combat Encounters:** Include a few combat encounters with LoD agents who survived the initial attack or were sent to investigate the aftermath. These encounters can be triggered by exploration, such as disturbing a hidden chamber, or by narrative cues, such as the players being ambushed while investigating a suspicious area. Consider using a variety of LoD creatures, like imps, hellhounds, and even a tiefling or changeling agent posing as a survivor, to showcase the organization's diverse and deceptive tactics.
+
+
+**Information and Foreshadowing:**
+
+- **Baelen and the Priest:** Leave clear evidence that Baelen and the priest escaped the Lighthouse, such as a partially destroyed teleportation circle or a note mentioning their destination. This will pique the players' curiosity and potentially set them on a path to follow Baelen's trail.
+
+- **Lords of Dust:** While the players may not learn the specific name "Lords of Dust" at this point, they should encounter clear signs that the attackers were demonic or fiendish in nature. This can be achieved through descriptions of the creatures, remnants of their magic, or even unsettling murals or symbols left behind.
+
+- **Church of the Silver Flame:** Emphasize the religious nature of the Lighthouse and the Church's devotion to the Silver Flame. This can be done through religious iconography, murals depicting the Church's history and battles against evil, and even surviving texts or scrolls that detail their beliefs and practices.
+
+
+**Connecting Plot Points:**
+
+- **Geralt's Schematics:** Perhaps Baelen's research notes mention the Steelhardt or contain diagrams that resemble Geralt's schematics. This could suggest a connection between House Cannith, the Day of Mourning, and the Silver Flame, prompting Geralt to investigate further.
+
+- **Hrothgar and the Dragonshard Fragment:** Maybe the players find a report detailing the fragment's effects on Hrothgar and the surrounding land. This could foreshadow the dangers of the fragments and hint at Hrothgar's growing power and corruption.
+
+- **Vorak and the Steelhardt:** The players might discover a partially destroyed text about Lichdom and phylacteries, mentioning the Steelhardt's potential use in creating an avatar for an Overlord. This could foreshadow Vorak's connection to the LoD and the potential threat he poses.
