@@ -191,6 +191,6 @@ Hidden Chamber and Puzzle:
 
 - **Geralt's Schematics:** Perhaps Baelen's research notes mention the Steelhardt or contain diagrams that resemble Geralt's schematics. This could suggest a connection between House Cannith, the Day of Mourning, and the Silver Flame, prompting Geralt to investigate further.
 
-- **Hrothgar and the Dragonshard Fragment:** Maybe the players find a report detailing the fragment's effects on Hrothgar and the surrounding land. This could foreshadow the dangers of the fragments and hint at Hrothgar's growing power and corruption.
+- **Hrothgar and the Dragonshard Fragment:** Maybe the players find a report detailing the fragment's effects on various plants and animals that Baelen has been doing expieriments on using the fragment. They might also find information concerning how the Silver Flame obtained information on the location of the fragment originally, and how they contacted Baelen as a topic expert on Dragonshards and ancient history.
 
 - **Vorak and the Steelhardt:** The players might discover a partially destroyed text about Lichdom and phylacteries, mentioning the Steelhardt's potential use in creating an avatar for an Overlord. This could foreshadow Vorak's connection to the LoD and the potential threat he poses.
