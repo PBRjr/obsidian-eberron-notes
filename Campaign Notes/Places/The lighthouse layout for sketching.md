@@ -189,8 +189,6 @@ Hidden Chamber and Puzzle:
 
 **Connecting Plot Points:**
 
-- **Origin of the fragmentr.
-
-- **Baelen's research on the shard:** Maybe the players find a report detailing the fragment's effects on various plants and animals that Baelen has been doing expieriments on using the fragment. They might also find information concerning how the Silver Flame obtained information on the location of the fragment originally, and how they contacted Baelen as a topic expert on Dragonshards and ancient history.
-
-- **Vorak and the Steelhardt:** The players might discover a partially destroyed text about Lichdom and phylacteries, mentioning the Steelhardt's potential use in creating an avatar for an Overlord. This could foreshadow Vorak's connection to the LoD and the potential threat he poses.
+- **Origin of the fragment Baelen carries:** The party may find information concerning how the Silver Flame obtained information on the location of the fragment originally, and how they contacted Baelen as a topic expert on Dragonshards and ancient history.
+- **Baelen's research on the fragment:** Maybe the players find a report detailing the fragment's effects on various plants and animals that Baelen has been doing experiments on using the fragment. 
+- **Lichdom & Phylacteries:** The players might discover a partially destroyed text about Lichdom and phylacteries. In particular, this research discusses how the study of phylacteries may lead to innovation in eliminating mortality without resorting to undeath.
