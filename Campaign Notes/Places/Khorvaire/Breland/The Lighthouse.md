@@ -45,9 +45,13 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 > - Medium circular room > 30-40ft
 > - Ransacked and overwhelming chaos > scattered texts > see texts
 > - 3 corpses > Scratch/bite/scorch marks > jewelry
-> -  Central desk > Baelens research notes > eberron spell shard (
+> -  Central desk > Baelens research notes > eberron spell shard (unseen servant) > note
+> - 
 
 **Texts.**
+
+**Note.**
+> Found this on my way back from mission trip in Wroat. Thought you might find a way to prank Kessik with it. -Olaf
 ## Inhabitants
 - List major characters that inhabit this place
 - List what faction(s), governments, or groups have control or are attempting to gain control, if any
