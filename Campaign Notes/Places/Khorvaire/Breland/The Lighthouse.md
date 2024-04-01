@@ -45,7 +45,7 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 > - Ransacked and overwhelming chaos > scattered texts & bookshelves > see texts
 > - 3 corpses > Scratch/bite/scorch marks > jewelry
 > - Central desk > Baelens research notes > eberron spell shard (unseen servant) > note
-> - Spiral staircase > more texts > corpse > sending stone connected to corpse in lounge
+> - Spiral staircase > more texts > corpse > random loot
 
 **Texts.**
 *"The Chronicles of the Silver Flame"*
@@ -84,7 +84,9 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 #### Crew Quarters
 
 > [!tldr]
-> Cracked and broken stone walls
+> - Cracked and broken stone walls > collapsed some furniture
+> - Beds > backpack under middle bed > 
+> - 
 ## Inhabitants
 - List major characters that inhabit this place
 - List what faction(s), governments, or groups have control or are attempting to gain control, if any
