@@ -99,8 +99,15 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 
 > [!tldr]
 > - Cracked and broken stone walls > collapsed some furniture
-> - Beds > backpack under middle bed > 
-> - 
+> - Beds > backpack under middle bed > Symbol of SF
+> - Barrel of water & mirror > toothpaste spit on floor
+
+---
+
+#### Basement
+
+> [!tldr]
+> 
 ## Inhabitants
 - List major characters that inhabit this place
 - List what faction(s), governments, or groups have control or are attempting to gain control, if any
