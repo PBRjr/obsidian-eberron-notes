@@ -1,13 +1,15 @@
 AKA ***Castle Arakhain***
 ## Concept
-- The Lighthouse is a well-known research facility and FOB for the Church of the Silver Flame. Recently, it came under attack by Lords of Dust Agents, who are on the hunt for the Fragmented Khyber Dragonshard that Baelen carries.
+- The Lighthouse is a well-known research facility and FOB for the Church of the Silver Flame. Recently, it came under attack by Lords of Dust Agents, who are on the hunt for the Fragmented Khyber Dragonshard that [[Professor Baelen ir'Torn|Baelen]] carries.
+- Baelen and the Priest managed to escape through a teleportation circle in the basement.
 
 ## Description
 > 'box text' description of the overall location.
 
 ## Notable Locations
-#### Main chamber
-Four tapestries hang from the grand vaulted ceiling here, depicting the history of the Silver Flame. Though they emanate no signs of magic, they seem to be the only thing left untouched here.
+
+**Main Chamber**
+ Four tapestries hang from the grand vaulted ceiling here, depicting the history of the Silver Flame. 
 
 Tapestry 1: The Birth of the Silver Flame
 
@@ -28,6 +30,8 @@ Tapestry 3: The founding of the Church
 Tapestry 4: The Battle Against the Overlords
 
 > The tapestry depicts a chaotic battle scene, with armored figures bearing the Silver Flame emblem on one side and monstrous creatures on the other. A large, shadowy figure with burning eyes looms at the center of the battle.
+
+---
 
 
 ## Inhabitants

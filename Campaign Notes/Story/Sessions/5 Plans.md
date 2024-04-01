@@ -12,13 +12,11 @@ Session Start
 - Allow PCs to explore skirmish site and find the holy sword.
 - Nearby agents watch the party at night, avoid encounter until they get close to the Lighthouse
 
-Moment 1: Arrival at the Lighthouse
-- Encounter 1: 
-	- A shape-shifting LoD agent poses as a child in distress, trying to find their grandpa Baelen ir'Torn
-	- The agents will attack and ambush the party
+Moment 1: *Arrival at the Lighthouse*
+- The party discovers a cracked and broken castle, its walls beginning to crumble and its doors kicked down. They may decide to investigate.
 
-Moment 2: *Name*
-- X
+Moment 2: *Investigation of the Lighthouse
+- [[The Lighthouse]]
 
 Encounter 1: *Name*
 - X
