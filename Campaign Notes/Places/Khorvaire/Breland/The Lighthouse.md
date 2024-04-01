@@ -109,8 +109,15 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 > [!tldr]
 > - Labyrinthine feel, narrow hallways, dimly lit
 > - Entrances > hallway staircase, secret hatch under dais
-> - Supply room > kegs of ale and crates > hidden corpse of child holding wooden sword
-> - Door to hidden 
+> - Supply room > cobwebs, kegs of ale and crates > hidden corpse of child holding wooden sword
+> - Alter with rectangular divot > text on the wall > see riddle
+> - Secret room > teleportation circle
+
+
+###### Riddle
+> "In the depths of knowledge, the flame's truth resides. Seek the tomes that bind the light, and the path shall open wide."
+
+Any book that contains information about the Silver Flame may be slotted into the alter. The wall containing that text will then slide open.
 ## Inhabitants
 - List major characters that inhabit this place
 - List what faction(s), governments, or groups have control or are attempting to gain control, if any
