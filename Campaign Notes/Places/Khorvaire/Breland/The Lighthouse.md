@@ -9,12 +9,11 @@ AKA ***Castle Arakhain***
 > [!tldr]
 > - Grand main hall > tapestries, blood stains and bodies, scorch marks and sulfur smell
 > - Balcony overlook > raised dais, spiral stairs
-> - Long table, large fallen chandelier > broken weapons and armor > old food
+> - Long table, large fallen chandelier > broken weapons and armor, old food
 > - Fire places > burnt pig roasts > perpetually burning fire
-> - Kicked in doors > broken improvised barricades
+> - Kicked in doors > broken improvised barricades > door left to hallway
+> - Stained glass windows > shattered window to garden
 > - Toppled statues > 7 y/o girl
-> - Doors to the left > Large ornate stained glass windows
-
 
 **Tapestries.**
 Tapestry 1: The Birth of the Silver Flame
@@ -77,10 +76,15 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 > [!tldr]
 > - Small, rubble-covered living area > ceiling/back wall collapse
 > - Table surrounded by chairs and stools > playing cards & candles
-> - Hallway > corpses of mother, child, father > bite marks and black thorn punctures
+> - Hallway > corpses of mother, child (crush), father > bite marks and black thorn punctures
 > - Stairs downward
 
+---
 
+#### Crew Quarters
+
+> [!tldr]
+> Cracked and broken stone walls
 ## Inhabitants
 - List major characters that inhabit this place
 - List what faction(s), governments, or groups have control or are attempting to gain control, if any
