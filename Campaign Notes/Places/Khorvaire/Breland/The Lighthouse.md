@@ -5,8 +5,13 @@ AKA ***Castle Arakhain***
 ## Locations
 
 #### Main Chamber.
-Four tapestries hang from the grand vaulted ceiling here, depicting the history of the Silver Flame. 
 
+> [!DESCRIBE]
+> - Grand main hall, raided and destroyed, large vaulted ceilings
+> - Long table lines the middle, flanked by fire places on either side, smoldering embers
+> - Four tapestries with ornate decoration depicting different scenes hang from the ceiling, mostly untouched
+
+**Tapestries.**
 Tapestry 1: The Birth of the Silver Flame
 
 > The tapestry depicts a great battle, with a brilliant silver flame erupting from the center, pushing back the surrounding darkness. Silhouettes of armed figures stand around the flame, their weapons raised.
@@ -34,8 +39,9 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 > [!DESCRIBE]
 > - Ransacked and chaotic personal library > books > see texts
 > - Medium sized round room with 10ft ceiling
-> - Blood litters the 3 corpses here > random loot, weapons
+> - Blood litters the 3 corpses here > random loot, weapons, spell scroll fog cloud
 
+**Texts.**
 ## Inhabitants
 - List major characters that inhabit this place
 - List what faction(s), governments, or groups have control or are attempting to gain control, if any
