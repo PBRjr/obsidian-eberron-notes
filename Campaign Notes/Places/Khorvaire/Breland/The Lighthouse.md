@@ -13,7 +13,7 @@ AKA ***Castle Arakhain***
 > - Fire places > burnt pig roasts > perpetually burning fire
 > - Kicked in doors > broken improvised barricades
 > - Toppled statues > 7 y/o girl
-> - Doors to the left > more blood stains and scorch marks
+> - Doors to the left > Large ornate stained glass windows
 
 
 **Tapestries.**
@@ -41,10 +41,11 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 
 #### Library
 
-> [!DESCRIBE]
-> - Large 
-> - Medium sized round room with 10ft ceiling
-> - Blood litters the 3 corpses here > random loot, weapons, spell scroll fog cloud
+> [!tldr]
+> - Medium circular room > 30-40ft
+> - Ransacked and overwhelming chaos > scattered texts > see texts
+> - 3 corpses > Scratch/bite/scorch marks > jewelry
+> -  Central desk > 
 
 **Texts.**
 ## Inhabitants
