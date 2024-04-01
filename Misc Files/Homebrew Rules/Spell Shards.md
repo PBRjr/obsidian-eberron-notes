@@ -1,0 +1,1 @@
+Spell shards function the similarly as spell scrolls, except kept on an Eberron dragonshard instead of a scroll.

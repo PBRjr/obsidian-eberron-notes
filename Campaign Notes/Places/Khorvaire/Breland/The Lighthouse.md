@@ -45,7 +45,7 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 > - Medium circular room > 30-40ft
 > - Ransacked and overwhelming chaos > scattered texts > see texts
 > - 3 corpses > Scratch/bite/scorch marks > jewelry
-> -  Central desk > 
+> -  Central desk > Baelens research notes > eberron spell shard (
 
 **Texts.**
 ## Inhabitants
