@@ -47,16 +47,16 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 > - Central desk > Baelens research notes > eberron spell shard (unseen servant) > note
 > - Spiral staircase > more texts > corpse > random loot
 
-**Baelen's Research Notes.**
+###### Baelen's Research Notes.
 *Dragonshard influence on Flora & Fauna*
 
-|       | Siberys                                                     | Eberron                                             | Khyber |
-| ----- | ----------------------------------------------------------- | --------------------------------------------------- | ------ |
-| Flora | Accelerate growth<br>Vibrant colors<br>Minor magical traits | Enhance root depth<br>Enhance stem tensile strength |        |
-| Fauna | Enhance pre-existing magical traits                         | Enhance social behaviors                            |        |
+|       | Siberys                                                     | Eberron                                             | Khyber                          |
+| ----- | ----------------------------------------------------------- | --------------------------------------------------- | ------------------------------- |
+| Flora | Accelerate growth<br>Vibrant colors<br>Minor magical traits | Enhance root depth<br>Enhance stem tensile strength | Pause growth<br>Darkened colors |
+| Fauna | Enhance pre-existing magical traits                         | Enhance social behaviors                            | Enhance isolation behaviors     |
 
 
-**Texts.**
+###### Texts.
 *"The Chronicles of the Silver Flame"*
     "In the darkest hour, when all hope seemed lost, the couatls made the ultimate sacrifice. Their essence merged, forming a beacon of pure light - the Silver Flame. Its radiance pierced the darkness, driving back the forces of evil and offering solace to the righteous."
 
@@ -78,7 +78,9 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 *"The Flame's Sacrifice: A Martyr's Tale"*
     "Tira Miron, a paladin of the Silver Flame, faced a terrible choice. To save the world from a great evil, she willingly offered herself as a vessel for the Flame's power. In a blinding flash of radiance, Tira ascended, becoming one with the Silver Flame. Her sacrifice stands as a testament to the depths of devotion and the unyielding spirit of those who serve the Flame."
 
-**Note.**
+---
+
+###### Note.
 > Found this on my way back from mission trip in Wroat. Thought you might find a way to prank Kessik with it. -Olaf
 
 ---
