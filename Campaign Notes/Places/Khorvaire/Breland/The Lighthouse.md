@@ -8,7 +8,7 @@ AKA ***Castle Arakhain***
 
 > [!tldr]
 > - Grand main hall > tapestries, blood stains and bodies, scorch marks and sulfur smell
-> - Balcony overlook > raised dais, spiral stairs
+> - Balcony overlook > spiral stairs, raised dais > secret hatch
 > - Long table, large fallen chandelier > broken weapons and armor, old food
 > - Fire places > burnt pig roasts > perpetually burning fire
 > - Kicked in doors > broken improvised barricades > door left to hallway
@@ -107,7 +107,10 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 #### Basement
 
 > [!tldr]
-> 
+> - Labyrinthine feel, narrow hallways, dimly lit
+> - Entrances > hallway staircase, secret hatch under dais
+> - Supply room > kegs of ale and crates > hidden corpse of child holding wooden sword
+> - Door to hidden 
 ## Inhabitants
 - List major characters that inhabit this place
 - List what faction(s), governments, or groups have control or are attempting to gain control, if any
