@@ -8,8 +8,7 @@ AKA ***Castle Arakhain***
 
 ## Notable Locations
 
-**Main Chamber**
- Four tapestries hang from the grand vaulted ceiling here, depicting the history of the Silver Flame. 
+**Main Chamber.** Four tapestries hang from the grand vaulted ceiling here, depicting the history of the Silver Flame. 
 
 Tapestry 1: The Birth of the Silver Flame
 
@@ -19,17 +18,17 @@ Tapestry 2: The Sacrifice of the Couatl
 
 > The tapestry shows serpentine creatures with feathered wings arranged in a circle, silver light emanating from their bodies. A dark, menacing presence looms in the background, shattered by a blinding silver radiance.
 
-Tapestry 3: The Sealing of the Overlord
-
-> The tapestry shows a circle of colorful dragons surrounding a large purple crystal with runic symbols on it, a dark figure wearing a hateful expression is being sucked into it. In the background, a desolate and war-worn landscape stretches to the horizon.
-
-Tapestry 3: The founding of the Church
-
-> The tapestry portrays a gathering of robed figures, with a tall woman holding a glowing tome at the center. The other figures kneel around her, hands outstretched. In the background, the foundations of a grand cathedral are being laid.
-
-Tapestry 4: The Battle Against the Overlords
+Tapestry 3: The Battle Against the Overlords
 
 > The tapestry depicts a chaotic battle scene, with armored figures bearing the Silver Flame emblem on one side and monstrous creatures on the other. A large, shadowy figure with burning eyes looms at the center of the battle.
+
+Tapestry 4: The Sealing of the Overlord
+
+> The tapestry shows a circle of colorful dragons surrounding a large purple crystal with runic symbols on it. In the background, a desolate and war-worn landscape stretches to the horizon.
+
+Tapestry 5: The founding of the Church (Clan Flameforge)
+
+> The tapestry portrays a gathering of robed figures, with a tall woman holding a large sword with a white-hot flaming blade at the center. The other figures kneel around her, hands outstretched. In the background, the foundations of a grand cathedral are being laid.
 
 ---
 

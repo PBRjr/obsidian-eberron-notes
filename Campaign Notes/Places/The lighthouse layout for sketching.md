@@ -171,13 +171,6 @@ Hidden Chamber and Puzzle:
     - A control pedestal or lectern nearby may contain additional clues or instructions for activating the teleportation circle.
 
 ## Needs Development
-**Challenges and Atmosphere:**
-
-- **Exploration and Investigation:** Make exploration and investigation key aspects of the encounter. Design the castle layout with hidden passages, secret compartments, and environmental puzzles that reward curious players. Scatter clues throughout the location, such as partially burned research notes, cryptic symbols on walls, and remnants of magical experiments. These clues can be related to Baelen's research, the Day of Mourning, the Silver Flame, or even foreshadow future encounters with the LoD.
-
-- **Combat Encounters:** Include a few combat encounters with LoD agents who survived the initial attack or were sent to investigate the aftermath. These encounters can be triggered by exploration, such as disturbing a hidden chamber, or by narrative cues, such as the players being ambushed while investigating a suspicious area. Consider using a variety of LoD creatures, like imps, hellhounds, and even a tiefling or changeling agent posing as a survivor, to showcase the organization's diverse and deceptive tactics.
-
-
 **Information and Foreshadowing:**
 
 - **Baelen and the Priest:** Leave clear evidence that Baelen and the priest escaped the Lighthouse, such as a partially destroyed teleportation circle or a note mentioning their destination. This will pique the players' curiosity and potentially set them on a path to follow Baelen's trail.
