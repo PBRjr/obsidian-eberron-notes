@@ -2,13 +2,10 @@ AKA ***Castle Arakhain***
 ## Concept
 - The Lighthouse is a well-known research facility and FOB for the Church of the Silver Flame. Recently, it came under attack by Lords of Dust Agents, who are on the hunt for the Fragmented Khyber Dragonshard that [[Professor Baelen ir'Torn|Baelen]] carries.
 - Baelen and the Priest managed to escape through a teleportation circle in the basement.
+## Locations
 
-## Description
-> 'box text' description of the overall location.
-
-## Notable Locations
-
-**Main Chamber.** Four tapestries hang from the grand vaulted ceiling here, depicting the history of the Silver Flame. 
+#### Main Chamber.
+Four tapestries hang from the grand vaulted ceiling here, depicting the history of the Silver Flame. 
 
 Tapestry 1: The Birth of the Silver Flame
 
@@ -32,6 +29,12 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 
 ---
 
+#### Library
+
+> [!DESCRIBE]
+> - Ransacked and chaotic personal library > books > see texts
+> - Medium sized round room with 10ft ceiling
+> - Blood litters the 3 corpses here > random loot, weapons
 
 ## Inhabitants
 - List major characters that inhabit this place
