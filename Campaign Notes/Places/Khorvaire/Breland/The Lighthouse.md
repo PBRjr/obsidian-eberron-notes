@@ -6,10 +6,12 @@ AKA ***Castle Arakhain***
 
 #### Main Chamber.
 
-> [!DESCRIBE]
-> - Grand main hall, raided and destroyed, large vaulted ceilings
-> - Long table lines the middle, flanked by fire places on either side, smoldering embers
-> - Four tapestries with ornate decoration depicting different scenes hang from the ceiling, mostly untouched
+> [!tldr]
+> - Grand main hall, raided and destroyed, large vaulted ceilings > tapestries
+> - Long table lines the middle, large fallen chandelier > broken weapons and armor
+> - Fire places on the left and right walls > burnt pig roasts
+> - Doors kicked in from outside > broken improvised barricades
+
 
 **Tapestries.**
 Tapestry 1: The Birth of the Silver Flame
