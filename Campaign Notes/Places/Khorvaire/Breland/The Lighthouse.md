@@ -43,35 +43,29 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 
 > [!tldr]
 > - Medium circular room > 30-40ft
-> - Ransacked and overwhelming chaos > scattered texts > see texts
+> - Ransacked and overwhelming chaos > scattered texts & bookshelves > see texts
 > - 3 corpses > Scratch/bite/scorch marks > jewelry
 > -  Central desk > Baelens research notes > eberron spell shard (unseen servant) > note
 > - 
 
 **Texts.**
 *"The Chronicles of the Silver Flame"*
-    - Passage: "In the darkest hour, when all hope seemed lost, the couatls made the ultimate sacrifice. Their essence merged, forming a beacon of pure light - the Silver Flame. Its radiance pierced the darkness, driving back the forces of evil and offering solace to the righteous."
+    "In the darkest hour, when all hope seemed lost, the couatls made the ultimate sacrifice. Their essence merged, forming a beacon of pure light - the Silver Flame. Its radiance pierced the darkness, driving back the forces of evil and offering solace to the righteous."
 
 *"~~Khyber's Darkness: A Study of the Draconic~~ Prophecy"*
-    Passage: "The fragments of ~~Khyber~~, born ~~from the Dragon Below~~, hold untold power. When ~~united~~, they have the potential to unleash great ~~darkness~~ upon the world. The Draconic ~~Prophecy speaks~~ of a time when the fragments shall align, and the forces of ~~shadow~~ will rise once more."
-
-*"The Tome of Binding: Wards and Seals"*
-    Passage: "To contain the malevolent entities that threaten our world, the art of binding and sealing is essential. Through the use of intricate runic arrays and powerful incantations, even the most fearsome creatures can be held at bay. But beware, for every ward has its weakness, and every seal may one day be broken."
+    "The fragments of ~~Khyber~~, born ~~from the Dragon Below~~, hold untold power. When ~~united~~ they have the potential to unleash great ~~darkness~~ upon the world. The Draconic ~~Prophecy speaks~~ of a time when the fragments shall align, and the forces of ~~shadow~~ will rise once more."
 
 *"The Argent Grimoire: Teachings of the Silver Flame"*
-    Passage: "Those who follow the path of the Silver Flame must embody its virtues: courage, sacrifice, and unwavering devotion. Through faith and righteous action, the followers of the Flame become beacons of hope in a world beset by darkness. Their magic, fueled by the Flame's radiance, is a potent weapon against the forces of evil."
-
-*"Whispers of the Overlords"*
-    Passage: "In the depths of Khyber, the Overlords slumber, their power bound by ancient seals. But their influence still seeps into the world, corrupting the weak-willed and tempting the ambitious. Beware the whispers of the Overlords, for they seek to break free from their prisons and claim dominion over all."
+    "Those who follow the path of the Silver Flame must embody its virtues: courage, sacrifice, and unwavering devotion. Through faith and righteous action, the followers of the Flame become beacons of hope in a world beset by darkness. Their magic, fueled by the Flame's radiance, is a potent weapon against the forces of evil."
 
 *"The Shattered Shard: An Account of the Last War"*
-    Passage: "During the Last War, the nations of Khorvaire clashed in a brutal conflict that reshaped the face of the continent. Amidst the chaos, a great cataclysm struck: the Mourning. The once-mighty nation of Cyre was consumed by a mysterious mist, leaving only the blasted wasteland now known as the Mournland. The cause of this tragedy remains unknown, but rumors persist of dark magic and forbidden experiments gone awry."
+     "During the Last War, the nations of Khorvaire clashed in a brutal conflict that reshaped the face of the continent. Amidst the chaos, a great cataclysm struck: the Mourning. The once-mighty nation of Cyre was consumed by a mysterious mist, leaving only the blasted wasteland now known as the Mournland. The cause of this tragedy remains unknown, but rumors persist of dark magic and forbidden experiments gone awry."
 
 *"The Annals of House Cannith"*
-    Passage: "House Cannith, bearer of the Mark of Making, has long been at the forefront of arcane innovation. Their creations, from the majestic warforged to the marvels of the lightning rail, have shaped the course of history. But whispers abound of secret projects and hidden agendas, of experiments that push the boundaries of morality and reason."
+    "House Cannith, bearer of the Mark of Making, has long been at the forefront of arcane innovation. Their creations, from the majestic warforged to the convenience of the Everbright lantern, have shaped the course of history.
 
 *"The Flame's Sacrifice: A Martyr's Tale"*
-    Passage: "Tira Miron, a paladin of the Silver Flame, faced a terrible choice. To save the world from a great evil, she willingly offered herself as a vessel for the Flame's power. In a blinding flash of radiance, Tira ascended, becoming one with the Silver Flame. Her sacrifice stands as a testament to the depths of devotion and the unyielding spirit of those who serve the Flame."
+    "Tira Miron, a paladin of the Silver Flame, faced a terrible choice. To save the world from a great evil, she willingly offered herself as a vessel for the Flame's power. In a blinding flash of radiance, Tira ascended, becoming one with the Silver Flame. Her sacrifice stands as a testament to the depths of devotion and the unyielding spirit of those who serve the Flame."
 
 **Note.**
 > Found this on my way back from mission trip in Wroat. Thought you might find a way to prank Kessik with it. -Olaf
