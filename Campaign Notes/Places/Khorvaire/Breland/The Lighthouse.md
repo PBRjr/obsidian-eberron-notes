@@ -7,10 +7,13 @@ AKA ***Castle Arakhain***
 #### Main Chamber.
 
 > [!tldr]
-> - Grand main hall, raided and destroyed, large vaulted ceilings > tapestries
-> - Long table lines the middle, large fallen chandelier > broken weapons and armor
-> - Fire places on the left and right walls > burnt pig roasts
-> - Doors kicked in from outside > broken improvised barricades
+> - Grand main hall > tapestries, blood stains and bodies, scorch marks and sulfur smell
+> - Balcony overlook > raised dais, spiral stairs
+> - Long table, large fallen chandelier > broken weapons and armor > old food
+> - Fire places > burnt pig roasts > perpetually burning fire
+> - Kicked in doors > broken improvised barricades
+> - Toppled statues > 7 y/o girl
+> - Doors to the left > more blood stains and scorch marks
 
 
 **Tapestries.**
@@ -39,7 +42,7 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 #### Library
 
 > [!DESCRIBE]
-> - Ransacked and chaotic personal library > books > see texts
+> - Large 
 > - Medium sized round room with 10ft ceiling
 > - Blood litters the 3 corpses here > random loot, weapons, spell scroll fog cloud
 
