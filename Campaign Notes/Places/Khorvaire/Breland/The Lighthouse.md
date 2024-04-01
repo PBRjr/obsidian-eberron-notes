@@ -1,7 +1,10 @@
 AKA ***Castle Arakhain***
 ## Concept
-- The Lighthouse is a well-known research facility and FOB for the Church of the Silver Flame. Recently, it came under attack by Lords of Dust Agents, who are on the hunt for the Fragmented Khyber Dragonshard that [[Professor Baelen ir'Torn|Baelen]] carries.
-- Baelen and the Priest managed to escape through a teleportation circle in the basement.
+
+> [!important]
+> - The Lighthouse is a well-known research facility and FOB for the Church of the Silver Flame. Recently, it came under attack by Lords of Dust Agents, who are on the hunt for the Fragmented Khyber Dragonshard that [[Professor Baelen ir'Torn|Baelen]] carries.
+> - Baelen and the Priest managed to escape through a teleportation circle in the basement.
+
 ## Locations
 
 #### Main Chamber.
@@ -85,6 +88,9 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 
 ---
 
+
+---
+
 #### Lounge & Hallway
 
 > [!tldr]
@@ -112,8 +118,7 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 > - Supply room > cobwebs, kegs of ale and crates > hidden corpse of child holding wooden sword
 > - Alter with rectangular divot > text on the wall > see riddle
 > - Secret room > see teleportation circle
-> - Blood-stained
-
+> - Blood-stained cloth jacket on floor > etched-in nameplate "Professor ir'Torn, Dept Head, History"
 
 ###### Riddle
 > "In the depths of knowledge, the flame's truth resides. Seek the tomes that bind the light, and the path shall open wide."
@@ -123,6 +128,9 @@ Any book that contains information about the Silver Flame may be slotted into th
 ###### Teleportation Circle
 - Faded circle carved into the stone ground > draconic runes > destination of Sharn
 - 6 cracked & faded Siberys shards around circle
+
+---
+
 ## Inhabitants
 - List major characters that inhabit this place
 - List what faction(s), governments, or groups have control or are attempting to gain control, if any
