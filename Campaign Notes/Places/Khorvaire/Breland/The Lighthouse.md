@@ -72,10 +72,13 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 
 ---
 
-#### Lounge
+#### Lounge & Hallway
 
 > [!tldr]
-> - 
+> - Small, rubble-covered living area > ceiling/back wall collapse
+> - Table surrounded by chairs and stools > playing cards & candles
+> - Hallway > corpses of mother, child, father > bite marks and black thorn punctures
+> - Stairs downward
 
 
 ## Inhabitants
