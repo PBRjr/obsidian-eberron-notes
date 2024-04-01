@@ -48,6 +48,13 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 > - Spiral staircase > more texts > corpse > random loot
 
 **Baelen's Research Notes.**
+*Dragonshard influence on Flora & Fauna*
+
+|       | Siberys                                                     | Eberron                                             | Khyber |
+| ----- | ----------------------------------------------------------- | --------------------------------------------------- | ------ |
+| Flora | Accelerate growth<br>Vibrant colors<br>Minor magical traits | Enhance root depth<br>Enhance stem tensile strength |        |
+| Fauna | Enhance pre-existing magical traits                         | Enhance social behaviors                            |        |
+
 
 **Texts.**
 *"The Chronicles of the Silver Flame"*
