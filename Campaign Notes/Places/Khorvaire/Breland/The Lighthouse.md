@@ -47,6 +47,8 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 > - Central desk > Baelens research notes > eberron spell shard (unseen servant) > note
 > - Spiral staircase > more texts > corpse > random loot
 
+**Baelen's Research Notes.**
+
 **Texts.**
 *"The Chronicles of the Silver Flame"*
     "In the darkest hour, when all hope seemed lost, the couatls made the ultimate sacrifice. Their essence merged, forming a beacon of pure light - the Silver Flame. Its radiance pierced the darkness, driving back the forces of evil and offering solace to the righteous."
