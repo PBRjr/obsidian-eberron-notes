@@ -88,9 +88,6 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 
 ---
 
-
----
-
 #### Lounge & Hallway
 
 > [!tldr]
@@ -132,8 +129,7 @@ Any book that contains information about the Silver Flame may be slotted into th
 ---
 
 ## Inhabitants
-- List major characters that inhabit this place
-- List what faction(s), governments, or groups have control or are attempting to gain control, if any
+***Enemy Roster.***
 
 ## History
 - This fortress has served as the largest collection of religious histories the CotSF controls. The lighthouse is were their most prestigious scholars and researchers conducted their work, surrounded by books and scrolls.
