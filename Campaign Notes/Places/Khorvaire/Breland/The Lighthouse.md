@@ -130,10 +130,8 @@ Any book that contains information about the Silver Flame may be slotted into th
 
 ## Inhabitants
 ***Enemy Roster.***
-Gnoll war band?
-- Flesh Gnawer VG 154
-- Hunter VG 154
-- 
+- Imps disguised as beasts following the players around, waiting to strike
+- Hell hounds
 ***Corpses.***
 Guard Drakes?
 ## History
