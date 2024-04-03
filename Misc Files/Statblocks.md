@@ -1,6 +1,9 @@
 
 ---
 References
+- [[#Fiends|Fiends]]
+	- [[#Fiends#Hell Hound (CR 1)|Hell Hound (CR 1)]]
+	- [[#Fiends#Imp|Imp]]
 - [[#Kobolds|Kobolds]]
 	- [[#Kobolds#Brains (Kobolt Dragonshield)|Brains (Kobolt Dragonshield)]]
 	- [[#Kobolds#Kobold Scale Sorcerer|Kobold Scale Sorcerer]]
@@ -8,13 +11,16 @@ References
 - [[#Misc Humanoids|Misc Humanoids]]
 	- [[#Misc Humanoids#Veteran|Veteran]]
 	- [[#Misc Humanoids#Commoner|Commoner]]
+	- [[#Misc Humanoids#Bandit (Increased Diff)|Bandit (Increased Diff)]]
+	- [[#Misc Humanoids#Enchanter|Enchanter]]
 - [[#Beasts|Beasts]]
 	- [[#Beasts#Pteranodons|Pteranodons]]
 - [[#Monstrosities|Monstrosities]]
 	- [[#Monstrosities#Ankheg|Ankheg]]
+	- [[#Monstrosities#Doppelganger|Doppelganger]]
+	- [[#Monstrosities#Mimic|Mimic]]
 - [[#Structures|Structures]]
 	- [[#Structures#Balista|Balista]]
-
 
 ---
 
