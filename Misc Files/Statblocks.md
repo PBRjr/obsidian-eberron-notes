@@ -55,6 +55,44 @@ _Actions_
 
 **Fire Breath (Recharge 6)**: The hell hound exhales fire in a 10-foot cone. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
 
+## Imp
+
+Tiny fiend (devil), lawful evil
+
+Armor Class 13
+
+Hit Points 7 (2d4 + 2)
+
+Speed 20 ft., fly 40 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 6 (-2)  | 15 (+2) | 12 (+1) | 11 (+0) | 12 (+1) | 12 (+1) |
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+Skills Deception +3, Insight +3, Persuasion +3, Stealth +4
+
+Damage Resistances cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+Damage Immunities fire, poison
+
+Condition Immunities poisoned
+
+Senses darkvision 120 ft., passive Perception 11
+
+Languages Infernal, Common
+
+Challenge 1/2 (100 XP)
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+*Actions*
+
+**Sting**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one.
+
 ## Kobolds
 ### Brains (Kobolt Dragonshield)
 
