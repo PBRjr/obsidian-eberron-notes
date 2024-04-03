@@ -18,6 +18,43 @@ References
 
 ---
 
+## Fiends
+### Hell Hound (CR 1)
+
+Medium fiend, lawful evil
+
+Armor Class 13 (natural armor)
+
+Hit Points 22 (4d8 + 4)
+
+Speed 50 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 14 (+2) | 12 (+1) | 12 (+1) | 6 (-2) | 13 (+1) | 6 (-2) |
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+Skills Perception +3
+
+Damage Immunities fire
+
+Senses darkvision 60 ft., passive Perception 13
+
+Languages understands Infernal but can't speak it
+
+Challenge 1 (200 XP)
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_Actions_
+
+**Bite**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 2) piercing damage plus 3 (1d6) fire damage.
+
+**Fire Breath (Recharge 6)**: The hell hound exhales fire in a 10-foot cone. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
+
 ## Kobolds
 ### Brains (Kobolt Dragonshield)
 
