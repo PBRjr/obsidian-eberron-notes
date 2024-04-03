@@ -97,7 +97,7 @@ Challenge 1/2 (100 XP)
 
 *Actions*
 
-**Sting**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one.
+**Sting**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, becoming poisoned for 1 minute on a failed save.
 
 ## Kobolds
 ### Brains (Kobolt Dragonshield)
