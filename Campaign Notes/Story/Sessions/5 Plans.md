@@ -66,9 +66,9 @@ Person 2: *Professor Baelen ir'Torn*
 (continue as needed)
 ### Plot Actions
 
-Action 1: *Name of significant NPC(s) or organization(s) involved*
-- Goal: X (immediate goal of involved person/org)
-- X (what that person/org is doing to accomplish that goal, assuming PCs don't interfere)
+Action 1: Aeren d'Cannith learns of Geralt's heritage.
+- Goal: Learn more about Geralt, his parents, and the schematics.
+- Actions: Start asking contacts about schematics and wait for party's arrival.
 
 Action 2: *Name of significant NPC(s) or organization(s) involved*
 - Goal: X
