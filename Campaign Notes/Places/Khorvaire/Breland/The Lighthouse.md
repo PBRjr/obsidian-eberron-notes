@@ -66,7 +66,7 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 *"On the Ethereal Chains: The Pursuit of Life Beyond Death"*
 	"The quest for immortality often leads down a path shadowed by ethereal chains. Ancient scholars posited the existence of a soul's anchor—a phylactery—yet, warned of its tether to undeath. A new school of thought, however, seeks the dawn beyond this twilight. Imagine an ethereal crucible, not for ensnaring the soul in a cycle of undeath, but as a bastion for the living essence. A vessel, perhaps, that might harbor the spark of life eternal, untainted by necrosis. Such are the whispers of alchemists and arcanists alike, dreaming of a future where life knows no end."
 
-*"~~Khyber's Darkness: A Study of the Draconic~~ Prophecy"*
+*"~~Khyber's Darkness: A Study of the Draconic Prophecy~~"*
     "The fragments of ~~Khyber~~, born ~~from the Dragon Below~~, hold untold power. When ~~united~~ they have the potential to unleash great ~~darkness~~ upon the world. The Draconic ~~Prophecy speaks~~ of a time when the fragments shall align, and the forces of ~~shadow~~ will rise once more."
 
 *"The Argent Grimoire: Teachings of the Silver Flame"*
