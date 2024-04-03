@@ -55,7 +55,7 @@ _Actions_
 
 **Fire Breath (Recharge 6)**: The hell hound exhales fire in a 10-foot cone. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
 
-## Imp
+### Imp
 
 Tiny fiend (devil), lawful evil
 
@@ -503,6 +503,54 @@ Challenge 3 (700 XP)
 **Slam**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage.
 
 **Read Thoughts**: The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's concentration isn't broken (as if concentrating on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target.
+
+### Mimic
+
+Medium monstrosity (shapechanger), neutral
+
+Armor Class 12 (natural armor)
+
+Hit Points 58 (9d8 + 18)
+
+Speed 15 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 12 (+1) | 15 (+2) | 5 (-3) | 13 (+1) | 8 (-1) |
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+Skills Stealth +5
+
+Damage Immunities acid
+
+Condition Immunities prone
+
+Senses darkvision 60 ft., passive Perception 11
+
+Languages —
+
+Challenge 2 (450 XP)
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Shapechanger**: The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+**Adhesive (Object Form Only)**: The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 13). Ability checks made to escape this grapple have disadvantage.
+
+**False Appearance (Object Form Only)**: While the mimic remains motionless, it is indistinguishable from an ordinary object.
+
+**Grappler**: The mimic has advantage on attack rolls against any creature grappled by it.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_Actions_
+
+**Pseudopod**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.
+
+**Bite**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
 ## Structures
 ### Balista
 AC 15
