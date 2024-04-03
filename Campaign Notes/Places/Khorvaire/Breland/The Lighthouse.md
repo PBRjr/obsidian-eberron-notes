@@ -81,6 +81,9 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 *"The Flame's Sacrifice: A Martyr's Tale"*
     "Tira Miron, a paladin of the Silver Flame, faced a terrible choice. To save the world from a great evil, she willingly offered herself as a vessel for the Flame's power. In a blinding flash of radiance, Tira ascended, becoming one with the Silver Flame. Her sacrifice stands as a testament to the depths of devotion and the unyielding spirit of those who serve the Flame."
 
+*"The Mimic: How to Identify a Lurking Threat"*
+	Its a mimic.
+
 ---
 
 ###### Note.

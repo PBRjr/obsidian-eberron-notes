@@ -89,7 +89,7 @@ Challenge 1/2 (100 XP)
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Shapechanger.** The imp can use its action to polymorph into a beast form that resembles a rat (speed 20ft), a raven (20 ft., fly 60 ft.), or a spider (20ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment its wearing or carrying isn't transformed. It reverts to its true form if it dies.
+**Shapechanger.** The imp can use its action to polymorph into a beast form that resembles a rat (speed 20ft), a raven (20 ft., fly 60 ft.), or a spider (speed 20ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment its wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
 **Devil's Sight.** Magical darkness doesn't impede the imp's darkvision.
 
