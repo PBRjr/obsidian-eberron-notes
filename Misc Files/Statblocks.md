@@ -451,6 +451,8 @@ _**Acid Spray (Recharge 6).**_ The Ankheg spits acid up to 30 ft away, creatin
 
 ***Acid Pores.*** When the Ankheg takes damage from a melee weapon attack while its under the effects of *Bloody Rage*, the attacker makes a DC 11 (10 + CON) strength check. On a fail, the attacker's weapon becomes lodged in the Ankheg's body long enough for its acid to destroy parts of the weapon, turning it into an improvised weapon.
 
+
+### 
 ## Structures
 ### Balista
 AC 15
