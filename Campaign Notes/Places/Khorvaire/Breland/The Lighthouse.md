@@ -133,7 +133,7 @@ Any book that contains information about the Silver Flame may be slotted into th
 Gnoll war band?
 - Flesh Gnawer VG 154
 - Hunter VG 154
-
+- 
 ***Corpses.***
 Guard Drakes?
 ## History
