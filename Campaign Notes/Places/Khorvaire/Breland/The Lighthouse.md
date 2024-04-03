@@ -130,7 +130,12 @@ Any book that contains information about the Silver Flame may be slotted into th
 
 ## Inhabitants
 ***Enemy Roster.***
+Gnoll war band?
+- Flesh Gnawer VG 154
+- Hunter VG 154
 
+***Corpses.***
+Guard Drakes?
 ## History
 - This fortress has served as the largest collection of religious histories the CotSF controls. The lighthouse is were their most prestigious scholars and researchers conducted their work, surrounded by books and scrolls.
 
