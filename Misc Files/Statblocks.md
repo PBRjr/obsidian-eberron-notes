@@ -87,7 +87,11 @@ Languages Infernal, Common
 
 Challenge 1/2 (100 XP)
 
-**Shapechanger.** The imp can use its action to polymorph into a beast form that resembles a rat (speed 20ft), a raven (20 ft., fly 60 ft.), or a spider (20ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed change snoted. Any equipment its wearing or carrying isn't transformed. It reverts to its true form if it dies.
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Shapechanger.** The imp can use its action to polymorph into a beast form that resembles a rat (speed 20ft), a raven (20 ft., fly 60 ft.), or a spider (20ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment its wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+**Devil's Sight.** Magical darkness doesn't impede the imp's darkvision.
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
@@ -489,6 +493,8 @@ Challenge 3 (700 XP)
 **Ambusher**: In the first round of a combat, the doppelganger has advantage on attack rolls against any creature it surprised.
 
 **Surprise Attack**: If the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
 *Actions*
 
