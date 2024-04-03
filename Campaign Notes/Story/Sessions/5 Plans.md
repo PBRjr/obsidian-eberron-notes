@@ -51,13 +51,15 @@ Place 2: *Name*
 (continue as needed)
 ### People
 
-Person 1: *Rick*
-- X (information relevant to session)
+Person 1: *Rick (doppelganger)*
+- Rick is a persona played by the doppleganger leader of a small LoD agent squad.
+- He will pose as an old fragile man that returned from a small walk and needs help looking for his young daughter, who he thinks is in the basement.
+- The skeleton crew that was left behind after the LoD attacked the Lighthouse and killed those within. This skeleton crew's purpose is to ransack the remains in search of valuables or clues pointing to Professor Baelen's location.
 *Plot Information*
 - X (information relevant to overall plot)
 
-Person 2:
-- X
+Person 2: *Professor Baelen ir'Torn*
+- Made it to the Lighthouse a day before the attack and rested overnight.
 *Plot Information*
 - X 
 
