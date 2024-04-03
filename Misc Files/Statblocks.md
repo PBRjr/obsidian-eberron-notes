@@ -87,6 +87,8 @@ Languages Infernal, Common
 
 Challenge 1/2 (100 XP)
 
+**Shapechanger.** The imp can use its action to polymorph into a beast form that resembles a rat (speed 20ft), a raven (20 ft., fly 60 ft.), or a spider (20ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed change snoted. Any equipment its wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
 *Actions*
@@ -452,7 +454,49 @@ _**Acid Spray (Recharge 6).**_ The Ankheg spits acid up to 30 ft away, creatin
 ***Acid Pores.*** When the Ankheg takes damage from a melee weapon attack while its under the effects of *Bloody Rage*, the attacker makes a DC 11 (10 + CON) strength check. On a fail, the attacker's weapon becomes lodged in the Ankheg's body long enough for its acid to destroy parts of the weapon, turning it into an improvised weapon.
 
 
-### 
+### Doppelganger
+
+Medium monstrosity (shapechanger), neutral
+
+Armor Class 14
+
+Hit Points 52 (8d8 + 16)
+
+Speed 30 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 11 (+0) | 18 (+4) | 14 (+2) | 11 (+0) | 12 (+1) | 14 (+2) |
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+Skills Deception +6, Insight +3
+
+Condition Immunities charmed
+
+Senses darkvision 60 ft., passive Perception 11
+
+Languages Common
+
+Challenge 3 (700 XP)
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Shapechanger**: The doppelganger can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+**Ambusher**: In the first round of a combat, the doppelganger has advantage on attack rolls against any creature it surprised.
+
+**Surprise Attack**: If the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.
+
+*Actions*
+
+**Multiattack**: The doppelganger makes two melee attacks.
+
+**Slam**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage.
+
+**Read Thoughts**: The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's concentration isn't broken (as if concentrating on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target.
 ## Structures
 ### Balista
 AC 15
