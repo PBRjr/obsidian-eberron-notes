@@ -34,12 +34,15 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 ### Current
 #### Immediate
 - Continue moving towards Sharn
-- Encounter the town of [[Shavalant]]
-	- Potential sidequests: [[Whitehorn Wood]] [[Boromar Gang Members]]
-- **Completion Point:** The party wraps up their business in Shavalant and continues on their journey
+- Encounter at Castle Arakhain (The Lighthouse)
+- **Completion Point:** The party clears the castle and discoveres the clues within
 #### Narrative
 ##### Act 1:
-- Encapsulates the party's journey to Sharn through the wilderness and their discovery of the overarching plots/villains
+- Encapsulates the party's journey to Sharn through the wilderness
+- Important story beats:
+	- Geralt learns the schematics are written in an ancient celestial dialect
+	- The party learns about the Silver Flame's history
+	- 
 - **Completion point:** The party makes it to [[Sharn]] or decides they have a different, more important objective.
 
 

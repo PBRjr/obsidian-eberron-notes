@@ -1,7 +1,7 @@
 ## Stats
 | Level | Experience |
-| --- | --- |
-| 2 | 800 |
+| ----- | ---------- |
+| 3     | 1900       |
 
 ## Bjorn "Bear Wolf" Ulfr
 
