@@ -35,14 +35,14 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 #### Immediate
 - Continue moving towards Sharn
 - Encounter at Castle Arakhain (The Lighthouse)
-- **Completion Point:** The party clears the castle and discoveres the clues within
+- **Completion Point:** The party clears the castle and discovers the clues within
 #### Narrative
 ##### Act 1:
 - Encapsulates the party's journey to Sharn through the wilderness
 - Important story beats:
 	- Geralt learns the schematics are written in an ancient celestial dialect
 	- The party learns about the Silver Flame's history
-	- 
+	- Aeren d'Cannith contacts the party
 - **Completion point:** The party makes it to [[Sharn]] or decides they have a different, more important objective.
 
 
