@@ -7,7 +7,7 @@
 	- Former chieftan
 	- Killed in battle
 - Traust Ulfr
-	- Bjorn & Hrothgar's mother
+	- Bjorn & Hrothgar's mother, clan's oracle
 - Varyn Grayburn
 	- Is actually the last remaining Couatl
 	- AKA "Varyn the Valiant"
@@ -81,9 +81,9 @@
 ## Story Plot Pieces
 - **Themes**:
 	- What makes a person good? 
-	- Better to be born good or overcome evil nature through great struggle?
-	- Most villains aren't purely evil, just have their own justifications.
+	- Most villains aren't purely evil, but have their own justifications.
 	- What does it take to redeem oneself of a great failure? When does one become irredeemable?
+	- If one has only known evil since birth, are they redeemable or can they overcome that nature? 
 
 - **Central Tension**: The Silver Flame is missing, the Lords of Dust are trying to free Rak Tulkesh
 	- ***Plot Secret***: The Mourning was caused by the Silver Flame itself. 
@@ -124,7 +124,7 @@
 		- He knows House Cannith had something to do with the Day of Mourning, and is trying to find out more. (needs development: why does he know something is up?)
 
 **Artifacts**
-- Artifact 1: ***Fractured Khyber Dragonshard & Fragments***
+- Artifact 1: ***Fractured Khyber Dragonshard (FKD) & Fragments***
 	- Their existence was kept a closely guarded secret by Varyn.
 		- Mordakesh and his followers eventually learned of them, and have been hunting them down since.
 		- Varyn was followed when he began searching for them. He found the first fragment, but tipped the LoD off to the others.
@@ -173,8 +173,8 @@
 		- This gave him dark powers, sourced from Rak Tulkesh's consciousness, which is trapped within.
 		- With the whispers of Rak Tulkesh in his head, he seeks to reunite the shard fragments and use the power to unleash the Overlord upon Eberron once again.
 
-	- Mordakesh
-		- Lieutenant to Rak Tulkesh
+	- Mordakhesh
+		- Lieutenant to Rak Tulkhesh
 		- Commands the Lords of Dust & performed ritual on Woe
 		- Has been hunting the Dragonshard fragments for a long time
 			- Ever since Varyn went looking for them
