@@ -2358,25 +2358,156 @@ Sheriff Cromley, a grizzled human, is seen in the Sleepy Owl Inn organizing a se
 
 AKA ***Castle Arakhain***
 ## Concept
-- The Lighthouse is a well-known research facility and FOB for the Church of the Silver Flame. Recently, it came under attack by Lords of Dust Agents, who are on the hunt for the Fragmented Khyber Dragonshard that Baelen carries.
 
-## Description
-> A 1 or 2 paragraph description of the location from the viewpoints of the players, that can be directly read to the players, in the style of Matthew Mercer. Only describe things the players would notice, assuming they don't know anything about the place except for what they would have seen upon initial approach and entrance.
+> [!important]
+> - The Lighthouse is a well-known research facility and FOB for the Church of the Silver Flame. Recently, it came under attack by Lords of Dust Agents, who are on the hunt for the Fragmented Khyber Dragonshard that [[Professor Baelen ir'Torn|Baelen]] carries.
+> - Baelen and the Priest managed to escape through a teleportation circle in the basement.
 
-## Notable Locations
-- Locations or places within this location that are important, along with a short description of each
+## Locations
+
+#### Main Chamber.
+
+> [!tldr]
+> - Grand main hall > tapestries, blood stains and bodies, scorch marks and sulfur smell
+> - Balcony overlook > spiral stairs, raised dais > secret hatch
+> - Long table, large fallen chandelier > broken weapons and armor, old food
+> - Fire places > burnt pig roasts > perpetually burning fire
+> - Kicked in doors > broken improvised barricades > door left to hallway
+> - Stained glass windows > shattered window to garden
+> - Toppled statues > 7 y/o girl
+
+**Tapestries.**
+Tapestry 1: The Birth of the Silver Flame
+
+> The tapestry depicts a great battle, with a brilliant silver flame erupting from the center, pushing back the surrounding darkness. Silhouettes of armed figures stand around the flame, their weapons raised.
+
+Tapestry 2: The Sacrifice of the Couatl
+
+> The tapestry shows serpentine creatures with feathered wings arranged in a circle, silver light emanating from their bodies. A dark, menacing presence looms in the background, shattered by a blinding silver radiance.
+
+Tapestry 3: The Battle Against the Overlords
+
+> The tapestry depicts a chaotic battle scene, with armored figures bearing the Silver Flame emblem on one side and monstrous creatures on the other. A large, shadowy figure with burning eyes looms at the center of the battle.
+
+Tapestry 4: The Sealing of the Overlord
+
+> The tapestry shows a circle of colorful dragons surrounding a large purple crystal with runic symbols on it. In the background, a desolate and war-worn landscape stretches to the horizon.
+
+Tapestry 5: The founding of the Church (Clan Flameforge)
+
+> The tapestry portrays a gathering of robed figures, with a tall woman holding a large sword with a white-hot flaming blade at the center. The other figures kneel around her, hands outstretched. In the background, the foundations of a grand cathedral are being laid.
+
+---
+
+#### Library
+
+> [!tldr]
+> - Medium circular room > 30-40ft
+> - Ransacked and overwhelming chaos > scattered texts & bookshelves > see texts
+> - 3 corpses > Scratch/bite/scorch marks > jewelry
+> - Central desk > Baelens research notes > eberron spell shard (unseen servant) > note
+> - Spiral staircase > more texts > corpse > random loot
+
+###### Baelen's Research Notes.
+*Dragonshard influence on Flora & Fauna*
+
+|       | Siberys                                                     | Eberron                                             | Khyber                          |
+| ----- | ----------------------------------------------------------- | --------------------------------------------------- | ------------------------------- |
+| Flora | Accelerate growth<br>Vibrant colors<br>Minor magical traits | Enhance root depth<br>Enhance stem tensile strength | Pause growth<br>Darkened colors |
+| Fauna | Enhance pre-existing magical traits                         | Enhance social behaviors                            | Enhance isolation behaviors     |
+
+
+###### Texts.
+*"The Chronicles of the Silver Flame"*
+    "In the darkest hour, when all hope seemed lost, the couatls made the ultimate sacrifice. Their essence merged, forming a beacon of pure light - the Silver Flame. Its radiance pierced the darkness, driving back the forces of evil and offering solace to the righteous."
+
+*"On the Ethereal Chains: The Pursuit of Life Beyond Death"*
+	"The quest for immortality often leads down a path shadowed by ethereal chains. Ancient scholars posited the existence of a soul's anchor—a phylactery—yet, warned of its tether to undeath. A new school of thought, however, seeks the dawn beyond this twilight. Imagine an ethereal crucible, not for ensnaring the soul in a cycle of undeath, but as a bastion for the living essence. A vessel, perhaps, that might harbor the spark of life eternal, untainted by necrosis. Such are the whispers of alchemists and arcanists alike, dreaming of a future where life knows no end."
+
+*"~~Khyber's Darkness: A Study of the Draconic Prophecy~~"*
+    "The fragments of ~~Khyber~~, born ~~from the Dragon Below~~, hold untold power. When ~~united~~ they have the potential to unleash great ~~darkness~~ upon the world. The Draconic ~~Prophecy speaks~~ of a time when the fragments shall align, and the forces of ~~shadow~~ will rise once more."
+
+*"The Argent Grimoire: Teachings of the Silver Flame"*
+    "Those who follow the path of the Silver Flame must embody its virtues: courage, sacrifice, and unwavering devotion. Through faith and righteous action, the followers of the Flame become beacons of hope in a world beset by darkness. Their magic, fueled by the Flame's radiance, is a potent weapon against the forces of evil."
+
+*"The Shattered Shard: An Account of the Last War"*
+     "During the Last War, the nations of Khorvaire clashed in a brutal conflict that reshaped the face of the continent. Amidst the chaos, a great cataclysm struck: the Mourning. The once-mighty nation of Cyre was consumed by a mysterious mist, leaving only the blasted wasteland now known as the Mournland. The cause of this tragedy remains unknown, but rumors persist of dark magic and forbidden experiments gone awry."
+
+*"The Annals of House Cannith"*
+    "House Cannith, bearer of the Mark of Making, has long been at the forefront of arcane innovation. Their creations, from the majestic warforged to the convenience of the Everbright lantern, have shaped the course of history.
+
+*"The Flame's Sacrifice: A Martyr's Tale"*
+    "Tira Miron, a paladin of the Silver Flame, faced a terrible choice. To save the world from a great evil, she willingly offered herself as a vessel for the Flame's power. In a blinding flash of radiance, Tira ascended, becoming one with the Silver Flame. Her sacrifice stands as a testament to the depths of devotion and the unyielding spirit of those who serve the Flame."
+
+*"The Mimic: How to Identify a Lurking Threat"*
+	Its a mimic.
+
+---
+
+###### Note.
+> Found this on my way back from mission trip in Wroat. Thought you might find a way to prank Kessik with it. -Olaf
+
+---
+
+#### Lounge & Hallway
+
+> [!tldr]
+> - Small, rubble-covered living area > ceiling/back wall collapse
+> - Table surrounded by chairs and stools > playing cards & candles
+> - Hallway > corpses of mother, child (crush), father > bite marks and black thorn punctures
+> - Stairs downward
+
+---
+
+#### Crew Quarters
+
+> [!tldr]
+> - Cracked and broken stone walls > collapsed some furniture
+> - Beds > backpack under middle bed > Symbol of SF
+> - Barrel of water & mirror > toothpaste spit on floor
+
+---
+
+#### Basement
+
+> [!tldr]
+> - Labyrinthine feel, narrow hallways, dimly lit
+> - Entrances > hallway staircase, secret hatch under dais
+> - Supply room > cobwebs, kegs of ale and crates > hidden corpse of child holding wooden sword
+> - Alter with rectangular divot > text on the wall > see riddle
+> - Secret room > see teleportation circle
+> - Blood-stained cloth jacket on floor > etched-in nameplate "Professor ir'Torn, Dept Head, History"
+
+###### Riddle
+> "In the depths of knowledge, the flame's truth resides. Seek the tomes that bind the light, and the path shall open wide."
+
+Any book that contains information about the Silver Flame may be slotted into the alter. The wall containing that text will then slide open.
+
+###### Teleportation Circle
+- Faded circle carved into the stone ground > draconic runes > destination of Sharn
+- 6 cracked & faded Siberys shards around circle
+
+---
+
 ## Inhabitants
-- List major characters that inhabit this place
-- List what faction(s), governments, or groups have control or are attempting to gain control, if any
+***Enemy Roster.***
+- 2 Imps disguised as beasts following the players around, waiting to strike
+- 1d4 Hell hounds feeding on corpses
+- 1 Doppleganger disguised as a CotSF friar that was away from the castle, and is now trying to find his daughter in the basement. In reality he just wants to get into the secret room.
 
+***Corpses.***
+Guard Drakes?
 ## History
 - This fortress has served as the largest collection of religious histories the CotSF controls. The lighthouse is were their most prestigious scholars and researchers conducted their work, surrounded by books and scrolls.
+
 - Since the Last War, the Lighthouse has also served as a FOB, allowing for early notification of possible invasion from the west into Thrane.
+
 - Ancient texts and recent research can both be found here, though most of it was destroyed in the recent attack.
 ## Hooks
 - X
 ## Secrets
  - Knowing that this was the closest safe house Baelen and his guards could be heading to, they attacked, destroying parts of the fortress.
+
 - The LoD agents attacked the castle shortly after Baelen and his guards arrived. All of the knights perished, Baelen and the Priest being the only two that escaped, via a teleportation circle to Sharn, which was cut off from the other side once they used it.
 
 ## Other notes
@@ -2386,6 +2517,197 @@ AKA ***Castle Arakhain***
 
 
 
+
+## The lighthouse layout for sketching
+
+
+## Locations
+
+### Main hall
+Layout:
+
+- The main hall is a large, rectangular room, approximately 60 feet long and 40 feet wide.
+- The entrance to the main hall is a set of grand double doors, now splintered and hanging off their hinges.
+- The walls are lined with tall, arched windows, some of which are shattered, allowing light to filter through.
+- A raised dais at the far end of the room once held the thrones of the castle's leaders, but they now lie overturned and broken.
+- Two large fireplaces are built into the side walls, their mantels cracked and scorched.
+- A balcony overlooks the main hall from the second floor, accessible via a grand staircase on either side of the dais.
+- Several doors lead off from the main hall to other parts of the castle, such as the library, chapel, and private quarters.
+
+Contents:
+
+1. Tapestries:
+    - The four tapestries depicting the history of the Church of the Silver Flame hang along the walls, some torn and burned.
+    - Remnants of other decorative banners and flags lie scattered on the floor.
+2. Debris:
+    - Overturned tables and broken chairs are strewn across the room, evidence of the chaotic battle that took place.
+    - Shattered glass from the windows covers parts of the floor.
+    - Chunks of masonry from damaged walls and columns are scattered throughout the hall.
+3. Weapons and Armor:
+    - Broken swords, shields, and other weapons lie abandoned on the floor, some bearing the insignia of the Church of the Silver Flame or the LoD.
+    - A few pieces of damaged armor, such as dented breastplates or cracked helmets, can be found among the debris.
+4. Fallen Chandelier:
+    - A large, ornate chandelier that once hung from the center of the ceiling now lies shattered on the floor, its crystals and metal framework scattered across the marble.
+5. Makeshift Barricades:
+    - Hastily constructed barricades made from overturned furniture and broken masonry suggest that the defenders made a last stand in the main hall.
+6. Blood Stains and Scorch Marks:
+    - Dark stains on the floor and walls hint at the violence that occurred during the battle.
+    - Scorch marks from magical attacks or fire damage mar the stones and furniture.
+7. Statue Fragments:
+    - The remains of shattered statues that once adorned the hall lie scattered about, their forms no longer recognizable.
+8. Remnants of Magic:
+    - Faint, lingering traces of magical energy can be sensed in certain areas, hinting at the powerful spells that were cast during the conflict.
+    - A few spent spell components or shattered magical focuses might be found among the debris.
+
+
+### Library
+Layout:
+
+- The library is a large, circular room, approximately 50 feet in diameter.
+- The room is dominated by towering bookcases that line the walls, reaching up to the high, domed ceiling.
+- A second level of bookshelves is accessible via a narrow, spiral staircase in the center of the room.
+- The floor is made of polished wood, now scuffed and scratched from the battle and subsequent looting.
+- A large, ornate desk sits near the center of the room, serving as a focal point for research and study.
+- Several smaller reading nooks and study areas are arranged around the perimeter of the room, each with a small desk and chair.
+- Tall, stained glass windows depict scenes related to knowledge, magic, and the Silver Flame, some now shattered or cracked.
+
+Contents:
+
+1. Bookshelves:
+    - The shelves are filled with a vast array of books, scrolls, and tomes covering various subjects, including history, magic, religion, and the occult.
+    - Many of the shelves have been toppled or emptied, their contents scattered across the floor.
+    - Some of the books appear to be ancient and valuable, while others are more common texts.
+2. Central Desk:
+    - The large desk is covered in scattered papers, open books, and broken ink bottles.
+    - Partially burned notes and diagrams hint at the research Professor Baelen ir'Torn was conducting before the attack.
+    - A few silvery dragonshard fragments can be found among the debris on the desk.
+3. Reading Nooks:
+    - The smaller study areas contain overturned chairs and damaged desks.
+    - Discarded notes and personal belongings of the researchers who once used these spaces can be found scattered about.
+4. Fallen Shelves:
+    - Several bookcases have been knocked over, creating haphazard piles of books and debris on the floor.
+    - Characters may need to navigate around or climb over these obstacles to access certain parts of the library.
+5. Shattered Windows:
+    - The stained glass windows have been damaged during the attack, allowing shards of colored glass to litter the floor.
+    - The broken windows also allow for eerie lighting to filter into the room, casting strange shadows and illuminating the dust motes in the air.
+6. Arcane Apparatus:
+    - Various arcane tools and instruments, such as telescopes, astrolabes, and scrying mirrors, can be found scattered throughout the library.
+    - Some of these items may still be intact and usable, while others are broken or damaged.
+7. Hidden Compartments:
+    - Characters with keen perception may notice cleverly concealed compartments within the bookshelves or floor, potentially containing additional clues or valuable items.
+8. Magical Wards:
+    - Remnants of protective magical wards can be found etched into the walls or floor, now weakened or broken by the attack.
+    - These wards hint at the importance and sensitivity of the knowledge once contained within the library.
+
+### Research Labs
+Layout:
+
+- The research labs are located in a large, rectangular room adjacent to the library.
+- The room is divided into several smaller sections, each dedicated to a specific area of study or experimentation.
+- Workbenches and tables are arranged throughout the room, with various alchemical and arcane apparatus set up on them.
+- The room has suffered significant damage, with a portion of the ceiling having collapsed, blocking off a section of the labs.
+- Debris from the caved-in ceiling litters the floor, making navigation through the room challenging.
+
+Contents:
+
+1. Alchemical Equipment:
+    - Beakers, alembics, and other glassware used for alchemical experiments can be found on the workbenches, many of them broken or overturned.
+    - Remnants of alchemical substances, both mundane and magical, are spilled across the tables and floor.
+2. Arcane Artifacts:
+    - *Siberys Dragonshard*
+    - Some of these artifacts appear to have been the focus of intense study, with accompanying notes and diagrams nearby.
+3. Partially Collapsed Section:
+    - The caved-in portion of the room is filled with rubble, broken beams, and shattered masonry.
+    - Characters may be able to catch glimpses of additional workstations or storage areas beyond the collapse, but accessing them would require significant effort or magic.
+4. Damaged Experiments:
+    - Evidence of ongoing experiments can be found in the form of shattered glass, spilled potions, and scorched or frozen surfaces.
+    - Some of these experiments may have been volatile or dangerous, adding an element of risk to exploring the area.
+5. Professor's Workstation:
+    - A specific workbench or desk can be identified as Professor Baelen ir'Torn's personal workstation.
+    - Scattered notes, diagrams, and research materials related to the Khyber dragonshard fragments can be found here, providing clues to the professor's work.
+
+Layout:
+
+- The chapel is a modest, rectangular room with a high, vaulted ceiling.
+- An altar dedicated to the Silver Flame stands at the far end of the room, with a large, ornate symbol of the flame carved into the wall above it.
+- Rows of wooden pews line either side of a central aisle leading up to the altar.
+- Stained glass windows depicting scenes of the Silver Flame and its champions line the walls, some now shattered.
+
+Contents:
+
+1. Altar:
+    - The altar is made of white marble, with intricate carvings and silver inlays.
+    - A silver chalice, now tarnished and overturned, rests on the altar.
+    - Remnants of burnt offerings and scattered prayer beads can be found around the altar.
+2. Shattered Pews:
+    - Several of the wooden pews have been splintered and broken, likely used as makeshift weapons or barricades during the battle.
+    - Torn prayer books and hymnal pages are scattered among the debris.
+3. Defaced Symbols:
+    - The symbol of the Silver Flame and other religious iconography in the chapel show signs of deliberate defacement, with scratch marks or scorch marks marring their surfaces.
+    - This desecration suggests a targeted attack on the beliefs and practices of the Church of the Silver Flame.
+4. Hidden Reliquary:
+    - A small, concealed compartment behind the altar may contain a reliquary or sacred texts related to the Silver Flame.
+    - These items could provide additional insight into the church's history or the significance of the castle.
+5. Prayer Alcoves:
+    - Small alcoves along the side walls contain prayer candles, offering bowls, and other religious paraphernalia.
+    - Some of these alcoves may have been used as impromptu shelters during the attack, with signs of hastily erected barricades or personal belongings left behind.
+
+### Basement Level
+Layout:
+
+- The basement level is a series of interconnected rooms and corridors, with a more labyrinthine layout compared to the upper floors.
+- The main staircase from the ground floor leads down to a central hub area in the basement.
+- Several passages branch off from the hub, leading to various storage rooms, archives, and the hidden chamber.
+- The basement level has a lower ceiling and a more claustrophobic feel, with narrow passages and tight corners.
+- Some sections of the basement have suffered structural damage, with cracked walls and partially collapsed ceilings.
+
+Access Points:
+
+1. Main Staircase:
+    - The primary access to the basement level is through the main staircase from the ground floor.
+    - The staircase is made of stone and descends into the central hub area.
+2. Secret Passage:
+    - A secret passage can be found behind a movable bookshelf in the library on the ground floor.
+    - This passage leads to a narrow tunnel that connects to one of the storage rooms in the basement.
+    - Characters may discover this passage through careful investigation or by accidentally triggering the mechanism.
+3. Collapsed Floor:
+    - In one of the damaged sections of the ground floor, a portion of the floor has collapsed, revealing a hole that drops into a basement corridor.
+    - This access point may require characters to navigate the debris and make a controlled descent into the basement level.
+
+Hidden Chamber and Puzzle:
+
+1. Locked Door:
+    - The entrance to the hidden chamber is a solid, reinforced door with intricate carvings and a complex locking mechanism.
+    - The door bears the symbol of the Silver Flame, along with a riddle or puzzle that must be solved to unlock it.
+2. Riddle:
+    - The riddle on the door reads: "In the depths of knowledge, the flame's truth resides. Seek the tomes that bind the light, and the path shall open wide."
+    - The solution to the riddle involves locating specific books within the library that contain information about the Silver Flame and arranging them in a particular order on a nearby shelf.
+    - When the correct books are placed in the right sequence, the door to the hidden chamber will unlock.
+3. Secondary Access:
+    - In case the characters are unable to solve the riddle, a secondary access point can be found within one of the storage rooms.
+    - A hidden trapdoor beneath a stack of crates leads to a narrow, winding passage that connects to the hidden chamber.
+    - This secondary access may require characters to navigate tight spaces or overcome additional challenges, such as traps or guardian constructs.
+4. Teleportation Circle Chamber:
+    - The hidden chamber itself is a circular room with a domed ceiling, similar in design to the library above.
+    - The teleportation circle is embedded into the floor at the center of the room, with intricate runic patterns and arcane sigils carved into the stone.
+    - Various magical apparatus and focusing crystals are arranged around the circle, used to power and stabilize the teleportation magic.
+    - A control pedestal or lectern nearby may contain additional clues or instructions for activating the teleportation circle.
+
+## Needs Development
+**Information and Foreshadowing:**
+
+- **Baelen and the Priest:** Leave clear evidence that Baelen and the priest escaped the Lighthouse, such as a partially destroyed teleportation circle or a note mentioning their destination. This will pique the players' curiosity and potentially set them on a path to follow Baelen's trail.
+
+- **Lords of Dust:** While the players may not learn the specific name "Lords of Dust" at this point, they should encounter clear signs that the attackers were demonic or fiendish in nature. This can be achieved through descriptions of the creatures, remnants of their magic, or even unsettling murals or symbols left behind.
+
+- **Church of the Silver Flame:** Emphasize the religious nature of the Lighthouse and the Church's devotion to the Silver Flame. This can be done through religious iconography, murals depicting the Church's history and battles against evil, and even surviving texts or scrolls that detail their beliefs and practices.
+
+
+**Connecting Plot Points:**
+
+- **Origin of the fragment Baelen carries:** The party may find information concerning how the Silver Flame obtained information on the location of the fragment originally, and how they contacted Baelen as a topic expert on Dragonshards and ancient history.
+- **Baelen's research on the fragment:** Maybe the players find a report detailing the fragment's effects on various plants and animals that Baelen has been doing experiments on using the fragment. 
+- **Lichdom & Phylacteries:** The players might discover a partially destroyed text about Lichdom and phylacteries. In particular, this research discusses how the study of phylacteries may lead to innovation in eliminating mortality without resorting to undeath.
 
 
 ## Underdark
@@ -2467,12 +2789,15 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 ### Current
 #### Immediate
 - Continue moving towards Sharn
-- Encounter the town of [[Shavalant]]
-	- Potential sidequests: [[Whitehorn Wood]] [[Boromar Gang Members]]
-- **Completion Point:** The party wraps up their business in Shavalant and continues on their journey
+- Encounter at Castle Arakhain (The Lighthouse)
+- **Completion Point:** The party clears the castle and discovers the clues within
 #### Narrative
 ##### Act 1:
-- Encapsulates the party's journey to Sharn through the wilderness and their discovery of the overarching plots/villains
+- Encapsulates the party's journey to Sharn through the wilderness
+- Important story beats:
+	- Geralt learns the schematics are written in an ancient celestial dialect
+	- The party learns about the Silver Flame's history
+	- Aeren d'Cannith contacts the party
 - **Completion point:** The party makes it to [[Sharn]] or decides they have a different, more important objective.
 
 
@@ -2499,7 +2824,7 @@ How did Aeren learn House Cannith may have been involved in the Day of Mourning?
 	- Former chieftan
 	- Killed in battle
 - Traust Ulfr
-	- Bjorn & Hrothgar's mother
+	- Bjorn & Hrothgar's mother, clan's oracle
 - Varyn Grayburn
 	- Is actually the last remaining Couatl
 	- AKA "Varyn the Valiant"
@@ -2573,9 +2898,9 @@ How did Aeren learn House Cannith may have been involved in the Day of Mourning?
 ## Story Plot Pieces
 - **Themes**:
 	- What makes a person good? 
-	- Better to be born good or overcome evil nature through great struggle?
-	- Most villains aren't purely evil, just have their own justifications.
+	- Most villains aren't purely evil, but have their own justifications.
 	- What does it take to redeem oneself of a great failure? When does one become irredeemable?
+	- If one has only known evil since birth, are they redeemable or can they overcome that nature? 
 
 - **Central Tension**: The Silver Flame is missing, the Lords of Dust are trying to free Rak Tulkesh
 	- ***Plot Secret***: The Mourning was caused by the Silver Flame itself. 
@@ -2616,7 +2941,7 @@ How did Aeren learn House Cannith may have been involved in the Day of Mourning?
 		- He knows House Cannith had something to do with the Day of Mourning, and is trying to find out more. (needs development: why does he know something is up?)
 
 **Artifacts**
-- Artifact 1: ***Fractured Khyber Dragonshard & Fragments***
+- Artifact 1: ***Fractured Khyber Dragonshard (FKD) & Fragments***
 	- Their existence was kept a closely guarded secret by Varyn.
 		- Mordakesh and his followers eventually learned of them, and have been hunting them down since.
 		- Varyn was followed when he began searching for them. He found the first fragment, but tipped the LoD off to the others.
@@ -2665,8 +2990,8 @@ How did Aeren learn House Cannith may have been involved in the Day of Mourning?
 		- This gave him dark powers, sourced from Rak Tulkesh's consciousness, which is trapped within.
 		- With the whispers of Rak Tulkesh in his head, he seeks to reunite the shard fragments and use the power to unleash the Overlord upon Eberron once again.
 
-	- Mordakesh
-		- Lieutenant to Rak Tulkesh
+	- Mordakhesh
+		- Lieutenant to Rak Tulkhesh
 		- Commands the Lords of Dust & performed ritual on Woe
 		- Has been hunting the Dragonshard fragments for a long time
 			- Ever since Varyn went looking for them
@@ -3549,13 +3874,14 @@ Session Start
 - Allow PCs to explore skirmish site and find the holy sword.
 - Nearby agents watch the party at night, avoid encounter until they get close to the Lighthouse
 
-Moment 1: Arrival at the Lighthouse
-- Encounter 1: 
-	- A shape-shifting LoD agent poses as a child in distress, trying to find their grandpa Baelen ir'Torn
-	- The agents will attack and ambush the party
+Moment 1: *Skirmish Remains CotSF vs. LoD
+- Professor Baelen ir'Torn and his detail of 6 Knights Templar and a Priest were ambushed by LoD agents, including hellhounds, magma memphits, and imps. All LoD agents died, and one Knight died and was buried nearby.
 
-Moment 2: *Name*
-- X
+Moment 2: *Arrival at the Lighthouse*
+- The party discovers a cracked and broken castle, its walls beginning to crumble and its doors kicked down. They may decide to investigate.
+
+Moment 3: *Investigation of the Lighthouse
+- [[The Lighthouse]]
 
 Encounter 1: *Name*
 - X
@@ -3570,8 +3896,14 @@ Session End
 
 ### Location Details
 
-Place 1: *Name*
-- X (brief and relevant to the session)
+Place 1: *CotSF vs. LoD skirmish*
+- The party encounters a scene of *upturned earth, scatter leaves, and broken branches*. A tree lays along the side of the road, shallow paths dragged through the dirt indicate this tree once blocked the road, then was moved out of the way.
+- Describe an odor of *sulfur & rot* as a reoccurring sign for the minions of the LoD.
+- **Signs pointing to agents:** scorched paw prints, tufts of burnt black fur (*hellhounds*) | claw markings in rock, small black barbs embedded in trees (*imps*) | cooled, hardened lava splatters (*magma memphites*). Small piles of ash scatter the area.
+- A perception check reveals flattened grass from a recently walked bath down to a small rocky creek bed that has dried up. A recent grave covered in smooth stones can be easily spotted.
+- The grave contains the remains of a recently killed Knight Templar, body draped in a white canvas cloth.
+	- He is buried along with a pendant of the Silver Flame and his issued sword, "Holy Silver".
+	- ***Holy Silver.*** + 1 silvered longsword. Attacks count as magical. Looks like it was build for function. Blade and handle are impeccably polished, the handle made of a white marble and sanded smooth.*
 
 Place 2: *Name*
 - X
@@ -3579,22 +3911,25 @@ Place 2: *Name*
 (continue as needed)
 ### People
 
-Person 1:
-- X (information relevant to session)
+Person 1: *Rick (doppelganger)*
+- Rick is a persona played by the doppelganger leader of a small LoD agent squad.
+- He will pose as an old fragile man that returned from a small walk and needs help looking for his young daughter, who he thinks is in the basement.
+- The skeleton crew that was left behind after the LoD attacked the Lighthouse and killed those within. This skeleton crew's purpose is to ransack the remains in search of valuables or clues pointing to Professor Baelen's location.
 *Plot Information*
 - X (information relevant to overall plot)
 
-Person 2:
-- X
+Person 2: *Professor Baelen ir'Torn*
+- Made it to the Lighthouse a day before the attack and rested overnight.
+- Awoke to the attack and escaped with the priest via the teleportation circle in the basement.
 *Plot Information*
-- X 
+- Is now at his office at Morgrave University, accompanied by the Priest, and is about to begin conducting research into the Fractured Khyber Dragonshard
 
 (continue as needed)
 ### Plot Actions
 
-Action 1: *Name of significant NPC(s) or organization(s) involved*
-- Goal: X (immediate goal of involved person/org)
-- X (what that person/org is doing to accomplish that goal, assuming PCs don't interfere)
+Action 1: Aeren d'Cannith learns of Geralt's heritage.
+- Goal: Learn more about Geralt, his parents, and the schematics.
+- Actions: Start asking contacts about schematics and wait for party's arrival.
 
 Action 2: *Name of significant NPC(s) or organization(s) involved*
 - Goal: X
@@ -3610,13 +3945,13 @@ Exposition - book and scroll passages found inside the Lighthouse:
 - Scroll 1 (a few firsthand accounts of the day of mourning from Cyran refugees)
 	- Passage
 
-# The Party
+## The Party
 
 
 ## Stats
 | Level | Experience |
-| --- | --- |
-| 2 | 800 |
+| ----- | ---------- |
+| 3     | 1900       |
 
 ## Bjorn "Bear Wolf" Ulfr
 
