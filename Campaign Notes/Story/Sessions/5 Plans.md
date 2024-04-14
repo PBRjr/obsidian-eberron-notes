@@ -21,14 +21,6 @@ Moment 2: *Arrival at the Lighthouse*
 Moment 3: *Investigation of the Lighthouse
 - [[The Lighthouse]]
 
-Encounter 1: *Name*
-- X
-
-Encounter 2: *Name*
-- X
-
-(continue as needed, may nest encounters inside moments)
-
 Session End
 - (possible cliffhanger)
 
@@ -61,8 +53,6 @@ Person 2: *Professor Baelen ir'Torn*
 - Awoke to the attack and escaped with the priest via the teleportation circle in the basement.
 *Plot Information*
 - Is now at his office at Morgrave University, accompanied by the Priest, and is about to begin conducting research into the Fractured Khyber Dragonshard
-
-(continue as needed)
 ### Plot Actions
 
 Action 1: *Aeren d'Cannith learns of Geralt's heritage.*
@@ -70,15 +60,7 @@ Action 1: *Aeren d'Cannith learns of Geralt's heritage.*
 - Actions: Start asking contacts about schematics and wait for party's arrival.
 
 Action 2: *Baelen ir'Torn and the Priest make it to Sharn.*
-- Goal: 
-- X
-
-(continue as needed)
+- Goal: Begin a deeper study on they FKD and discover its origins
+- Actions: Travel through the city safely and make it to Morgrave University.
 ### Additional Notes
-Exposition - book and scroll passages found inside the Lighthouse:
-- Book 1 (something relating to how Liches work, introducing the concept of phylacteries)
-	- Passage
-- Book 2 (vague history about the origin of the Silver Flame)
-	- Passage 
-- Scroll 1 (a few firsthand accounts of the day of mourning from Cyran refugees)
-	- Passage
+- X
