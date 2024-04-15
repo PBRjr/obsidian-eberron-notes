@@ -4,15 +4,9 @@
 | 3     | 1900       |
 
 ## Bjorn "Bear Wolf" Ulfr
-
-### Hooks to remember
-- [[Woe]] will try to turn Bjorn.
-- His brother became drowned by greed due to the presence Rak Tulkesh demi-plane near the mountains?
-- Traveling to Sharn for a lead on his brother?
 ### Race/Class/Alignment
 - Goliath Barbarian
 - Lawful Neutral
-
 ### Background
 - Soldier
 - Was the Chieftain of the Stormpeak clan in the Graywall Mountains of Droaam
@@ -29,36 +23,7 @@ One fateful night, Hrothgar betrayed his brother, orchestrating a coup against B
 With the betrayal still fresh in his heart, Bjorn-Ulfr embarked on a path of self-discovery and redemption. He channeled his anger, pain, and loss into becoming an even more formidable warrior, delving into the ways of the barbarian to hone his rage. As he roamed the wild, he formed new alliances and built a following of loyal outcasts and like-minded individuals who sought justice and vengeance against the treacherous Hrothgar.
 
 Bjorn-Ulfr's ultimate goal became to confront his brother and restore the rightful order within the Stormpeak Clan. The memory of the betrayal fueled his determination to bring Hrothgar to justice, not only for his own sake but to reclaim the honor and legacy of their people. Under Bjorn-Ulfr's leadership, his ragtag group of followers would stop at nothing to right the wrongs committed by his own flesh and blood and restore his place as the true chieftain of the Stormpeak Clan.
-
-## Sylas Stormshadow (deceased)
-
-### Hooks to Remember
-- His pact with 'The Traveler' was actually made with some other eldritch being? 
-- Sul Khatesh?
-### Race & Class
-- Half-Elf Warlock
-- Chaotic Neutral
-### Background
-- Sage
-- Born in the Sharn Underground to an Elvish scholar father and Human merchant mother
-- Warlock of the Traveler
-### Backstory
-Sylas Stormshadow, the enigmatic half-elf warlock of chaotic neutral alignment, has a backstory filled with mystery and the enigmatic presence of the Traveler.
-
-Born to a human mother and an elven father, Sylas's life was marked by a turbulent blend of cultures and a thirst for power. Here is his revised backstory:
-
-Sylas was born in the bustling coastal city of Sharn, where humans and elves coexisted in an uneasy alliance. His father, a reclusive elven scholar, had a fascination with forbidden knowledge and the enigmatic aspects of magic. Sylas's mother was a human merchant who embraced the chaos of the city's underbelly. From her, Sylas learned his first taste of anarchy and rebellion.
-
-From an early age, Sylas displayed an insatiable curiosity for the arcane, an unquenchable thirst for power, and an innate ability to bend others to his will. Though concerned about his son's choices, his father could not deny the potential within him and reluctantly taught Sylas the basics of eldritch magic. Sylas quickly surpassed his father's teachings and delved into darker tomes and rituals, seeking the forbidden secrets that eldritch beings held.
-
-One fateful night, during an illicit ritual deep in the city's labyrinthine sewers, Sylas made a pact with the mysterious and enigmatic Traveler. The Traveler granted Sylas otherworldly powers in exchange for his servitude and adherence to its unpredictable whims. Its motives were always veiled in mystery, and its presence brought chaos and intrigue to Sylas's life.
-
-The Traveler's influence transformed Sylas into a warlock with the power to manipulate time, reality, and fate. But in return, the Traveler would randomly manifest its presence, whisking Sylas away to alternate realities and planes, often leaving him to navigate unforeseen challenges.
-
 ## Draven Flameforge
-
-### Hooks to Remember
-- Tempt to join the Church of the Silver Flame
 ### Race & Class
 - Blue Dragonborn Paladin
 - Lawful Good
@@ -90,3 +55,24 @@ Overall, Draven Flameforge is an unwavering champion of justice and protector of
 - Connected to nature, likes to protect it
 - Beast master ranger
 - Outlander background
+
+## (deceased) Sylas Stormshadow
+### Race & Class
+- Half-Elf Warlock
+- Chaotic Neutral
+### Background
+- Sage
+- Born in the Sharn Underground to an Elvish scholar father and Human merchant mother
+- Warlock of the Traveler
+### Backstory
+Sylas Stormshadow, the enigmatic half-elf warlock of chaotic neutral alignment, has a backstory filled with mystery and the enigmatic presence of the Traveler.
+
+Born to a human mother and an elven father, Sylas's life was marked by a turbulent blend of cultures and a thirst for power. Here is his revised backstory:
+
+Sylas was born in the bustling coastal city of Sharn, where humans and elves coexisted in an uneasy alliance. His father, a reclusive elven scholar, had a fascination with forbidden knowledge and the enigmatic aspects of magic. Sylas's mother was a human merchant who embraced the chaos of the city's underbelly. From her, Sylas learned his first taste of anarchy and rebellion.
+
+From an early age, Sylas displayed an insatiable curiosity for the arcane, an unquenchable thirst for power, and an innate ability to bend others to his will. Though concerned about his son's choices, his father could not deny the potential within him and reluctantly taught Sylas the basics of eldritch magic. Sylas quickly surpassed his father's teachings and delved into darker tomes and rituals, seeking the forbidden secrets that eldritch beings held.
+
+One fateful night, during an illicit ritual deep in the city's labyrinthine sewers, Sylas made a pact with the mysterious and enigmatic Traveler. The Traveler granted Sylas otherworldly powers in exchange for his servitude and adherence to its unpredictable whims. Its motives were always veiled in mystery, and its presence brought chaos and intrigue to Sylas's life.
+
+The Traveler's influence transformed Sylas into a warlock with the power to manipulate time, reality, and fate. But in return, the Traveler would randomly manifest its presence, whisking Sylas away to alternate realities and planes, often leaving him to navigate unforeseen challenges.
