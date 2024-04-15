@@ -55,7 +55,6 @@ Overall, Draven Flameforge is an unwavering champion of justice and protector of
 - Connected to nature, likes to protect it
 - Beast master ranger
 - Outlander background
-
 ## (deceased) Sylas Stormshadow
 ### Race & Class
 - Half-Elf Warlock
