@@ -35,7 +35,7 @@ Place 1: *CotSF vs. LoD skirmish*
 	- He is buried along with a pendant of the Silver Flame and his issued sword, "Holy Silver".
 	- ***Holy Silver.*** + 1 silvered longsword. Attacks count as magical. Looks like it was build for function. Blade and handle are impeccably polished, the handle made of a white marble and sanded smooth.*
 
-Place 2: *Name*
+Place 2: *The Lighthouse*
 - X
 
 (continue as needed)
