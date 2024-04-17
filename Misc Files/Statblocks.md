@@ -11,7 +11,7 @@ References
 	- [[#Kobolds#Brains (Kobolt Dragonshield)|Brains (Kobolt Dragonshield)]]
 	- [[#Kobolds#Kobold Scale Sorcerer|Kobold Scale Sorcerer]]
 	- [[#Kobolds#Kobold|Kobold]]
-- [[#Misc Humanoids|Misc Humanoids]]
+- [[#Humanoids|Humanoids]]
 	- [[#Misc Humanoids#Veteran|Veteran]]
 	- [[#Misc Humanoids#Commoner|Commoner]]
 	- [[#Misc Humanoids#Bandit (Increased Diff)|Bandit (Increased Diff)]]
@@ -355,7 +355,7 @@ _**Dagger.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:
 
 _**Sling.** Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage.
 
-## Misc Humanoids
+## Humanoids
 ### Veteran
 Medium Humanoid (Any Race), Any Alignment
 
