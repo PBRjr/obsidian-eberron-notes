@@ -105,7 +105,6 @@ Proficiency Bonus +2
 
 **Hellish Bite (Group Attack).** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 3 fire damage, and if the target isn't a hellhound and the attack was made by more than one cur, the target must make a Dexterity saving throw with a DC equal to 10 plus the number of curs who joined the attack. On a failed save, the target is lit on fire and must make a save at the end of each of their turns (save ends at end of turn), or until the target or another creature who can reach them uses an action to extinguish the flames. A creature who is on fire at the start of their turn takes fire damage equal to the number of curs who joined the attack. If a creature who is already on fire is set on fire again on a subsequent turn, the damage isn’t cumulative, but the duration of the fire resets to 1 minute.
 ### Hellhound (CR 1)
-
 Medium fiend, lawful evil
 
 Armor Class 13 (natural armor)
@@ -139,6 +138,45 @@ _Actions_
 **Bite**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 2) piercing damage plus 3 (1d6) fire damage.
 
 **Fire Breath (Recharge 6)**: The hell hound exhales fire in a 10-foot cone. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
+
+### Grilp
+Tiny Fiend (Devil), Typically Lawful Evil
+
+Armor Class 13 (natural armor)
+
+Hit Points 10 (3d4 + 3)
+
+Speed 30 ft., fly 30 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|6 (-2)|14 (+2)|12 (+1)|10 (0)|12 (+1)|11 (0)|
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+Skills Stealth +6, Perception +3
+
+Damage Immunities fire, necrotic
+
+Senses darkvision 60 ft., passive Perception 13
+
+Languages Goblin, Infernal
+
+Proficiency Bonus +2
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Shifting Camouflage.** The grilp has advantage on Dexterity (Stealth) checks and can hide from creatures who are observing them.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_Actions_
+
+**Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage, and if the target is a creature, they must succeed on a DC 11 Constitution saving throw or gain vulnerability to fire and necrotic damage until the start of the grilp's next turn.
+
+**Necrotic Mote.** Ranged Spell Attack: +3 to hit, range 30 ft., one target. Hit: 3 (1d6) necrotic damage.
 
 ### Imp
 
