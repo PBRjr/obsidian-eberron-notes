@@ -2,7 +2,10 @@
 ---
 References
 - [[#Fiends|Fiends]]
-	- [[#Fiends#Hell Hound (CR 1)|Hell Hound (CR 1)]]
+	- [[#Fiends#Hellhound|Hellhound]]
+	- [[#Fiends#Hellhound Cur|Hellhound Cur]]
+	- [[#Fiends#Hellhound (CR 1)|Hellhound (CR 1)]]
+	- [[#Fiends#Grilp|Grilp]]
 	- [[#Fiends#Imp|Imp]]
 - [[#Kobolds|Kobolds]]
 	- [[#Kobolds#Brains (Kobolt Dragonshield)|Brains (Kobolt Dragonshield)]]
@@ -21,6 +24,7 @@ References
 	- [[#Monstrosities#Mimic|Mimic]]
 - [[#Structures|Structures]]
 	- [[#Structures#Balista|Balista]]
+
 
 ---
 
