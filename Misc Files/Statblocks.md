@@ -26,7 +26,6 @@ References
 
 ## Fiends
 ### Hellhound
-## HELLHOUND
 
 Medium Fiend, typically Neutral Evil
 
@@ -59,6 +58,7 @@ Challenge 3 (700 XP)
 **Keen Smell.** The hellhound has advantage on Wisdom (Survival) checks to track other creatures and on Dexterity (Stealth) checks to hide from creatures who are unaware of their presence.
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
 *Actions*
 
 **Hellish Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 4 (1d8) fire damage.
@@ -66,6 +66,44 @@ Challenge 3 (700 XP)
 **Hellfire Breath (Recharge 5–6).** The hellhound exhales flame in a 15-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw, taking 14 (3d6 + 4) fire damage on a failed save, or half as much damage on a successful one. A creature that isn't a hellhound who fails the saving throw is also on fire for 1 minute (save ends at end of turn), or until the target or another creature who can reach them uses an action to extinguish the flames. A creature who is on fire at the start of their turn takes 7 (2d6) fire damage. If a creature who is already on fire is set on fire again on a subsequent turn, the damage isn't cumulative, but the duration of the fire resets to 1 minute.
 
 **Pack Tactics.** When an enemy within 5 feet of the hellhound hits the hellhound with a melee attack, the hound can make a Hellish Bite attack against that enemy. If the hound's attack hits, the enemy is also grappled (escape DC 12), and if the triggering attack was a weapon attack, the weapon used in the triggering attack can't be used to make any more attacks while the target is grappled. The grapple ends if the hound attacks a different target with Hellish Bite.
+
+### Hellhound Cur
+
+Small Fiend, Typically Neutral Evil
+
+Armor Class 15 (natural armor)
+
+Hit Points 10
+
+Speed 30 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 14 (+2) | 17 (+3) | 19 (+4) | 11 (0) | 8 (-1) | 10 (0) |
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+Damage Immunities fire
+
+Senses darkvision 60 ft., passive Perception 9
+
+Languages understands Common and Infernal but can't speak
+
+Proficiency Bonus +2
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Crossfire.** If a creature starts their turn within 10 feet of two or more curs, that creature takes 4 fire damage.
+
+**Minion.** If the cur takes damage from an attack or as the result of a failed saving throw, their hit points are reduced to 0. If the cur takes damage from another effect, they die if the damage equals or exceeds their hit point maximum; otherwise they take no damage.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+*Actions*
+
+**Hellish Bite (Group Attack).** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 3 fire damage, and if the target isn't a hellhound and the attack was made by more than one cur, the target must make a Dexterity saving throw with a DC equal to 10 plus the number of curs who joined the attack. On a failed save, the target is lit on fire and must make a save at the end of each of their turns (save ends at end of turn), or until the target or another creature who can reach them uses an action to extinguish the flames. A creature who is on fire at the start of their turn takes fire damage equal to the number of curs who joined the attack. If a creature who is already on fire is set on fire again on a subsequent turn, the damage isn’t cumulative, but the duration of the fire resets to 1 minute.
 ### Hellhound (CR 1)
 
 Medium fiend, lawful evil
