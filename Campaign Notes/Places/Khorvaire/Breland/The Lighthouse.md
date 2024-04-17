@@ -133,7 +133,7 @@ Any book that contains information about the Silver Flame may be slotted into th
 
 ## Inhabitants
 ***Enemy Roster.***
-- 2 Imps disguised as beasts following the players around, waiting to strike
+- 1d6 Grilps (FM 154)
 - 1 Hellhound (FM 144)
 - 1d4 Hellhound Curs (FM 145)
 - 1 Doppleganger disguised as a CotSF friar that was away from the castle, and is now trying to find his daughter in the basement. In reality he just wants to get into the secret room.
