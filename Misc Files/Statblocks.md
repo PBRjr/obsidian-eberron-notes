@@ -26,7 +26,6 @@ References
 
 ## Fiends
 ### Hellhound
-
 Medium Fiend, typically Neutral Evil
 
 Armor Class 15 (natural armor; 18 with Hardened by Flame)
