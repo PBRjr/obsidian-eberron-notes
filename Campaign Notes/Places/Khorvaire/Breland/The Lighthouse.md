@@ -18,7 +18,7 @@ AKA ***Castle Arakhain***
 > - Stained glass windows > shattered window to garden
 > - Toppled statues > 7 y/o girl
 
-**Tapestries.**
+###### Tapestries.
 Tapestry 1: The Birth of the Silver Flame
 
 > The tapestry depicts a great battle, with a brilliant silver flame erupting from the center, pushing back the surrounding darkness. Silhouettes of armed figures stand around the flame, their weapons raised.
@@ -37,7 +37,7 @@ Tapestry 4: The Sealing of the Overlord
 
 Tapestry 5: The founding of the Church (Clan Flameforge)
 
-> The tapestry portrays a gathering of robed figures, with a tall woman holding a large sword with a white-hot flaming blade at the center. The other figures kneel around her, hands outstretched. In the background, the foundations of a grand cathedral are being laid.
+> The tapestry portrays a gathering of robed figures, with a tall man holding a large sword with a white-hot flaming blade at the center. The other figures kneel around her, hands outstretched. In the background, the foundations of a grand cathedral are being laid.
 
 ---
 
