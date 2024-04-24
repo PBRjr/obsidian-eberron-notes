@@ -61,7 +61,10 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 
 ###### Texts.
 *"Ancient Clay Tablets"*
-	...and so it came to pass that the Couatl, in their ultimate act of selflessness, bound the Overlord Rak Tulkhesh within the depths of Khyber. His rage, once a tempest that threatened to consume the world, was contained within a prison of their own making. The land trembled as the chains of fate were forged, and the echoes of his fury were silenced for an age. Yet, whispers persist of a prophecy, a time when the seals shall weaken, and Rak Tulkhesh, the Lord of Blades, shall rise again to unleash his wrath upon Eberron..."
+	...and so it came to pass that the Couatl, in their ultimate act of selflessness, bound the Overlord Rak Tulkhesh within the depths of Khyber. His rage, once a tempest that threatened to consume the world, was contained within a prison of their own making. The land trembled as his prison was forged, and the echoes of his fury were silenced for an age.
+
+*Artifacts of the First Age"*
+	"...Among the relics of the bygone era, few hold the mystique and power of Etherseraph, the White Flame Blade. Its origins shrouded in myth and legend, this ethereal weapon is said to have been wielded by champions of light in the age before the Church of the Silver Flame. Forged from the very essence of celestial fire, Etherseraph is more than just a blade; it is a conduit of divine energy, capable of banishing darkness and vanquishing evil. Legends speak of its ability to cleave through the fabric of reality, opening pathways to other realms and dimensions. Though its whereabouts remain unknown, the tales of Etherseraph continue to inspire awe and wonder, a testament to the enduring power of light in the face of darkness..."
 
 *"The Chronicles of the Silver Flame"*
     "In the darkest hour, when all hope seemed lost, the couatls made the ultimate sacrifice. Their essence merged, forming a beacon of pure light - the Silver Flame. Its radiance pierced the darkness, driving back the forces of evil and offering solace to the righteous."
