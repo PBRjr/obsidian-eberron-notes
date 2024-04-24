@@ -137,7 +137,7 @@
 		- Professor Baelen ir'Torn: 1 fragment (Needs development, where/how did he find it?)
 		- Hrothgar: 1 fragment, obtained from Draven when Hrothgar battled and killed him
 
-- Artifact 2: ***Whitescail***
+- Artifact 2: ***Etherseraph***
 	- Currently in Varyn's possession, obtained when he battled and killed Draven
 	- Contains runes that tell of the location of the Silver Flame
 		- Unlocks a portal in the Mournland that teleports to Vault deep under Xen'Drik jungle

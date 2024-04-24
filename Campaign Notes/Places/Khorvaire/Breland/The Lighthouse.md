@@ -60,6 +60,9 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 
 
 ###### Texts.
+*"Ancient Clay Tablets"*
+	...and so it came to pass that the Couatl, in their ultimate act of selflessness, bound the Overlord Rak Tulkhesh within the depths of Khyber. His rage, once a tempest that threatened to consume the world, was contained within a prison of their own making. The land trembled as the chains of fate were forged, and the echoes of his fury were silenced for an age. Yet, whispers persist of a prophecy, a time when the seals shall weaken, and Rak Tulkhesh, the Lord of Blades, shall rise again to unleash his wrath upon Eberron..."
+
 *"The Chronicles of the Silver Flame"*
     "In the darkest hour, when all hope seemed lost, the couatls made the ultimate sacrifice. Their essence merged, forming a beacon of pure light - the Silver Flame. Its radiance pierced the darkness, driving back the forces of evil and offering solace to the righteous."
 
