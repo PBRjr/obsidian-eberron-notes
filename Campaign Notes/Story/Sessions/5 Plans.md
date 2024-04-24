@@ -62,5 +62,8 @@ Action 1: *Aeren d'Cannith learns of Geralt's heritage.*
 Action 2: *Baelen ir'Torn and the Priest make it to Sharn.*
 - Goal: Begin a deeper study on they FKD and discover its origins
 - Actions: Travel through the city safely and make it to Morgrave University.
+
+Action 3: *Garhorn and Blinker contacted the Clan*
+- 
 ### Additional Notes
 - X
