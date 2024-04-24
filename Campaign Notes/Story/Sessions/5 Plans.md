@@ -64,6 +64,6 @@ Action 2: *Baelen ir'Torn and the Priest make it to Sharn.*
 - Actions: Travel through the city safely and make it to Morgrave University.
 
 Action 3: *Garhorn and Blinker contacted the Clan*
-- 
+- They've been ordered to return to headquarters and await further instruction from Castar
 ### Additional Notes
 - X
