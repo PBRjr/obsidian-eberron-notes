@@ -129,12 +129,15 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 ###### Riddle
 > "In the depths of knowledge, the flame's truth resides. Slot the text that binds the light, and the path before shall open wide.
 
-The clay tablet must be inserted into this alter
+The clay tablet must be inserted into this alter. The text on the wall will then be replaced with a single question that must be answered for the door to open:
+
+> "The couatl's sacrifice, a beacon of light so bright, banished darkness with its might. Speak the name of the overlord they sealed from sight, and the path to secrets will ignite."
 
 
 ###### Teleportation Circle
 - Faded circle carved into the stone ground > draconic runes > destination of Sharn
-- 6 cracked & faded Siberys shards around circle
+- 6  Siberys shards around circle, 5 are glowing, 1 is cracked and faded
+- Is able to be used > DC 15 arcana > It won't lead to its intended location due to the cracked shard
 
 ---
 
