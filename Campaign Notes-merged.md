@@ -2376,7 +2376,7 @@ AKA ***Castle Arakhain***
 > - Stained glass windows > shattered window to garden
 > - Toppled statues > 7 y/o girl
 
-**Tapestries.**
+###### Tapestries.
 Tapestry 1: The Birth of the Silver Flame
 
 > The tapestry depicts a great battle, with a brilliant silver flame erupting from the center, pushing back the surrounding darkness. Silhouettes of armed figures stand around the flame, their weapons raised.
@@ -2395,7 +2395,7 @@ Tapestry 4: The Sealing of the Overlord
 
 Tapestry 5: The founding of the Church (Clan Flameforge)
 
-> The tapestry portrays a gathering of robed figures, with a tall woman holding a large sword with a white-hot flaming blade at the center. The other figures kneel around her, hands outstretched. In the background, the foundations of a grand cathedral are being laid.
+> The tapestry portrays a gathering of robed figures, with a tall man holding a large sword with a white-hot flaming blade at the center. The other figures kneel around her, hands outstretched. In the background, the foundations of a grand cathedral are being laid.
 
 ---
 
@@ -2491,10 +2491,11 @@ Any book that contains information about the Silver Flame may be slotted into th
 
 ## Inhabitants
 ***Enemy Roster.***
-- 2 Imps disguised as beasts following the players around, waiting to strike
-- 1d4 Hell hounds feeding on corpses
+- 1d6 Grilps (FM 154)
+- 1 Hellhound (FM 144)
+- 1d8 Hellhound Curs (FM 145)
 - 1 Doppleganger disguised as a CotSF friar that was away from the castle, and is now trying to find his daughter in the basement. In reality he just wants to get into the secret room.
-
+ 
 ***Corpses.***
 Guard Drakes?
 ## History
@@ -2889,6 +2890,8 @@ How did Aeren learn House Cannith may have been involved in the Day of Mourning?
 			- Language was prominently spoken by the Couatl.
 - When his parents were killed, he escaped and fled into the woods. He was about 12. He learned to live off the land and was able to survive.
 - He now lives near Shavalant and the Whitehorn Woods.
+
+#### PC: (Ozzie's character)
 #### PC: Sylas Stormshadow (Deceased)
 - Father was an Elven scholar focused on forbidden knowledge about magic
 - Mother was a human merchant in Sharn's Underbelly
@@ -3883,14 +3886,6 @@ Moment 2: *Arrival at the Lighthouse*
 Moment 3: *Investigation of the Lighthouse
 - [[The Lighthouse]]
 
-Encounter 1: *Name*
-- X
-
-Encounter 2: *Name*
-- X
-
-(continue as needed, may nest encounters inside moments)
-
 Session End
 - (possible cliffhanger)
 
@@ -3905,7 +3900,7 @@ Place 1: *CotSF vs. LoD skirmish*
 	- He is buried along with a pendant of the Silver Flame and his issued sword, "Holy Silver".
 	- ***Holy Silver.*** + 1 silvered longsword. Attacks count as magical. Looks like it was build for function. Blade and handle are impeccably polished, the handle made of a white marble and sanded smooth.*
 
-Place 2: *Name*
+Place 2: *The Lighthouse*
 - X
 
 (continue as needed)
@@ -3923,27 +3918,20 @@ Person 2: *Professor Baelen ir'Torn*
 - Awoke to the attack and escaped with the priest via the teleportation circle in the basement.
 *Plot Information*
 - Is now at his office at Morgrave University, accompanied by the Priest, and is about to begin conducting research into the Fractured Khyber Dragonshard
-
-(continue as needed)
 ### Plot Actions
 
-Action 1: Aeren d'Cannith learns of Geralt's heritage.
+Action 1: *Aeren d'Cannith learns of Geralt's heritage.*
 - Goal: Learn more about Geralt, his parents, and the schematics.
 - Actions: Start asking contacts about schematics and wait for party's arrival.
 
-Action 2: *Name of significant NPC(s) or organization(s) involved*
-- Goal: X
-- X
+Action 2: *Baelen ir'Torn and the Priest make it to Sharn.*
+- Goal: Begin a deeper study on they FKD and discover its origins
+- Actions: Travel through the city safely and make it to Morgrave University.
 
-(continue as needed)
+Action 3: *Garhorn and Blinker contacted the Clan*
+- They've been ordered to return to headquarters and await further instruction from Castar
 ### Additional Notes
-Exposition - book and scroll passages found inside the Lighthouse:
-- Book 1 (something relating to how Liches work, introducing the concept of phylacteries)
-	- Passage
-- Book 2 (vague history about the origin of the Silver Flame)
-	- Passage 
-- Scroll 1 (a few firsthand accounts of the day of mourning from Cyran refugees)
-	- Passage
+- X
 
 ## The Party
 
@@ -3954,15 +3942,9 @@ Exposition - book and scroll passages found inside the Lighthouse:
 | 3     | 1900       |
 
 ## Bjorn "Bear Wolf" Ulfr
-
-### Hooks to remember
-- [[Woe]] will try to turn Bjorn.
-- His brother became drowned by greed due to the presence Rak Tulkesh demi-plane near the mountains?
-- Traveling to Sharn for a lead on his brother?
 ### Race/Class/Alignment
 - Goliath Barbarian
 - Lawful Neutral
-
 ### Background
 - Soldier
 - Was the Chieftain of the Stormpeak clan in the Graywall Mountains of Droaam
@@ -3979,36 +3961,7 @@ One fateful night, Hrothgar betrayed his brother, orchestrating a coup against B
 With the betrayal still fresh in his heart, Bjorn-Ulfr embarked on a path of self-discovery and redemption. He channeled his anger, pain, and loss into becoming an even more formidable warrior, delving into the ways of the barbarian to hone his rage. As he roamed the wild, he formed new alliances and built a following of loyal outcasts and like-minded individuals who sought justice and vengeance against the treacherous Hrothgar.
 
 Bjorn-Ulfr's ultimate goal became to confront his brother and restore the rightful order within the Stormpeak Clan. The memory of the betrayal fueled his determination to bring Hrothgar to justice, not only for his own sake but to reclaim the honor and legacy of their people. Under Bjorn-Ulfr's leadership, his ragtag group of followers would stop at nothing to right the wrongs committed by his own flesh and blood and restore his place as the true chieftain of the Stormpeak Clan.
-
-## Sylas Stormshadow (deceased)
-
-### Hooks to Remember
-- His pact with 'The Traveler' was actually made with some other eldritch being? 
-- Sul Khatesh?
-### Race & Class
-- Half-Elf Warlock
-- Chaotic Neutral
-### Background
-- Sage
-- Born in the Sharn Underground to an Elvish scholar father and Human merchant mother
-- Warlock of the Traveler
-### Backstory
-Sylas Stormshadow, the enigmatic half-elf warlock of chaotic neutral alignment, has a backstory filled with mystery and the enigmatic presence of the Traveler.
-
-Born to a human mother and an elven father, Sylas's life was marked by a turbulent blend of cultures and a thirst for power. Here is his revised backstory:
-
-Sylas was born in the bustling coastal city of Sharn, where humans and elves coexisted in an uneasy alliance. His father, a reclusive elven scholar, had a fascination with forbidden knowledge and the enigmatic aspects of magic. Sylas's mother was a human merchant who embraced the chaos of the city's underbelly. From her, Sylas learned his first taste of anarchy and rebellion.
-
-From an early age, Sylas displayed an insatiable curiosity for the arcane, an unquenchable thirst for power, and an innate ability to bend others to his will. Though concerned about his son's choices, his father could not deny the potential within him and reluctantly taught Sylas the basics of eldritch magic. Sylas quickly surpassed his father's teachings and delved into darker tomes and rituals, seeking the forbidden secrets that eldritch beings held.
-
-One fateful night, during an illicit ritual deep in the city's labyrinthine sewers, Sylas made a pact with the mysterious and enigmatic Traveler. The Traveler granted Sylas otherworldly powers in exchange for his servitude and adherence to its unpredictable whims. Its motives were always veiled in mystery, and its presence brought chaos and intrigue to Sylas's life.
-
-The Traveler's influence transformed Sylas into a warlock with the power to manipulate time, reality, and fate. But in return, the Traveler would randomly manifest its presence, whisking Sylas away to alternate realities and planes, often leaving him to navigate unforeseen challenges.
-
 ## Draven Flameforge
-
-### Hooks to Remember
-- Tempt to join the Church of the Silver Flame
 ### Race & Class
 - Blue Dragonborn Paladin
 - Lawful Good
@@ -4040,3 +3993,23 @@ Overall, Draven Flameforge is an unwavering champion of justice and protector of
 - Connected to nature, likes to protect it
 - Beast master ranger
 - Outlander background
+## (deceased) Sylas Stormshadow
+### Race & Class
+- Half-Elf Warlock
+- Chaotic Neutral
+### Background
+- Sage
+- Born in the Sharn Underground to an Elvish scholar father and Human merchant mother
+- Warlock of the Traveler
+### Backstory
+Sylas Stormshadow, the enigmatic half-elf warlock of chaotic neutral alignment, has a backstory filled with mystery and the enigmatic presence of the Traveler.
+
+Born to a human mother and an elven father, Sylas's life was marked by a turbulent blend of cultures and a thirst for power. Here is his revised backstory:
+
+Sylas was born in the bustling coastal city of Sharn, where humans and elves coexisted in an uneasy alliance. His father, a reclusive elven scholar, had a fascination with forbidden knowledge and the enigmatic aspects of magic. Sylas's mother was a human merchant who embraced the chaos of the city's underbelly. From her, Sylas learned his first taste of anarchy and rebellion.
+
+From an early age, Sylas displayed an insatiable curiosity for the arcane, an unquenchable thirst for power, and an innate ability to bend others to his will. Though concerned about his son's choices, his father could not deny the potential within him and reluctantly taught Sylas the basics of eldritch magic. Sylas quickly surpassed his father's teachings and delved into darker tomes and rituals, seeking the forbidden secrets that eldritch beings held.
+
+One fateful night, during an illicit ritual deep in the city's labyrinthine sewers, Sylas made a pact with the mysterious and enigmatic Traveler. The Traveler granted Sylas otherworldly powers in exchange for his servitude and adherence to its unpredictable whims. Its motives were always veiled in mystery, and its presence brought chaos and intrigue to Sylas's life.
+
+The Traveler's influence transformed Sylas into a warlock with the power to manipulate time, reality, and fate. But in return, the Traveler would randomly manifest its presence, whisking Sylas away to alternate realities and planes, often leaving him to navigate unforeseen challenges.
