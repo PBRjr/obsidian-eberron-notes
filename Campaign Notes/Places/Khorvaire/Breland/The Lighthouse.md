@@ -127,9 +127,9 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 > - Blood-stained cloth jacket on floor > etched-in nameplate "Professor ir'Torn, Dept Head, History"
 
 ###### Riddle
-> "In the depths of knowledge, the flame's truth resides. Seek the tomes that bind the light, and the path shall open wide."
+> "In the depths of knowledge, the flame's truth resides. Slot a tome that binds the light, and the path shall open wide.
 
-Any book that contains information about the Silver Flame may be slotted into the alter. The wall containing that text will then slide open.
+Any book that contains information about the Silver Flame may be slotted into the alter. The wall will then display another riddle that must be answered
 
 ###### Teleportation Circle
 - Faded circle carved into the stone ground > draconic runes > destination of Sharn
