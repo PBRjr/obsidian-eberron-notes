@@ -16,7 +16,7 @@ AKA ***Castle Arakhain***
 > - Fire places > burnt pig roasts > perpetually burning fire
 > - Kicked in doors > broken improvised barricades > door left to hallway
 > - Stained glass windows > shattered window to garden
-> - Toppled statues > 7 y/o girl > Tira Miron > inscription "May her connection guide us"
+> - Toppled statues > female human paladin > Tira Miron > inscription "May her Voice guide us"
 
 ###### Tapestries.
 Tapestry 1: The Birth of the Silver Flame
@@ -131,7 +131,7 @@ As the party approaches the chamber, a spectral figure clad in the regalia of a 
 > Show your faith and devotion to the Flame and answer one of my queries, and be allowed passage.
 
 Query 1
-> Name the martyr who gave themselves to kindle the Silver Flame and describe their sacrifice.
+> Name the martyr who gave themselves to kindle the Silver Flame.
 
 Query 2
 
