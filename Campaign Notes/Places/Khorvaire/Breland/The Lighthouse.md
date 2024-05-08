@@ -45,9 +45,9 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 
 > [!tldr]
 > - Medium circular room > 30-40ft
-> - Ransacked and overwhelming chaos > scattered texts & bookshelves > see texts
+> - Ransacked and overwhelming chaos > scattered texts & bookshelves > see texts 
 > - 3 corpses > Scratch/bite/scorch marks > jewelry
-> - Central desk > Baelens research notes > eberron spell shard (unseen servant) > note
+> - Central desk > Baelens research notes > book catelog > eberron spell shard (unseen servant) > note
 > - Spiral staircase > more texts > corpse > random loot
 
 ###### Baelen's Research Notes.
@@ -123,7 +123,7 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 > - Entrances > hallway staircase, secret hatch under dais
 > - Supply room > cobwebs, kegs of ale and crates > hidden corpse of child holding wooden sword
 > - Entrance to room, guarded by ethereal protector > protector's challenge
-> - Secret room > see teleportation circle
+> - Secret room > teleportation circle
 > - Blood-stained cloth jacket on floor > etched-in nameplate "Professor ir'Torn, Dept Head, History"
 
 ###### Protector's Challenge
@@ -133,22 +133,21 @@ As the party approaches the chamber, a spectral figure clad in the regalia of a 
 Query 1
 > Name the martyr who gave themselves to kindle the Silver Flame.
 
+**Answer.** Tira Miron OR the Couatl
+
 Query 2
 > In the depths of our most storied battle, a great fiend was bound by the light of our conviction. Name this entity of war and chaos, whose rage was quelled by the Silver Flame's embrace.
 
+**Answer.** Rak Tulkesh
+
 Query 3
+> The Argent Grimoire, penned by the hands of those who first felt the Flame's heat, speaks of three virtues fundamental to our faith. Name these pillars upon which our order stands, and by which we are forever bound.
 
-###### Riddle
-> "In the depths of knowledge, the flame's truth resides. Slot the text that binds the light, and the path before shall open wide.
-
-The clay tablet must be inserted into this alter. The text on the wall will then be replaced with a single question that must be answered for the door to open:
-
-> "The couatl's sacrifice, a beacon of light so bright, banished darkness with its might. Speak the name of the overlord they sealed from sight, and the path to secrets will ignite."
-
+**Answer.** Courage, Sacrifice, and Devotion
 
 ###### Teleportation Circle
 - Faded circle carved into the stone ground > draconic runes > destination of Sharn
-- 6  Siberys shards around circle, 5 are glowing, 1 is cracked and faded
+- 3  Siberys and 3 eberron shards around circle, siberys
 - Is able to be used > DC 15 arcana > It won't lead to its intended location due to the cracked shard
 
 ---
