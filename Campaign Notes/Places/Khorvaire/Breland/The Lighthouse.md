@@ -122,9 +122,13 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 > - Labyrinthine feel, narrow hallways, dimly lit
 > - Entrances > hallway staircase, secret hatch under dais
 > - Supply room > cobwebs, kegs of ale and crates > hidden corpse of child holding wooden sword
-> - Alter with rectangular divot > text on the wall > see riddle
+> - Entrance to room, guarded by ethereal protector > protector's challenge
 > - Secret room > see teleportation circle
 > - Blood-stained cloth jacket on floor > etched-in nameplate "Professor ir'Torn, Dept Head, History"
+
+###### Protector's Challenge
+As the party approaches the chamber, a spectral figure clad in the regalia of a high priest of the Silver Flame materializes.
+
 
 ###### Riddle
 > "In the depths of knowledge, the flame's truth resides. Slot the text that binds the light, and the path before shall open wide.
