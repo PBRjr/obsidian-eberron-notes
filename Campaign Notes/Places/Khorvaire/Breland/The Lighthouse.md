@@ -16,7 +16,7 @@ AKA ***Castle Arakhain***
 > - Fire places > burnt pig roasts > perpetually burning fire
 > - Kicked in doors > broken improvised barricades > door left to hallway
 > - Stained glass windows > shattered window to garden
-> - Toppled statues > 7 y/o girl
+> - Toppled statues > 7 y/o girl > Tira Miron > inscription "May her connection guide us"
 
 ###### Tapestries.
 Tapestry 1: The Birth of the Silver Flame
@@ -128,7 +128,12 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 
 ###### Protector's Challenge
 As the party approaches the chamber, a spectral figure clad in the regalia of a high priest of the Silver Flame materializes.
+> Show your faith and devotion to the Flame and answer one of my queries, and be allowed passage.
 
+Query 1
+> Name the martyr who gave themselves to kindle the Silver Flame and describe their sacrifice.
+
+Query 2
 
 ###### Riddle
 > "In the depths of knowledge, the flame's truth resides. Slot the text that binds the light, and the path before shall open wide.
