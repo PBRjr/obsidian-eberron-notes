@@ -22,7 +22,7 @@ Moment 3: *Investigation of the Lighthouse
 - [[The Lighthouse]]
 
 Session End
-- (possible cliffhanger)
+- [[Ritual in the Kogs]] (NEEDS REFINEMENT)
 
 ### Location Details
 
