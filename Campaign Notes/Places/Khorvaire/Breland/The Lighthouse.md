@@ -134,6 +134,9 @@ Query 1
 > Name the martyr who gave themselves to kindle the Silver Flame.
 
 Query 2
+> In the depths of our most storied battle, a great fiend was bound by the light of our conviction. Name this entity of war and chaos, whose rage was quelled by the Silver Flame's embrace.
+
+Query 3
 
 ###### Riddle
 > "In the depths of knowledge, the flame's truth resides. Slot the text that binds the light, and the path before shall open wide.
