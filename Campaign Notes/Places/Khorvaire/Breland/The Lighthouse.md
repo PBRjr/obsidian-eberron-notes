@@ -146,9 +146,9 @@ Query 3
 **Answer.** Courage, Sacrifice, and Devotion
 
 ###### Teleportation Circle
-- Faded circle carved into the stone ground > draconic runes > destination of Sharn
-- 3  Siberys and 3 eberron shards around circle, siberys
-- Is able to be used > DC 15 arcana > It won't lead to its intended location due to the cracked shard
+- Faded circle carved into the stone ground > draconic runes > destination of the Kogs in Sharn
+- 3  Siberys and 3 eberron shards around circle, 1 eberron shard is cracked
+- Replacing shard reactivates circle and allows passage.
 
 ---
 
