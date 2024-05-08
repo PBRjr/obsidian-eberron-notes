@@ -2374,7 +2374,7 @@ AKA ***Castle Arakhain***
 > - Fire places > burnt pig roasts > perpetually burning fire
 > - Kicked in doors > broken improvised barricades > door left to hallway
 > - Stained glass windows > shattered window to garden
-> - Toppled statues > 7 y/o girl
+> - Toppled statues > female human paladin > Tira Miron > inscription "May her Voice guide us"
 
 ###### Tapestries.
 Tapestry 1: The Birth of the Silver Flame
@@ -2403,9 +2403,9 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 
 > [!tldr]
 > - Medium circular room > 30-40ft
-> - Ransacked and overwhelming chaos > scattered texts & bookshelves > see texts
+> - Ransacked and overwhelming chaos > scattered texts & bookshelves > see texts 
 > - 3 corpses > Scratch/bite/scorch marks > jewelry
-> - Central desk > Baelens research notes > eberron spell shard (unseen servant) > note
+> - Central desk > Baelens research notes > book catelog > eberron spell shard (unseen servant) > note
 > - Spiral staircase > more texts > corpse > random loot
 
 ###### Baelen's Research Notes.
@@ -2418,6 +2418,12 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 
 
 ###### Texts.
+*"Ancient Clay Tablets"*
+	...and so it came to pass that the Couatl, in their ultimate act of selflessness, bound the Overlord Rak Tulkhesh within the depths of Khyber. His rage, once a tempest that threatened to consume the world, was contained within a prison of their own making. The land trembled as his prison was forged, and the echoes of his fury were silenced for an age.
+
+*Artifacts of the First Age"*
+	"...Among the relics of the bygone era, few hold the mystique and power of Etherseraph, the White Flame Blade. Its origins shrouded in myth and legend, this ethereal weapon is said to have been wielded by champions of light in the age before the Church of the Silver Flame. Forged from the very essence of celestial fire, Etherseraph is more than just a blade; it is a conduit of divine energy, capable of banishing darkness and vanquishing evil. Legends speak of its ability to cleave through the fabric of reality, opening pathways to other realms and dimensions. Though its whereabouts remain unknown, the tales of Etherseraph continue to inspire awe and wonder, a testament to the enduring power of light in the face of darkness..."
+
 *"The Chronicles of the Silver Flame"*
     "In the darkest hour, when all hope seemed lost, the couatls made the ultimate sacrifice. Their essence merged, forming a beacon of pure light - the Silver Flame. Its radiance pierced the darkness, driving back the forces of evil and offering solace to the righteous."
 
@@ -2474,18 +2480,33 @@ Tapestry 5: The founding of the Church (Clan Flameforge)
 > - Labyrinthine feel, narrow hallways, dimly lit
 > - Entrances > hallway staircase, secret hatch under dais
 > - Supply room > cobwebs, kegs of ale and crates > hidden corpse of child holding wooden sword
-> - Alter with rectangular divot > text on the wall > see riddle
-> - Secret room > see teleportation circle
+> - Entrance to room, guarded by ethereal protector > protector's challenge
+> - Secret room > teleportation circle
 > - Blood-stained cloth jacket on floor > etched-in nameplate "Professor ir'Torn, Dept Head, History"
 
-###### Riddle
-> "In the depths of knowledge, the flame's truth resides. Seek the tomes that bind the light, and the path shall open wide."
+###### Protector's Challenge
+As the party approaches the chamber, a spectral figure clad in the regalia of a high priest of the Silver Flame materializes.
+> Show your faith and devotion to the Flame and answer one of my queries, and be allowed passage.
 
-Any book that contains information about the Silver Flame may be slotted into the alter. The wall containing that text will then slide open.
+Query 1
+> Name the martyr who gave themselves to kindle the Silver Flame.
+
+**Answer.** Tira Miron OR the Couatl
+
+Query 2
+> In the depths of our most storied battle, a great fiend was bound by the light of our conviction. Name this entity of war and chaos, whose rage was quelled by the Silver Flame's embrace.
+
+**Answer.** Rak Tulkesh
+
+Query 3
+> The Argent Grimoire, penned by the hands of those who first felt the Flame's heat, speaks of three virtues fundamental to our faith. Name these pillars upon which our order stands, and by which we are forever bound.
+
+**Answer.** Courage, Sacrifice, and Devotion
 
 ###### Teleportation Circle
-- Faded circle carved into the stone ground > draconic runes > destination of Sharn
-- 6 cracked & faded Siberys shards around circle
+- Faded circle carved into the stone ground > draconic runes > destination of the Kogs in Sharn
+- 3  Siberys and 3 eberron shards around circle, 1 eberron shard is cracked
+- Replacing shard reactivates circle and allows passage.
 
 ---
 
@@ -2955,7 +2976,7 @@ How did Aeren learn House Cannith may have been involved in the Day of Mourning?
 		- Professor Baelen ir'Torn: 1 fragment (Needs development, where/how did he find it?)
 		- Hrothgar: 1 fragment, obtained from Draven when Hrothgar battled and killed him
 
-- Artifact 2: ***White Flameblade***
+- Artifact 2: ***Etherseraph***
 	- Currently in Varyn's possession, obtained when he battled and killed Draven
 	- Contains runes that tell of the location of the Silver Flame
 		- Unlocks a portal in the Mournland that teleports to Vault deep under Xen'Drik jungle
@@ -3303,6 +3324,38 @@ References
  - The cover reads "The Mimic: How to Identify a Lurking Threat"
 - This book looks like any ordinary book, with a brown leather cover and simple lettering for the title. The book has no listed author.
 - A DC 11 investigation check reveals this book has less dust on it than other objects, like it was recently disturbed.
+
+### Ritual in the Kogs
+
+
+**Ritual Completion and Dismissal by Mordakhesh**:
+
+- As the ritual concludes, the air thick with arcane energy, Mordakhesh steps back from the altar. He observes Woe, who is still recovering from the procedure. With a slight tone of concern mixed with command, Mordakhesh advises, "Rest now, let the shard’s essence meld with your own. But first, dispose of our uninvited guests." This comment is made dismissively, without even a glance at the party, underscoring their perceived insignificance.
+
+**Woe's Awakening**:
+
+- Woe lethargically sits up, his eyes flashing with newly imbued purple energy. He lazily stretches a hand towards a dormant piece of machinery nearby. As his fingers twitch, a burst of purple energy flows from his hand into the machine, which whirs to life, its mechanical eyes glowing with the same ominous purple.
+- He watches with mild interest, a slight smirk on his face, as the machine turns towards the party, ready to attack.
+
+**Combat Dynamics**:
+
+- The enchanted machine, powered by the dragonshard’s essence, aggressively targets the party. Describe the machine’s movements as unnaturally swift and powerful, enhanced by the magical energy.
+- Throughout the fight, as the party manages to damage the machine, Woe, with minimal effort, could casually redirect his energy to enchant other machinery in the room to join the fray, each time causing the cavern to rumble ominously.
+
+**Environmental Collapse and Escape Routes**:
+
+- The ongoing battle and the unstable arcane energy cause the cavern to shake violently. Debris falls, blocking the path they originally took while conveniently opening up another route that leads deeper into the maze of the Kogs and possibly exits near an unexpected part of Sharn.
+- As the party battles or decides to flee, they notice the structural integrity of the cavern degrading, hinting that staying much longer could be fatal.
+
+**The Magic’s Limit and Woe's Disinterest**:
+
+- If the party manages to distance themselves from the animated machinery, perhaps through clever maneuvering or by making a dash for the new escape route, they'll notice the purple energy begins to fade from the machines, causing them to slow and eventually stop, unable to pursue further.
+- Woe assumes the machines have dealt with the party or that they are no longer his problem. He dismisses them from his mind and exits via his own means, perhaps a portal or cloaked in a shroud of shadows, to recover from the ritual’s exertions.
+
+### Conclusion and Aftermath:
+
+- Once safe, the party can regroup and process the sheer power and threat Woe represents. This encounter not only sets up Woe as a formidable foe but also deepens the mystery and danger of what he and Mordakhesh are planning.
+- This experience can lead to new objectives, such as finding ways to counteract or dismantle the dragonshard’s influence, or investigating other areas of Sharn that might hold the key to stopping Woe’s machinations.
 
 ### Sharn Tension Encounters
 
@@ -3887,7 +3940,7 @@ Moment 3: *Investigation of the Lighthouse
 - [[The Lighthouse]]
 
 Session End
-- (possible cliffhanger)
+- [[Ritual in the Kogs]] (NEEDS REFINEMENT)
 
 ### Location Details
 
