@@ -1,3 +1,5 @@
+Location: [[Kogs Ritual Chamber]]
+
 **Ritual Completion and Dismissal by Mordakhesh**:
 
 - As the ritual concludes, the air thick with arcane energy, Mordakhesh steps back from the altar. He observes Woe, who is still recovering from the procedure. With a slight tone of concern mixed with command, Mordakhesh advises, "Rest now, let the shard’s essence meld with your own. But first, dispose of our uninvited guests." This comment is made dismissively, without even a glance at the party, underscoring their perceived insignificance.
