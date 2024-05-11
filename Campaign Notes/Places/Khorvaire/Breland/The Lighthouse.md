@@ -147,8 +147,8 @@ Query 3
 
 ###### Teleportation Circle
 - Faded circle carved into the stone ground > draconic runes > destination of the Kogs in Sharn
-- 3  Siberys and 3 eberron shards around circle, 1 eberron shard is cracked
-- Replacing shard reactivates circle and allows passage.
+- 3  Siberys and 3 Khyber dragonshards around circle > Siberys are dimmer than Khyber shards
+- The priest destroyed the Siberys shards on the other side of the portal after their escape to prevent chase
 
 ---
 
