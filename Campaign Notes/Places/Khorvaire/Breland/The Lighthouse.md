@@ -149,6 +149,7 @@ Query 3
 - Faded circle carved into the stone ground > draconic runes > destination of the Kogs in Sharn
 - 3  Siberys and 3 Khyber dragonshards around circle > Siberys are dimmer than Khyber shards
 - The priest destroyed the Siberys shards on the other side of the portal after their escape to prevent chase
+- Due to the Siberys shards being destroyed, the portal will lead to somewhere with a powerful evil signature (the kogs during Woe/Mordakhesh's ritual).
 
 ---
 
