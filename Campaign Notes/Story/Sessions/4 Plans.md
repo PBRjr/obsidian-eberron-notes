@@ -34,7 +34,7 @@
 - Describe an odor of *sulfur & rot* as a reoccurring sign for the minions of the LoD.
 - **Signs pointing to agents:** scorched paw prints, tufts of burnt black fur (*hellhounds*) | claw markings in rock, small black barbs embedded in trees (*imps*) | cooled, hardened lava splatters (*magma memphites*). Small piles of ash scatter the area.
 - A perception check reveals flattened grass from a recently walked bath down to a small rocky creek bed that has dried up. A recent grave covered in smooth stones can be easily spotted.
-- The grave contains the remains of a recently killed Knight Templar, body draped in a white canvas cloth.
+- The grave contains the remains of a recently killed  Knight Templar, body draped in a white canvas cloth.
 	- He is buried along with a pendant of the Silver Flame and his issued sword, "Holy Silver".
 	- ***Holy Silver.*** + 1 silvered longsword. Attacks count as magical. Looks like it was build for function. Blade and handle are impeccably polished, the handle made of a white marble and sanded smooth.
 
