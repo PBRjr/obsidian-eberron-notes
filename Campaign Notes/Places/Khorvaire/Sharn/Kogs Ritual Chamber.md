@@ -1,4 +1,4 @@
-### Main Ritual Chamber
+ ### Main Ritual Chamber
 
 > [!tldr]
 > 
