@@ -28,4 +28,6 @@ They enter a secret basement area that contains a sealed large metal door.
 - They are forced to answer a question about the CotSF, and after searching for the answers in the library, they are granted passage.
 - They find the teleportation circle, and Geralt steps on it, arriving at the kogs ritual location
 - "Rob" reveals he is a doppleganger and 4 shapeshifting grilps reveal themselves, and engage in battle with the party.
-- A hellhound slides down 
+- A hellhound slides down a tunnel into the basement and joins the fight.
+
+The party defeats theh
