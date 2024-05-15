@@ -22,4 +22,8 @@ The party & Rob enter the castle through the front doors.
 - They investigate the aftermath of a chaotic siege by unknown demonic forces.
 - Seems similar to the battle that occurred on the path that they noticed earlier.
 - Rob says his daughter is probably downstairs in the "safe room"
-- 
+- The party makes their way downstairs and finds their way down a hidden trapdoor within the storage area.
+
+They enter a secret basement area that contains a sealed large metal door.
+- They are forced to answer a question about the CotSF, and after searching for the answers in the library, they are granted passage.
+- They find the teleportation circle, and Geralt steps on it, arriving
