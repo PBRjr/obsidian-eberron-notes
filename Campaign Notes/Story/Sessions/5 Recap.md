@@ -30,4 +30,8 @@ They enter a secret basement area that contains a sealed large metal door.
 - "Rob" reveals he is a doppleganger and 4 shapeshifting grilps reveal themselves, and engage in battle with the party.
 - A hellhound slides down a tunnel into the basement and joins the fight.
 
-The party defeats theh
+The party defeats them all and sustain no casualties.
+- Geralt came back to the teleportation circle during the fight after 1 round.
+- The party then decides to travel through the teleportation circle to the kogs ritual location.
+- They watch the ritual between a hooded figure (Mordakesh) and Woe
+	- Mordakesh joined the main 
