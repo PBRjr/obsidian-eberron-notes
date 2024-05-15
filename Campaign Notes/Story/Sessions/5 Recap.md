@@ -20,7 +20,7 @@ Continued down the path to the Lighthouse a few hours away.
 
 The party & Rob enter the castle through the front doors.
 - They investigate the aftermath of a chaotic siege by unknown demonic forces.
-- Seems similar to the battle that occurred on the path that they noticed earlier.
+- Seems similar to the battle that  occurred on the path that they noticed earlier.
 - Rob says his daughter is probably downstairs in the "safe room"
 - The party makes their way downstairs and finds their way down a hidden trapdoor within the storage area.
 
