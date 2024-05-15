@@ -34,4 +34,4 @@ The party defeats them all and sustain no casualties.
 - Geralt came back to the teleportation circle during the fight after 1 round.
 - The party then decides to travel through the teleportation circle to the kogs ritual location.
 - They watch the ritual between a hooded figure (Mordakesh) and Woe
-	- Mordakesh joined the main 
+	- Mordakesh joined the main Fractured Khyber Dragonshard with the fragment of it that Woe took from Lick in session 1
