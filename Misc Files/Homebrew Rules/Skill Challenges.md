@@ -1,9 +1,11 @@
-Skill challenges
-- 5 successes vs 3 failures
-- Players can only make checks with skills they are proficient in
-- Players can only make a check with skills they have not used previously
-- There are no limits to what skills may be used for what situations, as long as the player has a reasonable explanation for how a skill would help them succeed.
-- **Aid.** Once/player/skill challenge a player may aid another players skill check. They may only do so if they are proficient in the skill they are using to aid, and if they pass a skill check with that skill. Success grants the original player advantage on their skill check.
+Skill challenges are a way to handle complex situations where you need to use a variety of skills to succeed. The goal is to achieve x successes before you get x failures.
+
+1. **Success vs. Failure:** You need x successes to succeed in the challenge. If you get x failures before that, you fail the challenge.
+2. **Proficiency:** You can only use skills you're proficient in.
+3. **Unique Skills:** You can’t use the same skill twice in this challenge.
+4. **Creative Solutions:** Besides what was just stated, there's no limit to what skills you can use, as long as you have a reasonable explanation for how the skill helps you in the situation.
+
+**Aid:** You can aid another player's check, but this is limited to once per player per challenge. You must be proficient in the skill you're using to aid, and it must logically make sense. Any number of players may aid a single skill check. To grant aid, make a skill check, and take the modifier value (MV = (total - 10) / 2 )) of the total roll and subtract/add it to the DC of the original skill check.
 
 - Procedure:
 	- DM tells the players they are entering a skill challenge and explains the rules.
