@@ -73,7 +73,8 @@
 - When his parents were killed, he escaped and fled into the woods. He was about 12. He learned to live off the land and was able to survive.
 - He now lives near Shavalant and the Whitehorn Woods.
 
-#### PC: (Ozzie's character)
+#### PC: Forge
+- 
 #### PC: Sylas Stormshadow (Deceased)
 - Father was an Elven scholar focused on forbidden knowledge about magic
 - Mother was a human merchant in Sharn's Underbelly
