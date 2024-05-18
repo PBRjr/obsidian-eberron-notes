@@ -5,7 +5,7 @@ Skill challenges are a way to handle complex situations where you need to use a 
 3. **Unique Skills:** You can’t use the same skill twice in this challenge.
 4. **Creative Solutions:** Besides what was just stated, there's no limit to what skills you can use, as long as you have a reasonable explanation for how the skill helps you in the situation.
 
-**Aid:** You can aid another player's check, but this is limited to once per player per challenge. You must be proficient in the skill you're using to aid, and it must logically make sense. Any number of players may aid a single skill check. To grant aid, make a skill check, and take the modifier value (MV = (total - 10) / 2 )) of the total roll and subtract/add it to the DC of the original skill check.
+**Aid:** You can aid another player's check, but this is limited to once per player per challenge. You must be proficient in the skill you're using to aid, and it must logically make sense. Any number of players may aid a single skill check. To grant aid, make a skill check, and take the modifier value *(MV = (total - 10) / 2 ))* of the total roll and subtract/add it to the DC of the original skill check.
 
 - Procedure:
 	- DM tells the players they are entering a skill challenge and explains the rules.
