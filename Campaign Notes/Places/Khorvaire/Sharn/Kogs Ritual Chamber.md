@@ -1,4 +1,8 @@
-### Summary of the Skill Challenge Rooms
+## Automaton
+**Attacks.**
+- * Magnetic pulse & Gear Storm Barrage*
+
+## Summary of the Skill Challenge Rooms
 
 1. **Ritual Chamber:** Find hidden passage.
 2. **Lava Moat Chamber:** Cross the lava moat.
@@ -6,7 +10,6 @@
 4. **Machinery Room:** Use machinery for distraction/barriers.
 5. **Narrow Bridge:** Cross the precarious bridge.
 6. **Exit Chamber:** Locate the correct exit.
-
 ### Ritual Chamber
 
 >[!TLDR]
