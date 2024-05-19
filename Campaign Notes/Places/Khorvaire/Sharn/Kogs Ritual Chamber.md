@@ -1,6 +1,9 @@
 ## Automaton
 **Attacks.**
-- * Magnetic pulse & Gear Storm Barrage*
+Magnetic pulse & Gear Storm Barrage
+- *Magnetic Pulse.* The automaton releases a powerful magnetic pulse that attracts metal objects towards it, including weapons, armor, and machinery parts.
+- *Gearstorm Barrage.* The automaton unleashes a torrent of spinning gears and cogs from its body, creating a storm of sharp metal that fills the chamber.
+
 
 ## Summary of the Skill Challenge Rooms
 
