@@ -68,13 +68,13 @@ Navigating the Collapsing Tunnel:
 ### Chamber 4: Ore Refinery
 
 >[!TLDR]
->- **Features:** A room filled with decommissioned heavy machinery and furnaces. Massive Ore buckets hang from the ceiling.
+>- **Features:** A room filled with decommissioned heavy machinery and furnaces. A large elevator with empty crates is in the middle. Massive Ore buckets hang from the ceiling.
 >- **Lighting:** Dim, with occasional flickers from cracks in the wall
 >- **Attack(s):** Bursts through wall, Slam, falling machinery
 
 **Challenges:** 
-Interacting with Machinery:
-- **Obstacle:** Using the machinery to create a distraction or barrier.
+Reactivate the elevator:
+- **Obstacle:** Broken elevator, connected to a console, needs arcane path3
 - **Skills:** Investigation, Intimidation, Athletics.
 - **Success:** The party successfully uses the machinery to hinder the automaton’s progress.
 - **Failure:** The machinery backfires, creating additional obstacles.
