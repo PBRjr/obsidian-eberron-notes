@@ -70,7 +70,7 @@ Navigating the Collapsing Tunnel:
 >[!TLDR]
 >- **Features:** A room filled with decommissioned heavy machinery and furnaces. Massive Ore buckets hang from the ceiling.
 >- **Lighting:** Dim, with occasional flickers from cracks in the wall
->- **Attack(s):** Bursts through wall, 
+>- **Attack(s):** Bursts through wall, Slam, falling machinery
 
 **Challenges:** 
 Interacting with Machinery:
