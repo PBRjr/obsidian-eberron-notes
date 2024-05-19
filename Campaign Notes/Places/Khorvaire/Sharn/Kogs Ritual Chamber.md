@@ -13,6 +13,8 @@ Magnetic pulse & Gear Storm Barrage
 - *Gearstorm Barrage.* The automaton unleashes a torrent of spinning gears and cogs from its body, creating a storm of sharp metal that fills the chamber.
 
 *Seismic Stomp.* The automaton stomps on the ground with tremendous force, causing tremors that destabilize the surroundings and create fissures.
+
+*Antimatter Cannon.* The automaton channels its magical energy to its hand and releases it, unleashing a powerful and focused beam of energy that destroys structures in its path.
 ## Summary of the Skill Challenge Rooms
 1. **Ritual Chamber:** Find hidden passage.
 2. **Lava Moat Chamber:** Cross the lava moat.
@@ -52,12 +54,12 @@ Crossing the Lava Moat:
 ### Chamber 3: Collapsing Tunnel
 
 >[!TLDR]
->- **Features:** A long, narrow tunnel that starts to collapse due to the automaton's movements.
+>- **Features:** A long, narrow, and rough tunnel
 >- **Lighting:** Dim, with occasional flickers from falling rocks.
->- **Obstacles:** Falling rocks, unstable ground, dust clouds obscuring vision.
+>- **Attack(s):** Antimatter Cannon
 
-**Challenges:** 3. **Navigating the Collapsing Tunnel:**
-
+**Challenges:** 
+Navigating the Collapsing Tunnel:
 - **Obstacle:** Avoiding falling rocks and finding a stable path.
 - **Skills:** Acrobatics, Athletics, Survival, Perception.
 - **Success:** The party makes it through the tunnel without major injuries.
