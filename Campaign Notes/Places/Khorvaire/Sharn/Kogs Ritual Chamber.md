@@ -29,8 +29,7 @@ Magnetic pulse & Gear Storm Barrage
 >- **Initial Goal:** Find a hidden passage to escape the chamber.
 
 **Challenges:**
-
-1. **Initial Escape:**
+Initial Escape:
     - **Obstacle:** Ground shaking, debris falling.
     - **Skills:** Athletics, Acrobatics, Investigation.
     - **Success:** The party discovers a hidden passage to the side leading to the next chamber.
@@ -38,26 +37,24 @@ Magnetic pulse & Gear Storm Barrage
 
 ### Chamber 2: Lava Moat Chamber
 
-**Description:**
+>[!TLDR]
+>- **Features:** A large chamber split by a flowing lava moat, with narrow, unstable pathways and machinery parts that can be manipulated.
+>- **Lighting:** Bright from the glowing lava.
+>- **Obstacles:** Narrow pathways, heat and geysers from the lava, potential collapses & fissures
 
-- **Features:** A large chamber split by a flowing lava moat, with narrow, unstable pathways and machinery parts that can be manipulated.
-- **Lighting:** Bright from the glowing lava.
-- **Obstacles:** Narrow pathways, heat from the lava, potential collapses.
-
-**Challenges:** 2. **Crossing the Lava Moat:**
-
-- **Obstacle:** Finding a safe way across the lava moat.
-- **Skills:** Athletics, Acrobatics, Nature, Investigation.
-- **Success:** The party crosses the moat safely.
-- **Failure:** The party suffers heat damage or falls into the lava, causing delays.
+**Challenges:** 
+Crossing the Lava Moat:
+	- **Obstacle:** Finding a safe way across the lava moat and avoid fissures/geysers
+	- **Skills:** Athletics, Acrobatics, Nature, Investigation.
+	- **Success:** The party crosses the moat safely.
+	- **Failure:** The party suffers heat damage or falls into the lava, causing delays.
 
 ### Chamber 3: Collapsing Tunnel
 
-**Description:**
-
-- **Features:** A long, narrow tunnel that starts to collapse due to the automaton's movements.
-- **Lighting:** Dim, with occasional flickers from falling rocks.
-- **Obstacles:** Falling rocks, unstable ground, dust clouds obscuring vision.
+>[!TLDR]
+>- **Features:** A long, narrow tunnel that starts to collapse due to the automaton's movements.
+>- **Lighting:** Dim, with occasional flickers from falling rocks.
+>- **Obstacles:** Falling rocks, unstable ground, dust clouds obscuring vision.
 
 **Challenges:** 3. **Navigating the Collapsing Tunnel:**
 
