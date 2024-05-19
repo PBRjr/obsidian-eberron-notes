@@ -1,100 +1,100 @@
- ### Main Ritual Chamber
+### Summary of the Skill Challenge Rooms
 
-> [!tldr]
-> 
-> - **Stone Altar**: Arcane symbols, purple energy glow
-> - **Woe's Machinery**: Dormant machinery, purple energy enchantment
-> - **Mordakhesh's Portal**: Shadowy remnants of dark energy
-> - **Loot**: None (intended for combat)
-> - **Exits**: Path 1 (Teleportation Circle), Path 2 (Secret Storage Chamber), Path 3 (Escape Path)
+1. *Ritual Chamber:** Find hidden passage.
+2. **Lava Moat Chamber:** Cross the lava moat.
+3. **Collapsing Tunnel:** Navigate through falling rocks.
+4. **Machinery Room:** Use machinery for distraction/barriers.
+5. **Narrow Bridge:** Cross the precarious bridge.
+6. **Exit Chamber:** Locate the correct exit.
 
-**Stone Altar**:
+### Ritual Chamber
 
-- Central to the room.
-- Covered in intricate arcane symbols glowing with purple energy.
-- Where Woe lies during the ritual.
+**Description:**
 
-**Woe's Machinery**:
+- **Features:** Large stone tablet, gears, cogs, and other machinery parts scattered around.
+- **Lighting:** Dim light from distant lava pools through gaps in the rocks.
+- **Obstacles:** Debris falling from the automaton's movements, hidden passageways being revealed.
+- **Initial Goal:** Find a hidden passage to escape the chamber.
 
-- Dormant mechanical constructs near the altar.
-- Infused with purple energy, ready to be animated by Woe.
-- Smaller arcane devices line the walls, hinting at potential hazards.
+**Challenges:**
 
-**Mordakhesh's Portal**:
+1. **Initial Escape:**
+    - **Obstacle:** Ground shaking, debris falling.
+    - **Skills:** Athletics, Acrobatics, Investigation.
+    - **Success:** The party discovers a hidden passage leading to the next chamber.
+    - **Failure:** The party stumbles, causing delays and potential damage.
 
-- Shadowy remnants of dark energy shimmer at the northwest edge.
-- Permanently sealed after Mordakhesh leaves.
+### Chamber 2: Lava Moat Chamber
 
-**Exits**:
+**Description:**
 
-- **Path 1**: Leads to the **Teleportation Circle Chamber**.
-- **Path 2**: Leads to the **Secret Storage Chamber**.
-- **Path 3**: Leads to the **Escape Path to Sharn**.
+- **Features:** A large chamber split by a flowing lava moat, with narrow, unstable pathways and machinery parts that can be manipulated.
+- **Lighting:** Bright from the glowing lava.
+- **Obstacles:** Narrow pathways, heat from the lava, potential collapses.
 
-### Teleportation Circle Chamber
+**Challenges:** 2. **Crossing the Lava Moat:**
 
-> [!tldr]
-> 
-> - **Teleportation Circle**: Arcane symbols, intricate design
-> - **Arcane Control Panel**: Activate circle (DC 15 Arcana)
-> - **Exit**: Door to Main Ritual Chamber
+- **Obstacle:** Finding a safe way across the lava moat.
+- **Skills:** Athletics, Acrobatics, Nature, Investigation.
+- **Success:** The party crosses the moat safely.
+- **Failure:** The party suffers heat damage or falls into the lava, causing delays.
 
-**Teleportation Circle**:
+### Chamber 3: Collapsing Tunnel
 
-- Intricate circle of glowing arcane symbols in the center.
-- Used by the party to enter the Kogs, and can be reactivated for escape.
+**Description:**
 
-**Arcane Control Panel**:
+- **Features:** A long, narrow tunnel that starts to collapse due to the automaton's movements.
+- **Lighting:** Dim, with occasional flickers from falling rocks.
+- **Obstacles:** Falling rocks, unstable ground, dust clouds obscuring vision.
 
-- Near the circle, controlling activation.
-- **DC 15 Arcana Check** required to reactivate.
+**Challenges:** 3. **Navigating the Collapsing Tunnel:**
 
-**Exit**:
+- **Obstacle:** Avoiding falling rocks and finding a stable path.
+- **Skills:** Acrobatics, Athletics, Survival, Perception.
+- **Success:** The party makes it through the tunnel without major injuries.
+- **Failure:** The party is injured by falling rocks or trapped momentarily, causing delays.
 
-- Door leading to the **Main Ritual Chamber**.
+### Chamber 4: Machinery Room
 
-### Secret Storage Chamber
+**Description:**
 
-> [!tldr]
-> 
-> - **Locked Cabinet**: Arcane supplies, loot (DC 15 Sleight of Hand)
-> - **Secret Door**: Hidden exit to Main Ritual Chamber (DC 14 Perception)
+- **Features:** A room filled with complex machinery that can be used to create distractions or barriers.
+- **Lighting:** Dim, with occasional sparks from malfunctioning machines.
+- **Obstacles:** Navigating through the machinery, avoiding moving parts.
 
-**Locked Cabinet**:
+**Challenges:** 4. **Interacting with Machinery:**
 
-- Contains various arcane supplies and loot.
-- Locked with a sturdy mechanism.
-- **DC 15 Sleight of Hand** to pick or **DC 18 Strength** to break.
+- **Obstacle:** Using the machinery to create a distraction or barrier.
+- **Skills:** Investigation, Intimidation, Athletics.
+- **Success:** The party successfully uses the machinery to hinder the automaton’s progress.
+- **Failure:** The machinery backfires, creating additional obstacles.
 
-**Loot**:
+### Chamber 5: Narrow Bridge
 
-- Potion of Greater Healing (x2)
-- Arcane Scrolls (Lesser Restoration, Dispel Magic)
-- 150 GP in assorted coins
+**Description:**
 
-**Secret Door**:
+- **Features:** A narrow, precarious bridge over a deep chasm.
+- **Lighting:** Dim, with eerie light from below the chasm.
+- **Obstacles:** Keeping balance on the narrow bridge, dealing with any attacks from the automaton.
 
-- Leads to the **Main Ritual Chamber**.
-- **DC 14 Perception** to locate.
+**Challenges:** 5. **Crossing the Narrow Bridge:**
 
-### Escape Path to Sharn (Collapsed Tunnel)
+- **Obstacle:** Maintaining balance and avoiding attacks.
+- **Skills:** Acrobatics, Athletics, Perception.
+- **Success:** The party crosses the bridge safely.
+- **Failure:** The party risks falling into the chasm or being attacked by the automaton.
 
-> [!tldr]
-> 
-> - **Collapsed Debris**: Blocks tunnel initially (DC 16 Strength)
-> - **Arcane Runes**: Ancient symbols, glow faintly
-> - **Exit**: Winding tunnel leads into Sharn
+### Final Chamber: Exit Chamber
 
-**Collapsed Debris**:
+**Description:**
 
-- Initially blocks the tunnel.
-- **DC 16 Strength Check** required to clear debris.
+- **Features:** A chamber with multiple exits, some of which are hidden or blocked.
+- **Lighting:** Brighter as it leads to the surface.
+- **Obstacles:** Finding the right exit quickly.
 
-**Arcane Runes**:
+**Challenges:** 6. **Finding the Exit:**
 
-- Ancient arcane runes inscribed around the tunnel opening.
-- Glow faintly after the debris is cleared.
-
-**Exit**:
-
-- Tunnel leads into a safe exit in Sharn.
+- **Obstacle:** Locating and accessing the correct exit.
+- **Skills:** Perception, Investigation, Survival.
+- **Success:** The party finds the exit leading to the surface.
+- **Failure:** The party chooses a wrong exit or is delayed by blocked paths.
