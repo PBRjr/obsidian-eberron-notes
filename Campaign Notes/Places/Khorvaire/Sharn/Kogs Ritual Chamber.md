@@ -65,13 +65,12 @@ Navigating the Collapsing Tunnel:
 - **Success:** The party makes it through the tunnel without major injuries.
 - **Failure:** The party is injured by falling rocks or trapped momentarily, causing delays.
 
-### Chamber 4: Machinery Room
+### Chamber 4: Ore Refinery
 
-**Description:**
-
-- **Features:** A room filled with complex machinery that can be used to create distractions or barriers.
-- **Lighting:** Dim, with occasional sparks from malfunctioning machines.
-- **Obstacles:** Navigating through the machinery, avoiding moving parts.
+>[!TLDR]
+>- **Features:** A room filled with decommissioned heavy machinery and furnaces
+>- **Lighting:** Dim, with occasional sparks from malfunctioning machines.
+>- **Attack(s):** Navigating through the machinery, avoiding moving parts.
 
 **Challenges:** 4. **Interacting with Machinery:**
 
