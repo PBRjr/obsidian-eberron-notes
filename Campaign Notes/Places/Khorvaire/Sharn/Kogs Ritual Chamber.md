@@ -28,11 +28,10 @@ Magnetic pulse & Gear Storm Barrage
 >- **Features:** Large stone tablet, gears, cogs, and other machinery parts scattered around.
 >- **Lighting:** Dim light from distant lava pools through gaps in the rocks.
 >- **Attack(s):** Magnetic Pulse & Gear Storm Barrage.
->- **Initial Goal:** Find a hidden passage to escape the chamber.
 
 **Challenges:**
 Initial Escape:
-- **Obstacle:** Ground shaking, debris falling.
+- **Obstacle:** Metal door ripped of hinges, debris blocks path to teleportation circle.
 - **Skills:** Athletics, Acrobatics, Investigation.
 - **Success:** The party discovers a hidden passage to the side leading to the next chamber.
 - **Failure:** The party stumbles, allowing the automaton to attack.
@@ -86,24 +85,9 @@ Reactivate the elevator:
 >- **Lighting:** Dim, with sunlight licking the cavern floor from an exit across the bridge.
 >- **Attack(s):** Grapple and drag into pit
 
-**Challenges:** 5. **Crossing the Narrow Bridge:**
-
+**Challenges:**
+Crossing the Narrow Bridge:
 - **Obstacle:** Automaton climbs up pit and attempts to grab a PC before it falls.
 - **Skills:** Acrobatics, Athletics, Perception.
 - **Success:** The party crosses the bridge safely.
 - **Failure:** The party risks being dragged into the chasm.
-
-### Final Chamber: Exit Chamber
-
-**Description:**
-
-- **Features:** A chamber with multiple exits, some of which are hidden or blocked.
-- **Lighting:** Brighter as it leads to the surface.
-- **Obstacles:** Finding the right exit quickly.
-
-**Challenges:** 6. **Finding the Exit:**
-
-- **Obstacle:** Locating and accessing the correct exit.
-- **Skills:** Perception, Investigation, Survival.
-- **Success:** The party finds the exit leading to the surface.
-- **Failure:** The party chooses a wrong exit or is delayed by blocked paths.
