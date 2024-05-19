@@ -2,7 +2,8 @@
 ---
 RULES
 1. The party must reach 5 successes before they get 3 failures.
-2. Each success allows them to avoid an attack 
+2. Each success allows them to avoid an automation attack and/or advance to the next room.
+3. Rubble & rock constantly falls from above, threatening a total collapse of the cavern.
 
 
 ## Automaton
@@ -13,7 +14,6 @@ Magnetic pulse & Gear Storm Barrage
 
 *Seismic Stomp.* The automaton stomps on the ground with tremendous force, causing tremors that destabilize the surroundings and create fissures.
 ## Summary of the Skill Challenge Rooms
-
 1. **Ritual Chamber:** Find hidden passage.
 2. **Lava Moat Chamber:** Cross the lava moat.
 3. **Collapsing Tunnel:** Navigate through falling rocks.
