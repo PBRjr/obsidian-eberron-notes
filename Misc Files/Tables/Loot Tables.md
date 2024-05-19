@@ -83,7 +83,7 @@
 | Ring of Protection        | General        | Yes        |
 | **Geralt Item Slot**      | Variable       | TBD        |
 | **Bjorn Item Slot**       | Variable       | TBD        |
-| **Forge Item Slot**       | Variable       | TBD        |
+| Docent                    | Wonderous Item | YES        |
 | Elven Chain               | General        | No         |
 
 ### Very Rare
