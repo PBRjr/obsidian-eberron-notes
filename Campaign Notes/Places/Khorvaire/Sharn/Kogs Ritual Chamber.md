@@ -1,3 +1,10 @@
+
+---
+RULES
+1. The party must reach 5 successes before they get 3 failures.
+2. Each success allows them to avoid an attack 
+
+
 ## Automaton
 **Attacks.**
 Magnetic pulse & Gear Storm Barrage
@@ -26,8 +33,8 @@ Magnetic pulse & Gear Storm Barrage
 1. **Initial Escape:**
     - **Obstacle:** Ground shaking, debris falling.
     - **Skills:** Athletics, Acrobatics, Investigation.
-    - **Success:** The party discovers a hidden passage leading to the next chamber.
-    - **Failure:** The party stumbles, causing delays and potential damage.
+    - **Success:** The party discovers a hidden passage to the side leading to the next chamber.
+    - **Failure:** The party stumbles, allowing the automaton to attack.
 
 ### Chamber 2: Lava Moat Chamber
 
