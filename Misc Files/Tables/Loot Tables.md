@@ -63,10 +63,10 @@
 ### Uncommon
 | Name                      | Type           | Attunement | PC         |
 | ------------------------- | -------------- | ---------- | ---------- |
-| **Draven Item Slot**      | Variable       | TBD        | **Draven** |
+| Amulet of the Devout      | Wonderous Item | YES        | **Draven** |
 | **Bjorn Item Slot**       | Variable       | TBD        | **Bjorn**  |
 | Portable Hole             | General        | No         |            |
-| All-Purpose Tool          | Wonderous Item | TBD        | **Forge**  |
+| All-Purpose Tool          | Wonderous Item | YES        | **Forge**  |
 | **Geralt Item Slot**      | Variable       | TBD        | **Geralt** |
 | Potion of Greater Healing | General        | No         |            |
 | **Draven Item Slot**      | Variable       | TBD        | **Draven** |
@@ -77,7 +77,7 @@
 ### Rare
 | Name                      | Type     | Attunement |
 | ------------------------- | -------- | ---------- |
-| **Draven Item Slot**      | Variable | TBD        |
+| Devotee's Censer          | Variable | TBD        |
 | Decanter of Endless Water | General  | No         |
 | Necklace of Adaptation    | General  | Yes        |
 | Ring of Protection        | General  | Yes        |
