@@ -32,10 +32,10 @@ Magnetic pulse & Gear Storm Barrage
 
 **Challenges:**
 Initial Escape:
-    - **Obstacle:** Ground shaking, debris falling.
-    - **Skills:** Athletics, Acrobatics, Investigation.
-    - **Success:** The party discovers a hidden passage to the side leading to the next chamber.
-    - **Failure:** The party stumbles, allowing the automaton to attack.
+- **Obstacle:** Ground shaking, debris falling.
+- **Skills:** Athletics, Acrobatics, Investigation.
+- **Success:** The party discovers a hidden passage to the side leading to the next chamber.
+- **Failure:** The party stumbles, allowing the automaton to attack.
 
 ### Chamber 2: Lava Moat Chamber
 
@@ -46,10 +46,10 @@ Initial Escape:
 
 **Challenges:** 
 Crossing the Lava Moat:
-	- **Obstacle:** Finding a safe way across the lava moat and avoid fissures/geysers
-	- **Skills:** Athletics, Acrobatics, Nature, Investigation.
-	- **Success:** The party crosses the moat safely and avoids attack.
-	- **Failure:** The party suffers heat damage or falls into the lava, causing delays.
+- **Obstacle:** Finding a safe way across the lava moat and avoid fissures/geysers
+- **Skills:** Athletics, Acrobatics, Nature, Investigation.
+- **Success:** The party crosses the moat safely and avoids attack.
+- **Failure:** The party suffers heat damage or falls into the lava, causing delays.
 
 ### Chamber 3: Collapsing Tunnel
 
@@ -68,12 +68,12 @@ Navigating the Collapsing Tunnel:
 ### Chamber 4: Ore Refinery
 
 >[!TLDR]
->- **Features:** A room filled with decommissioned heavy machinery and furnaces
->- **Lighting:** Dim, with occasional sparks from malfunctioning machines.
->- **Attack(s):** Navigating through the machinery, avoiding moving parts.
+>- **Features:** A room filled with decommissioned heavy machinery and furnaces. Massive Ore buckets hang from the ceiling.
+>- **Lighting:** Dim, with occasional flickers from cracks in the wall
+>- **Attack(s):** Bursts through wall, 
 
-**Challenges:** 4. **Interacting with Machinery:**
-
+**Challenges:** 
+Interacting with Machinery:
 - **Obstacle:** Using the machinery to create a distraction or barrier.
 - **Skills:** Investigation, Intimidation, Athletics.
 - **Success:** The party successfully uses the machinery to hinder the automaton’s progress.
