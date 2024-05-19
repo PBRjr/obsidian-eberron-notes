@@ -74,18 +74,17 @@ Navigating the Collapsing Tunnel:
 
 **Challenges:** 
 Reactivate the elevator:
-- **Obstacle:** Broken elevator, connected to a console, needs arcane path3
-- **Skills:** Investigation, Intimidation, Athletics.
-- **Success:** The party successfully uses the machinery to hinder the automaton’s progress.
-- **Failure:** The machinery backfires, creating additional obstacles.
+- **Obstacle:** Broken elevator, connected to a console, needs arcane lay lines rewired.
+- **Skills:** Investigation, Perception, Tools.
+- **Success:** The elevator reactivates, and moves fast enough to avoid attacks.
+- **Failure:** The elevator reactivates, but takes too much time, allowing an attack.
 
 ### Chamber 5: Narrow Bridge
 
-**Description:**
-
-- **Features:** A narrow, precarious bridge over a deep chasm.
-- **Lighting:** Dim, with eerie light from below the chasm.
-- **Obstacles:** Keeping balance on the narrow bridge, dealing with any attacks from the automaton.
+>[!TLDR]
+>- **Features:** A narrow, precarious bridge over a deep chasm.
+>- **Lighting:** Dim, with sunlight licking the cavern floor from an exit across the bridge.
+>- **Attack(s):** Keeping balance on the narrow bridge, dealing with any attacks from the automaton.
 
 **Challenges:** 5. **Crossing the Narrow Bridge:**
 
