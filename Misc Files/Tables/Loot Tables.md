@@ -45,20 +45,20 @@
 
 ### Common
 
-| Name                 | Type     | Attunement |
-| -------------------- | -------- | ---------- |
-| Healing Potion       | General  | No         |
-| **Forge Item Slot**  | Variable | TBD        |
-| **Bjorn Item Slot**  | Variable | TBD        |
-| ~~Bag of Holding~~   | General  | No         |
-| **Geralt Item Slot** | Variable | TBD        |
-| Scroll of Identify   | General  | No         |
-| **Draven Item Slot** | Variable | TBD        |
-| Potion of Climbing   | General  | No         |
-| **Bjorn Item Slot**  | Variable | TBD        |
-| **Forge Item Slot**  | Variable | TBD        |
-| Rope of Climbing     | General  | No         |
-| **Geralt Item Slot** | Variable | TBD        |
+| Name                 | Type            | Attunement |
+| -------------------- | --------------- | ---------- |
+| Healing Potion       | General         | No         |
+| **Forge Item Slot**  | Variable        | TBD        |
+| **Bjorn Item Slot**  | Variable        | TBD        |
+| Illuminator's Tattoo | Wonderious Item | YES        |
+| **Geralt Item Slot** | Variable        | TBD        |
+| Scroll of Identify   | General         | No         |
+| **Draven Item Slot** | Variable        | TBD        |
+| Potion of Climbing   | General         | No         |
+| **Bjorn Item Slot**  | Variable        | TBD        |
+| **Forge Item Slot**  | Variable        | TBD        |
+| Rope of Climbing     | General         | No         |
+| **Geralt Item Slot** | Variable        | TBD        |
 
 ### Uncommon
 | Name                      | Type           | Attunement | PC         |
@@ -75,16 +75,16 @@
 | **Forge Item Slot**       | Variable       | TBD        | **Forge**  |
 
 ### Rare
-| Name                      | Type     | Attunement |
-| ------------------------- | -------- | ---------- |
-| Devotee's Censer          | Variable | TBD        |
-| Decanter of Endless Water | General  | No         |
-| Necklace of Adaptation    | General  | Yes        |
-| Ring of Protection        | General  | Yes        |
-| **Geralt Item Slot**      | Variable | TBD        |
-| **Bjorn Item Slot**       | Variable | TBD        |
-| **Forge Item Slot**       | Variable | TBD        |
-| Elven Chain               | General  | No         |
+| Name                      | Type           | Attunement |
+| ------------------------- | -------------- | ---------- |
+| Devotee's Censer          | Weapon (Flail) | YES        |
+| Decanter of Endless Water | General        | No         |
+| Necklace of Adaptation    | General        | Yes        |
+| Ring of Protection        | General        | Yes        |
+| **Geralt Item Slot**      | Variable       | TBD        |
+| **Bjorn Item Slot**       | Variable       | TBD        |
+| **Forge Item Slot**       | Variable       | TBD        |
+| Elven Chain               | General        | No         |
 
 ### Very Rare
 | Name                     | Type     | Attunement |
