@@ -27,7 +27,7 @@ Magnetic pulse & Gear Storm Barrage
 >[!TLDR]
 >- **Features:** Large stone tablet, gears, cogs, and other machinery parts scattered around.
 >- **Lighting:** Dim light from distant lava pools through gaps in the rocks.
->- **Obstacles:** Debris falling from the automaton's movements, hidden passageways being revealed.
+>- **Attack(s):** Magnetic Pulse & Gear Storm Barrage.
 >- **Initial Goal:** Find a hidden passage to escape the chamber.
 
 **Challenges:**
@@ -42,7 +42,7 @@ Initial Escape:
 >[!TLDR]
 >- **Features:** A large chamber split by a flowing lava moat, filled with large chunks of ore. Narrow, unstable pathways line the back wall.
 >- **Lighting:** Bright from the glowing lava and occasional geysers.
->- **Attack(s):** 
+>- **Attack(s):** Seismic Slam
 
 **Challenges:** 
 Crossing the Lava Moat:
@@ -84,14 +84,14 @@ Reactivate the elevator:
 >[!TLDR]
 >- **Features:** A narrow, precarious bridge over a deep chasm, drowned by silence.
 >- **Lighting:** Dim, with sunlight licking the cavern floor from an exit across the bridge.
->- **Attack(s):** Keeping balance on the narrow bridge, dealing with any attacks from the automaton.
+>- **Attack(s):** Grapple and drag into pit
 
 **Challenges:** 5. **Crossing the Narrow Bridge:**
 
-- **Obstacle:** Maintaining balance and avoiding attacks.
+- **Obstacle:** Automaton climbs up pit and attempts to grab a PC before it falls.
 - **Skills:** Acrobatics, Athletics, Perception.
 - **Success:** The party crosses the bridge safely.
-- **Failure:** The party risks falling into the chasm or being attacked by the automaton.
+- **Failure:** The party risks being dragged into the chasm.
 
 ### Final Chamber: Exit Chamber
 
