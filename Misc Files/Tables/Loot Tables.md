@@ -41,4 +41,65 @@
 | 38  | "Cursed Ring", that brings misfortune to its wearer.                  |
 | 39  | "Torn Page from a Spellbook", contains a single spell.                |
 
-## Magic Item Tables
+## Magic Item Tables by rarity
+
+### Common
+
+| Name                 | Type     | Attunement |
+| -------------------- | -------- | ---------- |
+| Healing Potion       | General  | No         |
+| **Forge Item Slot**  | Variable | TBD        |
+| **Bjorn Item Slot**  | Variable | TBD        |
+| Bag of Holding       | General  | No         |
+| **Geralt Item Slot** | Variable | TBD        |
+| Scroll of Identify   | General  | No         |
+| **Draven Item Slot** | Variable | TBD        |
+| Potion of Climbing   | General  | No         |
+| **Bjorn Item Slot**  | Variable | TBD        |
+| **Forge Item Slot**  | Variable | TBD        |
+| Rope of Climbing     | General  | No         |
+| **Geralt Item Slot** | Variable | TBD        |
+
+### Uncommon
+| Name                      | Type     | Attunement |
+| ------------------------- | -------- | ---------- |
+| **Draven Item Slot**      | Variable | TBD        |
+| **Bjorn Item Slot**       | Variable | TBD        |
+| Portable Hole             | General  | No         |
+| **Forge Item Slot**       | Variable | TBD        |
+| **Geralt Item Slot**      | Variable | TBD        |
+| Potion of Greater Healing | General  | No         |
+| **Draven Item Slot**      | Variable | TBD        |
+| Immovable Rod             | General  | No         |
+| **Bjorn Item Slot**       | Variable | TBD        |
+| **Forge Item Slot**       | Variable | TBD        |
+
+### Rare
+| Name                      | Type     | Attunement |
+| ------------------------- | -------- | ---------- |
+| **Draven Item Slot**      | Variable | TBD        |
+| Decanter of Endless Water | General  | No         |
+| Necklace of Adaptation    | General  | Yes        |
+| Ring of Protection        | General  | Yes        |
+| **Geralt Item Slot**      | Variable | TBD        |
+| **Bjorn Item Slot**       | Variable | TBD        |
+| **Forge Item Slot**       | Variable | TBD        |
+| Elven Chain               | General  | No         |
+
+### Very Rare
+|Name|Type|Attunement|
+|---|---|---|
+|Staff of the Magi|General|Yes|
+|**Forge Item Slot**|Variable|TBD|
+|Daern's Instant Fortress|General|No|
+|**Geralt Item Slot**|Variable|TBD|
+|**Draven Item Slot**|Variable|TBD|
+|Cloak of Displacement|General|Yes|
+
+### Legendary
+|Name|Type|Attunement|
+|---|---|---|
+|Vorpal Sword|General|Yes|
+|**Bjorn Item Slot**|Variable|TBD|
+|**Forge Item Slot**|Variable|TBD|
+|Manual of Gainful Exercise|General|No|
