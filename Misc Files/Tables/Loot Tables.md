@@ -39,4 +39,6 @@
 | 36  | "Dragon Chess Set", made of finely carved wood.                       |
 | 37  | "Map of Secret Tunnels" underneath the city of Sharn.                 |
 | 38  | "Cursed Ring", that brings misfortune to its wearer.                  |
-| 39  | "Torn Page from a Spellbook", contains a single spell.
+| 39  | "Torn Page from a Spellbook", contains a single spell.                |
+
+## Magic Item Tables
