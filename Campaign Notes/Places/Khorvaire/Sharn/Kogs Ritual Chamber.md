@@ -70,7 +70,7 @@ Navigating the Collapsing Tunnel:
 >[!TLDR]
 >- **Features:** A room filled with decommissioned heavy machinery and furnaces. A large elevator with empty crates is in the middle. Massive Ore buckets hang from the ceiling.
 >- **Lighting:** Dim, with occasional flickers from cracks in the wall
->- **Attack(s):** Bursts through wall, Slam, falling machinery
+>- **Attack(s):** Bursts through wall, Seismic Stomp, falling machinery, Slam
 
 **Challenges:** 
 Reactivate the elevator:
@@ -82,7 +82,7 @@ Reactivate the elevator:
 ### Chamber 5: Narrow Bridge
 
 >[!TLDR]
->- **Features:** A narrow, precarious bridge over a deep chasm.
+>- **Features:** A narrow, precarious bridge over a deep chasm, drowned by silence.
 >- **Lighting:** Dim, with sunlight licking the cavern floor from an exit across the bridge.
 >- **Attack(s):** Keeping balance on the narrow bridge, dealing with any attacks from the automaton.
 
