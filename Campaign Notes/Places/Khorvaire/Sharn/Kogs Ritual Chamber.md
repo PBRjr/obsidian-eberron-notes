@@ -4,7 +4,7 @@ RULES
 1. The party must reach 5 successes before they get 3 failures.
 2. Each success allows them to avoid an automation attack and/or advance to the next room.
 3. Rubble & rock constantly falls from above, threatening a total collapse of the cavern.
-
+4. Attacks: All involved in failed skill check roll DC 12-15 dex saving throw or take
 
 ## Automaton
 **Attacks.**
@@ -48,7 +48,7 @@ Initial Escape:
 Crossing the Lava Moat:
 	- **Obstacle:** Finding a safe way across the lava moat and avoid fissures/geysers
 	- **Skills:** Athletics, Acrobatics, Nature, Investigation.
-	- **Success:** The party crosses the moat safely.
+	- **Success:** The party crosses the moat safely and avoids attack.
 	- **Failure:** The party suffers heat damage or falls into the lava, causing delays.
 
 ### Chamber 3: Collapsing Tunnel
