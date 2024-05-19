@@ -50,7 +50,7 @@
 | Healing Potion       | General  | No         |
 | **Forge Item Slot**  | Variable | TBD        |
 | **Bjorn Item Slot**  | Variable | TBD        |
-| Bag of Holding       | General  | No         |
+| ~~Bag of Holding~~   | General  | No         |
 | **Geralt Item Slot** | Variable | TBD        |
 | Scroll of Identify   | General  | No         |
 | **Draven Item Slot** | Variable | TBD        |
@@ -61,18 +61,18 @@
 | **Geralt Item Slot** | Variable | TBD        |
 
 ### Uncommon
-| Name                      | Type     | Attunement |
-| ------------------------- | -------- | ---------- |
-| **Draven Item Slot**      | Variable | TBD        |
-| **Bjorn Item Slot**       | Variable | TBD        |
-| Portable Hole             | General  | No         |
-| **Forge Item Slot**       | Variable | TBD        |
-| **Geralt Item Slot**      | Variable | TBD        |
-| Potion of Greater Healing | General  | No         |
-| **Draven Item Slot**      | Variable | TBD        |
-| Immovable Rod             | General  | No         |
-| **Bjorn Item Slot**       | Variable | TBD        |
-| **Forge Item Slot**       | Variable | TBD        |
+| Name                      | Type           | Attunement | PC         |
+| ------------------------- | -------------- | ---------- | ---------- |
+| **Draven Item Slot**      | Variable       | TBD        | **Draven** |
+| **Bjorn Item Slot**       | Variable       | TBD        | **Bjorn**  |
+| Portable Hole             | General        | No         |            |
+| All-Purpose Tool          | Wonderous Item | TBD        | **Forge**  |
+| **Geralt Item Slot**      | Variable       | TBD        | **Geralt** |
+| Potion of Greater Healing | General        | No         |            |
+| **Draven Item Slot**      | Variable       | TBD        | **Draven** |
+| Immovable Rod             | General        | No         |            |
+| **Bjorn Item Slot**       | Variable       | TBD        | **Bjorn**  |
+| **Forge Item Slot**       | Variable       | TBD        | **Forge**  |
 
 ### Rare
 | Name                      | Type     | Attunement |
@@ -87,19 +87,19 @@
 | Elven Chain               | General  | No         |
 
 ### Very Rare
-|Name|Type|Attunement|
-|---|---|---|
-|Staff of the Magi|General|Yes|
-|**Forge Item Slot**|Variable|TBD|
-|Daern's Instant Fortress|General|No|
-|**Geralt Item Slot**|Variable|TBD|
-|**Draven Item Slot**|Variable|TBD|
-|Cloak of Displacement|General|Yes|
+| Name                     | Type     | Attunement |
+| ------------------------ | -------- | ---------- |
+| Staff of the Magi        | General  | Yes        |
+| **Forge Item Slot**      | Variable | TBD        |
+| Daern's Instant Fortress | General  | No         |
+| **Geralt Item Slot**     | Variable | TBD        |
+| **Draven Item Slot**     | Variable | TBD        |
+| Cloak of Displacement    | General  | Yes        |
 
 ### Legendary
-|Name|Type|Attunement|
-|---|---|---|
-|Vorpal Sword|General|Yes|
-|**Bjorn Item Slot**|Variable|TBD|
-|**Forge Item Slot**|Variable|TBD|
-|Manual of Gainful Exercise|General|No|
+| Name                       | Type     | Attunement |
+| -------------------------- | -------- | ---------- |
+| Vorpal Sword               | General  | Yes        |
+| **Bjorn Item Slot**        | Variable | TBD        |
+| **Forge Item Slot**        | Variable | TBD        |
+| Manual of Gainful Exercise | General  | No         |
