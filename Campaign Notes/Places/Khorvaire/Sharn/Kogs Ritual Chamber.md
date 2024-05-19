@@ -40,9 +40,9 @@ Initial Escape:
 ### Chamber 2: Lava Moat Chamber
 
 >[!TLDR]
->- **Features:** A large chamber split by a flowing lava moat, with narrow, unstable pathways and machinery parts that can be manipulated.
->- **Lighting:** Bright from the glowing lava.
->- **Obstacles:** Narrow pathways, heat and geysers from the lava, potential collapses & fissures
+>- **Features:** A large chamber split by a flowing lava moat, filled with large chunks of ore. Narrow, unstable pathways line the back wall.
+>- **Lighting:** Bright from the glowing lava and occasional geysers.
+>- **Attack(s):** 
 
 **Challenges:** 
 Crossing the Lava Moat:
@@ -54,7 +54,7 @@ Crossing the Lava Moat:
 ### Chamber 3: Collapsing Tunnel
 
 >[!TLDR]
->- **Features:** A long, narrow, and rough tunnel
+>- **Features:** A long and narrow tunnel with a ceiling supported by stone pillars.
 >- **Lighting:** Dim, with occasional flickers from falling rocks.
 >- **Attack(s):** Antimatter Cannon
 
