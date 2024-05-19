@@ -1,6 +1,6 @@
 ### Summary of the Skill Challenge Rooms
 
-1. *Ritual Chamber:** Find hidden passage.
+1. **Ritual Chamber:** Find hidden passage.
 2. **Lava Moat Chamber:** Cross the lava moat.
 3. **Collapsing Tunnel:** Navigate through falling rocks.
 4. **Machinery Room:** Use machinery for distraction/barriers.
@@ -9,12 +9,11 @@
 
 ### Ritual Chamber
 
-**Description:**
-
-- **Features:** Large stone tablet, gears, cogs, and other machinery parts scattered around.
-- **Lighting:** Dim light from distant lava pools through gaps in the rocks.
-- **Obstacles:** Debris falling from the automaton's movements, hidden passageways being revealed.
-- **Initial Goal:** Find a hidden passage to escape the chamber.
+>[!TLDR]
+>- **Features:** Large stone tablet, gears, cogs, and other machinery parts scattered around.
+>- **Lighting:** Dim light from distant lava pools through gaps in the rocks.
+>- **Obstacles:** Debris falling from the automaton's movements, hidden passageways being revealed.
+>- **Initial Goal:** Find a hidden passage to escape the chamber.
 
 **Challenges:**
 
