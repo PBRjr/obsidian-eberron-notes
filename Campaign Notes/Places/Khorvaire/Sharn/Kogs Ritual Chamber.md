@@ -4,7 +4,7 @@ RULES
 1. The party must reach 5 successes before they get 3 failures.
 2. Each success allows them to avoid an automation attack and/or advance to the next room.
 3. Rubble & rock constantly falls from above, threatening a total collapse of the cavern.
-4. Attacks: All involved in failed skill check roll DC 12-15 dex saving throw or take
+4. Attacks: All involved in failed skill check roll **DC 12-15 dex saving throw** or take **10(3d6) dmg**.
 
 ## Automaton
 **Attacks.**
