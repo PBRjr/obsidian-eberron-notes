@@ -67,7 +67,7 @@
 | **Bjorn Item Slot**       | Variable       | TBD        | **Bjorn**  |
 | Portable Hole             | General        | No         |            |
 | All-Purpose Tool          | Wonderous Item | YES        | **Forge**  |
-| **Geralt Item Slot**      | Variable       | TBD        | **Geralt** |
+| Nature's Mantle           | Wonderous Item | YES        | **Geralt** |
 | Potion of Greater Healing | General        | No         |            |
 | **Draven Item Slot**      | Variable       | TBD        | **Draven** |
 | Immovable Rod             | General        | No         |            |
