@@ -1915,106 +1915,100 @@ References
 #### Kogs Ritual Chamber
 
 
- ### Main Ritual Chamber
 
-> [!tldr]
-> 
-> - **Stone Altar**: Arcane symbols, purple energy glow
-> - **Woe's Machinery**: Dormant machinery, purple energy enchantment
-> - **Mordakhesh's Portal**: Shadowy remnants of dark energy
-> - **Loot**: None (intended for combat)
-> - **Exits**: Path 1 (Teleportation Circle), Path 2 (Secret Storage Chamber), Path 3 (Escape Path)
+---
+RULES
+1. The party must reach 5 successes before they get 3 failures.
+2. Each success allows them to avoid an automation attack and/or advance to the next room.
+3. Rubble & rock constantly falls from above, threatening a total collapse of the cavern.
+4. Attacks: All involved in failed skill check roll **DC 12-15 dex saving throw** or take **10(3d6) dmg**.
+5. The party gets one round to take action before the challenge begins, as the machine comes to life.
 
-**Stone Altar**:
+## Automaton
+**Attacks.**
+Magnetic pulse & Gear Storm Barrage
+- *Magnetic Pulse.* The automaton releases a powerful magnetic pulse that attracts metal objects towards it, including weapons, armor, and machinery parts.
+- *Gearstorm Barrage.* The automaton unleashes a torrent of spinning gears and cogs from its body, creating a storm of sharp metal that fills the chamber.
 
-- Central to the room.
-- Covered in intricate arcane symbols glowing with purple energy.
-- Where Woe lies during the ritual.
+*Seismic Stomp.* The automaton stomps on the ground with tremendous force, causing tremors that destabilize the surroundings and create fissures.
 
-**Woe's Machinery**:
+*Antimatter Cannon.* The automaton channels its magical energy to its hand and releases it, unleashing a powerful and focused beam of energy that destroys structures in its path.
+## Summary of the Skill Challenge Rooms
+1. **Ritual Chamber:** Find hidden passage.
+2. **Lava Moat Chamber:** Cross the lava moat.
+3. **Collapsing Tunnel:** Navigate through falling rocks.
+4. **Machinery Room:** Use machinery for distraction/barriers.
+5. **Narrow Bridge:** Cross the precarious bridge.
+6. **Exit Chamber:** Locate the correct exit.
+### Ritual Chamber
 
-- Dormant mechanical constructs near the altar.
-- Infused with purple energy, ready to be animated by Woe.
-- Smaller arcane devices line the walls, hinting at potential hazards.
+>[!TLDR]
+>- **Features:** Large stone tablet, gears, cogs, and other machinery parts scattered around.
+>- **Lighting:** Dim light from distant lava pools through gaps in the rocks.
+>- **Attack(s):** Magnetic Pulse & Gear Storm Barrage.
 
-**Mordakhesh's Portal**:
+**Challenges:**
+Initial Escape:
+- **Obstacle:** Metal door ripped of hinges, debris blocks path to teleportation circle.
+- **Skills:** Athletics, Acrobatics, Investigation.
+- **Success:** The party discovers a hidden passage to the side leading to the next chamber.
+- **Failure:** The party stumbles, allowing the automaton to attack.
 
-- Shadowy remnants of dark energy shimmer at the northwest edge.
-- Permanently sealed after Mordakhesh leaves.
+### Chamber 2: Lava Moat Chamber
 
-**Exits**:
+>[!TLDR]
+>- **Features:** A large chamber split by a flowing lava moat, filled with large chunks of ore. Narrow, unstable pathways line the back wall.
+>- **Lighting:** Bright from the glowing lava and occasional geysers.
+>- **Attack(s):** Seismic Slam
 
-- **Path 1**: Leads to the **Teleportation Circle Chamber**.
-- **Path 2**: Leads to the **Secret Storage Chamber**.
-- **Path 3**: Leads to the **Escape Path to Sharn**.
+**Challenges:** 
+Crossing the Lava Moat:
+- **Obstacle:** Finding a safe way across the lava moat and avoid fissures/geysers
+- **Skills:** Athletics, Acrobatics, Nature, Investigation.
+- **Success:** The party crosses the moat safely and avoids attack.
+- **Failure:** The party suffers heat damage or falls into the lava, causing delays.
 
-### Teleportation Circle Chamber
+### Chamber 3: Collapsing Tunnel
 
-> [!tldr]
-> 
-> - **Teleportation Circle**: Arcane symbols, intricate design
-> - **Arcane Control Panel**: Activate circle (DC 15 Arcana)
-> - **Exit**: Door to Main Ritual Chamber
+>[!TLDR]
+>- **Features:** A long and narrow tunnel with a ceiling supported by stone pillars.
+>- **Lighting:** Dim, with occasional flickers from falling rocks.
+>- **Attack(s):** Antimatter Cannon
 
-**Teleportation Circle**:
+**Challenges:** 
+Navigating the Collapsing Tunnel:
+- **Obstacle:** Avoiding falling rocks and finding a stable path.
+- **Skills:** Acrobatics, Athletics, Survival, Perception.
+- **Success:** The party makes it through the tunnel without major injuries.
+- **Failure:** The party is injured by falling rocks or trapped momentarily, causing delays.
 
-- Intricate circle of glowing arcane symbols in the center.
-- Used by the party to enter the Kogs, and can be reactivated for escape.
+### Chamber 4: Ore Refinery
 
-**Arcane Control Panel**:
+>[!TLDR]
+>- **Features:** A room filled with decommissioned heavy machinery and furnaces. A large elevator with empty crates is in the middle. Massive Ore buckets hang from the ceiling.
+>- **Lighting:** Dim, with occasional flickers from cracks in the wall
+>- **Attack(s):** Bursts through wall, Seismic Stomp, falling machinery, Slam
 
-- Near the circle, controlling activation.
-- **DC 15 Arcana Check** required to reactivate.
+**Challenges:** 
+Reactivate the elevator:
+- **Obstacle:** Broken elevator, connected to a console, needs arcane lay lines rewired.
+- **Skills:** Investigation, Perception, Tools.
+- **Success:** The elevator reactivates, and moves fast enough to avoid attacks.
+- **Failure:** The elevator reactivates, but takes too much time, allowing an attack.
 
-**Exit**:
+### Chamber 5: Narrow Bridge
 
-- Door leading to the **Main Ritual Chamber**.
+>[!TLDR]
+>- **Features:** A narrow, precarious bridge over a deep chasm, drowned by silence.
+>- **Lighting:** Dim, with sunlight licking the cavern floor from an exit across the bridge.
+>- **Attack(s):** Grapple and drag into pit
 
-### Secret Storage Chamber
-
-> [!tldr]
-> 
-> - **Locked Cabinet**: Arcane supplies, loot (DC 15 Sleight of Hand)
-> - **Secret Door**: Hidden exit to Main Ritual Chamber (DC 14 Perception)
-
-**Locked Cabinet**:
-
-- Contains various arcane supplies and loot.
-- Locked with a sturdy mechanism.
-- **DC 15 Sleight of Hand** to pick or **DC 18 Strength** to break.
-
-**Loot**:
-
-- Potion of Greater Healing (x2)
-- Arcane Scrolls (Lesser Restoration, Dispel Magic)
-- 150 GP in assorted coins
-
-**Secret Door**:
-
-- Leads to the **Main Ritual Chamber**.
-- **DC 14 Perception** to locate.
-
-### Escape Path to Sharn (Collapsed Tunnel)
-
-> [!tldr]
-> 
-> - **Collapsed Debris**: Blocks tunnel initially (DC 16 Strength)
-> - **Arcane Runes**: Ancient symbols, glow faintly
-> - **Exit**: Winding tunnel leads into Sharn
-
-**Collapsed Debris**:
-
-- Initially blocks the tunnel.
-- **DC 16 Strength Check** required to clear debris.
-
-**Arcane Runes**:
-
-- Ancient arcane runes inscribed around the tunnel opening.
-- Glow faintly after the debris is cleared.
-
-**Exit**:
-
-- Tunnel leads into a safe exit in Sharn.
+**Challenges:**
+Crossing the Narrow Bridge:
+- **Obstacle:** Automaton climbs up pit and attempts to grab a PC before it falls.
+- **Skills:** Acrobatics, Athletics, Perception.
+- **Success:** The party crosses the bridge safely.
+- **Failure:** The party risks being dragged into the chasm.
 
 #### Sharn
 
@@ -3014,7 +3008,8 @@ How did Aeren learn House Cannith may have been involved in the Day of Mourning?
 - When his parents were killed, he escaped and fled into the woods. He was about 12. He learned to live off the land and was able to survive.
 - He now lives near Shavalant and the Whitehorn Woods.
 
-#### PC: (Ozzie's character)
+#### PC: Forge
+- 
 #### PC: Sylas Stormshadow (Deceased)
 - Father was an Elven scholar focused on forbidden knowledge about magic
 - Mother was a human merchant in Sharn's Underbelly
@@ -3970,7 +3965,7 @@ Action 2: Lords of Dust
 - Be prepared for the party's actions to have long-term effects on their relationship with the Boromar Clan and make them known (and possibly wanted) in Sharn.
 - Try to indicate the Sons of the Daughter of Khyber are unimportant pawns.
 
-### 4 Recap
+### 4 recap
 
 
 Raided the boromar gang campsite
@@ -4134,6 +4129,11 @@ The party defeats them all and sustain no casualties.
 	- Woe used his newfound abilities to animate a large machine-creature that moved to attack the party.
 
 Session end.
+
+### 6 Plans
+
+
+
 
 ## The Party
 
