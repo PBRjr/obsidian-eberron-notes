@@ -80,8 +80,9 @@
 	- Cannith artificers devised a method of transferring the soul of a recently deceased humanoid into the body of a warforged - building on the original *Steelhardt* designs taken from Geralt's parents.
 	- Forge was the first of these new warforged - and the only one that didn't lose his mind due to his new found form. All others in his creation batch either ended their own existence or were terminated after the creation process. Artificers were unable to identify and replicate what traits allowed Forge to retain both his memories as a human and his sanity.
 	- All subsequent batches were made with these methods, using the souls of dead soldiers, however they were stripped of their mortal memories. This was the only work-around House Cannith could devise to prevent these new Warforged from losing their minds.
--  Human General of **House Cannith**
-- In a **battle during the last war**, I sacrificed myself for my men and lost my life in an **explosion I set off to overtake the enemy**
+- Human General of **House Cannith**
+- In a **battle during the last war (The same battle Woe died to Lick's father in?)**, I sacrificed myself for my men and lost my life in an **explosion I set off to overtake the enemy**
+	- Woe and Forge were fighting for the same side? Forge valued winning the battle/war over the lives of his own men. While Woe and Lick's father were engaged in battle, Forge made the decision to sacrifice himself and his entire squad to blow up and destroy the targ
 - My soul, captured by House Cannith and **infused into a Warforged body**, I retained my memory (not known to have ever happened during the creation process)
 - I broke free, escaped my creation forge, **destroyed all House Cannith creation forges,** and **liberated the warforged**
 - Warforged were not liberated due to the Treaty of Thronehold. This treaty was a political move so that House Cannith would not have to admit that a Singular warforged destroyed all their forges (protecting themselves from judgment and taking control of the narrative to prevent a negative reputation)
