@@ -164,7 +164,11 @@
 
 - Artifact 2: ***Etherseraph***
 	- The Etherseraph was crafted by Varyn following the Silver Flame's creation.
-	- 
+	- In addition to a powerful weapon, the Etherseraph is a tool:
+		- The white flame of the Etherseraph will clear the fog of the Mourning and light the way to the Gate of the Silver Flame.
+		- The Gate is the entrance to the pocket dimension that contains the actual Silver Flame.
+	- Over the years, Varyn has gifted it to many people he deemed worthy to carry it, the most notable being Tira Miron, who, years ago, used it to reseal an escaped Overlord and become the Voice of the Silver Flame.
+	- Draven Flameforge was another that was trained by Varyn, and gifted the Etherseraph to wield in the n
 	- Currently in Hrothgar's possession, obtained when he battled and killed Draven
 	- Contains runes that tell of the location of the Silver Flame
 		- Unlocks a portal in the Mournland that teleports to Vault within its own pocket dimension.
