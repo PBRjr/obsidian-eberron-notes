@@ -180,7 +180,11 @@
 
 - **Villains**
 	- Vorak
-		- Underwent ritual before Woe using the Steelhardt and led the forces of the LoD in their attack against the Silver Flame on the Day of Mourning.
+		- Voluntarily underwent House Cannith's very first attempt at using the Steelhardt to transfer a soul to another body.
+		- The transfer was successful, moving Vorak from his original body to a younger, stronger one from a random deceased soldier.
+		- While he retained his memories, his mind quickly became plagued with dark thoughts, his grip on reality worsening.
+		- He went rogue, and was recruited by Mordakhesh, who manipu
+		- and led the forces of the LoD in their attack against the Silver Flame on the Day of Mourning.
 			- Due to an inherent failure in the Steelhardt, his attempt to destroy the Silver Flame failed and rebounded, turning him into a rage-fueled creature of destruction, and allowing the Silver Flame to defend itself with the Mourning.
 		- He was sent by Marix d'Clone to kill Geralt's parents after they fled House Cannith.
 		- Now he roams the land, destroying villages, feeding off the rage of the survivors, and using it to resurrect himself should he fall in battle.
@@ -216,12 +220,8 @@
 - **Factions**
 	- House Cannith
 		- The leader of Cannith south is Marix d'Cannith.
-			- He was kidnapped and replaced by a shape-shifting agent (AKA Marix d'Clone) sometime before the Steelhardt was completed and used on Vorack.
-			- The real Marix is being held? Or is he dead?
-		- Marix d'Clone ordered the use of the Steelhardt in the ritual involving Vorack.
+		- Marix ordered the use of the Steelhardt in the ritual involving Vorack.
 		- He also put the hit out on Geralt's parents.
-		- ***Secret***: Marix d'Cannith was replaced by a LoD shapeshifter several years ago, before the Day of Mourning.
-		- (Needs developing: Who is the shapeshifter specifically? What are his motivations?)
 
 	- Church of the Silver Flame
 		- ***Secret***: Doesn't actually know where the Silver Flame is kept.
