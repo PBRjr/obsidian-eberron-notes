@@ -172,7 +172,9 @@
 
 - Artifact 3: ***Steelhardt***
 	- Originally developed by Geralt's Parents as a device that could transfer consciousness to a corpse, producing immortality.
-	- The original designs called for the involvement of all 3 aspects of the Progenitor Dragons in order for a successful transferrence - A 
+	- Geralt's parent knew that the transference would only be successful if balance between all 3 *Aspects of the Progenitors* were maintained.
+		- Siberys's aspect: Light, Divinity
+		- Khyber's aspect: Darkness, Impiety
 	- Marix d'Cannith & the LoD wanted to use it to create an avatar that could wield Rak Tulkesh's power and destroy the Silver Flame
 	- This failed because:
 		- It was intended for a consciousness to take over a corpse, not to absorb a great power into a living body
