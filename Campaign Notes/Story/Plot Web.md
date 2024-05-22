@@ -83,7 +83,7 @@
 - Human General of **House Cannith (Or maybe some other affiliation makes more sense?)**
 - In a **battle during the last war (The same battle Woe died to Lick's father in?)**, I sacrificed myself for my men and lost my life in an **explosion I set off to overtake the enemy**
 	- Woe and Forge were fighting for the same side? Forge valued winning the battle/war over the lives of his own men. While Woe and Lick's father were engaged in battle, Forge made the decision to sacrifice himself and his entire squad to blow up and destroy the **target (what was the target/what was this battle being fought for?)**.
-	- Woe died close to Lick's father's fragment of the *FKD*, causing it to latch onto his soul and allowing him to be rescurected through Mordakhesh's ritual (more details in Woe's backstory)
+	- Woe died close to Lick's father's fragment of the *FKD*, causing a dark cancer to latch onto his soul which allowed him to be resurrected into a Warforged body through Mordakhesh's ritual (more details in Woe's backstory)
 - Forge's soul was captured by House Cannith and **infused into a Warforged body (Forge had signed up for this secret program through House Cannith? Or was he chosen without his consent? Why?)**. He was held prisoner and used for various tests and experiments for a period of time.
 - Near the end of the war, he broke free and, using his skills from his past life, **destroyed his creation forge**.
 	- He obtained information on his creation, including the methods that were still being used to create new warforged.
@@ -92,7 +92,6 @@
 - Due to the ever-looming threat of blackmail, House Cannith has been hunting Forge ever since his escape, attempting to **capture him for further study (probably to continue to attempt to replicate the traits that allowed him to keep his memories)** and eliminate the possibility of that information ever getting out.
 - A unique **Dragonmark (dragonmark found on the designs of the Steelhardt? It started small but has continued growing on his body due to his unique creation process?)** sprouted from his chest shortly after his creation, and has slowly continued to grow to different parts of his body **(Could the unique dragonmark somehow tie him to Geralt's parents designs? Perhaps they secretly hid a 'calling card' or watermark that would clue people into their designs being used?)**
 - He learned of **another creation forge (In sharn? How did he find out?)**, explaining his presence outside the lighthouse during his introduction to the campaign in session 5.
-- Am I a fallen soldier **targetedly-reincarnated (maybe as an experimental prototype  - the first and only warforged reincarnated using a prototype of the Steelhardt?)** as a living weapon that liberated the remaining warforged, while simultaneously destroying our only means of creation and being responsible for the potential demise of my entire race?
 - ***Character motivation:***
 	- Is it unethical to create more in my image? Does that make me a God, or does that make me one of you?
 #### PC: Sylas Stormshadow (Deceased)
@@ -190,7 +189,9 @@
 			- The rage consumed them, and forces them to plunge the artifact into their own chest, killing them, and allowing Vorak to resurrect through their body.
 
 	- Woe
-		- Was killed by Lick's father who was wearing a dragonshard fragment, during a battle in the Last War.
+		- Was originally a human soldier fighting in the Last war under his commanding officer, Forge.
+		- During a battle, he was locked into a duel with Lick's father, who wore a fragment of the FKD around his neck.
+		- During this duel, Forge sacrif
 		- He was revived by Mordakesh and the resources of the Lords of Dust.
 		- He accepted a deal from Mordakesh to undergo a profane ritual, implanting the main piece of the Fractured Khyber Dragonshard into his chest.
 		- This gave him dark powers, sourced from Rak Tulkesh's consciousness, which is trapped within.
