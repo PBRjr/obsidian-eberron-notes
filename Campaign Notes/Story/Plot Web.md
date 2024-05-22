@@ -191,8 +191,9 @@
 	- Woe
 		- Was originally a human soldier fighting in the Last war under his commanding officer, Forge.
 		- During a battle, he was locked into a duel with Lick's father, who wore a fragment of the FKD around his neck.
-		- During this duel, Forge sacrif
-		- He was revived by Mordakesh and the resources of the Lords of Dust.
+		- During this duel, Forge set off an explosion that completed their objective, but also killed Forge, Woe, Lick's father, and most others that were involved in this battle.
+		- Woe's proximity to the fragment of the FKD during his death caused his soul to be tainted, keeping him in 'Limbo' after death.
+		- Mordakhesh - led by the Draconic Prophecy - resurrected Woe in a profane ritual that stored his soul into the FKD, fusing it with the essence of Rak Tulkesh, and containing it in a Warforged body.
 		- He accepted a deal from Mordakesh to undergo a profane ritual, implanting the main piece of the Fractured Khyber Dragonshard into his chest.
 		- This gave him dark powers, sourced from Rak Tulkesh's consciousness, which is trapped within.
 		- With the whispers of Rak Tulkesh in his head, he seeks to reunite the shard fragments and use the power to unleash the Overlord upon Eberron once again.
