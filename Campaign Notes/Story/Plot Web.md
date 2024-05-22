@@ -194,9 +194,9 @@
 		- During this duel, Forge set off an explosion that completed their objective, but also killed Forge, Woe, Lick's father, and most others that were involved in this battle.
 		- Woe's proximity to the fragment of the FKD during his death caused his soul to be tainted, keeping him in 'Limbo' after death.
 		- Mordakhesh - led by the Draconic Prophecy - resurrected Woe in a profane ritual that stored his soul into the FKD, fusing it with the essence of Rak Tulkesh, and containing it in a Warforged body.
-		- He accepted a deal from Mordakesh to undergo a profane ritual, implanting the main piece of the Fractured Khyber Dragonshard into his chest.
-		- This gave him dark powers, sourced from Rak Tulkesh's consciousness, which is trapped within.
-		- With the whispers of Rak Tulkesh in his head, he seeks to reunite the shard fragments and use the power to unleash the Overlord upon Eberron once again.
+		- This gave him dark powers, sourced from Rak Tulkesh's essence, which is trapped within. The only limit to his power being the remaining FKD fragments that are still out in the world.
+		- Woe's soul now heavily influenced by the Overlord of Rage, he works fanatically under Mordakhesh's guidance.
+		- With the whispers of Rak Tulkesh in his head and Mordakesh's orders, he seeks to reunite all of the FKD fragments and use the power of Rak Tulkesh to liberate his newfound race of War, and destory all other humanoid races from the planet.
 
 	- Mordakhesh
 		- Lieutenant to Rak Tulkhesh
