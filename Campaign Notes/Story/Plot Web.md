@@ -75,7 +75,9 @@
 
 #### PC: Forge
 - ***Warforged Lore:***
-	- Warforged are the man-made reincarnates of the fallen soldiers in the ; our eternity stolen from us, and our souls - repurposed as weapons in the war that took our life once already.
+	- Warforged are the man-made reincarnates of the fallen soldiers in the Last War; Their souls were repurposed as weapons in the war that took their lives once already.
+	- The first few batches of Warforged were created without a 'soul' - mindless automatons that had no self initiative or instinct. They were grunts, they followed orders, but on average they were less effective than a typical soldier.
+	- Cannith artificers devised a method of transferring the soul of a recently deceased humanoid into the body of a warforged.
 -  Human General of **House Cannith**
 - In a **battle during the last war**, I sacrificed myself for my men and lost my life in an **explosion I set off to overtake the enemy**
 - My soul, captured by House Cannith and **infused into a Warforged body**, I retained my memory (not known to have ever happened during the creation process)
