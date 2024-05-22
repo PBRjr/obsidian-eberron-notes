@@ -153,12 +153,12 @@
 **Artifacts**
 - Artifact 1: ***Fractured Khyber Dragonshard (FKD) & Fragments***
 	- Their existence was kept a closely guarded secret by Varyn.
-		- Mordakesh and his followers eventually learned of them, and have been hunting them down since.
+		- Mordakesh and his followers eventually learned of their location, and have been hunting them down since.
 		- Varyn was followed when he began searching for them. He found the first fragment, but tipped the LoD off to the others.
-	- Contains imprisoned consciousness of Rak Tulkesh
+	- Contains imprisoned essence of Rak Tulkesh
 	- Grants user powers if their soul is tainted
 	- Who has them
-		- Woe: main shard + 1 fragment
+		- Woe: main shard + 1 fragment (taken from Lick in session 1)
 		- Professor Baelen ir'Torn: 1 fragment (Needs development, where/how did he find it?)
 		- Hrothgar: 1 fragment, obtained from Draven when Hrothgar battled and killed him
 
@@ -168,13 +168,8 @@
 		- The white flame of the Etherseraph will clear the fog of the Mourning and light the way to the Gate of the Silver Flame.
 		- The Gate is the entrance to the pocket dimension that contains the actual Silver Flame.
 	- Over the years, Varyn has gifted it to many people he deemed worthy to carry it, the most notable being Tira Miron, who, years ago, used it to reseal an escaped Overlord and become the Voice of the Silver Flame.
-	- Draven Flameforge was another that was trained by Varyn, and gifted the Etherseraph to wield in the n
-	- Currently in Hrothgar's possession, obtained when he battled and killed Draven
-	- Contains runes that tell of the location of the Silver Flame
-		- Unlocks a portal in the Mournland that teleports to Vault within its own pocket dimension.
-		-
-		- Varyn felt useless, saw potential in Draven as a protector
-		- Aids in travel through the Mournland, glows blue when pointed in the correct direction
+	- Draven Flameforge was another that was trained by Varyn, and gifted the Etherseraph to wield in the name of Siberys.
+	- It is now in Hrothgar's possession, obtained when he killed Draven in battle.
 
 - Artifact 3: ***Steelhardt***
 	- Originally developed by Geralt's Parents as a device that could transfer consciousness to a corpse, producing immortality.
