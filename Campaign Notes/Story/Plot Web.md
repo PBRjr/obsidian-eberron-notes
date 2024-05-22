@@ -74,7 +74,16 @@
 - He now lives near Shavalant and the Whitehorn Woods.
 
 #### PC: Forge
-- 
+-  Human General of **House Cannith**
+- In a **battle during the last war**, I sacrificed myself for my men and lost my life in an **explosion I set off to overtake the enemy**
+- My soul, captured by House Cannith and **infused into a Warforged body**, I retained my memory (not known to have ever happened during the creation process)
+- I broke free, escaped my creation forge, destroyed all House Cannith creation forges, and liberated the warforged
+- Warforged were not liberated due to the Treaty of Thronehold. This treaty was a political move so that House Cannith would not have to admit that a Singular warforged destroyed all their forges (protecting themselves from judgment and taking control of the narrative to prevent a negative reputation)
+- I had to go into hiding, my House Cannith Dragonmark on my torso and into my arms, legs, and neck transcended my once-living body and onto my forged body (not known to transcend to warforged, up to you if we settle for an aberrant dragonmark instead - I just feel this properly ties me to history and explains how I might be recognized)
+- I caught wind of another creation forge, explaining my presence outside the lighthouse during my introduction to the campaign
+- Warforged are the man-made reincarnates of the Fallen soldiers of the Eberron; our eternity stolen from us, and our souls - repurposed as weapons in the war that took our life once already.  
+- Am I a fallen soldier targetedly-reincarnated as a living weapon that liberated the remaining warforged, while simultaneously destroying our only means of creation and being responsible for the potential demise of my entire race?  
+- Is it unethical to create more in my image? Does that make me a God, or does that make me one of you?
 #### PC: Sylas Stormshadow (Deceased)
 - Father was an Elven scholar focused on forbidden knowledge about magic
 - Mother was a human merchant in Sharn's Underbelly
