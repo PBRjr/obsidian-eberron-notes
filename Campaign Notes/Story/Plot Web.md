@@ -205,12 +205,13 @@
 		- Commands the Lords of Dust & performed ritual on Woe
 		- Has been hunting the Dragonshard fragments for a long time
 			- Ever since Varyn went looking for them
-		- Has been guiding Woe to seek out the *FKD* fragments, telling him they will increase his power and lead him
+		- Has been guiding Woe to seek out the *FKD* fragments, telling him they will give him the power to achieve his own goals
+		- Mardakhesh has kept a secret from Woe - the reunification of the FKD and its shards will allow Rak Tulkesh to use Woe's soul as a catalyst - destroying Rak Tulkesh's prison and allowing his avatar to once again claim dominion over Eberron, shattering Woe's soul in the process.
 
 	- Hrothgar 
 		- Bjorn's brother
 		- Usurped Bjorn's position as the Chieftian of the Stormpeak Clan
-		- Killed Draven and took his fractured dragonshard fragment and white flameblade, further increasing his power and dark taint on the surrounding land.
+		- Killed Draven and took his fractured dragonshard fragment and white flameblade, further increasing his power and dark influence on the surrounding land.
 
 - **Factions**
 	- House Cannith
