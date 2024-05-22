@@ -172,7 +172,7 @@
 
 - Artifact 3: ***Steelhardt***
 	- Originally developed by Geralt's Parents as a device that could transfer consciousness to a corpse, producing immortality.
-	- Worked by attaching a willing soul to a Siberys Dragonshard, then implanting the device into a corpse.
+	- The original designs called for the involvement of all 3 aspects of the Progenitor Dragons in order for a successful transferrence - A 
 	- Marix d'Cannith & the LoD wanted to use it to create an avatar that could wield Rak Tulkesh's power and destroy the Silver Flame
 	- This failed because:
 		- It was intended for a consciousness to take over a corpse, not to absorb a great power into a living body
@@ -197,7 +197,8 @@
 		- His darkness-infused Steelhardt causes him to achieve quasi-lichdom through unique means:
 			- Should his body ever die, his soul will be kept safe in his Steelhardt until it is placed into a new body.
 			- The survivors of his onslaughts get the unrelenting urge to find Vorak and kill him, but if Vorak is dead they find the Steelhardt instead.
-			- The rage consumed them, and forces them to plunge the artifact into their own chest, killing them, and allowing Vorak to resurrect through their body.
+			- Once one of the survivors finds his Steehardt, rage consumes them, and forces them to plunge the artifact into their own chest, killing them, and allowing Vorak to resurrect through their body.
+			- This process can only be stopped through a ritual involving a Siberys Dragonshard
 
 	- Woe
 		- Was originally a human soldier fighting in the Last war under his commanding officer, Forge.
@@ -206,7 +207,7 @@
 		- Woe's proximity to the fragment of the *FKD* during his death caused his soul to be tainted, keeping him in 'Limbo' after death.
 		- Mordakhesh - led by the Draconic Prophecy - resurrected Woe in a profane ritual that stored his soul into the *FKD*, fusing it with the essence of Rak Tulkesh, and containing it in a Warforged body.
 		- This gave him dark powers, sourced from Rak Tulkesh's essence, which is trapped within. The only limit to his power being the remaining FKD fragments that are still out in the world.
-		- Woe's soul now heavily influenced by the Overlord of Rage, he works fanatically under Mordakhesh's guidance.
+		- Woe's soul, now heavily influenced by the Overlord of Rage, works fanatically under Mordakhesh's guidance.
 		- ***Motivation:***
 			- Forge's decision to sacrifice himself and all of his men, including Woe, caused Woe to become extremely tribal, going to extreme means to protect any he deems as 'his people', and to destroy any who he perceives as threatening their existence.
 			- He seeks to reunite all of the *FKD* fragments and use that power to liberate his newfound race of Warforged, and wipe all who oppose him from the planet.
@@ -214,7 +215,7 @@
 	- Mordakhesh
 		- Lieutenant to Rak Tulkhesh
 		- Commands the Lords of Dust & performed ritual on Woe
-		- Has been hunting the Dragonshard fragments for a long time
+		- Has been hunting the FKD fragments for a long time
 			- Ever since Varyn went looking for them
 		- Has been guiding Woe to seek out the *FKD* fragments, telling him they will give him the power to achieve his own goals
 		- Mardakhesh has kept a secret from Woe - the reunification of the FKD and its shards will allow Rak Tulkesh to use Woe's soul as a catalyst - destroying Rak Tulkesh's prison and allowing his avatar to once again claim dominion over Eberron, shattering Woe's soul in the process.
