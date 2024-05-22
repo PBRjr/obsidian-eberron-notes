@@ -81,7 +81,9 @@
 	- Forge was the first of these new warforged - and the only one that didn't lose his mind due to his new found form. All others in his creation batch either ended their own existence or were terminated after the creation process. Artificers were unable to identify and replicate what traits allowed Forge to retain both his memories and his sanity.
 		- The missing traits being: The soul being transferred MUST have aspects of Khyber & aspects of Siberys fused to the soul to transfer without sanity loss.
 		- Forge's Steelhardt used Siberys shards as a conduit. In all other warforged in his batch, only having a Siberys shard wasn't enough, since there was no aspect of Khyber attached to their soul/in the Steelhardt.
-		- Hense why
+		- Hense why Vorak's transfer was tainted as well. His Steelhardt used a Khyber shard conduit, but there was no aspect of Siberys in him.
+		- Since Forge died in proximity to Lick's father's FKD fragment, an aspect of Khyber attached to his soul, which, in addition to the Siberys Dragonshard conduit in his Steelhardt, meant he retained his memories AND his sanity.
+		- This information about the missing traits is not currently known **(Maybe geralt's parents knew about it, maybe they hid the info somewhere? Aeren d'Cannith may help the party discover it?)**
 	- All subsequent batches were made with these methods, using the souls of dead soldiers, however they were stripped of their mortal memories. This was the only work-around House Cannith could devise to prevent these new Warforged from losing their minds.
 - Human General of **House Cannith (Or maybe some other affiliation makes more sense?)**
 - In a **battle during the last war (The same battle Woe died to Lick's father in?)**, I sacrificed myself for my men and lost my life in an **explosion I set off to overtake the enemy**
@@ -188,7 +190,7 @@
 		- While he retained his memories, his mind quickly became plagued with dark thoughts, his grip on reality worsening.
 		- He went rogue, and was manipulated by Mordakhesh, who focused Vorak's mind to one objective: destory the Silver Flame.
 		- Bolstered by new dark powers infused into his Steelhardt by Mordakesh, he led the forces of the LoD in their attack against the Silver Flame on the Day of Mourning.
-			- Due to an inherent failure in the Steelhardt, his attempt to destroy the Silver Flame failed and rebounded, turning him into a rage-fueled creature of destruction, and allowing the Silver Flame to defend itself with the Mourning.
+			- His attempt to destroy the Silver Flame failed and rebounded, turning him into a rage-fueled creature of destruction, and allowing the Silver Flame to defend itself by causing the Mourning.
 		- He was sent by Marix d'Clone to kill Geralt's parents after they fled House Cannith.
 		- Now he roams the land, destroying villages, feeding off the rage of the survivors, and using it to resurrect himself should he fall in battle.
 		- Heart was replaced with the Steelhardt.
