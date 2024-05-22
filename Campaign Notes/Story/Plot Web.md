@@ -163,10 +163,12 @@
 		- Hrothgar: 1 fragment, obtained from Draven when Hrothgar battled and killed him
 
 - Artifact 2: ***Etherseraph***
-	- Currently in Varyn's possession, obtained when he battled and killed Draven
+	- The Etherseraph was crafted by Varyn following the Silver Flame's creation.
+	- 
+	- Currently in Hrothgar's possession, obtained when he battled and killed Draven
 	- Contains runes that tell of the location of the Silver Flame
-		- Unlocks a portal in the Mournland that teleports to Vault deep under Xen'Drik jungle
-		- sword was created by Varyn when vault was originally sealed, gave it to Draven
+		- Unlocks a portal in the Mournland that teleports to Vault within its own pocket dimension.
+		-
 		- Varyn felt useless, saw potential in Draven as a protector
 		- Aids in travel through the Mournland, glows blue when pointed in the correct direction
 
@@ -177,11 +179,7 @@
 		- **Khyber's aspect:** Darkness, Impiety
 		- **Eberron's aspect:** Materialism, Tangibility
 	- Any imbalance of these 3 (like only using a Khyber/Siberys shard without the other) would result in an imbalance of the soul, causing psychosis.
-	- The LoD wanted to use a Steelhardt to transfer Rak Tulkesh's essence from the FKD into a living avatar, so that he could be freed from his bonds and reign over Eberron once again.
-	- However, when he attempted to destroy the Silver Flame, the awesome power of the Silver Flame broke the Steelhardt's protection mechanisms, allowing the corrupted power to consume Vorak completely. This gave him a quasi-immortality, similar to Lichdom, but cost him his individuality, turning him into a rage-fueled killer.
-	- The only way to destroy Vorak is to complete a ritual that can 'cleanse' the corrupted shard within.
-	- It can then be used as a way to 'cleanse' Woe?
-		- It was made to store a consciousness, so it can be used to steal Rak Tulkesh's consciousness from the Fractured Dragonshard (once the fragments are reunited).
+	- The LoD seek to use a Steelhardt to transfer Rak Tulkesh's essence from the FKD into a living avatar, so that he could be freed from his bonds and reign over Eberron once again (See Woe's plot pieces).
 
 - **Villains**
 	- Vorak
