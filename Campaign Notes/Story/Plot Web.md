@@ -173,13 +173,11 @@
 - Artifact 3: ***Steelhardt***
 	- Originally developed by Geralt's Parents as a device that could transfer consciousness to a corpse, producing immortality.
 	- Geralt's parent knew that the transference would only be successful if balance between all 3 *Aspects of the Progenitors* were maintained.
-		- Siberys's aspect: Light, Divinity
-		- Khyber's aspect: Darkness, Impiety
-	- Marix d'Cannith & the LoD wanted to use it to create an avatar that could wield Rak Tulkesh's power and destroy the Silver Flame
-	- This failed because:
-		- It was intended for a consciousness to take over a corpse, not to absorb a great power into a living body
-		- The consciousness of an Overlord can never be contained within a Siberys Dragonshard, it is too closely connected to Siberys.
-	- Instead, the power of Rak Tulkesh corrupted the shard within the device, along with Vorak's body. While this granted him increased power, it came at the cost of a short life.
+		- **Siberys's aspect:** Light, Divinity
+		- **Khyber's aspect:** Darkness, Impiety
+		- **Eberron's aspect:** Materialism, Tangibility
+	- Any imbalance of these 3 (like only using a Khyber/Siberys shard without the other) would result in an imbalance of the soul, causing psychosis.
+	- The LoD wanted to use a Steelhardt to transfer Rak Tulkesh's essence from the FKD into a living avatar, so that he could be freed from his bonds and reign over Eberron once again.
 	- However, when he attempted to destroy the Silver Flame, the awesome power of the Silver Flame broke the Steelhardt's protection mechanisms, allowing the corrupted power to consume Vorak completely. This gave him a quasi-immortality, similar to Lichdom, but cost him his individuality, turning him into a rage-fueled killer.
 	- The only way to destroy Vorak is to complete a ritual that can 'cleanse' the corrupted shard within.
 	- It can then be used as a way to 'cleanse' Woe?
