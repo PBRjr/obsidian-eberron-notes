@@ -190,19 +190,22 @@
 
 	- Woe
 		- Was originally a human soldier fighting in the Last war under his commanding officer, Forge.
-		- During a battle, he was locked into a duel with Lick's father, who wore a fragment of the FKD around his neck.
+		- During a battle, he was locked into a duel with Lick's father, who wore a fragment of the *FKD* around his neck.
 		- During this duel, Forge set off an explosion that completed their objective, but also killed Forge, Woe, Lick's father, and most others that were involved in this battle.
-		- Woe's proximity to the fragment of the FKD during his death caused his soul to be tainted, keeping him in 'Limbo' after death.
-		- Mordakhesh - led by the Draconic Prophecy - resurrected Woe in a profane ritual that stored his soul into the FKD, fusing it with the essence of Rak Tulkesh, and containing it in a Warforged body.
+		- Woe's proximity to the fragment of the *FKD* during his death caused his soul to be tainted, keeping him in 'Limbo' after death.
+		- Mordakhesh - led by the Draconic Prophecy - resurrected Woe in a profane ritual that stored his soul into the *FKD*, fusing it with the essence of Rak Tulkesh, and containing it in a Warforged body.
 		- This gave him dark powers, sourced from Rak Tulkesh's essence, which is trapped within. The only limit to his power being the remaining FKD fragments that are still out in the world.
 		- Woe's soul now heavily influenced by the Overlord of Rage, he works fanatically under Mordakhesh's guidance.
-		- With the whispers of Rak Tulkesh in his head and Mordakesh's orders, he seeks to reunite all of the FKD fragments and use the power of Rak Tulkesh to liberate his newfound race of War, and destory all other humanoid races from the planet.
+		- ***Motivation:***
+			- Forge's decision to sacrifice himself and all of his men, including Woe, caused Woe to become extremely tribal, going to extreme means to protect any he deems as 'his people', and to destroy any who he perceives as threatening their existence.
+			- He seeks to reunite all of the *FKD* fragments and use that power to liberate his newfound race of Warforged, and wipe all who oppose him from the planet.
 
 	- Mordakhesh
 		- Lieutenant to Rak Tulkhesh
 		- Commands the Lords of Dust & performed ritual on Woe
 		- Has been hunting the Dragonshard fragments for a long time
 			- Ever since Varyn went looking for them
+		- Has been guiding Woe to seek out the *FKD* fragments, telling him they will increase his power and lead him
 
 	- Hrothgar 
 		- Bjorn's brother
