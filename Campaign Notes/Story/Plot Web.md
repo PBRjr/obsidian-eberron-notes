@@ -4,7 +4,7 @@
 - Stormpeak Clan
 - Kvitrafn "White Raven" Ulfr
 	- Bjorn & Hrothgar's father
-	- Former chieftan
+	- Former chieftain
 	- Killed in battle
 - Traust Ulfr
 	- Bjorn & Hrothgar's mother, clan's oracle
