@@ -62,8 +62,8 @@
 		- The consciousness was attached to the Steelhardt in a magical ritual
 		- It then had to be implanted into a corpse for the consciousness to then take over.
 	- They worked for years refining the designs.
-	- Marix, working with the LoD, took an interest in these designs and ordered a prototype made.
-		- Yelena and Norbit found out about the prototypes intended use, and fled House Cannith with all of the designs, hiding with their young son near the Whitehorn Woods.
+	- Marix, working with the LoD, took an interest in these designs for use in creating a sentient warforged army.
+		- Yelena and Norbit found out about Marix's plans and fled House Cannith with all of the designs, hiding with their young son near the Whitehorn Woods.
 - Geralt was snooping in his father's office when he found the designs laid out across his desk.
 		- Being unable to read them, he stole a page that had 'cool' designs and runes on it, also bearing the Gorgon seal of House Cannith.
 		- He still has this page to this day.
