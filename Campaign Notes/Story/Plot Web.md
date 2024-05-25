@@ -78,15 +78,14 @@
 - He now lives near Shavalant and the Whitehorn Woods.
 
 #### PC: Forge
-- ***Secret Warforged Lore:***
-	- Forge was created in the first batch of modern warforged - and the only one that didn't lose his mind due to his new found form. All others in his creation batch either ended their own existence or were terminated. Artificers were unable to identify and replicate what traits allowed Forge to retain both his memories and his sanity.
-		- The missing traits being: The soul being transferred MUST have aspects of Khyber & aspects of Siberys fused to the soul to transfer without sanity loss.
-		- Forge's Steelhardt used Siberys shards as a conduit. In all other warforged in his batch, only having a Siberys shard wasn't enough, since there was no aspect of Khyber attached to their soul/in the Steelhardt.
-		- Hence why Vorak's transfer was tainted as well. His Steelhardt used a Khyber shard conduit, but there was no aspect of Siberys in him.
-		- Since Forge died in proximity to Lick's father's FKD fragment, an aspect of Khyber attached to his soul, which, in addition to the Siberys Dragonshard conduit in his Steelhardt, meant he retained his memories AND his sanity.
-		- This information about the missing traits is not currently known **(Vorak stole most of the schematics, which were scattered in various locations for furture quests)
-	- All subsequent batches were made with these methods, using the souls of dead sldiers, however they were stripped of their mortal memories. This was the only work-around House Cannith could devise to prevent these new Warforged from losing their minds.
-- Human General of **House Cannith (Or maybe some other affiliation makes more sense?)**
+- Forge was created in the first batch of modern warforged - and the only one that didn't lose his mind due to his new found form. All others in his creation batch either ended their own existence or were terminated. Artificers were unable to identify and replicate what traits allowed Forge to retain both his memories and his sanity.
+	- The missing traits being: The soul being transferred MUST have aspects of Khyber & aspects of Siberys fused to the soul to transfer without sanity loss.
+	- Forge's Steelhardt used Siberys shards as a conduit. In all other warforged in his batch, only having a Siberys shard wasn't enough, since there was no aspect of Khyber attached to their soul/in the Steelhardt.
+	- Hence why Vorak's transfer was tainted as well. His Steelhardt used a Khyber shard conduit, but there was no aspect of Siberys attached to him.
+	- Since Forge died in proximity to Lick's father's FKD fragment, an aspect of Khyber attached to his soul, which, in addition to the Siberys Dragonshard conduit in his Steelhardt, meant he retained his memories AND his sanity.
+	- This information about the missing traits is not currently known **(Vorak stole most of the schematics, which were scattered in various locations for furture quests)
+- All subsequent batches were made with these methods, using the souls of dead sldiers, however they were stripped of their mortal memories. This was the only work-around House Cannith could devise to prevent these new Warforged from losing their minds.
+- Forge was a human General of **House Cannith (Or maybe some other affiliation makes more sense?)**
 - In a **battle during the last war (The same battle Woe died to Lick's father in?)**, he sacrificed himself for his men and lost his life in an **explosion I set off to overtake the enemy**
 	- Woe and Forge were fighting for the same side? Forge valued winning the battle/war over the lives of his own men. While Woe and Lick's father were engaged in battle, Forge made the decision to sacrifice himself and his entire squad to blow up and destroy the **target (what was the target/what was this battle being fought for?)**.
 	- Woe died close to Lick's father's fragment of the *FKD*, causing a dark cancer to latch onto his soul which allowed him to be resurrected into a Warforged body through Mordakhesh's ritual (more details in Woe's backstory)
