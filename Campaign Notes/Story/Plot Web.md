@@ -79,7 +79,7 @@
 
 #### PC: Forge
 - ***Secret Warforged Lore:***
-	- Forge was the first of these new warforged - and the only one that didn't lose his mind due to his new found form. All others in his creation batch either ended their own existence or were terminated after the creation process. Artificers were unable to identify and replicate what traits allowed Forge to retain both his memories and his sanity.
+	- Forge was created in the first batch of modern warforged - and the only one that didn't lose his mind due to his new found form. All others in his creation batch either ended their own existence or were terminated. Artificers were unable to identify and replicate what traits allowed Forge to retain both his memories and his sanity.
 		- The missing traits being: The soul being transferred MUST have aspects of Khyber & aspects of Siberys fused to the soul to transfer without sanity loss.
 		- Forge's Steelhardt used Siberys shards as a conduit. In all other warforged in his batch, only having a Siberys shard wasn't enough, since there was no aspect of Khyber attached to their soul/in the Steelhardt.
 		- Hence why Vorak's transfer was tainted as well. His Steelhardt used a Khyber shard conduit, but there was no aspect of Siberys in him.
