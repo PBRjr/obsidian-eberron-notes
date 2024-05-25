@@ -1,8 +1,8 @@
 **Does know**
-Modern warforged were made using the souls of fallen soldiers during the last war.
-Their creation involved trapping the soul in some kind of metal heart.
-- It looks like a small sphere with runes engraved on it, which subtly glowed with a golden-violet hue.
-He was a part of the first batch of modern warforged - and the only one that did not lose his mind
+-  warforged were made using the souls of fallen soldiers during the last war.
+- Their creation involved trapping the soul in some kind of metal heart.
+	- It looks like a small sphere with runes engraved on it, which subtly glowed with a golden-violet hue.
+ - Forge was created in the first batch of modern warforged - and the only one that didn't lose his mind due to his new found form. All others in his creation batch either ended their own existence or were terminated. Artificers were unable to identify and replicate what traits allowed Forge to retain both his memories and his sanity.
 He has a note ripped out of an artificer's journal he found prior to destroying his creation forge.
 He was at The Lighthouse because he knew it contained a portal to Sharn.
 

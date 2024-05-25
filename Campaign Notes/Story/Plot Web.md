@@ -83,7 +83,7 @@
 	- Forge's Steelhardt used Siberys shards as a conduit. In all other warforged in his batch, only having a Siberys shard wasn't enough, since there was no aspect of Khyber attached to their soul/in the Steelhardt.
 	- Hence why Vorak's transfer was tainted as well. His Steelhardt used a Khyber shard conduit, but there was no aspect of Siberys attached to him.
 	- Since Forge died in proximity to Lick's father's FKD fragment, an aspect of Khyber attached to his soul, which, in addition to the Siberys Dragonshard conduit in his Steelhardt, meant he retained his memories AND his sanity.
-	- This information about the missing traits is not currently known **(Vorak stole most of the schematics, which were scattered in various locations for furture quests)
+	- This information about the missing traits is not currently known **(Vorak stole most of the schematics, which were scattered in various locations for future quests)
 - All subsequent batches were made with these methods, using the souls of dead soldiers, however they were stripped of their mortal memories. This was the only work-around House Cannith could devise to prevent these new Warforged from losing their minds.
 - Forge was a human general of **House Cannith (Or maybe some other affiliation makes more sense?)**
 - In a battle during the last war, he sacrificed his and his men's lives in an explosion he set off to overtake the enemy.
