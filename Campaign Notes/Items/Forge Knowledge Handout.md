@@ -1,0 +1,1 @@
+He knows modern warforged were made using the souls of fallen soldiers in during
