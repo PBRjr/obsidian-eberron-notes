@@ -9,8 +9,11 @@ He was at The Lighthouse because he knew it contained a portal to Sharn.
 **Doesn't know**
 Why he was different and didn't lose his mind
 Anything about geralts parents
-
+How the steelhardt works
 Subject: Prototype Reconstruction - Failure Analysis
+
+### Artificer Journal Page Handout
+
 ---
 The latest series of experiments aimed at recreating The Prototype has once again ended in failure. The primary challenge continues to be the integration of both Khyber and Siberys dragonshards into a single cohesive device.
 
