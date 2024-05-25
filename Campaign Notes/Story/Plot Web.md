@@ -61,6 +61,9 @@
 	- It was originally intended to be a way of transferring one's "soul" to a new body, effectively producing immortality.
 		- The consciousness was attached to the Steelhardt in a magical ritual
 		- It then had to be implanted into a corpse for the consciousness to then take over.
+		- They created one prototype, combining a Khyber & Siberys shard in the device
+		- It was fully functional as intended, but they never wrote down how they got those two shards to work together.
+		- Cannith Artificer's subsequent attempts to combine the shards in new designs always failed.
 	- They worked for years refining the designs.
 	- Marix, working with the LoD, took an interest in these designs for use in creating a sentient warforged army.
 		- Yelena and Norbit found out about Marix's plans and fled House Cannith with all of the designs, hiding with their young son near the Whitehorn Woods.
@@ -84,8 +87,8 @@
 		- Forge's Steelhardt used Siberys shards as a conduit. In all other warforged in his batch, only having a Siberys shard wasn't enough, since there was no aspect of Khyber attached to their soul/in the Steelhardt.
 		- Hence why Vorak's transfer was tainted as well. His Steelhardt used a Khyber shard conduit, but there was no aspect of Siberys in him.
 		- Since Forge died in proximity to Lick's father's FKD fragment, an aspect of Khyber attached to his soul, which, in addition to the Siberys Dragonshard conduit in his Steelhardt, meant he retained his memories AND his sanity.
-		- This information about the missing traits is not currently known **(Maybe geralt's parents knew about it, maybe they hid the info somewhere? Aeren d'Cannith may help the party discover it?)**
-	- All subsequent batches were made with these methods, using the souls of dead soldiers, however they were stripped of their mortal memories. This was the only work-around House Cannith could devise to prevent these new Warforged from losing their minds.
+		- This information about the missing traits is not currently known **(Vorak stole most of the schematics, which were scattered in various locations for furture quests)
+	- All subsequent batches were made with these methods, using the souls of dead sldiers, however they were stripped of their mortal memories. This was the only work-around House Cannith could devise to prevent these new Warforged from losing their minds.
 - Human General of **House Cannith (Or maybe some other affiliation makes more sense?)**
 - In a **battle during the last war (The same battle Woe died to Lick's father in?)**, he sacrificed himself for his men and lost his life in an **explosion I set off to overtake the enemy**
 	- Woe and Forge were fighting for the same side? Forge valued winning the battle/war over the lives of his own men. While Woe and Lick's father were engaged in battle, Forge made the decision to sacrifice himself and his entire squad to blow up and destroy the **target (what was the target/what was this battle being fought for?)**.
@@ -179,6 +182,7 @@
 		- **Khyber's aspect:** Darkness, Impiety
 		- **Eberron's aspect:** Materialism, Tangibility
 	- Any imbalance of these 3 (like only using a Khyber/Siberys shard without the other) would result in an imbalance of the soul, causing psychosis.
+	- Yelena and Norbit created a single prototype that worked fully as intended. They combined Siberys and Khyber dragonshards into the device, which allowed those two aspects to be fullfu
 	- The LoD seek to use a Steelhardt to transfer Rak Tulkesh's essence from the FKD into a living avatar, so that he could be freed from his bonds and reign over Eberron once again (See Woe's plot pieces).
 
 - **Villains**
