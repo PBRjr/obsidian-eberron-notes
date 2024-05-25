@@ -98,7 +98,7 @@
 - He was branded with a unique dragonmark on the front of this chest. It contains the House Cannith Gorgan, in addition to markings that read "FORGE 2".
 - He learned of **another creation forge in Sharn (How did he find out?)**, explaining his presence outside the lighthouse during his introduction to the campaign in session 5.
 - ***Character motivation:***
-	- Is it unethical to create more in my image? Does that make me a God, or does that make me one of you?
+	- Is it unethical to create more in my image? Does that make me a God, or does that make me one of you (normal people)?
 #### PC: Sylas Stormshadow (Deceased)
 - Father was an Elven scholar focused on forbidden knowledge about magic
 - Mother was a human merchant in Sharn's Underbelly
