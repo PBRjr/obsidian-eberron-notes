@@ -175,7 +175,7 @@
 	- Draven Flameforge was another that was trained by Varyn, and gifted the Etherseraph to wield in the name of Siberys.
 	- It is now in Hrothgar's possession, obtained when he killed Draven in battle.
 
-- Artifact 3: ***Steelhardt***
+- Artifact 3: ***Steelhardt (The Prototype)***
 	- Originally developed by Geralt's Parents as a device that could transfer consciousness to a corpse, producing immortality.
 	- Geralt's parent knew that the transference would only be successful if balance between all 3 *Aspects of the Progenitors* were maintained.
 		- **Siberys's aspect:** Light, Divinity
