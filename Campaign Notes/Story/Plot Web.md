@@ -79,9 +79,6 @@
 
 #### PC: Forge
 - ***Secret Warforged Lore:***
-	- Warforged are the man-made reincarnates of the fallen soldiers in the Last War; Their souls were repurposed as weapons in the war that took their lives once already.
-	- The first few batches of Warforged were created without a 'soul' - mindless automatons that had no self initiative or instinct. They were grunts, they followed orders, but on average they were less effective than a typical soldier.
-	- Cannith artificers devised a method of transferring the soul of a recently deceased humanoid into the body of a warforged - building on the original *Steelhardt* designs taken from Geralt's parents.
 	- Forge was the first of these new warforged - and the only one that didn't lose his mind due to his new found form. All others in his creation batch either ended their own existence or were terminated after the creation process. Artificers were unable to identify and replicate what traits allowed Forge to retain both his memories and his sanity.
 		- The missing traits being: The soul being transferred MUST have aspects of Khyber & aspects of Siberys fused to the soul to transfer without sanity loss.
 		- Forge's Steelhardt used Siberys shards as a conduit. In all other warforged in his batch, only having a Siberys shard wasn't enough, since there was no aspect of Khyber attached to their soul/in the Steelhardt.
@@ -121,6 +118,11 @@
 		- Originally located in Cyre, it was discovered by the Lords of Dust and almost destroyed
 		- The silver flame caused the Mourning to protect itself, but used most of its power doing so
 		- Slowly burning out, Overlords are straining against their bonds, causing chaos across the world
+
+- **Significant Lore**: The Origin of the Warforged
+	- Warforged are the man-made reincarnates of the fallen soldiers in the Last War; Their souls were repurposed as weapons in the war that took their lives once already.
+	- The first few batches of Warforged were created without a 'soul' - mindless automatons that had no self initiative or instinct. They were grunts, they followed orders, but on average they were less effective than a typical soldier.
+	- Cannith artificers - at the order of Marix d'Cannith - devised a method of transferring the soul of a recently deceased humanoid into the body of a warforged - building on the original *Steelhardt* designs taken from Geralt's parents.
 
 - **Significant NPCs**
 	- Varyn "The Valiant" Grayburn
