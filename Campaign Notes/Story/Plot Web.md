@@ -86,7 +86,7 @@
 		- This information about the missing traits is not currently known **(Maybe geralt's parents knew about it, maybe they hid the info somewhere? Aeren d'Cannith may help the party discover it?)**
 	- All subsequent batches were made with these methods, using the souls of dead soldiers, however they were stripped of their mortal memories. This was the only work-around House Cannith could devise to prevent these new Warforged from losing their minds.
 - Human General of **House Cannith (Or maybe some other affiliation makes more sense?)**
-- In a **battle during the last war (The same battle Woe died to Lick's father in?)**, I sacrificed myself for my men and lost my life in an **explosion I set off to overtake the enemy**
+- In a **battle during the last war (The same battle Woe died to Lick's father in?)**, he sacrificed himself for his men and lost his life in an **explosion I set off to overtake the enemy**
 	- Woe and Forge were fighting for the same side? Forge valued winning the battle/war over the lives of his own men. While Woe and Lick's father were engaged in battle, Forge made the decision to sacrifice himself and his entire squad to blow up and destroy the **target (what was the target/what was this battle being fought for?)**.
 	- Woe died close to Lick's father's fragment of the *FKD*, causing a dark cancer to latch onto his soul which allowed him to be resurrected into a Warforged body through Mordakhesh's ritual (more details in Woe's backstory)
 - Forge's soul was captured by House Cannith and **infused into a Warforged body (Forge had signed up for this secret program through House Cannith? Or was he chosen without his consent? Why?)**. He was held prisoner and used for various tests and experiments for a period of time.
