@@ -81,7 +81,7 @@
 	- Forge was the first of these new warforged - and the only one that didn't lose his mind due to his new found form. All others in his creation batch either ended their own existence or were terminated after the creation process. Artificers were unable to identify and replicate what traits allowed Forge to retain both his memories and his sanity.
 		- The missing traits being: The soul being transferred MUST have aspects of Khyber & aspects of Siberys fused to the soul to transfer without sanity loss.
 		- Forge's Steelhardt used Siberys shards as a conduit. In all other warforged in his batch, only having a Siberys shard wasn't enough, since there was no aspect of Khyber attached to their soul/in the Steelhardt.
-		- Hense why Vorak's transfer was tainted as well. His Steelhardt used a Khyber shard conduit, but there was no aspect of Siberys in him.
+		- Hence why Vorak's transfer was tainted as well. His Steelhardt used a Khyber shard conduit, but there was no aspect of Siberys in him.
 		- Since Forge died in proximity to Lick's father's FKD fragment, an aspect of Khyber attached to his soul, which, in addition to the Siberys Dragonshard conduit in his Steelhardt, meant he retained his memories AND his sanity.
 		- This information about the missing traits is not currently known **(Maybe geralt's parents knew about it, maybe they hid the info somewhere? Aeren d'Cannith may help the party discover it?)**
 	- All subsequent batches were made with these methods, using the souls of dead soldiers, however they were stripped of their mortal memories. This was the only work-around House Cannith could devise to prevent these new Warforged from losing their minds.
