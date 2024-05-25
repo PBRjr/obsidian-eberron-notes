@@ -10,16 +10,14 @@
 	- He obtained information on his creation, including the methods that were still being used to create new warforged.
 	- **He threatened to go public with that [[forge knowledge handout|info]]? (Knowing he would be unable to destroy all of the forges on his own, he forced House Cannith's hand into signing the Treaty of Thronehold and shutting down all creation forges, ending the production of new Warforged?)(Maybe he didn't go public because in the back of his mind he knew one day he may want to "have children"?
 - He was branded with a unique dragonmark on the front of this chest. It contains the House Cannith Gorgan, in addition to markings that read "FORGE 2".
-- 
-He has a note ripped out of an artificer's journal he found prior to destroying his creation forge.
-He was at The Lighthouse because he knew it contained a portal to Sharn.
+- He is still being chased by agents of house cannith to recover his blackmail and continue to study him.
+- He has a note ripped out of an artificer's journal he found prior to destroying his creation forge.
+- He was at The Lighthouse because he knew it contained a portal to Sharn.
 
 **Doesn't know**
 Why he was different and didn't lose his mind
 Anything about geralts parents
 How the steelhardt works
-Subject: Prototype Reconstruction - Failure Analysis
-
 ### Artificer Journal Page Handout
 
 ---
