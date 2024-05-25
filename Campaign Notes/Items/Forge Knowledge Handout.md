@@ -3,7 +3,7 @@ Modern warforged were made using the souls of fallen soldiers during the last wa
 Their creation involved trapping the soul in some kind of metal heart.
 - It looks like a small sphere with runes engraved on it, which subtly glowed with a golden-violet hue.
 He was a part of the first batch of modern warforged - and the only one that did not lose his mind
-He has a note ripped out of an artificer's journal that documents the failed attempts at recreating the original Steelhardt prototype and how modern Steelhardt designs utilize only one type of dragonshard.
+He has a note ripped out of an artificer's journal he found prior to destroying his creation forge.
 He was at The Lighthouse because he knew it contained a portal to Sharn.
 
 **Doesn't know**
