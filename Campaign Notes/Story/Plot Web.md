@@ -95,8 +95,8 @@
 	- **He threatened to go public with that [[forge knowledge handout|info]]? (Knowing he would be unable to destroy all of the forges on his own, he forced House Cannith's hand into signing the Treaty of Thronehold and shutting down all creation forges, ending the production of new Warforged?)(Maybe he didn't go public because in the back of his mind he knew one day he may want to "have children"? See 'character motivation'.** 
 - Warforged were not liberated due to the Treaty of Thronehold. This treaty was a political move so that Forge would not go public with the information he holds on Warforged production and ruin House Cannith's reputation.
 - Due to the ever-looming threat of blackmail, House Cannith has been hunting Forge ever since his escape, attempting to **capture him for further study (probably to continue to attempt to replicate the traits that allowed him to keep his memories)** and eliminate the possibility of that information ever getting out.
-- He was branded with a unique dragonmark on the front of this chest. It contains the House Cannith Gorgan, in addition to markings that read ""
-- He learned of **another creation forge (In sharn? How did he find out?)**, explaining his presence outside the lighthouse during his introduction to the campaign in session 5.
+- He was branded with a unique dragonmark on the front of this chest. It contains the House Cannith Gorgan, in addition to markings that read "FORGE 2".
+- He learned of **another creation forge in Sharn (How did he find out?)**, explaining his presence outside the lighthouse during his introduction to the campaign in session 5.
 - ***Character motivation:***
 	- Is it unethical to create more in my image? Does that make me a God, or does that make me one of you?
 #### PC: Sylas Stormshadow (Deceased)
