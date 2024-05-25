@@ -150,9 +150,11 @@
 		- Was adopted into House Cannith about 20 years ago at the age of 18 y/o as the Youngest Master Artificer (and only Master Artificer without a Mark of Creation) ever named within the house.
 			- Due to his invention of the ingenious Everbright Lantern
 		- He is now the Mentor to Miri, the magewright currently living in Shavelant.
-		- Aeren knew of Geralt's parents before they died, and knew they were very important, bu.
-		- He does not know what Geralt's schematics say, but he knows that they are written in Sibernyan
-		- He knows House Cannith had something to do with the Day of Mourning, and is trying to find out more. (needs development: why does he know something is up?)
+		- He was always very interested in the warforged and their creation.
+		- Aeren knew of Geralt's parents before they died, and knew they were very important.
+			- He didn't know what they were researching, but he knew it was highly classified.
+		- He does not know what Geralt's schematics say, but he knows that they were written in an ancient draconic dialect (**Sibernyan**)
+		- He has come across a few pages of his own **(figure to what those pages reveal?)** but has not been able to translate them.
 
 **Artifacts**
 - Artifact 1: ***Fractured Khyber Dragonshard (FKD) & Fragments***
