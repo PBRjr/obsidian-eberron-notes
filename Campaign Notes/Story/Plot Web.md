@@ -143,8 +143,8 @@
 		- He saw the purity and potential within Draven
 			- The darkness within the shard never affected him.
 		- Seeing Draven as an ultimate force for good, he gave him two things:
-			- The White Flameblade
-			- The dragonshard fragment
+			- The *Etherseraph*
+			- A *FKD* fragment
 		- Draven took an Oath to protect the Shard with his life, and to use the light of Siberys to hold back the forces of Khyber
 
 	- Aeren d'Cannith
