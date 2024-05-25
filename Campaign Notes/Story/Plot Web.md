@@ -185,7 +185,8 @@
 		- **Eberron's aspect:** Materialism, Tangibility
 	- Any imbalance of these 3 (like only using a Khyber/Siberys shard without the other) would result in an imbalance of the soul, causing psychosis.
 	- Yelena and Norbit created a single prototype that worked fully as intended. They combined Siberys and Khyber dragonshards into the device, which allowed those two aspects to be fulfilled.
-		- They never wrote down how they manage to combine those two shards into a single device. All other attempts made by Cannith Artificers have always failed, and only one shard can be installed without the device failing, hence the psychosis issue.
+		- They never wrote down how they manage to combine those two shards into a single device. All other attempts made by Cannith Artificers have always failed, and only one shard can be installed without the device failing, which has caused psychosis in almost all subjects it was originally attempted on.
+		- Cannith artificers developed a work-around to the psychosis issue: They wipe the soul's memories upon transference to the Warforged body.
 	- The LoD seek to use a Steelhardt to transfer Rak Tulkesh's essence from the FKD into a living avatar, so that he could be freed from his bonds and reign over Eberron once again (See Woe's plot pieces).
 
 - **Villains**
