@@ -146,11 +146,11 @@
 		- Draven took an Oath to protect the Shard with his life, and to use the light of Siberys to hold back the forces of Khyber
 
 	- Aeren d'Cannith
-		- ***Major Motivation:*** To discover the extent of House Cannith's involvement in the Day of Mourning
+		- ***Major Motivation:*** To discover the true process of the creation of Warforged and what changed between  the originals and the modern creations.
 		- Was adopted into House Cannith about 20 years ago at the age of 18 y/o as the Youngest Master Artificer (and only Master Artificer without a Mark of Creation) ever named within the house.
 			- Due to his invention of the ingenious Everbright Lantern
 		- He is now the Mentor to Miri, the magewright currently living in Shavelant.
-		- Aeren knew Geralt's parents for a short time when he was adopted into the House.
+		- Aeren knew of Geralt's parents before they died, and knew they were very important, bu.
 		- He does not know what Geralt's schematics say, but he knows that they are written in Sibernyan
 		- He knows House Cannith had something to do with the Day of Mourning, and is trying to find out more. (needs development: why does he know something is up?)
 
