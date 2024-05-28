@@ -17,12 +17,14 @@ Moment 1: *Welcome to Sharn*
 
 Moment 2: *Message from Aeren*
 - Whether by stone gargoyle or Sivis messenger, Aeren contacts the party, asking them to meet him at his workshop in *Everbright* in [[Sharn#Menthis Plateau|Middle Menthis]] the following night.
+- The messaged mentions that Aeren knows Geralt's parents.
 
-Encounter 1: *Name*
-- X
+Moment 3: *Attack at Morgrave*
+- There was an attack at Morgrave University. Clues point towards CotSF involvement
 
-Encounter 2: *Name*
-- X
+Moment 4: *Meeting the Master Artificer*
+- Aeren d'Cannith's workshop is filled with mechs and machinery. Aeren is happy to accommodate guests, and will offer his home to the Party whenever they need a place to rest.
+- He Knows of Geralts parents and their diss
 
 (continue as needed, may nest encounters inside moments)
 
