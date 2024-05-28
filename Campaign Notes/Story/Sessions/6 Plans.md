@@ -3,7 +3,7 @@
 - Party escapes into Sharn OR back to the Lighthouse
 - Party is contacted by Aeren d'Cannith
 - Random encounters to set the scene of the city
-- 
+- Boromar Clan encount
 
 ### Moments & Encounters
 

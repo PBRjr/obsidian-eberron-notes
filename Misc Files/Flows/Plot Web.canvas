@@ -3,6 +3,7 @@
 		{"id":"9041f4a3c8aa5b77","type":"group","x":985,"y":-930,"width":718,"height":432,"label":"Geralt"},
 		{"id":"9f650774c908532e","type":"group","x":1025,"y":110,"width":685,"height":425,"label":"Draven"},
 		{"id":"cd56867760750ef1","type":"group","x":-660,"y":100,"width":610,"height":441,"label":"Bjorn"},
+		{"id":"9c4bda647b633fdf","x":-771,"y":-186,"width":290,"height":243,"type":"group","label":"Forge"},
 		{"id":"5ca42467c5b279aa","type":"text","text":"Baelen ir'Torn","x":-239,"y":-738,"width":250,"height":60,"color":"4"},
 		{"id":"a408fded727356c9","type":"text","text":"Stormpeak Clan","x":-320,"y":120,"width":250,"height":60,"color":"5"},
 		{"id":"c0b56b132f233c6d","type":"text","text":"Bjorn \"Bearwolf\" Ulfr","x":-320,"y":458,"width":250,"height":63,"color":"5"},
@@ -34,9 +35,10 @@
 		{"id":"24b5f0140402cc55","type":"text","text":"Steelhardt Schematics","x":1408,"y":-608,"width":275,"height":60,"color":"#ff00ff"},
 		{"id":"4f09039bc72c5539","type":"text","text":"Rak Tulkesh","x":485,"y":-53,"width":250,"height":60,"color":"1"},
 		{"id":"fed548b03f4c89f8","type":"text","text":"Sharn","x":-40,"y":-608,"width":250,"height":60},
-		{"id":"6f800102ae8db8d6","type":"text","text":"Vorak the Rageblight","x":996,"y":-378,"width":250,"height":60,"color":"1"},
 		{"id":"24953c68b90ee4d9","type":"text","text":"Destroyed Villages","x":1421,"y":-378,"width":250,"height":60},
-		{"id":"ee4afc6158d477a1","type":"text","text":"Forge","x":-445,"y":-53,"width":250,"height":60,"color":"3"}
+		{"id":"ee4afc6158d477a1","type":"text","text":"Forge","x":-751,"y":-166,"width":250,"height":60,"color":"3"},
+		{"id":"464ac02db265d3de","x":-751,"y":-23,"width":250,"height":60,"color":"3","type":"text","text":"Creation Forges"},
+		{"id":"6f800102ae8db8d6","type":"text","text":"Vorak the Rageblight","x":1005,"y":-378,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"bac70c1e9d04a13c","fromNode":"7d97e1a39c8769f5","fromSide":"right","toNode":"c5913a0f3a00186c","toSide":"left","toEnd":"none"},
@@ -111,10 +113,12 @@
 		{"id":"3c8d2f8e735dec87","fromNode":"0c4a5e8bc856075f","fromSide":"bottom","toNode":"fa966a602d97b4bf","toSide":"top","toEnd":"none"},
 		{"id":"364230813f0ee3fb","fromNode":"64eed97371c2a743","fromSide":"right","toNode":"a84c11ddcb40b3aa","toSide":"top","toEnd":"none"},
 		{"id":"11aca234d45714e3","fromNode":"6f800102ae8db8d6","fromSide":"top","toNode":"7105545bb54889a7","toSide":"bottom","toEnd":"none"},
-		{"id":"a786d56a5c3faa7d","fromNode":"ee4afc6158d477a1","fromSide":"top","toNode":"d0097f85efd31964","toSide":"bottom","toEnd":"none","color":"2"},
-		{"id":"a2a230541f11f7d2","fromNode":"ee4afc6158d477a1","fromSide":"top","toNode":"6ca7f3f38e3ed230","toSide":"bottom","toEnd":"none"},
+		{"id":"a786d56a5c3faa7d","fromNode":"ee4afc6158d477a1","fromSide":"right","toNode":"d0097f85efd31964","toSide":"bottom","toEnd":"none","color":"2"},
+		{"id":"a2a230541f11f7d2","fromNode":"ee4afc6158d477a1","fromSide":"right","toNode":"6ca7f3f38e3ed230","toSide":"bottom","toEnd":"none"},
 		{"id":"1a241c7fef2d12e2","fromNode":"ee4afc6158d477a1","fromSide":"right","toNode":"f434fbeb0543d193","toSide":"bottom","toEnd":"none","color":"2"},
 		{"id":"4db88cf66ef0f92f","fromNode":"85773e8b6033d1a3","fromSide":"left","toNode":"ee4afc6158d477a1","toSide":"right","toEnd":"none"},
-		{"id":"5c9ead80922a0635","fromNode":"ee4afc6158d477a1","fromSide":"right","toNode":"24b5f0140402cc55","toSide":"right","toEnd":"none"}
+		{"id":"5c9ead80922a0635","fromNode":"ee4afc6158d477a1","fromSide":"right","toNode":"d0097f85efd31964","toSide":"left","toEnd":"none"},
+		{"id":"3698a5e5436317f2","fromNode":"464ac02db265d3de","fromSide":"top","toNode":"ee4afc6158d477a1","toSide":"bottom","toEnd":"none"},
+		{"id":"706ae6c7a715a5d9","fromNode":"fed548b03f4c89f8","fromSide":"left","toNode":"464ac02db265d3de","toSide":"right","toEnd":"none"}
 	]
 }
