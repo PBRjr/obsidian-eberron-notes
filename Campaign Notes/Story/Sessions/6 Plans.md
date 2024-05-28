@@ -3,7 +3,7 @@
 - Party escapes into Sharn OR back to the Lighthouse
 - Party is contacted by Aeren d'Cannith
 - Random encounters to set the scene of the city
-- Search for Baelen ir'Torn leads to Morgrave university
+- Baelen ir'Torn is being hunted by the Boromar Clan
 - Encounter with Garhorn & Blinker
 
 ### Moments & Encounters
@@ -73,6 +73,7 @@ Person 2: *Baelen ir'Torn*
 - Baelen hasn't yet made it to a CotSF garrison. He is all alone, trying to sneak through the city unnoticed.
 - Baelen still holds the FKD fragment.
 - He will be captured by the Boromar clan soon.
+
 ### Plot Actions
 
 Action 1: *Boromar Clan*
@@ -80,11 +81,6 @@ Action 1: *Boromar Clan*
 	- They are closing in on the professor, who is not cut-out to sneak through the city on his own.
 	- The Boromar clan will begin searching for potential buyers to make a profit on the FKD fragment, and interrogate Baelen in the hopes of figuring out how to find more.
 
-Action 2: *Name of significant NPC(s) or organization(s) involved*
-- Goal: X
-- X
-
-(continue as needed)
 ### Additional Notes
 
 - (Add any other notes or information that you need for the session)
