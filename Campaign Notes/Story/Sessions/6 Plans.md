@@ -51,14 +51,17 @@ Place 2: *Everbright*
 	- Neighborhoods: *Deniytas (gnomes), Platinate (wealthy)*
 
 Place 3: *Aeren's Workshop*
-- Located in Everbrigh
+- Located in Everbright, appears to be apartments from the outside
+- Renovated to a studio-like inside with 3 levels, and enough space to house the party.
+- Clockwork butler: *Piston*
 
 ### People
 
-Person 1:
-- X (information relevant to session)
+Person 1: Aeren d'Cannith
+- Wants to discuss Geralt's parents, the schematics, and requests aid in searching Geralt's parent's old workshop
 *Plot Information*
-- X (information relevant to overall plot)
+- Doesn't know what dialect the schematics are written in, hopes to find out more with the party's help
+- Has a large amount of resources available, wi
 
 Person 2:
 - X
