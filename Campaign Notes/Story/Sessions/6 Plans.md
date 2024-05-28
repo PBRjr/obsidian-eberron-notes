@@ -66,19 +66,19 @@ Person 1: *Aeren d'Cannith*
 
 Person 2: *Baelen ir'Torn*
 - Went back to the university with the priest to collect research supplies.
-- They were attack on their way out, though only Baelen escaped. The priest can secretly be found a short distance away, barely clinging to life from the attack.
+- They were attacked by the Boromar clan on their way out, and only Baelen escaped uninjured. 
+- The priest can secretly be found a short distance away, barely clinging to life from the attack.
 - Guard investigation is being conducted on the campus, leaving clues for the party to discover.
 *Plot Information*
-- The
-- Hasn't yet made it to a CotSF garrison. He is all alone, trying to sneak through the city without the priest and survive.
+- Baelen hasn't yet made it to a CotSF garrison. He is all alone, trying to sneak through the city unnoticed.
 - Baelen still holds the FKD fragment.
-
-(continue as needed)
+- He will be captured by the Boromar clan soon.
 ### Plot Actions
 
-Action 1: *Name of significant NPC(s) or organization(s) involved*
-- Goal: X (immediate goal of involved person/org)
-- X (what that person/org is doing to accomplish that goal, assuming PCs don't interfere)
+Action 1: *Boromar Clan*
+- Goal: Capture of Baelen and acquisition of the FKD fragment
+	- They are closing in on the professor, who is not cut-out to sneak through the city on his own.
+	- The Boromar clan will begin searching for potential buyers to make a profit on the FKD fragment, and interrogate Baelen in the hopes of figuring out how to find more.
 
 Action 2: *Name of significant NPC(s) or organization(s) involved*
 - Goal: X
