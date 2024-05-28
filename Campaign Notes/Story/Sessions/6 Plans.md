@@ -3,17 +3,17 @@
 - Party escapes into Sharn OR back to the Lighthouse
 - Party is contacted by Aeren d'Cannith
 - Random encounters to set the scene of the city
-- 
 - Search for Baelen ir'Torn leads to Morgrave university
 - Encounter with Garhorn & Blinker
 
 ### Moments & Encounters
 
 Session Start
-- (based on where/how last session ended)
+- Kogs ritual chamber skill challenge
 
-Moment 1: *Name*
-- X
+Moment 1: *Welcome to Sharn*
+- The party bursts forth from a sewer grate in the middle of the road
+- They find themselves smack-dab in the middle of the tavern district of *Olladra's Kitchen* in [[Sharn#lower]]
 
 Moment 2: *Name*
 - X
