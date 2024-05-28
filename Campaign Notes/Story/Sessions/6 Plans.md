@@ -35,7 +35,7 @@ Session End: *Lets get a pint.*
 Place 1: *Olladra's Kitchen*
 - Tavern ward located in Lower Central Plateau
 	- Contains several Pubs, dark alleyways, and few brothels
-	- Main tavern/brothel: *Olladra's Whip*
+	- Main attraction: *Olladra's Whip*
 - Neighboring wards
 	- Shops: *Granite Halls, North Towers*
 	- Inns: *Boldrei's Hearth*
@@ -43,9 +43,16 @@ Place 1: *Olladra's Kitchen*
 
 Place 2: *Everbright*
 - Magic ward located in Middle Menthis Plateau
-	- Contains several alchemy, artifice, and healing sh
+	- Contains several alchemy, artifice, and healing services
+	- Main attraction: *Jorasco House of Healing*
+- Neighboring wards
+	- Garrison: *Warden Towers*
+	- Shops: *Cassan Bridge*
+	- Neighborhoods: *Deniytas (gnomes), Platinate (wealthy)*
 
-(continue as needed)
+Place 3: *Aeren's Workshop*
+- Located in Everbrigh
+
 ### People
 
 Person 1:
