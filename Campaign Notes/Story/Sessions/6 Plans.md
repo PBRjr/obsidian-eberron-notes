@@ -3,7 +3,9 @@
 - Party escapes into Sharn OR back to the Lighthouse
 - Party is contacted by Aeren d'Cannith
 - Random encounters to set the scene of the city
-- Boromar Clan encount
+- 
+- Search for Baelen ir'Torn leads to Morgrave university
+- Encounter with Garhorn & Blinker
 
 ### Moments & Encounters
 
