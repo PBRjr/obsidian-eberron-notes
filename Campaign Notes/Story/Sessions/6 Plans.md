@@ -13,10 +13,10 @@ Session Start
 
 Moment 1: *Welcome to Sharn*
 - The party bursts forth from a sewer grate in the middle of the road
-- They find themselves smack-dab in the middle of the tavern district of *Olladra's Kitchen* in [[Sharn#lower]]
+- They find themselves smack-dab in the middle of the tavern district of *Olladra's Kitchen* in [[Sharn#Lower Central Plateau|Lower Central]]
 
-Moment 2: *Name*
-- X
+Moment 2: *Message from Aeren*
+- Whether by stone gargoyle or Sivis messenger, Aeren contacts the party, asking them to meet him at his workshop in *Everbright* in [[Sharn#Menthis Plateau|Middle Menthis]] the following night.
 
 Encounter 1: *Name*
 - X
