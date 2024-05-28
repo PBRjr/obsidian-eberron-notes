@@ -16,7 +16,6 @@
 		{"id":"39bccfd85ea56cc1","type":"text","text":"Coautl","x":235,"y":-292,"width":250,"height":60,"color":"4"},
 		{"id":"0c4a5e8bc856075f","type":"text","text":"Church of the Silver Flame","x":235,"y":-743,"width":250,"height":65},
 		{"id":"85773e8b6033d1a3","type":"text","text":"Woe","x":11,"y":-53,"width":250,"height":60,"color":"1"},
-		{"id":"fed548b03f4c89f8","type":"text","text":"Sharn","x":-15,"y":-608,"width":250,"height":60},
 		{"id":"f434fbeb0543d193","type":"text","text":"Marix/House Cannith","x":485,"y":-608,"width":250,"height":60},
 		{"id":"64eed97371c2a743","type":"text","text":"Aeren d'Cannith","x":235,"y":-940,"width":250,"height":60,"color":"4"},
 		{"id":"7105545bb54889a7","type":"text","text":"Day of Mourning/Mournland","x":755,"y":-743,"width":250,"height":65},
@@ -31,12 +30,13 @@
 		{"id":"b88d31bfb3c7f8f5","type":"text","text":"Byeshk Mountains","x":1440,"y":287,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"a84c11ddcb40b3aa","type":"text","text":"Geralt's Parents","x":1005,"y":-608,"width":250,"height":60,"color":"#ff00ff"},
 		{"id":"b818bf3473be854d","type":"text","text":"Geralt Wolfsbane","x":1421,"y":-910,"width":250,"height":60,"color":"#ff00ff"},
-		{"id":"6f800102ae8db8d6","type":"text","text":"Vorak the Rageblight","x":996,"y":-380,"width":250,"height":60,"color":"1"},
-		{"id":"24953c68b90ee4d9","type":"text","text":"Destroyed Villages","x":1420,"y":-378,"width":250,"height":58},
 		{"id":"a1fd39f1c885abad","type":"text","text":"Sibernyan - Celestial Dialect","x":1065,"y":-200,"width":210,"height":68},
 		{"id":"24b5f0140402cc55","type":"text","text":"Steelhardt Schematics","x":1408,"y":-608,"width":275,"height":60,"color":"#ff00ff"},
-		{"id":"ee4afc6158d477a1","x":1421,"y":-113,"width":250,"height":60,"color":"3","type":"text","text":"Forge"},
-		{"id":"4f09039bc72c5539","type":"text","text":"Rak Tulkesh","x":485,"y":-53,"width":250,"height":60,"color":"1"}
+		{"id":"4f09039bc72c5539","type":"text","text":"Rak Tulkesh","x":485,"y":-53,"width":250,"height":60,"color":"1"},
+		{"id":"fed548b03f4c89f8","type":"text","text":"Sharn","x":-40,"y":-608,"width":250,"height":60},
+		{"id":"6f800102ae8db8d6","type":"text","text":"Vorak the Rageblight","x":996,"y":-378,"width":250,"height":60,"color":"1"},
+		{"id":"24953c68b90ee4d9","type":"text","text":"Destroyed Villages","x":1421,"y":-378,"width":250,"height":60},
+		{"id":"ee4afc6158d477a1","type":"text","text":"Forge","x":-445,"y":-53,"width":250,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"bac70c1e9d04a13c","fromNode":"7d97e1a39c8769f5","fromSide":"right","toNode":"c5913a0f3a00186c","toSide":"left","toEnd":"none"},
@@ -111,10 +111,10 @@
 		{"id":"3c8d2f8e735dec87","fromNode":"0c4a5e8bc856075f","fromSide":"bottom","toNode":"fa966a602d97b4bf","toSide":"top","toEnd":"none"},
 		{"id":"364230813f0ee3fb","fromNode":"64eed97371c2a743","fromSide":"right","toNode":"a84c11ddcb40b3aa","toSide":"top","toEnd":"none"},
 		{"id":"11aca234d45714e3","fromNode":"6f800102ae8db8d6","fromSide":"top","toNode":"7105545bb54889a7","toSide":"bottom","toEnd":"none"},
-		{"id":"a786d56a5c3faa7d","fromNode":"ee4afc6158d477a1","fromSide":"left","toNode":"d0097f85efd31964","toSide":"bottom","toEnd":"none","color":"2"},
-		{"id":"a2a230541f11f7d2","fromNode":"ee4afc6158d477a1","fromSide":"left","toNode":"6ca7f3f38e3ed230","toSide":"bottom","toEnd":"none"},
-		{"id":"1a241c7fef2d12e2","fromNode":"ee4afc6158d477a1","fromSide":"top","toNode":"f434fbeb0543d193","toSide":"right","toEnd":"none","color":"2"},
-		{"id":"4db88cf66ef0f92f","fromNode":"85773e8b6033d1a3","fromSide":"top","toNode":"ee4afc6158d477a1","toSide":"left","toEnd":"none"},
+		{"id":"a786d56a5c3faa7d","fromNode":"ee4afc6158d477a1","fromSide":"top","toNode":"d0097f85efd31964","toSide":"bottom","toEnd":"none","color":"2"},
+		{"id":"a2a230541f11f7d2","fromNode":"ee4afc6158d477a1","fromSide":"top","toNode":"6ca7f3f38e3ed230","toSide":"bottom","toEnd":"none"},
+		{"id":"1a241c7fef2d12e2","fromNode":"ee4afc6158d477a1","fromSide":"right","toNode":"f434fbeb0543d193","toSide":"bottom","toEnd":"none","color":"2"},
+		{"id":"4db88cf66ef0f92f","fromNode":"85773e8b6033d1a3","fromSide":"left","toNode":"ee4afc6158d477a1","toSide":"right","toEnd":"none"},
 		{"id":"5c9ead80922a0635","fromNode":"ee4afc6158d477a1","fromSide":"right","toNode":"24b5f0140402cc55","toSide":"right","toEnd":"none"}
 	]
 }
