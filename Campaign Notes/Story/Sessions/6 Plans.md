@@ -33,12 +33,17 @@ Session End: *Lets get a pint.*
 ### Location Details
 
 Place 1: *Olladra's Kitchen*
-- Tavern district located in Lower Central
+- Tavern ward located in Lower Central Plateau
 	- Contains several Pubs, dark alleyways, and few brothels
-	- Main tavern: Olladra's wh
+	- Main tavern/brothel: *Olladra's Whip*
+- Neighboring wards
+	- Shops: *Granite Halls, North Towers*
+	- Inns: *Boldrei's Hearth*
+	- Residential: *Vallia Towers, Myshan Gardens*
 
-Place 2: *Name*
-- X
+Place 2: *Everbright*
+- Magic ward located in Middle Menthis Plateau
+	- Contains several alchemy, artifice, and healing sh
 
 (continue as needed)
 ### People
