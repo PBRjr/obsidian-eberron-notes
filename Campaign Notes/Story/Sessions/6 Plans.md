@@ -27,15 +27,15 @@ Moment 4: *Meeting the Master Artificer*
 - He tells of his curiosity of the Warforged and his suspicions of House Cannith.
 - He wants the party to investigate Yelena and Norbit's old workshop to search for clues about the schematics.
 
-(continue as needed, may nest encounters inside moments)
-
-Session End
-- (possible cliffhanger)
+Session End: *Lets get a pint.*
+- The party encounters a bruised and newly unemployed Garhorn and his dog, Blinker.
 
 ### Location Details
 
-Place 1: *Name*
-- X (brief and relevant to the session)
+Place 1: *Olladra's Kitchen*
+- Tavern district located in Lower Central
+	- Contains several Pubs, dark alleyways, and few brothels
+	- Main tavern: Olladra's wh
 
 Place 2: *Name*
 - X
