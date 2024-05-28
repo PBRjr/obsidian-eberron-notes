@@ -57,16 +57,21 @@ Place 3: *Aeren's Workshop*
 
 ### People
 
-Person 1: Aeren d'Cannith
+Person 1: *Aeren d'Cannith*
 - Wants to discuss Geralt's parents, the schematics, and requests aid in searching Geralt's parent's old workshop
 *Plot Information*
 - Doesn't know what dialect the schematics are written in, hopes to find out more with the party's help
-- Has a large amount of resources available, wi
+- Has a large amount of resources available, willing to become a group patron for the party in the future.
+- Ultimately wants to know what caused the Warforged to become sentient.
 
-Person 2:
-- X
+Person 2: *Baelen ir'Torn*
+- Went back to the university with the priest to collect research supplies.
+- They were attack on their way out, though only Baelen escaped. The priest can secretly be found a short distance away, barely clinging to life from the attack.
+- Guard investigation is being conducted on the campus, leaving clues for the party to discover.
 *Plot Information*
-- X 
+- The
+- Hasn't yet made it to a CotSF garrison. He is all alone, trying to sneak through the city without the priest and survive.
+- Baelen still holds the FKD fragment.
 
 (continue as needed)
 ### Plot Actions
