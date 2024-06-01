@@ -1,3 +1,5 @@
+TODO
+print forge's journal handout
 ### Outline
 - [[Kogs Ritual Chamber]]
 - Party escapes into Sharn OR back to the Lighthouse
@@ -11,7 +13,7 @@
 Session Start
 - Kogs ritual chamber skill challenge
 
-Moment 1: *Welcome to Sharn*
+Moment 1: *Welcome to Sharn* OR *Make it to*
 - The party bursts forth from a sewer grate in the middle of the road
 - They find themselves smack-dab in the middle of the tavern district of *Olladra's Kitchen* in [[Sharn#Lower Central Plateau|Lower Central]]
 
