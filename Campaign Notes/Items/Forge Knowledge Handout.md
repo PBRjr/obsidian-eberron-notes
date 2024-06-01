@@ -6,12 +6,12 @@
  - All subsequent batches were made with these methods, using the souls of dead soldiers, however they were stripped of their mortal memories. This was the only work-around House Cannith could devise to prevent these new Warforged from losing their minds.
  - In a battle during the last war, he sacrificed his and his men's lives in an explosion he set off to overtake the enemy. 
  - Forge's soul was captured by House Cannith and infused into a warforged body. He was held prisoner and used for various tests and experiments for a period of time.
- - Near the end of the war, he broke free and, using his skills from his past life, **destroyed his creation forge**.
+ - Near the end of the war, he broke free and, using his skills from his past life, destroyed his creation forge.
 	- He obtained information on his creation, including the methods that were still being used to create new warforged.
 	- He threatened to go public with that [[forge knowledge handout|info]]. 
 	- Knowing he would be unable to destroy all of the forges on his own, he forced House Cannith's hand into signing the Treaty of Thronehold and shutting down all creation forges, ending the production of new Warforged.(
 	- Maybe he didn't go public because in the back of his mind he knew one day he may want to "have children" or create new warforged in his name.
-- He was branded with a unique symbol on the front of this chest. It contains the House Cannith Gorgan, in addition to markings that read "FORGE 2". **(aberrant dragonmark? Can replace the ASI for level 4 if he wants it to have mechanical benefits. If so, it will be more of a living dragonmark that has been growing from his chest to the rest of his body slowly over time and just now manifested party.)**
+- When he was a human, Forge was blessed with a Mark of Making. As a warforged, his soul carried the mark to his new warforged body, which is now displayed as originating from his chest and creeping out to the rest of his body similarly to a system of veins and arteries that carry an ambient subtle glow who's color reflects his current mood.
 - **He is still being chased by agents of house cannith to recover his blackmail and continue to study him.
 - He has a note ripped out of an artificer's journal he found prior to destroying his creation forge.
 - He was at The Lighthouse because he knew it contained a portal to Sharn.
