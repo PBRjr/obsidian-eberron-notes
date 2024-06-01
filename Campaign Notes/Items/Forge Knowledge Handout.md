@@ -4,7 +4,7 @@
 	- It looks like a small sphere with runes engraved on it, which subtly glowed with a golden-violet hue.
  - Forge was created in the first batch of modern warforged - and the only one that didn't lose his mind due to his new found form. All others in his creation batch either ended their own existence or were terminated. Artificers were unable to identify and replicate what traits allowed Forge to retain both his memories and his sanity.
  - All subsequent batches were made with these methods, using the souls of dead soldiers, however they were stripped of their mortal memories. This was the only work-around House Cannith could devise to prevent these new Warforged from losing their minds.
- - In a battle during the last war, he sacrificed his and his men's lives in an explosion he set off to overtake the enemy.
+ - In a battle during the last war, he sacrificed his and his men's lives in an explosion he set off to overtake the enemy. 
  - Forge's soul was captured by House Cannith and infused into a warforged body. He was held prisoner and used for various tests and experiments for a period of time.
  - Near the end of the war, he broke free and, using his skills from his past life, **destroyed his creation forge**.
 	- He obtained information on his creation, including the methods that were still being used to create new warforged.
