@@ -10,8 +10,8 @@
 	- He obtained information on his creation, including the methods that were still being used to create new warforged.
 	- He threatened to go public with that [[forge knowledge handout|info]]. 
 	- Knowing he would be unable to destroy all of the forges on his own, he forced House Cannith's hand into signing the Treaty of Thronehold and shutting down all creation forges, ending the production of new Warforged.(
-	- Maybe he didn't go public because in the back of his mind he knew one day he may want to "have children".
-- He was branded with a unique dragonmark on the front of this chest. It contains the House Cannith Gorgan, in addition to markings that read "FORGE 2". **(aberrant dragonmark? Can replace the ASI for level 4 if he wants it to have mechanical benefits. If so, it will be more of a living dragonmark that has been growing from his chest to the rest of his body slowly over time and just now manifested party.)**
+	- Maybe he didn't go public because in the back of his mind he knew one day he may want to "have children" or create new warforged in his name.
+- He was branded with a unique symbol on the front of this chest. It contains the House Cannith Gorgan, in addition to markings that read "FORGE 2". **(aberrant dragonmark? Can replace the ASI for level 4 if he wants it to have mechanical benefits. If so, it will be more of a living dragonmark that has been growing from his chest to the rest of his body slowly over time and just now manifested party.)**
 - **He is still being chased by agents of house cannith to recover his blackmail and continue to study him.
 - He has a note ripped out of an artificer's journal he found prior to destroying his creation forge.
 - He was at The Lighthouse because he knew it contained a portal to Sharn.
