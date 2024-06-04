@@ -25,7 +25,7 @@ Stranded at the Tower of Old
 Encounter 1: *The battle of the Tower*
 - Hill giant zombie, 3-5 zombies, 3-5 decrepit skeletons
 - 3 zombies and the giant zombie are out front, more zombies/skeletons will exit the tower if needed
-- Skeletons are hiding on the seco
+- Skeletons are hiding on the seconds floor of the tower shooting through kill holes.
 
 Moment 2: *Message from Aeren*
 - Whether by stone gargoyle or Sivis messenger, Aeren contacts the party, asking them to meet him at his workshop in *Everbright* in [[Sharn#Menthis Plateau|Middle Menthis]] the following night.
