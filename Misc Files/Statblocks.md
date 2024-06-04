@@ -72,6 +72,9 @@ Huge undead, neutral evil
 
 *Toxic Exhalation (Recharge 5-6).* The zombie spews toxic vomit in a 15-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 
+### Zombie
+
+
 ## Fiends
 ### Hellhound
 Medium Fiend, typically Neutral Evil
