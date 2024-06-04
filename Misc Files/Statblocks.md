@@ -81,41 +81,39 @@ Medium Undead, Typically Lawful Evil
 
 **Speed** 20 ft.
 
-![Stat Block Header](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
 |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|
 |15 (+2)|8 (-1)|14 (+2)|3 (-4)|5 (-3)|5 (-3)|
 
-![Stat Block Header](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Damage Vulnerabilities** radiant
+*Damage Vulnerabilities* radiant
 
-**Damage Immunities** poison
+*Damage Immunities* poison
 
-**Condition Immunities** exhaustion, poisoned
+*Condition Immunities* exhaustion, poisoned
 
-**Senses** darkvision 60 ft., passive Perception 7
+*Senses* darkvision 60 ft., passive Perception 7
 
-**Languages** understands the languages they knew in life but can't speak
+*Languages* understands the languages they knew in life but can't speak
 
-**Challenge** 1/4 (50 XP)
+*Challenge* 1/4 (50 XP)
 
-![Stat Block Header](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Negative Nerves.** Whenever a creature deals 5 damage or less to the zombie, the zombie takes no damage instead.
+*Negative Nerves.* Whenever a creature deals 5 damage or less to the zombie, the zombie takes no damage instead.
 
-**Delayed Reflex.** When the zombie's Negative Nerves trait allows them to ignore damage dealt by a creature the zombie can see within 5 feet of them, the zombie makes a Slam attack with disadvantage against the creature.
+*Delayed* *Reflex*. When the zombie's Negative Nerves trait allows them to ignore damage dealt by a creature the zombie can see within 5 feet of them, the zombie makes a Slam attack with disadvantage against the creature.
 
-_Actions_ ![Stat Block Header](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+**Actions** ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Slam.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage.
+*Slam*. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage.
 
-![Stat Block Header](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+**Reactions** ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Reactions** ![Stat Block Header](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
-
-**Delayed Reflex.** When the zombie's Negative Nerves trait allows them to ignore damage dealt by a creature the zombie can see within 5 feet of them, the zombie makes a Slam attack with disadvantage against the creature.
+*Delayed Reflex.* When the zombie's Negative Nerves trait allows them to ignore damage dealt by a creature the zombie can see within 5 feet of them, the zombie makes a Slam attack with disadvantage against the creature.
 
 ## Fiends
 ### Hellhound
