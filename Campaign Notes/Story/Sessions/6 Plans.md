@@ -21,6 +21,11 @@ Welcome to Sharn
 
 Stranded at the Tower of Old
 - The party finds themselves before a door in a small room. An inscription on the door reads: "*Forsake thy mortal fears, or be drought of light; This battle won not alone by might; They tremble before thy divine right; Enter ye here, the Tower of Old, where wrong is wrought with blight. May the top take you to day's bright.*"
+- Reaching the top of the tower leads to a bright doorway that leads to the middle of the street in *Everbright*.
+Encounter 1: *The battle of the Tower*
+- Hill giant zombie, 3-5 zombies, 3-5 decrepit skeletons
+- 3 zombies and the giant zombie are out front, more zombies/skeletons will exit the tower if needed
+- Skeletons are hiding on the seco
 
 Moment 2: *Message from Aeren*
 - Whether by stone gargoyle or Sivis messenger, Aeren contacts the party, asking them to meet him at his workshop in *Everbright* in [[Sharn#Menthis Plateau|Middle Menthis]] the following night.
