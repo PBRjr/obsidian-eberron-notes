@@ -14,7 +14,9 @@ Aeren is a cunning and charming half-elf Artificer with a mind for pattern recog
 
 A proficient and acclaimed artificer of House Cannith (invented the Everbright lantern), Aeren holds the title of the youngest Master Artificer [[House Cannith]] has ever known. Having been born outside of the Dragonmarked house to an Elven mother and human father, Aeren is also the only Master Artificer that does not bare a *Mark of Making.
 
-After becoming a Master Artificer, he was gifted an old and almost forgotten workshop to use as his own. He was always obsessed with the great warforged creations, though his probing questions were always met with standard answers. The mystery onThese documents belonged to Yelena and Norbit Wolfsbane, Geralt's parents. This was their workshop, before they deserted.
+After becoming a Master Artificer, he was gifted an old and almost forgotten workshop to use as his own. He was always obsessed with the great warforged creations, though his probing questions were always met with standard answers. The mystery only served to intrigue Aeren more.
+
+After some investigation, Aeren dug up old documents that listed required strange components for a new theoretical creation. The document was signed by Yelena and Norbit Wolfsbane.
 ### Motivations
 
 - Alignment: Chaotic Good
