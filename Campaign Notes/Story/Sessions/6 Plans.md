@@ -21,7 +21,7 @@ Welcome to Sharn
 
 Stranded at the Tower of Old
 - The party finds themselves before a door in a small room. An inscription on the door reads: "*Forsake thy mortal fears, or be drought of light; This battle won not alone by might; They tremble before thy divine right; Enter ye here, the Tower of Old, where wrong is wrought with blight. May the top take you to day's bright.*"
-- Reaching the top of the tower leads to a bright doorway that leads to the middle of the street in *Everbright*.
+- Reaching the top of the tower leads to a bright doorway that leads to the middle of the street in *Olladra's Kitchen* in [[Sharn#Lower Central Plateau|Lower Central]].
 Encounter 1: *The battle of the Tower*
 - Hill giant zombie, 3-5 zombies, 3-5 decrepit skeletons
 - 3 zombies and the giant zombie are out front, more zombies/skeletons will exit the tower if needed
