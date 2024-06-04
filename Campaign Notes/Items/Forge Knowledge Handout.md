@@ -10,7 +10,7 @@
 	- He obtained information on his creation, including the methods that were still being used to create new warforged.
 	- He threatened to go public with that [[forge knowledge handout|info]]. 
 	- Knowing he would be unable to destroy all of the forges on his own, he forced House Cannith's hand into signing the Treaty of Thronehold and shutting down all creation forges, ending the production of new Warforged.
-	- Maybe he didn't go public because in the back of his mind he knew one day he may want to "have children" or create new warforged in his name.
+	- He didn't go public because in the back of his mind he knew one day he may want to "have children" or create new warforged in his name.
 - When he was a human, Forge was blessed with a Mark of Making. As a warforged, his soul carried the mark to his new warforged body, which is now displayed as originating from his chest and creeping out to the rest of his body similarly to a system of veins and arteries that carry an ambient subtle glow who's color reflects his current mood.
 - He is still being chased by agents of House Cannith to recover his blackmail and continue to study him.
 - He has a note ripped out of an artificer's journal he found prior to destroying his creation forge.
