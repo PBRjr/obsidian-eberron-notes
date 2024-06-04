@@ -2,7 +2,7 @@ TODO
 print forge's journal handout
 ### Outline
 - [[Kogs Ritual Chamber]]
-- Party escapes into Sharn OR gets stranded in the Kogs
+- Party escapes into Sharn OR gets stranded in Old Sharn
 - Party is contacted by Aeren d'Cannith
 - Random encounters to set the scene of the city
 - Baelen ir'Torn is being hunted by the Boromar Clan
@@ -13,14 +13,14 @@ print forge's journal handout
 Session Start
 - Kogs ritual chamber skill challenge
 
-Moment 1: *Welcome to Sharn* OR *Stranded in the Kogs*
+Moment 1: *Welcome to Sharn* OR *Stranded in Old Sharn*
 
 Welcome to Sharn
 - The party bursts forth from a sewer grate in the middle of the road
 - They find themselves smack-dab in the middle of the tavern district of *Olladra's Kitchen* in [[Sharn#Lower Central Plateau|Lower Central]]
 
 Stranded in the Kogs
-
+- The party finds themselves before a door in a small room. 
 
 Moment 2: *Message from Aeren*
 - Whether by stone gargoyle or Sivis messenger, Aeren contacts the party, asking them to meet him at his workshop in *Everbright* in [[Sharn#Menthis Plateau|Middle Menthis]] the following night.
