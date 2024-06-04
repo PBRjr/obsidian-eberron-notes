@@ -10,6 +10,8 @@ Aeren is a cunning and charming half-elf Artificer with a mind for pattern recog
 
 - Mannerisms: He is constantly probing, searching, and looking for hidden meanings. He has a knack for pattern recognition.
 
+### Workshop
+Aeren's workshop is located in *Everbright, Middle Menthis* and is rather unas
 ### Backstory
 
 A proficient and acclaimed artificer of House Cannith (invented the Everbright lantern), Aeren holds the title of the youngest Master Artificer [[House Cannith]] has ever known. Having been born outside of the Dragonmarked house to an Elven mother and human father, Aeren is also the only Master Artificer that does not bare a *Mark of Making.
@@ -19,8 +21,13 @@ After becoming a Master Artificer, he was gifted an old and almost forgotten wor
 After some investigation, Aeren dug up old documents that listed required strange components for a new theoretical creation. The document was signed by Yelena and Norbit Wolfsbane.
 
 ### Group Patron
-- For completing his missions and requests, Aeren will pay:
-- 
+Compensation
+- 10gp x party level x days worked on mission
+
+Benefits
+- 10% discount on services
+- House agent independence
+- Free board at Aeren's workshop
 ### Motivations
 
 - Alignment: Chaotic Good
