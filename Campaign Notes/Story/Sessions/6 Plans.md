@@ -20,7 +20,7 @@ Welcome to Sharn
 - They find themselves smack-dab in the middle of the tavern district of *Olladra's Kitchen* in [[Sharn#Lower Central Plateau|Lower Central]]
 
 Stranded in the Kogs
-- The party finds themselves before a door in a small room. An inscription on the door reads: "*Shed your mortal fears, or be drought of light; This battle not won alone with might; They cower before your divine right; Enter ye here, Old Sharn, and make wrong rot before right.*"
+- The party finds themselves before a door in a small room. An inscription on the door reads: "*Forsake thy mortal fears, or be drought of light; This battle won not alone by might; They tremble before thy divine right; Enter ye here, Old Sharn, where wrong is wrought with blight.*"
 
 Moment 2: *Message from Aeren*
 - Whether by stone gargoyle or Sivis messenger, Aeren contacts the party, asking them to meet him at his workshop in *Everbright* in [[Sharn#Menthis Plateau|Middle Menthis]] the following night.

@@ -17,6 +17,10 @@ A proficient and acclaimed artificer of House Cannith (invented the Everbright l
 After becoming a Master Artificer, he was gifted an old and almost forgotten workshop to use as his own. He was always obsessed with the great warforged creations, though his probing questions were always met with standard answers. The mystery only served to intrigue Aeren more.
 
 After some investigation, Aeren dug up old documents that listed required strange components for a new theoretical creation. The document was signed by Yelena and Norbit Wolfsbane.
+
+### Group Patron
+- For completing his missions and requests, Aeren will pay:
+- 
 ### Motivations
 
 - Alignment: Chaotic Good
