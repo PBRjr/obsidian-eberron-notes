@@ -28,6 +28,10 @@ References
 
 ---
 
+## Undead
+
+### Giant Zombie
+
 ## Fiends
 ### Hellhound
 Medium Fiend, typically Neutral Evil
