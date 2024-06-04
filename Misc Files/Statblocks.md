@@ -31,6 +31,43 @@ References
 ## Undead
 
 ### Giant Zombie
+Huge undead, neutral evil
+
+**Armor Class** 14 (natural armor)
+
+**Hit Points** 138 (12d12 + 60)
+
+**Speed** 30 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 19 (+4) | 8 (-1) | 18 (+4) | 3 (-4) | 5 (-3) | 4 (-3) |
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Damage Vulnerabilities** radiant
+
+**Damage Immunities** poison
+
+**Condition Immunities** exhaustion, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 7
+
+**Languages** understands the languages they knew in life but can't speak
+
+**Challenge** 4 (1,1000)
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Undead Fortitude.** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+
+**Actions**
+
+**Multiattack.** The zombie makes two slam attacks.
+
+**Slam.** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (3d6 + 6) bludgeoning damage.
 
 ## Fiends
 ### Hellhound
