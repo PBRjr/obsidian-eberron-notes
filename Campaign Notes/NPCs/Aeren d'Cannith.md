@@ -1,10 +1,10 @@
 ### Concept
 
-Aeren is a cunning and charming half-elf Artificer with a mind for pattern recognition. He is also Miri's mentor. He has always been a curious and inquisitive mind. He noticed the modern warforged are an exponential improvement on the original, 
+Aeren is a cunning and charming half-elf Artificer with a mind for pattern recognition. He is also Miri's mentor. He has always been a curious and inquisitive mind. He noticed the modern warforged are an exponential improvement on the original, in addition to their newfound sentience. Since then, he's been obsessed with a single burning question: What changed?
 
 ### Description
 
-- Appearance: Aeren is a spry, wiry young half-elf with short ruffled hair, bright green eyes, and a perpetual half-smile. 
+- Appearance: Aeren is a middle-aged half-elf with short ruffled hair, bright green eyes, and a perpetual half-smile. 
 
 - Personality: He is naturally curious, friendly, and charismatic but also a shrewd investigator.
 
@@ -14,7 +14,7 @@ Aeren is a cunning and charming half-elf Artificer with a mind for pattern recog
 
 A proficient and acclaimed artificer of House Cannith (invented the Everbright lantern), Aeren holds the title of the youngest Master Artificer [[House Cannith]] has ever known. Having been born outside of the Dragonmarked house to an Elven mother and human father, Aeren is also the only Master Artificer that does not bare a *Mark of Making.
 
-After becoming a Master Artificer, he was gifted an old and almost forgotten workshop to use as his own. While he was cleaning it up and making it his own, he came across some old schematics written in a strange script. He attempted to decrypt them, however was unsuccessful. These documents belonged to Yelena and Norbit Wolfsbane, Geralt's parents. This was their workshop, before they deserted.
+After becoming a Master Artificer, he was gifted an old and almost forgotten workshop to use as his own. He was always obsessed with the great warforged creations, though his probing questions were always met with standard answers. The mystery onThese documents belonged to Yelena and Norbit Wolfsbane, Geralt's parents. This was their workshop, before they deserted.
 ### Motivations
 
 - Alignment: Chaotic Good
