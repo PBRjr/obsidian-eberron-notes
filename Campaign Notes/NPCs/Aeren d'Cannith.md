@@ -20,14 +20,8 @@ After some investigation, Aeren dug up old documents that listed required strang
 ### Motivations
 
 - Alignment: Chaotic Good
-- Short term goals: Decode the schematics
-- Long term aspirations: Deduce the role House Cannith played in the [[Day of Mourning]]
-
-### Abilities & Powers
-
-- Statblock: Use standard Rogue class stats from PHB
-- Skills & Expertise: Excellent investigator and information gatherer.
-- Special Abilities: Insightful Fighting, Sneak Attack
+- Short term goals: Hire the party to search Geralt's parents old workshop.
+- Long term aspirations: Understand the secrets of what gifted the modern warforged sentience.
 
 ### Allies & Enemies
 
