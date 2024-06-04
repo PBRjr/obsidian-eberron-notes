@@ -47,27 +47,30 @@ Huge undead, neutral evil
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Damage Vulnerabilities** radiant
+*Damage Vulnerabilities* radiant
 
-**Damage Immunities** poison
+*Damage Immunities* poison
 
-**Condition Immunities** exhaustion, poisoned
+*Condition Immunities* exhaustion, poisoned
 
-**Senses** darkvision 60 ft., passive Perception 7
+*Senses* darkvision 60 ft., passive Perception 7
 
-**Languages** understands the languages they knew in life but can't speak
+*Languages* understands the languages they knew in life but can't speak
 
-**Challenge** 4 (1,1000)
+*Challenge* 4 (1,100 XP)
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Undead Fortitude.** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+*Negative Nerves.* Whenever a creature deals 7 damage or less to the zombie, the zombie takes no damage instead.
 
 **Actions**
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Multiattack.** The zombie makes two slam attacks.
+*Multiattack*. The zombie makes two slam attacks.
 
-**Slam.** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (3d6 + 6) bludgeoning damage.
+*Slam*. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage, and if the target is large or smaller, they are grappled (escape DC 14). The zombie has two fists, each of which can grapple one target.
+
+*Toxic*
 
 ## Fiends
 ### Hellhound
