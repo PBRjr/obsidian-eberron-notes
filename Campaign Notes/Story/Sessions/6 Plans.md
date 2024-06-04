@@ -27,6 +27,7 @@ Moment 3: *Attack at Morgrave*
 Moment 4: *Meeting the Master Artificer*
 - Aeren d'Cannith's workshop is filled with mechs and machinery. Aeren is happy to accommodate guests, and will offer his home to the Party whenever they need a place to rest.
 - He tells of his curiosity of the Warforged and his suspicions of House Cannith.
+- He wants to [[Aeren d'Cannith|hire]] the party for a long-term mission: To investigate the origin of the modern warforged.
 - He wants the party to investigate Yelena and Norbit's old workshop to search for clues about the schematics.
 
 Session End: *Lets get a pint.*

@@ -1,6 +1,6 @@
 ### Concept
 
-Aeren is a cunning and charming half-elf Artificer with a mind for pattern recognition. He is also Miri's mentor. He discovered information within House Cannith suggesting some members were involved with dark forces, and may have had something to do with the [[Day of Mourning]]. 
+Aeren is a cunning and charming half-elf Artificer with a mind for pattern recognition. He is also Miri's mentor. He has always been a curious and inquisitive mind. He noticed the modern warforged are an exponential improvement on the original, 
 
 ### Description
 
