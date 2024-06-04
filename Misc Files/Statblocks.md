@@ -70,7 +70,7 @@ Huge undead, neutral evil
 
 *Slam*. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage, and if the target is large or smaller, they are grappled (escape DC 14). The zombie has two fists, each of which can grapple one target.
 
-*Toxic*
+*Toxic Exhalation (Recharge 5-6).* The zombie spews toxic vomit in a 15-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 
 ## Fiends
 ### Hellhound
