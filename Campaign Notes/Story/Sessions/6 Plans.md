@@ -1,6 +1,3 @@
-TODO
-handouts:
-- forge's journal
 ### Outline
 - [[Kogs Ritual Chamber]]
 - Party escapes into Sharn OR The Tower of Old
