@@ -4,7 +4,7 @@ RULES
 [[Skill Challenges]]
 1. The party must reach 5 successes before they get 3 failures.
 	- 5 successes: Make it to the surface.
-	- 3 failures: The cavern floor collapses, trapping them in the kogs and forcing them to find their way back up to the surface.
+	- 3 failures: The cavern floor collapses, trapping them in the by The Tower of Old and forcing them to find their way back up to the surface.
 1. Each success allows them to advance to the next room.
 2. Rubble & rock constantly falls from above, threatening a total collapse of the cavern.
 3. ~~Attacks: All involved in failed skill check roll **DC 12-15 dex saving throw** or take **10(3d6) dmg**.~~
