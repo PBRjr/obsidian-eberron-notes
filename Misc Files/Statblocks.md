@@ -1,6 +1,10 @@
 
 ---
 References
+- [[#Undead|Undead]]
+	- [[#Undead#Giant Zombie|Giant Zombie]]
+	- [[#Undead#Zombie|Zombie]]
+	- [[#Undead#Decrepit Skeleton|Decrepit Skeleton]]
 - [[#Fiends|Fiends]]
 	- [[#Fiends#Hellhound|Hellhound]]
 	- [[#Fiends#Hellhound Cur|Hellhound Cur]]
@@ -12,10 +16,10 @@ References
 	- [[#Kobolds#Kobold Scale Sorcerer|Kobold Scale Sorcerer]]
 	- [[#Kobolds#Kobold|Kobold]]
 - [[#Humanoids|Humanoids]]
-	- [[#Misc Humanoids#Veteran|Veteran]]
-	- [[#Misc Humanoids#Commoner|Commoner]]
-	- [[#Misc Humanoids#Bandit (Increased Diff)|Bandit (Increased Diff)]]
-	- [[#Misc Humanoids#Enchanter|Enchanter]]
+	- [[#Humanoids#Veteran|Veteran]]
+	- [[#Humanoids#Commoner|Commoner]]
+	- [[#Humanoids#Bandit (Increased Diff)|Bandit (Increased Diff)]]
+	- [[#Humanoids#Enchanter|Enchanter]]
 - [[#Beasts|Beasts]]
 	- [[#Beasts#Pteranodons|Pteranodons]]
 - [[#Monstrosities|Monstrosities]]
@@ -24,10 +28,7 @@ References
 	- [[#Monstrosities#Mimic|Mimic]]
 - [[#Structures|Structures]]
 	- [[#Structures#Balista|Balista]]
-
-
 ---
-
 ## Undead
 
 ### Giant Zombie
