@@ -28,7 +28,8 @@ Encounter 1: *The battle of the Tower*
 - Hill giant zombie, 3-5 zombies, 3-5 decrepit skeletons
 - 3 zombies and the giant zombie are out front, more zombies/skeletons will exit the tower if needed
 - Skeletons are hiding on the seconds floor of the tower shooting through kill holes.
-- *Lava Geisers* spew up from the lava lake, periodically causing areas to become covered.
+- *Lava Geysers* spew up from the lava lake, periodically causing areas to become covered.
+	- At initiative 20, a random location on the edge of the pools becomes saturated with lava, indicated by bubbling from the round before
 
 Moment 2: *Message from Aeren*
 - Whether by stone gargoyle or Sivis messenger, Aeren contacts the party, asking them to meet him at his workshop in *Everbright* in [[Sharn#Menthis Plateau|Middle Menthis]] the following night.
