@@ -8,8 +8,7 @@ The Tower of Old
 ### Outline
 - Explore the Tower of Old
 - Gate to Sharn
-- Party is contacted by Aeren d'Cannith
-- Random encounters to set the scene of the city
+- Sharn random encounters
 - Baelen ir'Torn is being hunted by the Boromar Clan
 - Encounter with Garhorn & Blinker
 
@@ -18,22 +17,13 @@ The Tower of Old
 Session Start
 - Exploring [[The Tower of Old]]
 
-Moment 1: *Welcome to Sharn* OR *The Tower of Old*
-
-Welcome to Sharn
-- The party bursts forth from a sewer grate in the middle of the road
-- They find themselves smack-dab in the middle of the tavern district of *Olladra's Kitchen* in [[Sharn#Lower Central Plateau|Lower Central]]
-
-Stranded at the Tower of Old
-- The party finds themselves before an opening in a small room. A long-extinguished campfire rests in the middle of the room. A hand-scratched inscription on the wall reads: "*Forsake thy mortal fears, or be drought of light; This battle won not alone by might; They tremble before thy divine right; Enter ye here, the Tower of Old, where wrong is wrought with blight. May the top take you to day's bright.*"
+Moment 1: *The Tower of Old*
+- 
 - Reaching the top of the tower leads to a bright doorway that leads to the middle of the street in *Olladra's Kitchen* in [[Sharn#Lower Central Plateau|Lower Central]].
 
-Encounter 1: *The battle of the Tower*
-- Hill giant zombie, 3-5 zombies, 3-5 decrepit skeletons
-- 3 zombies and the giant zombie are out front, more zombies/skeletons will exit the tower if needed
-- Skeletons are hiding on the seconds floor of the tower shooting through kill holes.
-- *Lava Geysers* spew up from the lava lake, periodically causing areas to become covered.
-	- At initiative 20, a random location on the edge of the pools becomes saturated with lava, indicated by bubbling from the round before
+Moment 2: *Gate to Sharn*
+- The party teleports to the middle of a random street within *Olladra's Kitchen* in [[Sharn#Lower Central Plateau|Lower Central]].
+- A busy walkway several hundred feet above the lower districts.
 
 Moment 2: *Message from Aeren*
 - Whether by stone gargoyle or Sivis messenger, Aeren contacts the party, asking them to meet him at his workshop in *Everbright* in [[Sharn#Menthis Plateau|Middle Menthis]] the following night.
