@@ -24,6 +24,7 @@ Moment 1: *The Tower of Old*
 Moment 2: *Gate to Sharn*
 - The party teleports to the middle of a random street within *Olladra's Kitchen* in [[Sharn#Lower Central Plateau|Lower Central]].
 - A busy walkway several hundred feet above the lower districts.
+- [[Misc Files/Tables/Random Encounters#Central Plateau - Middle Menthis|Random Encounters]]
 
 Moment 2: *Message from Aeren*
 - Whether by stone gargoyle or Sivis messenger, Aeren contacts the party, asking them to meet him at his workshop in *Everbright* in [[Sharn#Menthis Plateau|Middle Menthis]] the following night.
