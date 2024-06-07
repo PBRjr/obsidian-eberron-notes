@@ -1,6 +1,13 @@
+TODO
+The Tower of Old
+- backstory of the tower?
+- how does it fit into plot?
+- side quest hooks?
+- populate with clutter, loot, plot delivery devices
+
 ### Outline
-- [[Kogs Ritual Chamber]]
-- Party escapes into Sharn OR The Tower of Old
+- Explore the Tower of Old
+- Gate to Sharn
 - Party is contacted by Aeren d'Cannith
 - Random encounters to set the scene of the city
 - Baelen ir'Torn is being hunted by the Boromar Clan
@@ -9,7 +16,7 @@
 ### Moments & Encounters
 
 Session Start
-- Kogs ritual chamber skill challenge
+- Exploring [[The Tower of Old]]
 
 Moment 1: *Welcome to Sharn* OR *The Tower of Old*
 
