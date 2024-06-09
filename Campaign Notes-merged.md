@@ -786,6 +786,52 @@ Khyber shards, known as "dragon's teeth", are found deep within the world, in th
 
 
 
+## Forge Knowledge Handout
+
+
+**Does know**
+- Warforged were made using the souls of fallen soldiers during the last war.
+- Their creation involved trapping the soul in some kind of metal heart.
+	- It looks like a small sphere with runes engraved on it, which subtly glowed with a golden-violet hue.
+ - Forge was created in the first batch of modern warforged - and the only one that didn't lose his mind due to his new found form. All others in his creation batch either ended their own existence or were terminated. Artificers were unable to identify and replicate what traits allowed Forge to retain both his memories and his sanity.
+ - All subsequent batches were made with these methods, using the souls of dead soldiers, however they were stripped of their mortal memories. This was the only work-around House Cannith could devise to prevent these new Warforged from losing their minds.
+ - In a battle during the last war, he sacrificed his and his men's lives in an explosion he set off to overtake the enemy. 
+ - Forge's soul was captured by House Cannith and infused into a warforged body. He was held prisoner and used for various tests and experiments for a period of time.
+ - Near the end of the war, he broke free and, using his skills from his past life, destroyed his creation forge.
+	- He obtained information on his creation, including the methods that were still being used to create new warforged.
+	- He threatened to go public with that [[forge knowledge handout|info]]. 
+	- Knowing he would be unable to destroy all of the forges on his own, he forced House Cannith's hand into signing the Treaty of Thronehold and shutting down all creation forges, ending the production of new Warforged.
+	- He didn't go public because in the back of his mind he knew one day he may want to "have children" or create new warforged in his name.
+- When he was a human, Forge was blessed with a Mark of Making. As a warforged, his soul carried the mark to his new warforged body, which is now displayed as originating from his chest and creeping out to the rest of his body similarly to a system of veins and arteries that carry an ambient subtle glow who's color reflects his current mood.
+- He is still being chased by agents of House Cannith to recover his blackmail and continue to study him.
+- He has a note ripped out of an artificer's journal he found prior to destroying his creation forge.
+- He was at The Lighthouse because he knew it contained a portal to Sharn.
+
+**Doesn't know**
+Why he was different and didn't lose his mind
+Anything about geralts parents
+How the steelhardt works
+### Artificer Journal Page Handout
+
+---
+The latest series of experiments aimed at recreating The Prototype has once again ended in failure. The primary challenge continues to be the integration of both Khyber and Siberys dragonshards into a single cohesive device.
+
+**Key Observations:**
+
+1. **Energetic Incompatibility:** When attempting to merge Khyber and Siberys dragonshards, the inherent properties of each shard result in violent energetic reactions. The Khyber shard's chaotic dark energy and the Siberys shard's radiant light energy create a destabilizing feedback loop, leading to catastrophic device failure.
+
+3. **Material Fracture:** Even with the most refined binding agents and stabilization matrices, the structural integrity of the device cannot withstand the opposing forces of the shards. Repeated trials show that the casing fractures under the pressure, often shattering both the dragonshards and the housing materials.
+
+3. **Arcane Conductivity Issues:** The arcane circuits designed to channel the combined energies of both shards are proving inadequate. The conduits either overload or burn out, unable to handle the simultaneous flow of both types of energy. This results in significant power loss and unpredictable surges.
+
+**Current Adjustments & Theories:**
+- **Single Shard Usage:** Given the repeated failures with dual-shard integration, we have temporarily shifted our focus to single shard implementations. Utilizing only a Khyber or Siberys shard simplifies the energy matrix, but this solution is incomplete and leads to noted psychosis in test subjects. The posthumous cooperation of fallen soldiers provides critical insights, yet their spirits are less stable under these conditions. Stabilization methods are in testing phase and are proving effective. 
+
+- **Arcane Filtration:** We are exploring the potential of using arcane filters or buffers to mediate the energies of the two shards. The idea is to create a phased energy conduit that can sequentially manage the influx and outflux of each shard's energy rather than attempting simultaneous integration.
+---
+
+**End of Entry**
+
 ## Fractured Khyber Dragonshard
 
 
@@ -987,6 +1033,26 @@ Ethical Safeguard Latch:
 | 100    | Potion of Superior Healing                              |
 
 
+## Yelena and Norbit's Grocery List
+
+
+Raw Materials
+
+---
+Dragons Blood, 2 vials
+Adamantine Ore, 3 Lbs
+Mithral Ore, 2 Lbs
+Leyline Quartz, 5 Dozen Strands
+Unicorn Mane, 1 Bundle
+Phoenix Feather Quill
+
+Licho Phylactery
+	Note: Must be used & now unoccupied
+
+---
+
+Y & N Wolfsbane
+
 
 # Lore
 
@@ -1108,32 +1174,44 @@ While the Starlight Blossoms' arrival is a minor event in the grand scheme of Sh
 
 ### Concept
 
-Aeren is a cunning and charming half-elf Artificer with a mind for pattern recognition. He is also Miri's mentor. He discovered information within House Cannith suggesting some members were involved with dark forces, and may have had something to do with the [[Day of Mourning]]. 
+Aeren is a cunning and charming half-elf Artificer with a mind for pattern recognition. He is also Miri's mentor. He has always been a curious and inquisitive mind. He noticed the modern warforged are an exponential improvement on the original, in addition to their newfound sentience. Since then, he's been obsessed with a single burning question: What changed?
 
 ### Description
 
-- Appearance: Aeren is a spry, wiry young half-elf with short ruffled hair, bright green eyes, and a perpetual half-smile. 
+- Appearance: Aeren is a middle-aged half-elf with short ruffled hair, bright green eyes, and a perpetual half-smile. 
 
 - Personality: He is naturally curious, friendly, and charismatic but also a shrewd investigator.
 
 - Mannerisms: He is constantly probing, searching, and looking for hidden meanings. He has a knack for pattern recognition.
 
+### Workshop
+Aeren's workshop is located in *Everbright, Middle Menthis* and is rather unassuming on the outside.
+
+The interior is filled with small contraptions, decorations, and bland but functional furniture. Lit by Everbright lanterns, it has a cozy feel. It has 3 stories, the uppers mostly serving as guest rooms.
+
+The only other resident is *Piston*, a short machination who is Aeren's clockwork assistant. He is able to take simple commands, however he is not sentient.
+
 ### Backstory
 
 A proficient and acclaimed artificer of House Cannith (invented the Everbright lantern), Aeren holds the title of the youngest Master Artificer [[House Cannith]] has ever known. Having been born outside of the Dragonmarked house to an Elven mother and human father, Aeren is also the only Master Artificer that does not bare a *Mark of Making.
 
-After becoming a Master Artificer, he was gifted an old and almost forgotten workshop to use as his own. While he was cleaning it up and making it his own, he came across some old schematics written in a strange script. He attempted to decrypt them, however was unsuccessful. These documents belonged to Yelena and Norbit Wolfsbane, Geralt's parents. This was their workshop, before they deserted.
+After becoming a Master Artificer, he was gifted an old and almost forgotten workshop to use as his own. He was always obsessed with the great warforged creations, though his probing questions were always met with standard answers. The mystery only served to intrigue Aeren more.
+
+After some investigation, Aeren dug up old documents that listed required strange components for a new theoretical creation. The document was signed by Yelena and Norbit Wolfsbane.
+
+### Group Patron
+Compensation
+- 10gp x party level x days worked on mission
+
+Benefits
+- 10% discount on services
+- House agent independence
+- Free board at Aeren's workshop
 ### Motivations
 
 - Alignment: Chaotic Good
-- Short term goals: Decode the schematics
-- Long term aspirations: Deduce the role House Cannith played in the [[Day of Mourning]]
-
-### Abilities & Powers
-
-- Statblock: Use standard Rogue class stats from PHB
-- Skills & Expertise: Excellent investigator and information gatherer.
-- Special Abilities: Insightful Fighting, Sneak Attack
+- Short term goals: Hire the party to search Geralt's parents old workshop.
+- Long term aspirations: Understand the secrets of what gifted the modern warforged sentience.
 
 ### Allies & Enemies
 
@@ -1912,104 +1990,6 @@ References
 - Home to niche magic shops and exclusive entertainment venues
 - Superstitious locals fear strange omens from the Dragon Towers
 
-#### Kogs Ritual Chamber
-
-
-
----
-RULES
-1. The party must reach 5 successes before they get 3 failures.
-2. Each success allows them to avoid an automation attack and/or advance to the next room.
-3. Rubble & rock constantly falls from above, threatening a total collapse of the cavern.
-4. Attacks: All involved in failed skill check roll **DC 12-15 dex saving throw** or take **10(3d6) dmg**.
-5. The party gets one round to take action before the challenge begins, as the machine comes to life.
-
-## Automaton
-**Attacks.**
-Magnetic pulse & Gear Storm Barrage
-- *Magnetic Pulse.* The automaton releases a powerful magnetic pulse that attracts metal objects towards it, including weapons, armor, and machinery parts.
-- *Gearstorm Barrage.* The automaton unleashes a torrent of spinning gears and cogs from its body, creating a storm of sharp metal that fills the chamber.
-
-*Seismic Stomp.* The automaton stomps on the ground with tremendous force, causing tremors that destabilize the surroundings and create fissures.
-
-*Antimatter Cannon.* The automaton channels its magical energy to its hand and releases it, unleashing a powerful and focused beam of energy that destroys structures in its path.
-## Summary of the Skill Challenge Rooms
-1. **Ritual Chamber:** Find hidden passage.
-2. **Lava Moat Chamber:** Cross the lava moat.
-3. **Collapsing Tunnel:** Navigate through falling rocks.
-4. **Machinery Room:** Use machinery for distraction/barriers.
-5. **Narrow Bridge:** Cross the precarious bridge.
-6. **Exit Chamber:** Locate the correct exit.
-### Ritual Chamber
-
->[!TLDR]
->- **Features:** Large stone tablet, gears, cogs, and other machinery parts scattered around.
->- **Lighting:** Dim light from distant lava pools through gaps in the rocks.
->- **Attack(s):** Magnetic Pulse & Gear Storm Barrage.
-
-**Challenges:**
-Initial Escape:
-- **Obstacle:** Metal door ripped of hinges, debris blocks path to teleportation circle.
-- **Skills:** Athletics, Acrobatics, Investigation.
-- **Success:** The party discovers a hidden passage to the side leading to the next chamber.
-- **Failure:** The party stumbles, allowing the automaton to attack.
-
-### Chamber 2: Lava Moat Chamber
-
->[!TLDR]
->- **Features:** A large chamber split by a flowing lava moat, filled with large chunks of ore. Narrow, unstable pathways line the back wall.
->- **Lighting:** Bright from the glowing lava and occasional geysers.
->- **Attack(s):** Seismic Slam
-
-**Challenges:** 
-Crossing the Lava Moat:
-- **Obstacle:** Finding a safe way across the lava moat and avoid fissures/geysers
-- **Skills:** Athletics, Acrobatics, Nature, Investigation.
-- **Success:** The party crosses the moat safely and avoids attack.
-- **Failure:** The party suffers heat damage or falls into the lava, causing delays.
-
-### Chamber 3: Collapsing Tunnel
-
->[!TLDR]
->- **Features:** A long and narrow tunnel with a ceiling supported by stone pillars.
->- **Lighting:** Dim, with occasional flickers from falling rocks.
->- **Attack(s):** Antimatter Cannon
-
-**Challenges:** 
-Navigating the Collapsing Tunnel:
-- **Obstacle:** Avoiding falling rocks and finding a stable path.
-- **Skills:** Acrobatics, Athletics, Survival, Perception.
-- **Success:** The party makes it through the tunnel without major injuries.
-- **Failure:** The party is injured by falling rocks or trapped momentarily, causing delays.
-
-### Chamber 4: Ore Refinery
-
->[!TLDR]
->- **Features:** A room filled with decommissioned heavy machinery and furnaces. A large elevator with empty crates is in the middle. Massive Ore buckets hang from the ceiling.
->- **Lighting:** Dim, with occasional flickers from cracks in the wall
->- **Attack(s):** Bursts through wall, Seismic Stomp, falling machinery, Slam
-
-**Challenges:** 
-Reactivate the elevator:
-- **Obstacle:** Broken elevator, connected to a console, needs arcane lay lines rewired.
-- **Skills:** Investigation, Perception, Tools.
-- **Success:** The elevator reactivates, and moves fast enough to avoid attacks.
-- **Failure:** The elevator reactivates, but takes too much time, allowing an attack.
-
-### Chamber 5: Narrow Bridge
-
->[!TLDR]
->- **Features:** A narrow, precarious bridge over a deep chasm, drowned by silence.
->- **Lighting:** Dim, with sunlight licking the cavern floor from an exit across the bridge.
->- **Attack(s):** Grapple and drag into pit
-
-**Challenges:**
-Crossing the Narrow Bridge:
-- **Obstacle:** Automaton climbs up pit and attempts to grab a PC before it falls.
-- **Skills:** Acrobatics, Athletics, Perception.
-- **Success:** The party crosses the bridge safely.
-- **Failure:** The party risks being dragged into the chasm.
-
 #### Sharn
 
 
@@ -2371,6 +2351,11 @@ References
 - Bartender Kaela Shadowscale keeps order with an iron fist.
 - Popular hangout for criminals, rogues, and shady freelancers.
 
+#### The Tower of Old
+
+
+
+
 ### Shavalant
 
 
@@ -2452,197 +2437,6 @@ Sheriff Cromley, a grizzled human, is seen in the Sleepy Owl Inn organizing a se
 
 - Players might come across Miri, the town's magewright, deep in discussion about magical theories with a group of locals. This could be an opportunity for arcane-inclined players to learn something new or offer their insights.
 
-
-### The lighthouse layout for sketching
-
-
-## Locations
-
-### Main hall
-Layout:
-
-- The main hall is a large, rectangular room, approximately 60 feet long and 40 feet wide.
-- The entrance to the main hall is a set of grand double doors, now splintered and hanging off their hinges.
-- The walls are lined with tall, arched windows, some of which are shattered, allowing light to filter through.
-- A raised dais at the far end of the room once held the thrones of the castle's leaders, but they now lie overturned and broken.
-- Two large fireplaces are built into the side walls, their mantels cracked and scorched.
-- A balcony overlooks the main hall from the second floor, accessible via a grand staircase on either side of the dais.
-- Several doors lead off from the main hall to other parts of the castle, such as the library, chapel, and private quarters.
-
-Contents:
-
-1. Tapestries:
-    - The four tapestries depicting the history of the Church of the Silver Flame hang along the walls, some torn and burned.
-    - Remnants of other decorative banners and flags lie scattered on the floor.
-2. Debris:
-    - Overturned tables and broken chairs are strewn across the room, evidence of the chaotic battle that took place.
-    - Shattered glass from the windows covers parts of the floor.
-    - Chunks of masonry from damaged walls and columns are scattered throughout the hall.
-3. Weapons and Armor:
-    - Broken swords, shields, and other weapons lie abandoned on the floor, some bearing the insignia of the Church of the Silver Flame or the LoD.
-    - A few pieces of damaged armor, such as dented breastplates or cracked helmets, can be found among the debris.
-4. Fallen Chandelier:
-    - A large, ornate chandelier that once hung from the center of the ceiling now lies shattered on the floor, its crystals and metal framework scattered across the marble.
-5. Makeshift Barricades:
-    - Hastily constructed barricades made from overturned furniture and broken masonry suggest that the defenders made a last stand in the main hall.
-6. Blood Stains and Scorch Marks:
-    - Dark stains on the floor and walls hint at the violence that occurred during the battle.
-    - Scorch marks from magical attacks or fire damage mar the stones and furniture.
-7. Statue Fragments:
-    - The remains of shattered statues that once adorned the hall lie scattered about, their forms no longer recognizable.
-8. Remnants of Magic:
-    - Faint, lingering traces of magical energy can be sensed in certain areas, hinting at the powerful spells that were cast during the conflict.
-    - A few spent spell components or shattered magical focuses might be found among the debris.
-
-
-### Library
-Layout:
-
-- The library is a large, circular room, approximately 50 feet in diameter.
-- The room is dominated by towering bookcases that line the walls, reaching up to the high, domed ceiling.
-- A second level of bookshelves is accessible via a narrow, spiral staircase in the center of the room.
-- The floor is made of polished wood, now scuffed and scratched from the battle and subsequent looting.
-- A large, ornate desk sits near the center of the room, serving as a focal point for research and study.
-- Several smaller reading nooks and study areas are arranged around the perimeter of the room, each with a small desk and chair.
-- Tall, stained glass windows depict scenes related to knowledge, magic, and the Silver Flame, some now shattered or cracked.
-
-Contents:
-
-1. Bookshelves:
-    - The shelves are filled with a vast array of books, scrolls, and tomes covering various subjects, including history, magic, religion, and the occult.
-    - Many of the shelves have been toppled or emptied, their contents scattered across the floor.
-    - Some of the books appear to be ancient and valuable, while others are more common texts.
-2. Central Desk:
-    - The large desk is covered in scattered papers, open books, and broken ink bottles.
-    - Partially burned notes and diagrams hint at the research Professor Baelen ir'Torn was conducting before the attack.
-    - A few silvery dragonshard fragments can be found among the debris on the desk.
-3. Reading Nooks:
-    - The smaller study areas contain overturned chairs and damaged desks.
-    - Discarded notes and personal belongings of the researchers who once used these spaces can be found scattered about.
-4. Fallen Shelves:
-    - Several bookcases have been knocked over, creating haphazard piles of books and debris on the floor.
-    - Characters may need to navigate around or climb over these obstacles to access certain parts of the library.
-5. Shattered Windows:
-    - The stained glass windows have been damaged during the attack, allowing shards of colored glass to litter the floor.
-    - The broken windows also allow for eerie lighting to filter into the room, casting strange shadows and illuminating the dust motes in the air.
-6. Arcane Apparatus:
-    - Various arcane tools and instruments, such as telescopes, astrolabes, and scrying mirrors, can be found scattered throughout the library.
-    - Some of these items may still be intact and usable, while others are broken or damaged.
-7. Hidden Compartments:
-    - Characters with keen perception may notice cleverly concealed compartments within the bookshelves or floor, potentially containing additional clues or valuable items.
-8. Magical Wards:
-    - Remnants of protective magical wards can be found etched into the walls or floor, now weakened or broken by the attack.
-    - These wards hint at the importance and sensitivity of the knowledge once contained within the library.
-
-### Research Labs
-Layout:
-
-- The research labs are located in a large, rectangular room adjacent to the library.
-- The room is divided into several smaller sections, each dedicated to a specific area of study or experimentation.
-- Workbenches and tables are arranged throughout the room, with various alchemical and arcane apparatus set up on them.
-- The room has suffered significant damage, with a portion of the ceiling having collapsed, blocking off a section of the labs.
-- Debris from the caved-in ceiling litters the floor, making navigation through the room challenging.
-
-Contents:
-
-1. Alchemical Equipment:
-    - Beakers, alembics, and other glassware used for alchemical experiments can be found on the workbenches, many of them broken or overturned.
-    - Remnants of alchemical substances, both mundane and magical, are spilled across the tables and floor.
-2. Arcane Artifacts:
-    - *Siberys Dragonshard*
-    - Some of these artifacts appear to have been the focus of intense study, with accompanying notes and diagrams nearby.
-3. Partially Collapsed Section:
-    - The caved-in portion of the room is filled with rubble, broken beams, and shattered masonry.
-    - Characters may be able to catch glimpses of additional workstations or storage areas beyond the collapse, but accessing them would require significant effort or magic.
-4. Damaged Experiments:
-    - Evidence of ongoing experiments can be found in the form of shattered glass, spilled potions, and scorched or frozen surfaces.
-    - Some of these experiments may have been volatile or dangerous, adding an element of risk to exploring the area.
-5. Professor's Workstation:
-    - A specific workbench or desk can be identified as Professor Baelen ir'Torn's personal workstation.
-    - Scattered notes, diagrams, and research materials related to the Khyber dragonshard fragments can be found here, providing clues to the professor's work.
-
-Layout:
-
-- The chapel is a modest, rectangular room with a high, vaulted ceiling.
-- An altar dedicated to the Silver Flame stands at the far end of the room, with a large, ornate symbol of the flame carved into the wall above it.
-- Rows of wooden pews line either side of a central aisle leading up to the altar.
-- Stained glass windows depicting scenes of the Silver Flame and its champions line the walls, some now shattered.
-
-Contents:
-
-1. Altar:
-    - The altar is made of white marble, with intricate carvings and silver inlays.
-    - A silver chalice, now tarnished and overturned, rests on the altar.
-    - Remnants of burnt offerings and scattered prayer beads can be found around the altar.
-2. Shattered Pews:
-    - Several of the wooden pews have been splintered and broken, likely used as makeshift weapons or barricades during the battle.
-    - Torn prayer books and hymnal pages are scattered among the debris.
-3. Defaced Symbols:
-    - The symbol of the Silver Flame and other religious iconography in the chapel show signs of deliberate defacement, with scratch marks or scorch marks marring their surfaces.
-    - This desecration suggests a targeted attack on the beliefs and practices of the Church of the Silver Flame.
-4. Hidden Reliquary:
-    - A small, concealed compartment behind the altar may contain a reliquary or sacred texts related to the Silver Flame.
-    - These items could provide additional insight into the church's history or the significance of the castle.
-5. Prayer Alcoves:
-    - Small alcoves along the side walls contain prayer candles, offering bowls, and other religious paraphernalia.
-    - Some of these alcoves may have been used as impromptu shelters during the attack, with signs of hastily erected barricades or personal belongings left behind.
-
-### Basement Level
-Layout:
-
-- The basement level is a series of interconnected rooms and corridors, with a more labyrinthine layout compared to the upper floors.
-- The main staircase from the ground floor leads down to a central hub area in the basement.
-- Several passages branch off from the hub, leading to various storage rooms, archives, and the hidden chamber.
-- The basement level has a lower ceiling and a more claustrophobic feel, with narrow passages and tight corners.
-- Some sections of the basement have suffered structural damage, with cracked walls and partially collapsed ceilings.
-
-Access Points:
-
-1. Main Staircase:
-    - The primary access to the basement level is through the main staircase from the ground floor.
-    - The staircase is made of stone and descends into the central hub area.
-2. Secret Passage:
-    - A secret passage can be found behind a movable bookshelf in the library on the ground floor.
-    - This passage leads to a narrow tunnel that connects to one of the storage rooms in the basement.
-    - Characters may discover this passage through careful investigation or by accidentally triggering the mechanism.
-3. Collapsed Floor:
-    - In one of the damaged sections of the ground floor, a portion of the floor has collapsed, revealing a hole that drops into a basement corridor.
-    - This access point may require characters to navigate the debris and make a controlled descent into the basement level.
-
-Hidden Chamber and Puzzle:
-
-1. Locked Door:
-    - The entrance to the hidden chamber is a solid, reinforced door with intricate carvings and a complex locking mechanism.
-    - The door bears the symbol of the Silver Flame, along with a riddle or puzzle that must be solved to unlock it.
-2. Riddle:
-    - The riddle on the door reads: "In the depths of knowledge, the flame's truth resides. Seek the tomes that bind the light, and the path shall open wide."
-    - The solution to the riddle involves locating specific books within the library that contain information about the Silver Flame and arranging them in a particular order on a nearby shelf.
-    - When the correct books are placed in the right sequence, the door to the hidden chamber will unlock.
-3. Secondary Access:
-    - In case the characters are unable to solve the riddle, a secondary access point can be found within one of the storage rooms.
-    - A hidden trapdoor beneath a stack of crates leads to a narrow, winding passage that connects to the hidden chamber.
-    - This secondary access may require characters to navigate tight spaces or overcome additional challenges, such as traps or guardian constructs.
-4. Teleportation Circle Chamber:
-    - The hidden chamber itself is a circular room with a domed ceiling, similar in design to the library above.
-    - The teleportation circle is embedded into the floor at the center of the room, with intricate runic patterns and arcane sigils carved into the stone.
-    - Various magical apparatus and focusing crystals are arranged around the circle, used to power and stabilize the teleportation magic.
-    - A control pedestal or lectern nearby may contain additional clues or instructions for activating the teleportation circle.
-
-## Needs Development
-**Information and Foreshadowing:**
-
-- **Baelen and the Priest:** Leave clear evidence that Baelen and the priest escaped the Lighthouse, such as a partially destroyed teleportation circle or a note mentioning their destination. This will pique the players' curiosity and potentially set them on a path to follow Baelen's trail.
-
-- **Lords of Dust:** While the players may not learn the specific name "Lords of Dust" at this point, they should encounter clear signs that the attackers were demonic or fiendish in nature. This can be achieved through descriptions of the creatures, remnants of their magic, or even unsettling murals or symbols left behind.
-
-- **Church of the Silver Flame:** Emphasize the religious nature of the Lighthouse and the Church's devotion to the Silver Flame. This can be done through religious iconography, murals depicting the Church's history and battles against evil, and even surviving texts or scrolls that detail their beliefs and practices.
-
-
-**Connecting Plot Points:**
-
-- **Origin of the fragment Baelen carries:** The party may find information concerning how the Silver Flame obtained information on the location of the fragment originally, and how they contacted Baelen as a topic expert on Dragonshards and ancient history.
-- **Baelen's research on the fragment:** Maybe the players find a report detailing the fragment's effects on various plants and animals that Baelen has been doing experiments on using the fragment. 
-- **Lichdom & Phylacteries:** The players might discover a partially destroyed text about Lichdom and phylacteries. In particular, this research discusses how the study of phylacteries may lead to innovation in eliminating mortality without resorting to undeath.
 
 ### The Lighthouse
 
@@ -2921,6 +2715,53 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 
 
 
+## Narrative Plot Overview
+
+
+In the land of Eberron, the balance of power teeters on the brink of chaos. The Silver Flame, a mystical force that has safeguarded the realm for centuries, is missing and slowly burning out. This disappearance, coupled with the threat of the Lords of Dust attempting to free the Overlord Rak Tulkesh, casts a shadow of impending doom across the world. Amidst this turmoil, a group of unlikely heroes emerges, their destinies intertwined by fate and their shared quest to protect their world.
+
+### The Heroes
+
+**Bjorn "Bearwolf" Ulfr**, a proud warrior from the Stormpeak Clan, finds his life shattered when his brother Hrothgar, tainted by a dark dragonshard, usurps his rule. Hrothgar’s corruption plunges their homeland into darkness, forcing Bjorn to gather a new group of allies, united by shared ideals and a common enemy.
+
+**Draven Flameforge**, once known as the Knight of the North, is a legend reborn. Hailing from the Flameforge Clan in the Byeshk Mountains, Draven was trained by Varyn the Valiant, the last of the Couatls. Varyn, burdened by regret and self-doubt, sacrificed much of his remaining power to resurrect Draven after he was killed by Hrothgar. Now, Draven, devoid of his past memories, carries the weight of Varyn’s hopes and the light of Siberys, seeking to hold back the forces of Khyber.
+
+**Geralt Wolfsbane** lives on the edge of civilization near the Whitehorn Woods, haunted by the loss of his parents, who were once brilliant artificers of House Cannith. They fled the House to protect their revolutionary design, the Steelhardt, from being misused. Geralt, driven by a mysterious page covered in ancient Sibernyan runes, seeks to unlock its secrets and uncover the truth about his parents’ work.
+
+**Forge**, the first successful soul-transferred Warforged, is an enigma. Created using the souls of fallen soldiers and an unprecedented balance of Siberys and Khyber aspects, Forge retained his memories and sanity. After escaping House Cannith’s control, he destroyed his creation forge and now carries vital knowledge about the Warforged’s true nature. Hunted by his creators, Forge grapples with the ethical implications of his existence and the potential to create more like himself.
+
+### The Villains
+
+**Vorak**, once a loyal assassin of House Cannith, underwent a dark transformation through the Steelhardt. His failed transfer left him a creature of pure rage, manipulated by Mordakhesh, a lieutenant of Rak Tulkesh. Now, Vorak roams the land, his existence tied to the suffering and rage of those he destroys, perpetuating a cycle of death and resurrection.
+
+**Woe**, a soldier from the Last War, was resurrected by Mordakhesh using a fragment of the Fractured Khyber Dragonshard. Now a Warforged infused with dark power, Woe seeks to reunite the shards, believing it will liberate his new race and exact revenge on those who wronged him.
+
+**Mordakhesh** himself is the architect behind many of the heroes’ woes. As a loyal servant of Rak Tulkesh, he guides Woe and others in a relentless quest to free his master. His manipulations are subtle, his motives shrouded in secrecy, making him a dangerous adversary.
+
+**Hrothgar**, Bjorn’s corrupted brother, wields dark power that plagues the land. His possession of a dragonshard fragment and the Etherseraph, a powerful artifact, has turned him into a formidable foe, threatening the very fabric of their homeland.
+
+### Artifacts of Power
+
+The **Fractured Khyber Dragonshard (FKD)** contains the essence of Rak Tulkesh. Scattered in fragments, it grants immense power to those tainted by its dark influence. Woe, Professor Baelen ir'Torn, and Hrothgar each hold fragments, their fates intertwined by the shard’s corrupting touch.
+
+The **Etherseraph**, crafted by Varyn, is both a weapon and a guide. Its white flame has the power to clear the Mourning’s fog and reveal the path to the Silver Flame’s hidden sanctuary. Once wielded by heroes like Tira Miron and Draven, it now lies in the hands of Hrothgar.
+
+The **Steelhardt**, originally designed by Geralt’s parents, can transfer a soul into a new body, promising immortality. However, without the balance of Siberys, Khyber, and Eberron’s aspects, its use results in madness. The Lords of Dust seek to use it to free Rak Tulkesh, making it a central piece in the unfolding drama.
+
+### Factions and Intrigue
+
+**House Cannith**, led by Marix d'Cannith, is steeped in secrets and dark experiments. Their involvement in the creation of Warforged and the Day of Mourning positions them as a pivotal player in the world’s fate.
+
+The **Church of the Silver Flame**, desperate to locate the missing Silver Flame, collaborates with Baelen ir'Torn to harness the power of the dragonshard fragments. Unaware of the Flame’s true location, their quest is fraught with peril and deception.
+
+The **Boromar Clan**, driven by greed and the promise of power, pursues the dragonshard fragments with relentless ambition. Their actions add another layer of complexity to the already tangled web of intrigue.
+
+### Themes and Questions
+
+As the heroes navigate their quests, they grapple with profound questions about morality, redemption, and the nature of evil. Can those born into darkness find their way to the light? What does it take to redeem oneself after a great failure? Through their struggles, they uncover that most villains are not purely evil but shaped by their justifications and past traumas.
+
+The world of Eberron stands on the edge of a knife. The heroes must forge their paths, facing inner demons and external threats, to protect what remains of the Silver Flame and prevent the release of an ancient evil. Their intertwined destinies and the choices they make will determine the fate of their world.
+
 ## Plot points that need development
 
 
@@ -2939,7 +2780,7 @@ How did Aeren learn House Cannith may have been involved in the Day of Mourning?
 - Stormpeak Clan
 - Kvitrafn "White Raven" Ulfr
 	- Bjorn & Hrothgar's father
-	- Former chieftan
+	- Former chieftain
 	- Killed in battle
 - Traust Ulfr
 	- Bjorn & Hrothgar's mother, clan's oracle
@@ -2996,20 +2837,44 @@ How did Aeren learn House Cannith may have been involved in the Day of Mourning?
 	- It was originally intended to be a way of transferring one's "soul" to a new body, effectively producing immortality.
 		- The consciousness was attached to the Steelhardt in a magical ritual
 		- It then had to be implanted into a corpse for the consciousness to then take over.
+		- They created one prototype, combining a Khyber & Siberys shard in the device
+		- It was fully functional as intended, but they never wrote down how they got those two shards to work together.
+		- Cannith Artificer's subsequent attempts to combine the shards in new designs always failed.
 	- They worked for years refining the designs.
-	- Marix, working with the LoD, took an interest in these designs and ordered a prototype made.
-		- Yelena and Norbit found out about the prototypes intended use, and fled House Cannith with all of the designs, hiding with their young son near the Whitehorn Woods.
+	- Marix, working with the LoD, took an interest in these designs for use in creating a sentient warforged army.
+		- Yelena and Norbit found out about Marix's plans and fled House Cannith with all of the designs, hiding with their young son near the Whitehorn Woods.
 - Geralt was snooping in his father's office when he found the designs laid out across his desk.
 		- Being unable to read them, he stole a page that had 'cool' designs and runes on it, also bearing the Gorgon seal of House Cannith.
 		- He still has this page to this day.
 		- A part of why he has learnt so many languages was to decode this page, but he was never able to.
 			- It is written in an ancient language that his parents spoke, due to their inherent secrecy (**Sibernyan**)
 			- Language was prominently spoken by the Couatl.
+- One night his parents were murdered in their home by Vorak, who stole the prototype schematics. 
 - When his parents were killed, he escaped and fled into the woods. He was about 12. He learned to live off the land and was able to survive.
 - He now lives near Shavalant and the Whitehorn Woods.
 
 #### PC: Forge
-- 
+- Forge was created in the first batch of modern warforged - and the only one that didn't lose his mind due to his new found form. All others in his creation batch either ended their own existence or were terminated. Artificers were unable to identify and replicate what traits allowed Forge to retain both his memories and his sanity.
+	- The missing traits being: The soul being transferred MUST have aspects of Khyber & aspects of Siberys fused to the soul to transfer without sanity loss.
+	- Forge's Steelhardt used Siberys shards as a conduit. In all other warforged in his batch, only having a Siberys shard wasn't enough, since there was no aspect of Khyber attached to their soul/in the Steelhardt.
+	- Hence why Vorak's transfer was tainted as well. His Steelhardt used a Khyber shard conduit, but there was no aspect of Siberys attached to him.
+	- Since Forge died in proximity to Lick's father's FKD fragment, an aspect of Khyber attached to his soul, which, in addition to the Siberys Dragonshard conduit in his Steelhardt, meant he retained his memories AND his sanity.
+	- This information about the missing traits is not currently known **(Vorak stole most of the schematics, which were scattered in various locations for future quests)
+- All subsequent batches were made with these methods, using the souls of dead soldiers, however they were stripped of their mortal memories. This was the only work-around House Cannith could devise to prevent these new Warforged from losing their minds.
+- Forge was a human general of **House Cannith (Or maybe some other affiliation makes more sense?)**
+- In a battle during the last war, he sacrificed his and his men's lives in an explosion he set off to overtake the enemy.
+	- Lick's father and Woe in Forge's squad. Forge valued winning the battle/war over the lives of his own men. While Woe and Lick's father were engaged in battle, Forge made the decision to sacrifice himself and his entire squad to blow up and destroy the **target (what was the target/what was this battle being fought for?)**.
+	- Woe died close to Lick's father's fragment of the *FKD*, causing an aspect of Khyber to latch onto his soul which allowed him to be resurrected into a Warforged body through Mordakhesh's ritual (more details in Woe's backstory)
+- Forge's soul was captured by House Cannith and infused into a warforged body. He was held prisoner and used for various tests and experiments for a period of time.
+- Near the end of the war, he broke free and, using his skills from his past life, **destroyed his creation forge**.
+	- He obtained information on his creation, including the methods that were still being used to create new warforged.
+	- **He threatened to go public with that [[forge knowledge handout|info]]? (Knowing he would be unable to destroy all of the forges on his own, he forced House Cannith's hand into signing the Treaty of Thronehold and shutting down all creation forges, ending the production of new Warforged?)(Maybe he didn't go public because in the back of his mind he knew one day he may want to "have children"? See 'character motivation'.** 
+- Warforged were not liberated due to the Treaty of Thronehold. This treaty was a political move so that Forge would not go public with the information he holds on Warforged production and ruin House Cannith's reputation.
+- Due to the ever-looming threat of blackmail, House Cannith has been hunting Forge ever since his escape, attempting to **capture him for further study (probably to continue to attempt to replicate the traits that allowed him to keep his memories)** and eliminate the possibility of that information ever getting out.
+- He was branded with a unique dragonmark on the front of this chest. It contains the House Cannith Gorgan, in addition to markings that read "FORGE 2".
+- He learned of **another creation forge in Sharn (How did he find out?)**, explaining his presence outside the lighthouse during his introduction to the campaign in session 5, because he was looking for the teleportation circle inside The Lighthouse.
+- ***Character motivation:***
+	- Is it unethical to create more in my image? Does that make me a God, or does that make me one of you (normal people)?
 #### PC: Sylas Stormshadow (Deceased)
 - Father was an Elven scholar focused on forbidden knowledge about magic
 - Mother was a human merchant in Sharn's Underbelly
@@ -3028,6 +2893,11 @@ How did Aeren learn House Cannith may have been involved in the Day of Mourning?
 		- Originally located in Cyre, it was discovered by the Lords of Dust and almost destroyed
 		- The silver flame caused the Mourning to protect itself, but used most of its power doing so
 		- Slowly burning out, Overlords are straining against their bonds, causing chaos across the world
+
+- **Significant Lore**: The Origin of the Warforged
+	- Warforged are the man-made reincarnates of the fallen soldiers in the Last War; Their souls were repurposed as weapons in the war that took their lives once already.
+	- The first few batches of Warforged were created without a 'soul' - mindless automatons that had no self initiative or instinct. They were grunts, they followed orders, but on average they were less effective than a typical soldier.
+	- Cannith artificers - at the order of Marix d'Cannith - devised a method of transferring the soul of a recently deceased humanoid into the body of a warforged - building on the original *Steelhardt* designs taken from Geralt's parents.
 
 - **Significant NPCs**
 	- Varyn "The Valiant" Grayburn
@@ -3048,89 +2918,101 @@ How did Aeren learn House Cannith may have been involved in the Day of Mourning?
 		- He saw the purity and potential within Draven
 			- The darkness within the shard never affected him.
 		- Seeing Draven as an ultimate force for good, he gave him two things:
-			- The White Flameblade
-			- The dragonshard fragment
+			- The *Etherseraph*
+			- A *FKD* fragment
 		- Draven took an Oath to protect the Shard with his life, and to use the light of Siberys to hold back the forces of Khyber
 
 	- Aeren d'Cannith
-		- ***Major Motivation:*** To discover the extent of House Cannith's involvement in the Day of Mourning
+		- ***Major Motivation:*** To discover the true process of the creation of Warforged and what changed between  the originals and the modern creations.
 		- Was adopted into House Cannith about 20 years ago at the age of 18 y/o as the Youngest Master Artificer (and only Master Artificer without a Mark of Creation) ever named within the house.
 			- Due to his invention of the ingenious Everbright Lantern
 		- He is now the Mentor to Miri, the magewright currently living in Shavelant.
-		- Aeren knew Geralt's parents for a short time when he was adopted into the House.
-		- He does not know what Geralt's schematics say, but he knows that they are written in Sibernyan
-		- He knows House Cannith had something to do with the Day of Mourning, and is trying to find out more. (needs development: why does he know something is up?)
+		- He was always very interested in the warforged and their creation.
+		- Aeren knew of Geralt's parents before they died, and knew they were very important.
+			- He didn't know what they were researching, but he knew it was highly classified.
+		- He does not know what Geralt's schematics say, but he knows that they were written in an ancient draconic dialect (**Sibernyan**)
+		- He has come across a few pages of his own **(figure to what those pages reveal?)** but has not been able to translate them.
 
 **Artifacts**
 - Artifact 1: ***Fractured Khyber Dragonshard (FKD) & Fragments***
 	- Their existence was kept a closely guarded secret by Varyn.
-		- Mordakesh and his followers eventually learned of them, and have been hunting them down since.
+		- Mordakesh and his followers eventually learned of their location, and have been hunting them down since.
 		- Varyn was followed when he began searching for them. He found the first fragment, but tipped the LoD off to the others.
-	- Contains imprisoned consciousness of Rak Tulkesh
+	- Contains imprisoned essence of Rak Tulkesh
 	- Grants user powers if their soul is tainted
 	- Who has them
-		- Woe: main shard + 1 fragment
+		- Woe: main shard + 1 fragment (taken from Lick in session 1)
 		- Professor Baelen ir'Torn: 1 fragment (Needs development, where/how did he find it?)
 		- Hrothgar: 1 fragment, obtained from Draven when Hrothgar battled and killed him
 
 - Artifact 2: ***Etherseraph***
-	- Currently in Varyn's possession, obtained when he battled and killed Draven
-	- Contains runes that tell of the location of the Silver Flame
-		- Unlocks a portal in the Mournland that teleports to Vault deep under Xen'Drik jungle
-		- sword was created by Varyn when vault was originally sealed, gave it to Draven
-		- Varyn felt useless, saw potential in Draven as a protector
-		- Aids in travel through the Mournland, glows blue when pointed in the correct direction
+	- The Etherseraph was crafted by Varyn following the Silver Flame's creation.
+	- In addition to a powerful weapon, the Etherseraph is a tool:
+		- The white flame of the Etherseraph will clear the fog of the Mourning and light the way to the Gate of the Silver Flame.
+		- The Gate is the entrance to the pocket dimension that contains the actual Silver Flame.
+	- Over the years, Varyn has gifted it to many people he deemed worthy to carry it, the most notable being Tira Miron, who, years ago, used it to reseal an escaped Overlord and become the Voice of the Silver Flame.
+	- Draven Flameforge was another that was trained by Varyn, and gifted the Etherseraph to wield in the name of Siberys.
+	- It is now in Hrothgar's possession, obtained when he killed Draven in battle.
 
-- Artifact 3: ***Steelhardt***
+- Artifact 3: ***Steelhardt (The Prototype)***
 	- Originally developed by Geralt's Parents as a device that could transfer consciousness to a corpse, producing immortality.
-	- Worked by attaching a willing soul to a Siberys Dragonshard, then implanting the device into a corpse.
-	- Marix d'Cannith & the LoD wanted to use it to create an avatar that could wield Rak Tulkesh's power and destroy the Silver Flame
-	- This failed because:
-		- It was intended for a consciousness to take over a corpse, not to absorb a great power into a living body
-		- The consciousness of an Overlord can never be contained within a Siberys Dragonshard, it is too closely connected to Siberys.
-	- Instead, the power of Rak Tulkesh corrupted the shard within the device, along with Vorak's body. While this granted him increased power, it came at the cost of a short life.
-	- However, when he attempted to destroy the Silver Flame, the awesome power of the Silver Flame broke the Steelhardt's protection mechanisms, allowing the corrupted power to consume Vorak completely. This gave him a quasi-immortality, similar to Lichdom, but cost him his individuality, turning him into a rage-fueled killer.
-	- The only way to destroy Vorak is to complete a ritual that can 'cleanse' the corrupted shard within.
-	- It can then be used as a way to 'cleanse' Woe?
-		- It was made to store a consciousness, so it can be used to steal Rak Tulkesh's consciousness from the Fractured Dragonshard (once the fragments are reunited).
+	- Geralt's parent knew that the transference would only be successful if balance between all 3 *Aspects of the Progenitors* were maintained.
+		- **Siberys's aspect:** Light, Divinity
+		- **Khyber's aspect:** Darkness, Impiety
+		- **Eberron's aspect:** Materialism, Tangibility
+	- Any imbalance of these 3 (like only using a Khyber/Siberys shard without the other) would result in an imbalance of the soul, causing psychosis.
+	- Yelena and Norbit created a single prototype that worked fully as intended. They combined Siberys and Khyber dragonshards into the device, which allowed those two aspects to be fulfilled.
+		- They never wrote down how they manage to combine those two shards into a single device. All other attempts made by Cannith Artificers have always failed, and only one shard can be installed without the device failing, which has caused psychosis in almost all subjects it was originally attempted on.
+		- Cannith artificers developed a work-around to the psychosis issue: They wipe the soul's memories upon transference to the Warforged body.
+	- The LoD seek to use a Steelhardt to transfer Rak Tulkesh's essence from the FKD into a living avatar, so that he could be freed from his bonds and reign over Eberron once again (See Woe's plot pieces).
 
 - **Villains**
 	- Vorak
-		- Underwent ritual before Woe using the Steelhardt and led the forces of the LoD in their attack against the Silver Flame on the Day of Mourning.
-			- Due to an inherent failure in the Steelhardt, his attempt to destroy the Silver Flame failed and rebounded, turning him into a rage-fueled creature of destruction, and allowing the Silver Flame to defend itself with the Mourning.
+		- Vorak was House Cannith's most skilled assassin, loyal to the House for most of his life. Originally a half-elf, he served for over a hundred years until his age forced him out of field work, though he remained a top advisor for covert activities within the House.
 		- He was sent by Marix d'Clone to kill Geralt's parents after they fled House Cannith.
+		- Voluntarily underwent House Cannith's very first attempt at using the Steelhardt to transfer a soul to another body.
+		- The transfer was successful, moving Vorak from his original body to a younger, stronger one from a random deceased soldier.
+		- While he retained his memories, his mind quickly became plagued with dark thoughts, his grip on reality worsening.
+		- He went rogue, and was manipulated by Mordakhesh, who focused Vorak's mind to one objective: destory the Silver Flame.
+		- Bolstered by new dark powers infused into his Steelhardt by Mordakesh, he led the forces of the LoD in their attack against the Silver Flame on the Day of Mourning.
+			- His attempt to destroy the Silver Flame failed and rebounded, turning him into a rage-fueled creature of destruction, and allowing the Silver Flame to defend itself by causing the Mourning.
 		- Now he roams the land, destroying villages, feeding off the rage of the survivors, and using it to resurrect himself should he fall in battle.
-		- Heart was replaced with the Steelhardt.
-			- The survivors get the unrelenting urge to find Vorak and kill him, but if Vorak is dead they find the Steelhardt instead.
-			- The rage consumed them, and forces them to plunge the artifact into their own chest, killing them, and allowing Vorak to resurrect through their body.
+		- His darkness-infused Steelhardt causes him to achieve quasi-lichdom through unique means:
+			- Should his body ever die, his soul will be kept safe in his Steelhardt until it is placed into a new body.
+			- The survivors of his onslaughts get the unrelenting urge to find Vorak and kill him, but if Vorak is dead they find the Steelhardt instead.
+			- Once one of the survivors finds his Steehardt, rage consumes them, and forces them to plunge the artifact into their own chest, killing them, and allowing Vorak to resurrect through their body.
+			- This process can only be stopped through a ritual involving a Siberys Dragonshard
 
 	- Woe
-		- Was killed by Lick's father who was wearing a dragonshard fragment, during a battle in the Last War.
-		- He was revived by Mordakesh and the resources of the Lords of Dust.
-		- He accepted a deal from Mordakesh to undergo a profane ritual, implanting the main piece of the Fractured Khyber Dragonshard into his chest.
-		- This gave him dark powers, sourced from Rak Tulkesh's consciousness, which is trapped within.
-		- With the whispers of Rak Tulkesh in his head, he seeks to reunite the shard fragments and use the power to unleash the Overlord upon Eberron once again.
+		- Was originally a human soldier fighting in the Last war under his commanding officer, Forge.
+		- During a battle, he was locked into a duel with Lick's father, who wore a fragment of the *FKD* around his neck.
+		- During this duel, Forge set off an explosion that completed their objective, but also killed Forge, Woe, Lick's father, and most others that were involved in this battle.
+		- Woe's proximity to the fragment of the *FKD* during his death caused his soul to be tainted, keeping him in 'Limbo' after death.
+		- Mordakhesh - led by the Draconic Prophecy - resurrected Woe in a profane ritual that stored his soul into the *FKD*, fusing it with the essence of Rak Tulkesh, and containing it in a Warforged body.
+		- This gave him dark powers, sourced from Rak Tulkesh's essence, which is trapped within. The only limit to his power being the remaining FKD fragments that are still out in the world.
+		- Woe's soul, now heavily influenced by the Overlord of Rage, works fanatically under Mordakhesh's guidance.
+		- ***Motivation:***
+			- Forge's decision to sacrifice himself and all of his men, including Woe, caused Woe to become extremely tribal, going to extreme means to protect any he deems as 'his people', and to destroy any who he perceives as threatening their existence.
+			- He seeks to reunite all of the *FKD* fragments and use that power to liberate his newfound race of Warforged, and wipe all who oppose him from the planet.
 
 	- Mordakhesh
 		- Lieutenant to Rak Tulkhesh
 		- Commands the Lords of Dust & performed ritual on Woe
-		- Has been hunting the Dragonshard fragments for a long time
+		- Has been hunting the FKD fragments for a long time
 			- Ever since Varyn went looking for them
+		- Has been guiding Woe to seek out the *FKD* fragments, telling him they will give him the power to achieve his own goals
+		- Mardakhesh has kept a secret from Woe - the reunification of the FKD and its shards will allow Rak Tulkesh to use Woe's soul as a catalyst - destroying Rak Tulkesh's prison and allowing his avatar to once again claim dominion over Eberron, shattering Woe's soul in the process.
 
 	- Hrothgar 
 		- Bjorn's brother
 		- Usurped Bjorn's position as the Chieftian of the Stormpeak Clan
-		- Killed Draven and took his fractured dragonshard fragment and white flameblade, further increasing his power and dark taint on the surrounding land.
+		- Killed Draven and took his fractured dragonshard fragment and white flameblade, further increasing his power and dark influence on the surrounding land.
 
 - **Factions**
 	- House Cannith
 		- The leader of Cannith south is Marix d'Cannith.
-			- He was kidnapped and replaced by a shape-shifting agent (AKA Marix d'Clone) sometime before the Steelhardt was completed and used on Vorack.
-			- The real Marix is being held? Or is he dead?
-		- Marix d'Clone ordered the use of the Steelhardt in the ritual involving Vorack.
+		- Marix ordered the use of the Steelhardt in the ritual involving Vorack.
 		- He also put the hit out on Geralt's parents.
-		- ***Secret***: Marix d'Cannith was replaced by a LoD shapeshifter several years ago, before the Day of Mourning.
-		- (Needs developing: Who is the shapeshifter specifically? What are his motivations?)
 
 	- Church of the Silver Flame
 		- ***Secret***: Doesn't actually know where the Silver Flame is kept.
@@ -3414,6 +3296,107 @@ References
 - [[Shavalant]]
 - [[Journey to the City of Towers]]
 
+
+### Kogs Ritual Chamber
+
+
+
+---
+RULES
+[[Skill Challenges]]
+1. The party must reach 5 successes before they get 3 failures.
+	- 5 successes: Make it to the surface.
+	- 3 failures: The cavern floor collapses, trapping them in the by The Tower of Old and forcing them to find their way back up to the surface.
+1. Each success allows them to advance to the next room.
+2. Rubble & rock constantly falls from above, threatening a total collapse of the cavern.
+3. ~~Attacks: All involved in failed skill check roll **DC 12-15 dex saving throw** or take **10(3d6) dmg**.~~
+4. ~~The party gets one round to take action before the challenge begins, as the machine comes to life.~~
+
+## Automaton
+**Attacks.**
+Magnetic pulse & Gear Storm Barrage
+- *Magnetic Pulse.* The automaton releases a powerful magnetic pulse that attracts metal objects towards it, including weapons, armor, and machinery parts.
+- *Gearstorm Barrage.* The automaton unleashes a torrent of spinning gears and cogs from its body, creating a storm of sharp metal that fills the chamber.
+
+*Seismic Stomp.* The automaton stomps on the ground with tremendous force, causing tremors that destabilize the surroundings and create fissures.
+
+*Antimatter Cannon.* The automaton channels its magical energy to its hand and releases it, unleashing a powerful and focused beam of energy that destroys structures in its path.
+## Summary of the Skill Challenge Rooms
+1. **Ritual Chamber:** Find hidden passage.
+2. **Lava Moat Chamber:** Cross the lava moat.
+3. **Collapsing Tunnel:** Navigate through falling rocks.
+4. **Machinery Room:** Use machinery for distraction/barriers.
+5. **Narrow Bridge:** Cross the precarious bridge.
+6. **Exit Chamber:** Locate the correct exit.
+### Ritual Chamber
+
+>[!TLDR]
+>- **Features:** Large stone tablet, gears, cogs, and other machinery parts scattered around.
+>- **Lighting:** Dim light from distant lava pools through gaps in the rocks.
+>- **Attack(s):** Magnetic Pulse & Gear Storm Barrage.
+
+**Challenges:**
+Initial Escape:
+- **Obstacle:** Metal door ripped of hinges, debris blocks path to teleportation circle.
+- **Skills:** Athletics, Acrobatics, Investigation.
+- **Success:** The party discovers a hidden passage to the side leading to the next chamber.
+- **Failure:** The party stumbles, allowing the automaton to attack.
+
+### Chamber 2: Lava Moat Chamber
+
+>[!TLDR]
+>- **Features:** A large chamber split by a flowing lava moat, filled with large chunks of ore. Narrow, unstable pathways line the back wall.
+>- **Lighting:** Bright from the glowing lava and occasional geysers.
+>- **Attack(s):** Seismic Slam
+
+**Challenges:** 
+Crossing the Lava Moat:
+- **Obstacle:** Finding a safe way across the lava moat and avoid fissures/geysers
+- **Skills:** Athletics, Acrobatics, Nature, Investigation.
+- **Success:** The party crosses the moat safely and avoids attack.
+- **Failure:** The party suffers heat damage or falls into the lava, causing delays.
+
+### Chamber 3: Collapsing Tunnel
+
+>[!TLDR]
+>- **Features:** A long and narrow tunnel with a ceiling supported by stone pillars.
+>- **Lighting:** Dim, with occasional flickers from falling rocks.
+>- **Attack(s):** Antimatter Cannon
+
+**Challenges:** 
+Navigating the Collapsing Tunnel:
+- **Obstacle:** Avoiding falling rocks and finding a stable path.
+- **Skills:** Acrobatics, Athletics, Survival, Perception.
+- **Success:** The party makes it through the tunnel without major injuries.
+- **Failure:** The party is injured by falling rocks or trapped momentarily, causing delays.
+
+### Chamber 4: Ore Refinery
+
+>[!TLDR]
+>- **Features:** A room filled with decommissioned heavy machinery and furnaces. A large elevator with empty crates is in the middle. Massive Ore buckets hang from the ceiling.
+>- **Lighting:** Dim, with occasional flickers from cracks in the wall
+>- **Attack(s):** Bursts through wall, Seismic Stomp, falling machinery, Slam
+
+**Challenges:** 
+Reactivate the elevator:
+- **Obstacle:** Broken elevator, connected to a console, needs arcane lay lines rewired.
+- **Skills:** Investigation, Perception, Tools.
+- **Success:** The elevator reactivates, and moves fast enough to avoid attacks.
+- **Failure:** The elevator reactivates, but takes too much time, allowing an attack.
+
+### Chamber 5: Narrow Bridge
+
+>[!TLDR]
+>- **Features:** A narrow, precarious bridge over a deep chasm, drowned by silence.
+>- **Lighting:** Dim, with sunlight licking the cavern floor from an exit across the bridge.
+>- **Attack(s):** Grapple and drag into pit
+
+**Challenges:**
+Crossing the Narrow Bridge:
+- **Obstacle:** Automaton climbs up pit and attempts to grab a PC before it falls.
+- **Skills:** Acrobatics, Athletics, Perception.
+- **Success:** The party crosses the bridge safely.
+- **Failure:** The party risks being dragged into the chasm.
 
 ### Lurking Threat
 
@@ -3965,7 +3948,7 @@ Action 2: Lords of Dust
 - Be prepared for the party's actions to have long-term effects on their relationship with the Boromar Clan and make them known (and possibly wanted) in Sharn.
 - Try to indicate the Sons of the Daughter of Khyber are unimportant pawns.
 
-### 4 recap
+### 4 Recap
 
 
 Raided the boromar gang campsite
@@ -4133,7 +4116,229 @@ Session end.
 ### 6 Plans
 
 
+### Outline
+- [[Kogs Ritual Chamber]]
+- Party escapes into Sharn OR The Tower of Old
+- Party is contacted by Aeren d'Cannith
+- Random encounters to set the scene of the city
+- Baelen ir'Torn is being hunted by the Boromar Clan
+- Encounter with Garhorn & Blinker
 
+### Moments & Encounters
+
+Session Start
+- Kogs ritual chamber skill challenge
+
+Moment 1: *Welcome to Sharn* OR *The Tower of Old*
+
+Welcome to Sharn
+- The party bursts forth from a sewer grate in the middle of the road
+- They find themselves smack-dab in the middle of the tavern district of *Olladra's Kitchen* in [[Sharn#Lower Central Plateau|Lower Central]]
+
+Stranded at the Tower of Old
+- The party finds themselves before an opening in a small room. A long-extinguished campfire rests in the middle of the room. A hand-scratched inscription on the wall reads: "*Forsake thy mortal fears, or be drought of light; This battle won not alone by might; They tremble before thy divine right; Enter ye here, the Tower of Old, where wrong is wrought with blight. May the top take you to day's bright.*"
+- Reaching the top of the tower leads to a bright doorway that leads to the middle of the street in *Olladra's Kitchen* in [[Sharn#Lower Central Plateau|Lower Central]].
+
+Encounter 1: *The battle of the Tower*
+- Hill giant zombie, 3-5 zombies, 3-5 decrepit skeletons
+- 3 zombies and the giant zombie are out front, more zombies/skeletons will exit the tower if needed
+- Skeletons are hiding on the seconds floor of the tower shooting through kill holes.
+- *Lava Geysers* spew up from the lava lake, periodically causing areas to become covered.
+	- At initiative 20, a random location on the edge of the pools becomes saturated with lava, indicated by bubbling from the round before
+
+Moment 2: *Message from Aeren*
+- Whether by stone gargoyle or Sivis messenger, Aeren contacts the party, asking them to meet him at his workshop in *Everbright* in [[Sharn#Menthis Plateau|Middle Menthis]] the following night.
+- The messaged mentions that Aeren knows Geralt's parents.
+
+Moment 3: *Attack at Morgrave*
+- There was an attack at Morgrave University. Clues point towards CotSF involvement
+
+Moment 4: *Meeting the Master Artificer*
+- Aeren d'Cannith's workshop is filled with mechs and machinery. Aeren is happy to accommodate guests, and will offer his home to the Party whenever they need a place to rest.
+- He tells of his curiosity of the Warforged and his suspicions of House Cannith.
+- He wants to [[Aeren d'Cannith|hire]] the party for a long-term mission: To investigate the origin of the modern warforged.
+- He wants the party to investigate Yelena and Norbit's old workshop to search for clues about the schematics.
+
+Session End: *Lets get a pint.*
+- The party encounters a bruised and newly unemployed Garhorn and his dog, Blinker.
+
+### Location Details
+
+Place 1: *Olladra's Kitchen*
+- Tavern ward located in Lower Central Plateau
+	- Contains several Pubs, dark alleyways, and few brothels
+	- Main attraction: *Olladra's Whip*
+- Neighboring wards
+	- Shops: *Granite Halls, North Towers*
+	- Inns: *Boldrei's Hearth*
+	- Residential: *Vallia Towers, Myshan Gardens*
+
+Place 2: *Everbright*
+- Magic ward located in Middle Menthis Plateau
+	- Contains several alchemy, artifice, and healing services
+	- Main attraction: *Jorasco House of Healing*
+- Neighboring wards
+	- Garrison: *Warden Towers*
+	- Shops: *Cassan Bridge*
+	- Neighborhoods: *Deniytas (gnomes), Platinate (wealthy)*
+
+Place 3: *Aeren's Workshop*
+- Located in Everbright, appears to be apartments from the outside
+- Renovated to a studio-like inside with 3 levels, and enough space to house the party.
+- Clockwork butler: *Piston*
+
+### People
+
+Person 1: *Aeren d'Cannith*
+- Wants to discuss Geralt's parents, the schematics, and requests aid in searching Geralt's parent's old workshop
+*Plot Information*
+- Doesn't know what dialect the schematics are written in, hopes to find out more with the party's help
+- Has a large amount of resources available, willing to become a group patron for the party in the future.
+- Ultimately wants to know what caused the Warforged to become sentient.
+
+Person 2: *Baelen ir'Torn*
+- Went back to the university with the priest to collect research supplies.
+- They were attacked by the Boromar clan on their way out, and only Baelen escaped uninjured. 
+- The priest can secretly be found a short distance away, barely clinging to life from the attack.
+- Guard investigation is being conducted on the campus, leaving clues for the party to discover.
+*Plot Information*
+- Baelen hasn't yet made it to a CotSF garrison. He is all alone, trying to sneak through the city unnoticed.
+- Baelen still holds the FKD fragment.
+- He will be captured by the Boromar clan soon.
+
+### Plot Actions
+
+Action 1: *Boromar Clan*
+- Goal: Capture of Baelen and acquisition of the FKD fragment
+	- They are closing in on the professor, who is not cut-out to sneak through the city on his own.
+	- The Boromar clan will begin searching for potential buyers to make a profit on the FKD fragment, and interrogate Baelen in the hopes of figuring out how to find more.
+
+### Additional Notes
+
+- (Add any other notes or information that you need for the session)
+
+### 6 Recap
+
+
+Kogs ritual chamber skill challenge complete
+- Ran through several different chambers and rooms including a collapsing tunnel, lava moat, old ore refinery, and damaged elevator
+- Accumulated 4 successes and 2 failures up until the elevator
+- Final check was made by Draven while on the elevator, failed by 1 point
+- Elevator was taken down by the mech, the mech's body and the elevator debris padded their fall into a deep and dark cavern
+
+Completed the Tower of Old encounter
+- Battled the zombies, zombie giant, and skeletons and won.
+- Took up most of the session
+- Session ended after encounter, but before the party actually entered the tower to investigate
+
+TODO
+The Tower of Old
+- backstory of the tower?
+- how does it fit into plot?
+- side quest hooks?
+- populate with clutter, loot, plot delivery devices
+
+### 7 Plans
+
+
+TODO
+The Tower of Old
+- backstory of the tower?
+- how does it fit into plot?
+- side quest hooks?
+- populate with clutter, loot, plot delivery devices
+
+### Outline
+- Explore the Tower of Old
+- Gate to Sharn
+- Sharn random encounters
+- Baelen ir'Torn is being hunted by the Boromar Clan
+- Encounter with Garhorn & Blinker
+
+### Moments & Encounters
+
+Session Start
+- Exploring [[The Tower of Old]]
+
+Moment 1: *The Tower of Old*
+- 
+- Reaching the top of the tower leads to a bright doorway that leads to the middle of the street in *Olladra's Kitchen* in [[Sharn#Lower Central Plateau|Lower Central]].
+
+Moment 2: *Gate to Sharn*
+- The party teleports to the middle of a random street within *Olladra's Kitchen* in [[Sharn#Lower Central Plateau|Lower Central]].
+- A busy walkway several hundred feet above the lower districts.
+- [[Misc Files/Tables/Random Encounters#Central Plateau - Middle Menthis|Random Encounters]]
+
+Moment 2: *Message from Aeren*
+- Whether by stone gargoyle or Sivis messenger, Aeren contacts the party, asking them to meet him at his workshop in *Everbright* in [[Sharn#Menthis Plateau|Middle Menthis]] the following night.
+- The messaged mentions that Aeren knows Geralt's parents.
+
+Moment 3: *Attack at Morgrave*
+- There was an attack at Morgrave University. Clues point towards CotSF involvement
+
+Moment 4: *Meeting the Master Artificer*
+- Aeren d'Cannith's workshop is filled with mechs and machinery. Aeren is happy to accommodate guests, and will offer his home to the Party whenever they need a place to rest.
+- He tells of his curiosity of the Warforged and his suspicions of House Cannith.
+- He wants to [[Aeren d'Cannith|hire]] the party for a long-term mission: To investigate the origin of the modern warforged.
+- He wants the party to investigate Yelena and Norbit's old workshop to search for clues about the schematics.
+
+Session End: *Lets get a pint.*
+- The party encounters a bruised and newly unemployed Garhorn and his dog, Blinker.
+
+### Location Details
+
+Place 1: *Olladra's Kitchen*
+- Tavern ward located in Lower Central Plateau
+	- Contains several Pubs, dark alleyways, and few brothels
+	- Main attraction: *Olladra's Whip*
+- Neighboring wards
+	- Shops: *Granite Halls, North Towers*
+	- Inns: *Boldrei's Hearth*
+	- Residential: *Vallia Towers, Myshan Gardens*
+
+Place 2: *Everbright*
+- Magic ward located in Middle Menthis Plateau
+	- Contains several alchemy, artifice, and healing services
+	- Main attraction: *Jorasco House of Healing*
+- Neighboring wards
+	- Garrison: *Warden Towers*
+	- Shops: *Cassan Bridge*
+	- Neighborhoods: *Deniytas (gnomes), Platinate (wealthy)*
+
+Place 3: *Aeren's Workshop*
+- Located in Everbright, appears to be apartments from the outside
+- Renovated to a studio-like inside with 3 levels, and enough space to house the party.
+- Clockwork butler: *Piston*
+
+### People
+
+Person 1: *Aeren d'Cannith*
+- Wants to discuss Geralt's parents, the schematics, and requests aid in searching Geralt's parent's old workshop
+*Plot Information*
+- Doesn't know what dialect the schematics are written in, hopes to find out more with the party's help
+- Has a large amount of resources available, willing to become a group patron for the party in the future.
+- Ultimately wants to know what caused the Warforged to become sentient.
+
+Person 2: *Baelen ir'Torn*
+- Went back to the university with the priest to collect research supplies.
+- They were attacked by the Boromar clan on their way out, and only Baelen escaped uninjured. 
+- The priest can secretly be found a short distance away, barely clinging to life from the attack.
+- Guard investigation is being conducted on the campus, leaving clues for the party to discover.
+*Plot Information*
+- Baelen hasn't yet made it to a CotSF garrison. He is all alone, trying to sneak through the city unnoticed.
+- Baelen still holds the FKD fragment.
+- He will be captured by the Boromar clan soon.
+
+### Plot Actions
+
+Action 1: *Boromar Clan*
+- Goal: Capture of Baelen and acquisition of the FKD fragment
+	- They are closing in on the professor, who is not cut-out to sneak through the city on his own.
+	- The Boromar clan will begin searching for potential buyers to make a profit on the FKD fragment, and interrogate Baelen in the hopes of figuring out how to find more.
+
+### Additional Notes
+
+- (Add any other notes or information that you need for the session)
 
 ## The Party
 
