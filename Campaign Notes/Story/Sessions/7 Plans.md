@@ -1,5 +1,5 @@
 TODO
-The Tower of Old
+The Tower of Old (***The Shadow's Cradle***)
 - backstory of the tower?
 - how does it fit into plot?
 - side quest hooks?
