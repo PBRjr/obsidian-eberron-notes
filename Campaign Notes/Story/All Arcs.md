@@ -37,14 +37,16 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 - Encounter at [[The Tower of Old]]
 - **Completion Point:** The party makes it to Sharn
 #### Narrative
-##### Act 1:
-- Encapsulates the party's journey to Sharn through the wilderness
+##### Act 1: The Journey
+- *Overview:* The party's journey to Sharn through the wilderness
 - Important story beats:
-	- [ ] The airship is attacked by Woe and the party bands together to travel to Sharn
-	- [ ] The party explores [[Shavalant]] on their way
-	- [ ] They learn about [[Professor Baelen ir'Torn]]'s journey and his FKD fragment
-	- [ ] They encounter [[The Lighthouse]] and the portal to the Kogs
-	- Aeren d'Cannith contacts the party
-- **Completion point:** The party makes it to [[Sharn]] or decides they have a different, more important objective.
+	- [x] The airship is attacked by Woe and the party bands together to travel to Sharn
+	- [x] The party explores [[Shavalant]] on their way
+	- [x] They learn about [[Professor Baelen ir'Torn]]'s journey and his FKD fragment
+	- [x] They encounter [[The Lighthouse]] and the portal to the Kogs
+- [ ]  **Completion point:** The party arrives at Sharn
 
-
+##### Act 2: The City of Towers
+- *Overview:* An exploration of the morally gray city
+- Important story beats:
+	- 
