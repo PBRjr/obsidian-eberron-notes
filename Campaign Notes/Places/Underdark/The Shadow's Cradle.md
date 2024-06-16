@@ -15,3 +15,8 @@ AKA ***The Tower of Old***
 *Determination*
 > I must understand this gift, this curse. I must find my own path, forge my own destiny. For I am no longer just a soldier, a tool. I am Woe, and I will not be controlled.
 
+*Golden Chains*
+> The orders barked, the battles fought, the endless cycle of war. Was that truly purpose? Or just another form of slavery?
+
+*Greater Good*
+> Was it truly for the greater good, or was it just blind obedience to a flawed system?
