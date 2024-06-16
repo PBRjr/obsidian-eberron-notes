@@ -128,6 +128,7 @@
 		- ***Major Regret:*** Varyn feels as though he has never done anything right, and all of his actions have only diminished the sacrifice his kind made.
 		- ***Major Motivation:*** To protect the world against the Overlords, and become worthy of calling himself a Couatl
 		- Last remaining Couatl, was too scared to sacrifice himself for the Silver Flame
+		- Takes the form of an old man missing his left arm at the shoulder. His true form has a partially missing left wing.
 		- Formed Clan Flameforge to keep watch on the Overlords and their prisons
 			- Directly oppose actions of the Lords of Dust
 			- A small group within felt that Clan Flameforge's scope was too narrow.

@@ -50,5 +50,5 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 - *Overview:* An exploration of the morally gray city
 - Important story beats:
 	- [ ] Geralt learns about his parent's original vision for the Steelhardt
-	- [ ] Draven hears stories of his past heroism and starts having dreams about his training with Varyn in addition t
-	- [ ] 
+	- [ ] Draven hears stories of his past heroism and starts having dreams about his training with Varyn in addition to the dreams of his death
+	- [ ] The party learns of the corrupting affect an FKD fragment can have on the soul
