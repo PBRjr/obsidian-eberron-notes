@@ -87,7 +87,7 @@
 - All subsequent batches were made with these methods, using the souls of dead soldiers, however they were stripped of their mortal memories. This was the only work-around House Cannith could devise to prevent these new Warforged from losing their minds.
 - Forge was a human general of **House Cannith (Or maybe some other affiliation makes more sense?)**
 - In a battle during the last war, he sacrificed his and his men's lives in an explosion he set off to overtake the enemy.
-	- Lick's father and Woe in Forge's squad. Forge valued winning the battle/war over the lives of his own men. While Woe and Lick's father were engaged in battle, Forge made the decision to sacrifice himself and his entire squad to blow up and destroy the **target (what was the target/what was this battle being fought for?)**.
+	- Lick's father and Woe were in Forge's squad. Forge valued winning the battle/war over the lives of his own men. While Woe and Lick's father were engaged in battle, Forge made the decision to sacrifice himself and his entire squad to blow up and destroy the **target (what was the target/what was this battle being fought for?)**.
 	- Woe died close to Lick's father's fragment of the *FKD*, causing an aspect of Khyber to latch onto his soul which allowed him to be resurrected into a Warforged body through Mordakhesh's ritual (more details in Woe's backstory)
 - Forge's soul was captured by House Cannith and infused into a warforged body. He was held prisoner and used for various tests and experiments for a period of time.
 - Near the end of the war, he broke free and, using his skills from his past life, **destroyed his creation forge**.
