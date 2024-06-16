@@ -49,4 +49,4 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 ##### Act 2: The City of Towers
 - *Overview:* An exploration of the morally gray city
 - Important story beats:
-	- 
+	- [ ] Geralt's schematics were written by his parents in an ancient 
