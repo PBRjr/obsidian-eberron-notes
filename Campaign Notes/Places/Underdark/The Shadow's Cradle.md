@@ -3,7 +3,6 @@ AKA ***The Tower of Old***
 **Backstory:** This dilapidated, hidden underground tower is surrounded by boiling pools of lava deep below Sharn. Difficult to find, the Shadow's Cradle is far from comforting. Its origin unknown, it was gifted to Woe by his master Mordakhesh as a place to recover and develop his newfound abilities.
 
 ##### First Floor
-
 > [!TLDR] Floor 1: Old storage
 > - dark with stale stench
 > - bones and rusted weapons > shelves with disintegrating supplies > old maul
@@ -20,8 +19,12 @@ AKA ***The Tower of Old***
 >[!TLDR] Floor 3: Quarters
 > - wooden bed with no mattress > old journal > many pages ripped out > *You Killed Them*
 > - floor boards rotting away > empty chest > *Immoveable Rod*
-> - 
+> - staircase leading upward with dim light from the top
 
+##### Rooftop
+> [!TLDR] Floor 4: Rooftop
+> - tall archway emitting a dim white light > runes carved on the threshold > draconic for "Sharn"
+> - cracked stone floor > torn note on the floor just below the archway > *Determination*
 ### Woe's Journal Entries:
 
 *Moral Questions*
