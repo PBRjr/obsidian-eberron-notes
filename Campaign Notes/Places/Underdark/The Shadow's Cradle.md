@@ -20,6 +20,7 @@ AKA ***The Tower of Old***
 >[!TLDR] Floor 3: Quarters
 > - wooden bed with no mattress > old journal > many pages ripped out > *You Killed Them*
 > - floor boards rotting away > empty chest > *Immoveable Rod*
+> - 
 
 ### Woe's Journal Entries:
 
