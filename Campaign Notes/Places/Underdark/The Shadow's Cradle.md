@@ -4,12 +4,15 @@ AKA ***The Tower of Old***
 
 ##### First Floor
 
-> [!TLDr] Floor 1: Old storage
+> [!TLDR] Floor 1: Old storage
 > Contents
 > - dark with stale stench
-> - bones and rusted weapons
-> - cracked stone flooring and walls
+> - bones and rusted weapons > shelves with disintegrating supplies > old maul
+> - cracked stone flooring and walls > torn paper > *Moral Questions*
 > - staircase leading upwards
+
+##### Second Floor
+> [!TLDR] Floor 2: 
 
 ### Woe's Journal Entries:
 
