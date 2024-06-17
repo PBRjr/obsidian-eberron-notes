@@ -5,14 +5,15 @@ AKA ***The Tower of Old***
 ##### First Floor
 
 > [!TLDR] Floor 1: Old storage
-> Contents
 > - dark with stale stench
 > - bones and rusted weapons > shelves with disintegrating supplies > old maul
 > - cracked stone flooring and walls > torn paper > *Moral Questions*
 > - staircase leading upwards
 
 ##### Second Floor
-> [!TLDR] Floor 2: 
+> [!TLDR] Floor 2: Used Study
+> - broken furniture held together by cobwebs
+> - table on the edge of the room > torn papers > 
 
 ### Woe's Journal Entries:
 
@@ -22,11 +23,11 @@ AKA ***The Tower of Old***
 *Determination*
 > I must understand this gift, this curse. I must find my own path, forge my own destiny. For I am no longer just a soldier, no longer just a tool. He shed from me my prison of blood and flesh and made me anew. I am Woe, and I will not be controlled.
 
-*Golden Chains*
+*Purpose*
 > The orders barked, the battles fought, the endless cycle of war. Was that truly purpose? Or just another form of slavery?
 
 *Greater Good*
 > Was it truly for the greater good, or was it just blind obedience to a flawed system?
 
 *You killed them*
-> Making the choice to sacrifice another isn't noble or just or good. Its murder.
+> Choosing to sacrifice another man isn't an act of valor or righteousness. It is a shadowed deed, veiled in the guise of necessity, yet it remains nothing less than murder.
