@@ -4,8 +4,12 @@ AKA ***The Tower of Old***
 
 ##### First Floor
 
-> [!TLDr] Floor 1
+> [!TLDr] Floor 1: Old storage
 > Contents
+> - dark with stale stench
+> - bones and rusted weapons
+> - cracked stone flooring and walls
+> - staircase leading upwards
 
 ### Woe's Journal Entries:
 
@@ -22,4 +26,4 @@ AKA ***The Tower of Old***
 > Was it truly for the greater good, or was it just blind obedience to a flawed system?
 
 *You killed them*
-> Can you sacrifice your fellow man for the "greater good"
+> Making the choice to sacrifice another isn't noble or just or good. Its murder.
