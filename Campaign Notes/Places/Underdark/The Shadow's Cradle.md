@@ -18,8 +18,8 @@ AKA ***The Tower of Old***
 
 ##### Third Floor
 >[!TLDR] Floor 3: Quarters
-> - wooden bed with no mattress
-> - 
+> - wooden bed with no mattress > old journal > many pages ripped out > *You Killed Them*
+> - floor boards rotting away > empty chest > 
 
 ### Woe's Journal Entries:
 
@@ -36,4 +36,4 @@ AKA ***The Tower of Old***
 > Was it truly for the greater good, or was it just blind obedience to a flawed system?
 
 *You killed them*
-> Choosing to sacrifice another man isn't an act of valor or righteousness. It is a shadowed deed, veiled in the guise of necessity, yet it remains nothing less than murder.
+> Choosing to sacrifice another man isn't an act of valor or righteousness. It is a shadowed deed, veiled in the guise of necessity, yet it remains nothing less than murder. You killed them. You killed me. You killed us all.
