@@ -13,7 +13,13 @@ AKA ***The Tower of Old***
 ##### Second Floor
 > [!TLDR] Floor 2: Used Study
 > - broken furniture held together by cobwebs
-> - table on the edge of the room > torn papers > 
+> - table on the edge of the room > torn papers > *Purpose* & *Greater Good*
+> - staircase leading upwards
+
+##### Third Floor
+>[!TLDR] Floor 3: Quarters
+> - wooden bed with no mattress
+> - 
 
 ### Woe's Journal Entries:
 
