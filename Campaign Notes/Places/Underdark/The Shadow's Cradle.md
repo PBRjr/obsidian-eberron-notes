@@ -22,4 +22,4 @@ AKA ***The Tower of Old***
 > Was it truly for the greater good, or was it just blind obedience to a flawed system?
 
 *You killed them*
-> You made a choice. You sacrificed what wasn't yours to give. You
+> Can you sacrifice your fellow man for the "greater good"
