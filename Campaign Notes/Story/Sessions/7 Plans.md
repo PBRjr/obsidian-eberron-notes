@@ -1,5 +1,5 @@
 ### Outline
-- Explore [[The Tower of Old]]
+- Explore [[The Shadow's Cradle]]
 - Gate to Sharn
 - Message from Aeren
 - Sharn random encounters
