@@ -6,3 +6,4 @@ met a guy that took them up a lift from lower central to upper central, advised 
 to make 1 stick of dynamite - 75gp & 3 days
 Geralt bought forge a trident
 Draven bought silk rope
+Party met aeren at Cannith south Hq and talked to him at his workshop
