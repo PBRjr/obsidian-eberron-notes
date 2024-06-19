@@ -147,20 +147,20 @@ Travel in Sharn can be unpredictable. Residents joke that it takes about an hour
 
 If it becomes important to know how long it takes to get from one place to another, use the following rules of thumb:
 
-|Mode of Travel and Destination|Travel Time*|
-|---|---|
-|Foot Travel||
-|Destination in same district|3d6 minutes|
-|Destination in same ward|6d6 minutes|
-|Destination in adjacent ward|3d6 × 5 minutes|
-|Destination farther than adjacent ward|6d6 × 5 minutes|
-|Flying Travel||
-|Destination in same district|1d6 minutes|
-|Destination in same ward|2d6 minutes|
-|Destination in adjacent ward|1d6 × 5 minutes|
-|Destination farther than adjacent ward|2d6 × 5 minutes|
+| Mode of Travel and Destination         | Travel Time*    |
+| -------------------------------------- | --------------- |
+| Foot Travel                            |                 |
+| Destination in same district           | 3d6 minutes     |
+| Destination in same ward               | 6d6 minutes     |
+| Destination in adjacent ward           | 3d6 × 5 minutes |
+| Destination farther than adjacent ward | 6d6 × 5 minutes |
+| Flying Travel                          |                 |
+| Destination in same district           | 1d6 minutes     |
+| Destination in same ward               | 2d6 minutes     |
+| Destination in adjacent ward           | 1d6 × 5 minutes |
+| Destination farther than adjacent ward | 2d6 × 5 minutes |
 
-- A party can reduce this time by one-half if one character makes a successful DC 15 Knowledge (local) or Gather Information check
+- A party can reduce this time by one-half if one character makes a successful DC 15 Knowledge 
 
 - Numbers in parentheses are for magebred horses with the swift breed special quality
 
