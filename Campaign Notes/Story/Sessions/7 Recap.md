@@ -7,3 +7,8 @@ to make 1 stick of dynamite - 75gp & 3 days
 Geralt bought forge a trident
 Draven bought silk rope
 Party met aeren at Cannith south Hq and talked to him at his workshop
+it starts to rain at night, will continue through the next
+
+TODO
+make torn journal entry handouts
+create Wolfsbane workshop
