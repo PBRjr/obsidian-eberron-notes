@@ -8,6 +8,7 @@ Geralt bought forge a trident
 Draven bought silk rope
 Party met aeren at Cannith south Hq and talked to him at his workshop
 it starts to rain at night, will continue through the next
+They plan on talking about their backstories with eachother before they scout out the workshop
 
 TODO
 make torn journal entry handouts
