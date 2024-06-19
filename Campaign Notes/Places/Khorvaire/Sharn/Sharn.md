@@ -160,7 +160,7 @@ If it becomes important to know how long it takes to get from one place to anoth
 | Destination in adjacent ward           | 1d6 × 5 minutes |
 | Destination farther than adjacent ward | 2d6 × 5 minutes |
 
-- A party can reduce this time by one-half if one character makes a successful DC 15 Knowledge 
+- A party can reduce this time by one-half if one character makes a successful DC 15 investigation 
 
 - Numbers in parentheses are for magebred horses with the swift breed special quality
 
