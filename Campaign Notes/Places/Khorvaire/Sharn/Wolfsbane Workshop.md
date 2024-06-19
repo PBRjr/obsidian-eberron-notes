@@ -1,5 +1,5 @@
 ## Concept
-- Once the active workshop of Yelena and Norbit Wolfsbane, this place now lies decrepit and abandonded. Despite that, House Cannith still maintain
+- Once the active workshop of Yelena and Norbit Wolfsbane, this place now lies decrepit and abandoned. Despite that, House Cannith still maintains a strong presence here.
 
 ## Description
 > 'box text' description of the overall location.

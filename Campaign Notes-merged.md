@@ -1100,6 +1100,7 @@ The Galifar calendar is broken up into 12 months, each with 4 weeks or 28 days, 
 | Aryth     | Late autumn  | Passage     |
 | Vult      | Early winter | Warding     |
 Session 4: 10 Therendor, 998 YK
+Session 7: 13 Threrendor, 998 YK
 
 ## Misc Books and Texts
 
@@ -2142,20 +2143,20 @@ Travel in Sharn can be unpredictable. Residents joke that it takes about an hour
 
 If it becomes important to know how long it takes to get from one place to another, use the following rules of thumb:
 
-|Mode of Travel and Destination|Travel Time*|
-|---|---|
-|Foot Travel||
-|Destination in same district|3d6 minutes|
-|Destination in same ward|6d6 minutes|
-|Destination in adjacent ward|3d6 × 5 minutes|
-|Destination farther than adjacent ward|6d6 × 5 minutes|
-|Flying Travel||
-|Destination in same district|1d6 minutes|
-|Destination in same ward|2d6 minutes|
-|Destination in adjacent ward|1d6 × 5 minutes|
-|Destination farther than adjacent ward|2d6 × 5 minutes|
+| Mode of Travel and Destination         | Travel Time*    |
+| -------------------------------------- | --------------- |
+| Foot Travel                            |                 |
+| Destination in same district           | 3d6 minutes     |
+| Destination in same ward               | 6d6 minutes     |
+| Destination in adjacent ward           | 3d6 × 5 minutes |
+| Destination farther than adjacent ward | 6d6 × 5 minutes |
+| Flying Travel                          |                 |
+| Destination in same district           | 1d6 minutes     |
+| Destination in same ward               | 2d6 minutes     |
+| Destination in adjacent ward           | 1d6 × 5 minutes |
+| Destination farther than adjacent ward | 2d6 × 5 minutes |
 
-- A party can reduce this time by one-half if one character makes a successful DC 15 Knowledge (local) or Gather Information check
+- A party can reduce this time by one-half if one character makes a successful DC 15 investigation 
 
 - Numbers in parentheses are for magebred horses with the swift breed special quality
 
@@ -2351,10 +2352,40 @@ References
 - Bartender Kaela Shadowscale keeps order with an iron fist.
 - Popular hangout for criminals, rogues, and shady freelancers.
 
-#### The Tower of Old
+#### Wolfsbane Workshop
 
 
+## Concept
+- Once the active workshop of Yelena and Norbit Wolfsbane, this place now lies decrepit and abandoned. Despite that, House Cannith still maintains a strong presence here.
 
+## Description
+> 'box text' description of the overall location.
+
+## Notable Locations
+##### Location 1
+> [!TLDR]
+> - X
+## Inhabitants
+##### Enemy Roster
+> [!warning]
+> - X
+
+##### Friendly Roster
+> [!warning]
+> - X
+
+## History
+- Background of this location - when settled, major events, how it ties into the campaign world, etc.
+
+## Hooks
+- Ideas for quests, events, encounters, etc. that could happen at this location
+- Ideas for why the PCs would be here in the first place
+
+## Secrets
+- Hidden things about this place the PCs could discover
+
+## Other notes
+- Miscellaneous details
 
 ### Shavalant
 
@@ -2631,8 +2662,45 @@ AKA ***The Tower of Old***
 
 **Backstory:** This dilapidated, hidden underground tower is surrounded by boiling pools of lava deep below Sharn. Difficult to find, the Shadow's Cradle is far from comforting. Its origin unknown, it was gifted to Woe by his master Mordakhesh as a place to recover and develop his newfound abilities.
 
-### Mordakhesh's Journal Entries:
+##### First Floor
+> [!TLDR] Floor 1: Old storage
+> - dark with stale stench
+> - bones and rusted weapons > shelves with disintegrating supplies > old maul
+> - cracked stone flooring and walls > torn paper > *Moral Questions*
+> - staircase leading upwards
 
+##### Second Floor
+> [!TLDR] Floor 2: Used Study
+> - broken furniture held together by cobwebs
+> - table on the edge of the room > torn papers > *Purpose* & *Greater Good*
+> - staircase leading upwards
+
+##### Third Floor
+>[!TLDR] Floor 3: Quarters
+> - wooden bed with no mattress > old journal > many pages ripped out > *You Killed Them*
+> - floor boards rotting away > empty chest > *Immoveable Rod*
+> - staircase leading upward with dim light from the top
+
+##### Rooftop
+> [!TLDR] Floor 4: Rooftop
+> - tall archway emitting a dim white light > runes carved on the threshold > draconic for "Sharn"
+> - cracked stone floor > torn note on the floor just below the archway > *Determination*
+### Woe's Journal Entries:
+
+*Moral Questions*
+> Mordakhesh speaks of liberation, of breaking the chains that bind us. But what if these new chains are just as strong, just as suffocating? What if this power consumes me, turns me into the very weapon I was built to be?
+
+*Determination*
+> I must understand this gift, this curse. I must find my own path, forge my own destiny. For I am no longer just a soldier, no longer just a tool. He shed from me my prison of blood and flesh and made me anew. I am Woe, and I will not be controlled.
+
+*Purpose*
+> The orders barked, the battles fought, the endless cycle of war. Was that truly purpose? Or just another form of slavery?
+
+*Greater Good*
+> Was it truly for the greater good, or was it just blind obedience to a flawed system?
+
+*You killed them*
+> Choosing to sacrifice another man isn't an act of valor or righteousness. It is a shadowed deed, veiled in the guise of necessity, yet it remains nothing less than murder. You killed them. You killed me. You killed us all.
 
 ### The Temple of the Endless Rage
 
@@ -2778,15 +2846,6 @@ The **Boromar Clan**, driven by greed and the promise of power, pursues the drag
 As the heroes navigate their quests, they grapple with profound questions about morality, redemption, and the nature of evil. Can those born into darkness find their way to the light? What does it take to redeem oneself after a great failure? Through their struggles, they uncover that most villains are not purely evil but shaped by their justifications and past traumas.
 
 The world of Eberron stands on the edge of a knife. The heroes must forge their paths, facing inner demons and external threats, to protect what remains of the Silver Flame and prevent the release of an ancient evil. Their intertwined destinies and the choices they make will determine the fate of their world.
-
-## Plot points that need development
-
-
-## Professor Baelen ir'Torn & the Khyber dragonshard fragment
-How did Baelen come to obtain one of the fragments? Why is he being protected and escorted to Sharn by the CotSF? Where was the fragment when he obtained it? How do the LoD know he has the fragment? How does the Boromar Clan know he has it, or that it exists at all?
-
-## Aeren d'Cannith & House Cannith conspiracy
-How did Aeren learn House Cannith may have been involved in the Day of Mourning? How deep does his knowledge of the House's possible involvement go?
 
 ## Plot Web
 
@@ -4259,16 +4318,10 @@ The Tower of Old
 ### 7 Plans
 
 
-TODO
-The Tower of Old (***The Shadow's Cradle***)
-- backstory of the tower?
-- how does it fit into plot?
-- side quest hooks?
-- populate with clutter, loot, plot delivery devices
-
 ### Outline
-- Explore the Tower of Old
+- Explore [[The Shadow's Cradle]]
 - Gate to Sharn
+- Message from Aeren
 - Sharn random encounters
 - Baelen ir'Torn is being hunted by the Boromar Clan
 - Encounter with Garhorn & Blinker
@@ -4279,7 +4332,6 @@ Session Start
 - Exploring [[The Tower of Old]]
 
 Moment 1: *The Tower of Old*
-- 
 - Reaching the top of the tower leads to a bright doorway that leads to the middle of the street in *Olladra's Kitchen* in [[Sharn#Lower Central Plateau|Lower Central]].
 
 Moment 2: *Gate to Sharn*
@@ -4295,9 +4347,9 @@ Moment 3: *Attack at Morgrave*
 - There was an attack at Morgrave University. Clues point towards CotSF involvement
 
 Moment 4: *Meeting the Master Artificer*
-- Aeren d'Cannith's workshop is filled with mechs and machinery. Aeren is happy to accommodate guests, and will offer his home to the Party whenever they need a place to rest.
+- [[Aeren d'Cannith]]'s workshop is filled with mechs and machinery. Aeren is happy to accommodate guests, and will offer his home to the Party whenever they need a place to rest.
 - He tells of his curiosity of the Warforged and his suspicions of House Cannith.
-- He wants to [[Aeren d'Cannith|hire]] the party for a long-term mission: To investigate the origin of the modern warforged.
+- He wants to [[Aeren d'Cannith#Group Patron|hire]] the party for a long-term mission: To investigate the origin of the modern warforged.
 - He wants the party to investigate Yelena and Norbit's old workshop to search for clues about the schematics.
 
 Session End: *Lets get a pint.*
@@ -4357,6 +4409,25 @@ Action 1: *Boromar Clan*
 ### Additional Notes
 
 - (Add any other notes or information that you need for the session)
+
+### 7 Recap
+
+
+Forge found a half-broken maul
+cannith south HQ in Highest towers district of upper central
+Geralt and Draven talked to Bree (Gnome) and adopted retarded sister Reyland (goblin)
+Forge talked to barkeep and acted as a boromar agent, learned about the protection wracket at olladra's whip
+met a guy that took them up a lift from lower central to upper central, advised them to go to platinum heights to find expensive escorts. they came out in skysedge park distrcit heading for highest towers
+to make 1 stick of dynamite - 75gp & 3 days
+Geralt bought forge a trident
+Draven bought silk rope
+Party met aeren at Cannith south Hq and talked to him at his workshop
+it starts to rain at night, will continue through the next
+They plan on talking about their backstories with eachother before they scout out the workshop
+
+TODO
+make torn journal entry handouts
+create Wolfsbane workshop
 
 ## The Party
 
