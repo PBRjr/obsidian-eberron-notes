@@ -5,3 +5,4 @@ Forge talked to barkeep and acted as a boromar agent, learned about the protecti
 met a guy that took them up a lift from lower central to upper central, advised them to go to platinum heights to find expensive escorts. they came out in skysedge park distrcit heading for highest towers
 to make 1 stick of dynamite - 75gp & 3 days
 Geralt bought forge a trident
+Draven bought silk rope
