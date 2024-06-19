@@ -5,10 +5,17 @@
 > 'box text' description of the overall location.
 
 ## Notable Locations
-- Locations or places within this location that are important, along with a short description of each
+##### Location 1
+> [!TLDR]
+> - X
 ## Inhabitants
-- List major characters that inhabit this place
-- List what faction(s), governments, or groups have control or are attempting to gain control, if any
+##### Enemy Roster
+> [!warning]
+> - X
+
+##### Friendly Roster
+> [!warning]
+> - X
 
 ## History
 - Background of this location - when settled, major events, how it ties into the campaign world, etc.
