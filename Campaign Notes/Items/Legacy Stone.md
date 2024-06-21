@@ -18,13 +18,15 @@
 **Kismet's Prophecy:** 
 > The world shimmers, your senses flooded with the sights and smells of a crowded marketplace. You feel a small hand clutching yours as you and Norbit stand before a half-elf woman with striking eyes. She traces lines on your palm, her touch strangely warm. An unsettling feeling of knowing, of seeing threads of destiny intertwining, washes over you. She doesn't speak, but images flash through your mind – a towering city, a shattered land, a powerful artifact, a young boy facing a daunting task. A cold dread grips your heart.
 
-
 **Norbit's Illness:**
 > The air is heavy with the scent of parchment and ink. Lamplight flickers across a cluttered desk, illuminating diagrams and notes. You feel Norbit's hand trembling in yours as he coughs, a rattling sound that echoes in the silence. A wave of nausea washes over you, not from the illness, but from the crushing realization that time is slipping away. You glance at a drawing of a complex device, its intricate workings promising a solution, a chance to cheat fate.
 
+**Sibernyan Discovery:**
+>Wind howls outside, rattling the shutters of a small, isolated cabin perched atop a snow-covered mountain. Inside, a fire crackles in the hearth, casting flickering shadows on rough-hewn walls. You feel a mixture of anticipation and unease as you sit across a table from a figure shrouded in a thick cloak, his face obscured by the shadows. As he speaks, his voice is a low, melodic rumble, unlike any language you've ever heard. You sense an ancient wisdom, a connection to something beyond mortal comprehension. Norbit leans forward, his brow furrowed in concentration as he grasps the strange words, responding in kind.
 
-**Sibernyan Discovery:** A scene where they uncover the ancient text, highlighting the lengths they went to protect their secrets and the importance of the language.
-**Steelhardt Prototype:** A thrilling moment where they successfully activate the first Steelhardt, showing its potential and hinting  itsat hidden dangers.
+**Steelhardt Prototype:** 
+>The air vibrates with energy, tingling your skin. A faint humming sound fills the chamber as you and Norbit stand before a pulsing device. You feel a surge of triumph as you complete the final connection, the culmination of years of research. A brilliant light flares, momentarily blinding you, then fades, leaving behind a sense of awe and a lingering taste of ozone. A deep, primal fear whispers within you, a warning about the choices you've made, about the forces you've put into motion.
+
 **House Cannith Escape:** A tense escape sequence, emphasizing the danger they faced and the sacrifices they made to protect Geralt and their research.
 **New Beginnings:** A bittersweet moment in their new cabin, showcasing their love for Geralt and their attempts to build a peaceful life while carrying the weight of their past.
 ### Location:
