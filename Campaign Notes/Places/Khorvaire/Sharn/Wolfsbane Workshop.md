@@ -1,5 +1,6 @@
 ## Concept
 - Once the active workshop of Yelena and Norbit Wolfsbane, this place now lies decrepit and abandoned. Despite that, House Cannith still maintains a strong presence here.
+- An important note and a gift lay behind an impenetrable locked door, that only Geralt holds the key to, left by his parents.
 
 ## Description
 > 'box text' description of the overall location.
