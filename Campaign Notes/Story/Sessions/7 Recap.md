@@ -13,3 +13,4 @@ They plan on talking about their backstories with eachother before they scout ou
 TODO
 make torn journal entry handouts
 create Wolfsbane workshop
+Merkantile owner - Ianhorn Gillflower
