@@ -28,10 +28,7 @@
 >The air vibrates with energy, tingling your skin. A faint humming sound fills the chamber as you and Norbit stand before a pulsing device. You feel a surge of triumph as you complete the final connection, the culmination of years of research. A brilliant light flares, momentarily blinding you, then fades, leaving behind a sense of awe and a lingering taste of ozone. A deep, primal fear whispers within you, a warning about the choices you've made, about the forces you've put into motion.
 
 **House Cannith Escape:**
->Rain lashes your face, cold and relentless. Your heart pounds in your chest as you and Norbit race through the dark, winding alleys, a crying young boy clutched in your arms. You feel the presence of pursuers, their footsteps echoing on the cobblestones. You turn a corner, praying you lost them. Norbit squeezes your shoulder as you calm the boy whose head is nuzzling into your shirt.Terror grips you, fueled by the knowledge that you're not just protecting yourselves, but something far more precious, something that could change the world.
-
-
-**New Beginnings:** A bittersweet moment in their new cabin, showcasing their love for Geralt and their attempts to build a peaceful life while carrying the weight of their past.
+>Rain lashes your face, cold and relentless. Your heart pounds in your chest as you and Norbit race through the dark, winding alleys, a crying young boy clutched in your arms. You feel the presence of pursuers, their footsteps echoing on the cobblestones. You turn a corner, praying you lost them. Norbit squeezes your shoulder as you calm the boy whose head is nuzzling into your shirt. Terror grips you, fueled by the knowledge that you're not just protecting yourselves, but something far more precious, something that could change the world.
 ### Location:
 
 - Behind an impenetrable locked door in [[Wolfsbane Workshop]]
