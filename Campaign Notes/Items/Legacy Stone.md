@@ -5,14 +5,14 @@
 
 - Once per long rest, when Geralt concentrates for at least 10 minutes while holding the Legacy Stone, he experiences a surge of warmth before his mind is flooded with a memory that is chosen at random from the table below.
 
-| #   | Memory | Viewed? |
-| --- | ------ | ------- |
-| 1   |        |         |
-| 2   |        |         |
-| 3   |        |         |
-| 4   |        |         |
-| 5   |        |         |
-| 6   |        |         |
+| #   | Memory               | Viewed? |
+| --- | -------------------- | ------- |
+| 1   | Kismet's Prophecy    |         |
+| 2   | Norbit's Illness     |         |
+| 3   | Sibernyan Discovery  |         |
+| 4   | Steelhardt Prototype |         |
+| 5   | House Cannith Escape |         |
+| 6   | New Beginnings       |         |
 
 ***Memory Descriptions***
 1. **Kismet's Prophecy:** Geralt sees his parents' encounter with Kismet, witnessing the prophecy that foreshadows their fate and his own. This sets the stage for the mystery and establishes the connection to Varyn.
