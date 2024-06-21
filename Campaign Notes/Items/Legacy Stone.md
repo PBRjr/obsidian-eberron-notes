@@ -1,32 +1,19 @@
 
 ### Description:
 
-- This shimmering Siberys Dragonshard is 2 inches long with the di
-
-### History: 
-
-- Where it originated, how it was created, key events tied to it
-
-### Powers/Abilities:
-
-- Magical powers, effects, or quirks
-
+- This shimmering Siberys Dragonshard is 2 inches long with the diameter of a grape. It has a rapid, darting glow, as though something is bouncing off the inner walls of the shard, trying to find an exit.
 ### Location:
 
-- Where the item is currently located
+- Behind an impenetrable locked door in [[Wolfsbane Workshop]]
 
 ### Ownership/Affiliation: 
 
-- Who possesses the item or has an interest in obtaining it
+- House Cannith has been trying to get behind the locked door since Geralt's parents fled House Cannith.
 
 ### Significance: 
 
-- Why the item is important, how it ties into the campaign story
+- Contained within are flashbacks to important memories in Yelena's life, from her perspective. They were planted in this stone by his parents for Geralt to find.
 
 ### Interacting With It:
 
 - How PCs might encounter, identify, or be able to use the item
-
-### Hook:
-
-- A potential main/side quest adventure hook relating to the item
