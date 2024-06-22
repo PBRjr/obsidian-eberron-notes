@@ -26,13 +26,16 @@
 
 ### Floor 2: Research Area
 
-> [!TLDR] Floor 2: Research Area
+>[!TLDR] Floor 2: Research and Development
 > 
-> - smaller room > bookshelves lining walls > mostly empty
-> - writing desk > dried inkwells > torn papers in Sibernyan
-> - magical testing area > shattered crystals > residual energy
-> - old alchemy station > broken vials > strange stains
-> - staircase continuing upward
+> - Large rectangular room > dimly lit > air thick with magical residue
+> - Left side: Curved area > comfortable seating > personal study space
+> - Center-left: Large alchemical apparatus > copper tubing and glass containers > faint glow
+> - Center-right: Magical testing area > scorch marks on floor > residual energy in air
+> - Right side: Three large circular devices > unknown purpose > magical aura
+> - Back wall: Shelves and cabinets > mostly empty > few remaining vials and components
+> - Two staircases > one centrally located > one near the back
+> - Three windows on front wall > magical symbols etched on glass
 
 ### Floor 3: Private Quarters
 
