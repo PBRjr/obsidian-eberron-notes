@@ -34,11 +34,11 @@
 > - **Center-right**: Magical testing area > scorch marks on floor > residual energy in air
 > - **Right side**: Three large circular devices > unknown purpose > magical aura
 > - **Back wall**: Shelves and cabinets > mostly empty > few remaining vials and components
-> - Two staircases > one centrally located > one near the back
+> - Two staircases > one centrally located > one on the left
 > - Three windows on front wall > magical symbols etched on glass
 
 > [!Danger] Hazards
-> - 
+> - Stairs on left > 3 glyphs on steps DC 16 investigation > 3 DC 16 con saves > reduce
 ### Floor 3: Private Quarters
 
 > [!TLDR] Floor 3: Private Quarters
