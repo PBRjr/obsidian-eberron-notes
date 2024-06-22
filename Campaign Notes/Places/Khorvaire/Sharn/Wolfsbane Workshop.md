@@ -41,13 +41,14 @@
 > - Stairs on left > 3 glyphs on steps DC 16 investigation > 3 DC 16 con saves > reduce
 ### Floor 3: Private Quarters
 
-> [!TLDR] Floor 3: Private Quarters
-> 
-> - personal living space > signs of hasty departure
-> - bed > dusty linens > personal items scattered
-> - small safe > forced open > empty
-> - private study > desk with hidden compartment > _Early Steelhardt designs_
-> - window overlooking Sharn > cracked glass > bird's nest
+> [!TLDR] Floor 3: Testing Chamber and Private Quarters
+>- Large rectangular room > high ceiling > overlooks other 2 floors, small walkway
+>- Left side: Curved area > personal living space > bed and personal items
+>- Center: More exhaust pipes leading outwards > rusted metals
+>- Right side: Three large circular devices > similar to second floor > interconnected
+>- Back wall: Control panel > numerous levers and dials > faint magical aura
+>- Two staircases > one centrally located > one near the back
+>- Large bay window on right side > view of Sharn > cracked glass
 
 ### Hidden Vault (Ground Floor)
 
