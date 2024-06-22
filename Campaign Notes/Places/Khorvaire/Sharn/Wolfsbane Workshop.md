@@ -11,10 +11,10 @@
 
 > [!TLDR] Floor 1: Main Workshop
 > - Large rectangular room > dusty and cluttered > faint ozone smell
-> - **Left side**: Curved area > scattered papers and books > old drafting table
-> - **Center**: Massive furnace or apparatus > pipes leading to walls > scorch marks on floor
+> - **Left side**: hidden behind apparatus > tinkering table with tools, storage > tools occasionally move
+> - **Center**: Massive apparatus, rope dangling from above > pipes leading to walls > scorch marks on floor
 > - **Right side**: Various workstations > tools and equipment strewn about
-> - **Back right**: Large circular machine > unknown purpose > magical residue
+> - **Back right**: Large circular machine > unknown purpose > magical residue indicating blast from inside
 > - **Front right**: Smaller room > possibly storage or office > door closed
 > - Two staircases > one centrally located > one near the back
 > - Three windows on front wall > dusty and dim light
