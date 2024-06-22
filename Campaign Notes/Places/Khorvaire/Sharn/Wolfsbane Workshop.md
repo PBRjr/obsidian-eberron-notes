@@ -10,12 +10,16 @@
 ### Floor 1: Entry and Main Workshop
 
 > [!TLDR] Floor 1: Main Workshop
-> 
+> Features
 > - large open space > dusty and cluttered > faint ozone smell
 > - workbenches along walls > scattered tools > dried magical residue
 > - central area > remains of large apparatus > scorch marks on floor
 > - corner with blank wall > faint magical aura > _Hidden Vault_
 > - staircase leading up > creaky wooden steps
+> Hazards
+> - Spilled chemical residue, DC 12 dex save
+
+
 
 ### Floor 2: Research Area
 
