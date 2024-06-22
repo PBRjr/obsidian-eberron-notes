@@ -29,14 +29,16 @@
 >[!TLDR] Floor 2: Research and Development
 > 
 > - Large rectangular room > dimly lit > air thick with magical residue
-> - Left side: Curved area > comfortable seating > personal study space
-> - Center-left: Large alchemical apparatus > copper tubing and glass containers > faint glow
-> - Center-right: Magical testing area > scorch marks on floor > residual energy in air
-> - Right side: Three large circular devices > unknown purpose > magical aura
-> - Back wall: Shelves and cabinets > mostly empty > few remaining vials and components
+> - **Left side**: Curved area > comfortable seating > personal study space
+> - **Center-left**: Large alchemical apparatus > copper tubing and glass containers > faint glow
+> - **Center-right**: Magical testing area > scorch marks on floor > residual energy in air
+> - **Right side**: Three large circular devices > unknown purpose > magical aura
+> - **Back wall**: Shelves and cabinets > mostly empty > few remaining vials and components
 > - Two staircases > one centrally located > one near the back
 > - Three windows on front wall > magical symbols etched on glass
 
+> [!Danger] Hazards
+> - 
 ### Floor 3: Private Quarters
 
 > [!TLDR] Floor 3: Private Quarters
