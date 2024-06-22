@@ -2,26 +2,54 @@ AKA ***The Tower of Old***
 
 **Backstory:** This dilapidated, hidden underground tower is surrounded by boiling pools of lava deep below Sharn. Difficult to find, the Shadow's Cradle is far from comforting. Its origin unknown, it was gifted to Woe by his master Mordakhesh as a place to recover and develop his newfound abilities.
 
-##### First Floor
-> [!TLDR] Floor 1: Old storage
-> - dark with stale stench
-> - bones and rusted weapons > shelves with disintegrating supplies > old maul
-> - cracked stone flooring and walls > torn paper > *Moral Questions*
-> - staircase leading upwards
+## Wolfsbane Workshop
 
-##### Second Floor
-> [!TLDR] Floor 2: Used Study
-> - broken furniture held together by cobwebs
-> - table on the edge of the room > torn papers > *Purpose* & *Greater Good*
-> - staircase leading upwards
+### Floor 1: Entry and Main Workshop
 
-##### Third Floor
->[!TLDR] Floor 3: Quarters
-> - wooden bed with no mattress > old journal > many pages ripped out > *You Killed Them*
-> - floor boards rotting away > empty chest > *Immoveable Rod*
-> - staircase leading upward with dim light from the top
+> [!TLDR] Floor 1: Main Workshop
+> 
+> - large open space > dusty and cluttered > faint ozone smell
+> - workbenches along walls > scattered tools > dried magical residue
+> - central area > remains of large apparatus > scorch marks on floor
+> - corner with blank wall > faint magical aura > _Hidden Vault_
+> - staircase leading up > creaky wooden steps
 
-##### Rooftop
+### Floor 2: Research Area
+
+> [!TLDR] Floor 2: Research Area
+> 
+> - smaller room > bookshelves lining walls > mostly empty
+> - writing desk > dried inkwells > torn papers in Sibernyan
+> - magical testing area > shattered crystals > residual energy
+> - old alchemy station > broken vials > strange stains
+> - staircase continuing upward
+
+### Floor 3: Private Quarters
+
+> [!TLDR] Floor 3: Private Quarters
+> 
+> - personal living space > signs of hasty departure
+> - bed > dusty linens > personal items scattered
+> - small safe > forced open > empty
+> - private study > desk with hidden compartment > _Early Steelhardt designs_
+> - window overlooking Sharn > cracked glass > bird's nest
+
+### Hidden Vault (Ground Floor)
+
+> [!TLDR] Hidden Vault
+> 
+> - seamlessly blends with wall > no visible lock or handle
+> - faint magical aura > resists all attempts to open
+> - size of a small closet > contents unknown
+> - _Legacy Stone_ inside
+
+### Secret Compartments (Throughout)
+
+> [!TLDR] Secret Compartments
+> 
+> - various hiding spots > cleverly concealed
+> - behind loose bricks > under floorboards > inside hollow furniture
+> - may contain > old notes > experimental components > personal mementos
 > [!TLDR] Floor 4: Rooftop
 > - tall archway emitting a dim white light > runes carved on the threshold > draconic for "Sharn"
 > - cracked stone floor > torn note on the floor just below the archway > *Determination*
