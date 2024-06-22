@@ -24,8 +24,6 @@
 > - Spilled chemical residue > DC 12 dex save or PRONE
 > - Pressure plate near stairs > Fog cloud
 
-
-
 ### Floor 2: Research Area
 
 > [!TLDR] Floor 2: Research Area
