@@ -16,8 +16,9 @@
 > - central area > remains of large apparatus > scorch marks on floor
 > - corner with blank wall > faint magical aura > _Hidden Vault_
 > - staircase leading up > creaky wooden steps
+> 
 > Hazards
-> - Enterance door > 
+> - Entrance door > The reverse knock > DC 18 Dexsave > 6d6 > DC 18 grapple, choked
 > - Spilled chemical residue > DC 12 dex save or PRONE
 > - Pressure plate near stairs > Fog cloud
 
