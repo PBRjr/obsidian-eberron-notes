@@ -32,8 +32,8 @@
 > - **Left side**: Curved area > comfortable seating > personal study space
 > - **Center-left**: Large alchemical apparatus > copper tubing and glass containers > faint glow
 > - **Center-right**: Magical testing area > scorch marks on floor > residual energy in air
-> - **Right side**: Three large circular devices > unknown purpose > magical aura
-> - **Back wall**: Shelves and cabinets > mostly empty > few remaining vials and components
+> - **Right side**: broken dials and gauges
+> - **Back wall**: Shelves and cabinets > mostly empty > few remaining vials and components > 3 unstable *explosive marbles* > 2d4 Fdmg + DC 12 Dsave/pushed 5ft
 > - Two staircases > one centrally located > one on the left
 > - Three windows on front wall > magical symbols etched on glass
 
