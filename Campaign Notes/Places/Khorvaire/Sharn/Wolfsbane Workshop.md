@@ -10,14 +10,16 @@
 ### Floor 1: Entry and Main Workshop
 
 > [!TLDR] Floor 1: Main Workshop
-> Features
-> - large open space > dusty and cluttered > faint ozone smell
-> - workbenches along walls > scattered tools > dried magical residue
-> - central area > remains of large apparatus > scorch marks on floor
-> - corner with blank wall > faint magical aura > _Hidden Vault_
-> - staircase leading up > creaky wooden steps
-> 
-> Hazards
+> - Large rectangular room > dusty and cluttered > faint ozone smell
+> - **Left side**: Curved area > scattered papers and books > old drafting table
+> - **Center**: Massive furnace or apparatus > pipes leading to walls > scorch marks on floor
+> - **Right side**: Various workstations > tools and equipment strewn about
+> - **Back right**: Large circular machine > unknown purpose > magical residue
+> - **Front right**: Smaller room > possibly storage or office > door closed
+> - Two staircases > one centrally located > one near the back
+> - Three windows on front wall > dusty and dim light
+
+> [!danger] Hazards
 > - Entrance door > The reverse knock > DC 18 Dexsave > 6d6 > DC 18 grapple, choked
 > - Spilled chemical residue > DC 12 dex save or PRONE
 > - Pressure plate near stairs > Fog cloud
