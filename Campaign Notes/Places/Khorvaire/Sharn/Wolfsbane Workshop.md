@@ -15,9 +15,9 @@
 > - **Center**: Massive apparatus, rope dangling from above > pipes leading to walls > scorch marks on floor
 > - **Right side**: Various workstations > tools and equipment strewn about
 > - **Back right**: Large circular machine > unknown purpose > magical residue indicating blast from inside
-> - **Front right**: Smaller room > possibly storage or office > door closed
-> - Two staircases > one centrally located > one near the back
-> - Three windows on front wall > dusty and dim light
+> - **Front right**: Smaller room > secretaries office > leads to bathroom
+> - Staircases leading upwards
+> - Cracked windows on front wall > dusty and dim light
 
 > [!danger] Hazards
 > - Entrance door > The reverse knock > DC 18 Dexsave > 6d6 > DC 18 grapple, choked
