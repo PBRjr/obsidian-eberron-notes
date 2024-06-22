@@ -17,6 +17,7 @@
 > - corner with blank wall > faint magical aura > _Hidden Vault_
 > - staircase leading up > creaky wooden steps
 > Hazards
+> - Enterance door > 
 > - Spilled chemical residue > DC 12 dex save or PRONE
 > - Pressure plate near stairs > Fog cloud
 
