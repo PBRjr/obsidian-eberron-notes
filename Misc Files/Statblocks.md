@@ -516,11 +516,11 @@ _Challenge_ 5 (1,800 XP)
 
 **Exploit Opening (3/Day).** When the brawler makes an attack, they have advantage on the attack roll.
 
-**Electric Gauntlets.** The Brawler's fists are outfitted with electric gauntlets that deal an additional 1d6 lightning damage on a hit and allow them to make ranged attacks.
+**Electric Gauntlets.** The Brawler's fists are outfitted with electric gauntlets that deal an additional 2d6 lightning damage on a hit and allow them to make ranged attacks.
 
 **Heavy Armor Master.** The Brawler reduces any non-magical bludgeoning, piercing, and slashing damage they take by 3 while wearing heavy armor.
 
-**Technological Resilience.** The Brawler has advantage on saving throws against being charmed or frightened.
+
 
 **Actions** ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
