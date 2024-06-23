@@ -486,6 +486,57 @@ _**Dagger.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:
 _**Sling.** Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage.
 
 ## Humanoids
+### House Cannith Brawler
+
+Medium Humanoid (Human), Any Alignment
+
+Armor Class 18 (Heavy Plate Armor)
+
+Hit Points 52 (11d8 + 33)
+
+Speed 30 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|17 (+3)|14 (+2)|16 (+3)|10 (+0)|10 (+0)|12 (+1)|
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_Skills_ Athletics +6, Intimidation +4
+
+_Senses_ passive Perception 10
+
+_Languages_ Common
+
+_Challenge_ 5 (1,800 XP)
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Exploit Opening (3/Day).** When the brawler makes an attack, they have advantage on the attack roll.
+
+**Electric Gauntlets.** The Brawler's fists are outfitted with electric gauntlets that deal an additional 1d6 lightning damage on a hit and allow them to make ranged attacks.
+
+**Heavy Armor Master.** The Brawler reduces any non-magical bludgeoning, piercing, and slashing damage they take by 3 while wearing heavy armor.
+
+**Technological Resilience.** The Brawler has advantage on saving throws against being charmed or frightened.
+
+**Actions** ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_Multiattack._ The Brawler makes two attacks using Grab, Haymaker, or Electric Arc.
+
+_Grab._ Melee Weapon Attack: +6 to hit, reach 5 ft., one Medium or smaller creature. Hit: 6 (1d4 + 3) bludgeoning damage, and the target is grappled (escape DC 13). Until this grapple ends, the brawler can't grab another creature.
+
+_Haymaker._ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 3) bludgeoning damage, or 10 (3d4 + 3) bludgeoning damage against a grappled target plus 3 (1d6) lightning damage.
+
+_Throw._ The brawler throws one Medium or smaller creature they are grappling or object they are holding up to 30 feet horizontally. If the thrown target is a creature, they fall prone after this throw. If the thrown target would enter the space of a creature or solid object that is no more than one size smaller than it, the thrown target collides with it and stops in the nearest unoccupied space, taking 3 (1d6) bludgeoning damage for every 10 feet it was thrown. A Large or smaller creature hit by this thrown target must succeed on a DC 13 Dexterity saving throw or take the same amount of damage and fall prone.
+
+_Electric Arc._ Ranged Weapon Attack: +5 to hit, range 30/90 ft., one target. Hit: 8 (1d10 + 3) lightning damage.
+
+**Reactions** ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_Meat Shield._ When the brawler is grappling a target and is hit by a ranged attack made by another creature the brawler can see, the brawler gains a +2 bonus to AC against the triggering attack. If this bonus causes the attack to miss the brawler, it hits the grappled target instead.
 ### Veteran
 Medium Humanoid (Any Race), Any Alignment
 
