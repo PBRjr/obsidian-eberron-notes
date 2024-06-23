@@ -486,6 +486,149 @@ _**Dagger.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:
 _**Sling.** Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage.
 
 ## Humanoids
+### Cannith Brawler Construct
+
+Medium Construct, Any Alignment
+
+Armor Class 18 (Heavy Plate Armor)
+
+Hit Points 52 (11d8 + 33)
+
+Speed 30 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|17 (+3)|14 (+2)|16 (+3)|10 (+0)|10 (+0)|12 (+1)|
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_Skills_ Athletics +6, Intimidation +4
+
+_Senses_ passive Perception 10
+
+_Languages_ Common
+
+_Challenge_ 5 (1,800 XP)
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Electric Gauntlets.** The Brawler's fists are outfitted with electric gauntlets that deal an additional 2d6 lightning damage on a hit and allow them to make ranged attacks.
+
+**Heavy Armor Master.** The Brawler reduces any non-magical bludgeoning, piercing, and slashing damage they take by 3 due to heavy armor plating.
+
+**Boosters.** The Brawler can fly and hover thanks to boosters installed in its legs.
+ ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+*Actions***
+
+_Multiattack._ The Brawler makes two attacks using Grab, Haymaker, or Electric Arc.
+
+_Grab._ Melee Weapon Attack: +6 to hit, reach 5 ft., one Medium or smaller creature. Hit: 6 (1d4 + 3) bludgeoning damage, and the target is grappled (escape DC 13). Until this grapple ends, the brawler can't grab another creature.
+
+_Haymaker._ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 3) bludgeoning damage, or 10 (3d4 + 3) bludgeoning damage against a grappled target plus 3 (1d6) lightning damage.
+
+_Throw._ The brawler throws one Medium or smaller creature they are grappling or object they are holding up to 30 feet horizontally. If the thrown target is a creature, they fall prone after this throw. If the thrown target would enter the space of a creature or solid object that is no more than one size smaller than it, the thrown target collides with it and stops in the nearest unoccupied space, taking 3 (1d6) bludgeoning damage for every 10 feet it was thrown. A Large or smaller creature hit by this thrown target must succeed on a DC 13 Dexterity saving throw or take the same amount of damage and fall prone.
+
+_Electric Arc._ Ranged Weapon Attack: +5 to hit, range 30/90 ft., one target. Hit: 9 (2d8+ 3) lightning damage.
+
+**Reactions** ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_Meat Shield._ When the brawler is grappling a target and is hit by a ranged attack made by another creature the brawler can see, the brawler gains a +2 bonus to AC against the triggering attack. If this bonus causes the attack to miss the brawler, it hits the grappled target instead.
+
+---
+### Human Guard
+
+Medium Humanoid (Human), Any Alignment
+
+Armor Class 16 (chain shirt, shield)
+
+Hit Points 5
+
+Speed 30 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|12 (+1)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|10 (+0)|
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_Skills_ Perception +2
+
+_Senses_ passive Perception 12
+
+_Languages_ Common
+
+_Proficiency Bonus_ +2
+
+_Challenge_ 1/8 (5 XP)
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Exploit Weakness.** When the guard makes or joins an attack that's made with advantage, the attack deals an extra 1 damage per guard who made or joined the attack.
+
+**Minion.** If the guard takes damage from an attack or as the result of a failed saving throw, their hit points are reduced to 0. If the guard takes damage from another effect, they die if the damage equals or exceeds their hit point maximum; otherwise, they take no damage.
+
+**Overwhelm.** If a Medium or smaller enemy starts their turn within 5 feet of three or more guards who can see them, until the start of the enemy's next turn, the enemy's speed is reduced by 5 feet for each guard within 5 feet of them. If this reduces the enemy's walking speed to 0, they are restrained until the start of their next turn.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+*Actions*
+
+_Spear (Group Attack)._ Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 1 piercing damage.
+
+---
+
+
+### Human Knave
+
+Medium Humanoid (Human), Any Alignment
+
+Armor Class 16 (breastplate, shield)
+
+Hit Points 60 (8d8 + 24)
+
+Speed 30 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|18 (+4)|10 (+0)|16 (+3)|10 (+0)|12 (+1)|10 (+0)|
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_Skills_ Intimidation +4, Perception +3
+
+_Senses_ passive Perception 13
+
+_Languages_ Common
+
+_Proficiency Bonus_ +2
+
+_Challenge_ 3 (700 XP)
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Exploit Opening (3/Day).** When the knave makes an attack, they have advantage on the attack roll.
+
+**Actions** ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_Multitattack._ The knave makes two Morningstar or two Javelin attacks. They can replace one attack with a Shield Bash attack.
+
+_Morningstar._ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if the target is prone.
+
+_Shield Bash._ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) bludgeoning damage, and if the target is a Medium or smaller creature, they must succeed on a DC 14 Strength saving throw or be knocked prone.
+
+_Javelin._ Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+
+**Bonus Actions** ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_Stay Down._ The knave kicks one prone creature within 5 feet of them. The target must succeed on a DC 14 Constitution saving throw or their speed is reduced to 0 until the end of their next turn.
+
+---
 ### Veteran
 Medium Humanoid (Any Race), Any Alignment
 
