@@ -3,10 +3,10 @@
 - A gift lay behind an impenetrable locked door, that only Geralt holds the key to, left by his parents.
 - [[Legacy Stone]]
 
-## Description
-> 'box text' description of the overall location.
-
 ## Notable Locations
+### Sewers
+
+
 ### Floor 1: Entry and Main Workshop
 
 > [!TLDR] Floor 1: Main Workshop
@@ -56,12 +56,11 @@
 
 ## Inhabitants
 ##### Enemy Roster
-> [!warning]
+> [!warning] Enemy Roster
 > - [[Statblocks#Cannith Brawler Construct|Cannith Brawler Constructs]]
+> - [[Statblocks#Human Guard|Human Guards]]
+> - [[Statblocks#Human Knave|Human Knave]]
 
-##### Friendly Roster
-> [!warning]
-> - X
 
 ## History
 - Background of this location - when settled, major events, how it ties into the campaign world, etc.

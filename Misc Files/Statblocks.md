@@ -536,6 +536,7 @@ _Electric Arc._ Ranged Weapon Attack: +5 to hit, range 30/90 ft., one target. Hi
 
 _Meat Shield._ When the brawler is grappling a target and is hit by a ranged attack made by another creature the brawler can see, the brawler gains a +2 bonus to AC against the triggering attack. If this bonus causes the attack to miss the brawler, it hits the grappled target instead.
 
+---
 ### Human Guard
 
 Medium Humanoid (Human), Any Alignment
@@ -578,8 +579,56 @@ _Challenge_ 1/8 (5 XP)
 
 _Spear (Group Attack)._ Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 1 piercing damage.
 
+---
 
 
+### Human Knave
+
+Medium Humanoid (Human), Any Alignment
+
+Armor Class 16 (breastplate, shield)
+
+Hit Points 60 (8d8 + 24)
+
+Speed 30 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|18 (+4)|10 (+0)|16 (+3)|10 (+0)|12 (+1)|10 (+0)|
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_Skills_ Intimidation +4, Perception +3
+
+_Senses_ passive Perception 13
+
+_Languages_ Common
+
+_Proficiency Bonus_ +2
+
+_Challenge_ 3 (700 XP)
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Exploit Opening (3/Day).** When the knave makes an attack, they have advantage on the attack roll.
+
+**Actions** ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_Multitattack._ The knave makes two Morningstar or two Javelin attacks. They can replace one attack with a Shield Bash attack.
+
+_Morningstar._ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if the target is prone.
+
+_Shield Bash._ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) bludgeoning damage, and if the target is a Medium or smaller creature, they must succeed on a DC 14 Strength saving throw or be knocked prone.
+
+_Javelin._ Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+
+**Bonus Actions** ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_Stay Down._ The knave kicks one prone creature within 5 feet of them. The target must succeed on a DC 14 Constitution saving throw or their speed is reduced to 0 until the end of their next turn.
+
+---
 ### Veteran
 Medium Humanoid (Any Race), Any Alignment
 
