@@ -5,7 +5,8 @@
 
 ## Description
 - Sits across the road from a brothel > ladies are always tempting the guards
-- Two guards stand at doorway > conversation about the twins inside "Thats what the twins are for, dumbass. Fucking rookies."
+- Two guards stand at doorway > conversation about the twins inside *"That's what the twins are for, dumbass. Fucking rookies."*
+- Cannith Sergeant (Human Knave) does rounds on his posts > only one that goes in/out > wears amulet that prevents twins from causing harm
 
 ## Notable Locations
 ### Tunnel Entrance
@@ -47,7 +48,6 @@ Accessed by a grate in the floor that leads to an escape tunnel put in by Yelena
 > [!quote] **Safe Door Inscription**
 > The Wolfsbane blooms with the blood of its heir.
 
-
 ### Floor 3: Private Quarters
 
 > [!TLDR] Floor 3: Testing Chamber and Private Quarters
@@ -62,20 +62,6 @@ Accessed by a grate in the floor that leads to an escape tunnel put in by Yelena
 ## Inhabitants
 ##### Enemy Roster
 > [!warning] Enemy Roster
-> - [[Statblocks#Cannith Brawler Construct|Cannith Brawler Constructs]]
+> - [[Statblocks#Cannith Brawler Construct|Cannith Brawler Constructs]] (The Twins)
 > - [[Statblocks#Human Guard|Human Guards]]
-> - [[Statblocks#Human Knave|Human Knave]]
-
-
-## History
-- Background of this location - when settled, major events, how it ties into the campaign world, etc.
-
-## Hooks
-- Ideas for quests, events, encounters, etc. that could happen at this location
-- Ideas for why the PCs would be here in the first place
-
-## Secrets
-- Hidden things about this place the PCs could discover
-
-## Other notes
-- Miscellaneous details
+> - [[Statblocks#Human Knave|Human Knave]] (Cannith Sergant)
