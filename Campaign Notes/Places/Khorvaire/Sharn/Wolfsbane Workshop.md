@@ -29,7 +29,7 @@
 >[!TLDR] Floor 2: Research and Development
 > 
 > - Large rectangular room > dimly lit > air thick with magical residue
-> - **Left side**: Curved area > comfortable seating > personal study space
+> - **Left side**: study space > blank notebooks
 > - **Center-left**: Large alchemical apparatus > copper tubing and glass containers > faint glow
 > - **Center-right**: Magical testing area > scorch marks on floor > residual energy in air
 > - **Right side**: broken dials and gauges
