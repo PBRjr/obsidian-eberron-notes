@@ -39,9 +39,11 @@
 > [!Danger] Hazards
 > - Stairs on left > 3 glyphs on steps DC 16 investigation > 3 DC 16 con saves > reduce
 
+> [!quote] **Safe** Door Insc
+> The Wolfsbane blooms with the blood of its heir.
 
-> [!quote] Safe
-> Contents
+
+
 
 ### Floor 3: Private Quarters
 
