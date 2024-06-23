@@ -486,9 +486,9 @@ _**Dagger.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:
 _**Sling.** Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage.
 
 ## Humanoids
-### House Cannith Brawler
+### Cannith Brawler Construct
 
-Medium Humanoid (Human), Any Alignment
+Medium Construct, Any Alignment
 
 Armor Class 18 (Heavy Plate Armor)
 
@@ -514,15 +514,13 @@ _Challenge_ 5 (1,800 XP)
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Exploit Opening (3/Day).** When the brawler makes an attack, they have advantage on the attack roll.
-
 **Electric Gauntlets.** The Brawler's fists are outfitted with electric gauntlets that deal an additional 2d6 lightning damage on a hit and allow them to make ranged attacks.
 
 **Heavy Armor Master.** The Brawler reduces any non-magical bludgeoning, piercing, and slashing damage they take by 3 due to heavy armor plating.
 
 **Boosters.** The Brawler can fly and hover thanks to boosters installed in its legs.
-
-**Actions** ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+ ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+*Actions***
 
 _Multiattack._ The Brawler makes two attacks using Grab, Haymaker, or Electric Arc.
 
