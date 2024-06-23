@@ -535,6 +535,7 @@ _Electric Arc._ Ranged Weapon Attack: +5 to hit, range 30/90 ft., one target. Hi
 **Reactions** ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
 _Meat Shield._ When the brawler is grappling a target and is hit by a ranged attack made by another creature the brawler can see, the brawler gains a +2 bonus to AC against the triggering attack. If this bonus causes the attack to miss the brawler, it hits the grappled target instead.
+
 ### Veteran
 Medium Humanoid (Any Race), Any Alignment
 
