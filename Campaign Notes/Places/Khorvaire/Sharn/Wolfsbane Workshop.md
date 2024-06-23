@@ -11,7 +11,7 @@
 
 > [!TLDR] Floor 1: Main Workshop
 > - Large rectangular room > dusty and cluttered > faint ozone smell
-> - **Left side**: hidden behind apparatus > tinkering table with tools, storage > tools occasionally move
+> - **Left side**: hidden behind apparatus > tinkering table with tools, storage > tools occasionally move > *sewer entrance*
 > - **Center**: Massive apparatus used to pressurize and contain/infuse, rope dangling from above > pipes leading up > scorch marks on floor
 > - **Right side**: Various workstations > tools and equipment strewn about
 > - **Back right**: Large circular machine > unknown purpose > magical residue indicating blast from inside
@@ -43,9 +43,9 @@
 
 > [!TLDR] Floor 3: Testing Chamber and Private Quarters
 >- Large rectangular room > high ceiling > overlooks other 2 floors, small walkway
->- Left side: Curved area > personal living space > bed and personal items
->- Center: More exhaust pipes leading outwards > rusted metals
->- Right side: Three large circular devices > similar to second floor > interconnected
+>- **Left**: Curved area > personal living space > bed and personal items
+>- **Center**: More exhaust pipes leading outwards > rusted metals
+>- Right: Three large circular devices > similar to second floor > interconnected
 >- Back wall: Control panel > numerous levers and dials > faint magical aura
 >- Two staircases > one centrally located > one near the back
 >- Large bay window on right side > view of Sharn > cracked glass
