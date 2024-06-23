@@ -12,7 +12,7 @@
 > [!TLDR] Floor 1: Main Workshop
 > - Large rectangular room > dusty and cluttered > faint ozone smell
 > - **Left side**: hidden behind apparatus > tinkering table with tools, storage > tools occasionally move
-> - **Center**: Massive apparatus, rope dangling from above > pipes leading to walls > scorch marks on floor
+> - **Center**: Massive apparatus used to pressurize and contain/infuse, rope dangling from above > pipes leading up > scorch marks on floor
 > - **Right side**: Various workstations > tools and equipment strewn about
 > - **Back right**: Large circular machine > unknown purpose > magical residue indicating blast from inside
 > - **Front right**: Smaller room > secretaries office > leads to bathroom
@@ -29,8 +29,8 @@
 >[!TLDR] Floor 2: Research and Development
 > 
 > - Large rectangular room > dimly lit > air thick with magical residue
-> - **Left side**: study space > blank notebooks
-> - **Center-left**: Large alchemical apparatus > copper tubing and glass containers > faint glow
+> - **Left**: study space > blank notebooks > blast marks in a spot on the floor > *safe*
+> - **Center**: Overlooks first floor > extension of machinery below > unused
 > - **Center-right**: Magical testing area > scorch marks on floor > residual energy in air
 > - **Right side**: broken dials and gauges
 > - **Back wall**: Shelves and cabinets > mostly empty > few remaining vials and components > 3 unstable *explosive marbles* > 2d4 Fdmg + DC 12 Dsave/pushed 5ft
