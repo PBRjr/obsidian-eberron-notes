@@ -11,7 +11,7 @@
 
 > [!TLDR] Floor 1: Main Workshop
 > - Large rectangular room > dusty and cluttered > faint ozone smell
-> - **Left side**: hidden behind apparatus > tinkering table with tools, storage > tools occasionally move > *sewer entrance*
+> - **Left side**: hidden behind apparatus > tinkering table with tools, storage > sacks of flower > *sewer entrance*
 > - **Center**: Massive apparatus used to pressurize and contain/infuse, rope dangling from above > pipes leading up > scorch marks on floor
 > - **Right side**: Various workstations > tools and equipment strewn about
 > - **Back right**: Large circular machine > unknown purpose > magical residue indicating blast from inside
@@ -31,8 +31,7 @@
 > - Large rectangular room > dimly lit > air thick with magical residue
 > - **Left**: study space > blank notebooks > blast marks in a spot on the floor > *safe*
 > - **Center**: Overlooks first floor > extension of machinery below > unused
-> - **Center-right**: Magical testing area > scorch marks on floor > residual energy in air
-> - **Right side**: broken dials and gauges
+> - **Right** Magical testing area > scorch marks on floor > residual energy in air > broken dials and gauges
 > - **Back wall**: Shelves and cabinets > mostly empty > few remaining vials and components > 3 unstable *explosive marbles* > 2d4 Fdmg + DC 12 Dsave/pushed 5ft
 > - Two staircases > one centrally located > one on the left
 > - Three windows on front wall > magical symbols etched on glass
@@ -45,8 +44,8 @@
 >- Large rectangular room > high ceiling > overlooks other 2 floors, small walkway
 >- **Left**: Curved area > personal living space > bed and personal items
 >- **Center**: More exhaust pipes leading outwards > rusted metals
->- Right: Three large circular devices > similar to second floor > interconnected
->- Back wall: Control panel > numerous levers and dials > faint magical aura
+>- **Right**: Three large circular devices > similar to second floor > interconnected
+>- **Back wall**: Control panel > numerous levers and dials > faint magical aura
 >- Two staircases > one centrally located > one near the back
 >- Large bay window on right side > view of Sharn > cracked glass
 
