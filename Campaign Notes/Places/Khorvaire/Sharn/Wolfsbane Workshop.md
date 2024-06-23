@@ -57,7 +57,7 @@
 ## Inhabitants
 ##### Enemy Roster
 > [!warning]
-> - X
+> - [[Statblocks#Cannith Brawler Construct|Cannith Brawler Constructs]]
 
 ##### Friendly Roster
 > [!warning]

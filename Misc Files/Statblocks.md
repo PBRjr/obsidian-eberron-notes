@@ -530,7 +530,7 @@ _Haymaker._ Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4
 
 _Throw._ The brawler throws one Medium or smaller creature they are grappling or object they are holding up to 30 feet horizontally. If the thrown target is a creature, they fall prone after this throw. If the thrown target would enter the space of a creature or solid object that is no more than one size smaller than it, the thrown target collides with it and stops in the nearest unoccupied space, taking 3 (1d6) bludgeoning damage for every 10 feet it was thrown. A Large or smaller creature hit by this thrown target must succeed on a DC 13 Dexterity saving throw or take the same amount of damage and fall prone.
 
-_Electric Arc._ Ranged Weapon Attack: +5 to hit, range 30/90 ft., one target. Hit: 8 (1d10 + 3) lightning damage.
+_Electric Arc._ Ranged Weapon Attack: +5 to hit, range 30/90 ft., one target. Hit: 9 (2d8+ 3) lightning damage.
 
 **Reactions** ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
