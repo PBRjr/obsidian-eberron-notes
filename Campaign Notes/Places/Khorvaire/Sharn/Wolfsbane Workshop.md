@@ -5,7 +5,7 @@
 
 ## Description
 - Sits across the road from a brothel > ladies are always tempting the guards
-- Two guards stand at doorway > conversation about the twins inside *"That's what the twins are for, dumbass. Fucking rookies."*
+- Two guards stand at doorway > conversation about the twins inside *"That's what the twins are for, dumbass. Fucking rookies."* (Rook - old one facial hair | Crag - young one shivering)
 - Cannith Sergeant (Human Knave) does rounds on his posts > only one that goes in/out > wears amulet that prevents twins from causing harm
 
 ## Notable Locations
