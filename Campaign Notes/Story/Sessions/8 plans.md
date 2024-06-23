@@ -8,11 +8,8 @@
 
 Session Start
 - Scout the [[Wolfsbane Workshop]]
-- 
 
-Moment 2: *Gate to Sharn*
-- The party teleports to the middle of a random street within *Olladra's Kitchen* in [[Sharn#Lower Central Plateau|Lower Central]].
-- A busy walkway several hundred feet above the lower districts.
+Moment 2: 
 - [[Misc Files/Tables/Random Encounters#Central Plateau - Middle Menthis|Random Encounters]]
 
 Moment 2: *Message from Aeren*
@@ -21,12 +18,6 @@ Moment 2: *Message from Aeren*
 
 Moment 3: *Attack at Morgrave*
 - There was an attack at Morgrave University. Clues point towards CotSF involvement
-
-Moment 4: *Meeting the Master Artificer*
-- [[Aeren d'Cannith]]'s workshop is filled with mechs and machinery. Aeren is happy to accommodate guests, and will offer his home to the Party whenever they need a place to rest.
-- He tells of his curiosity of the Warforged and his suspicions of House Cannith.
-- He wants to [[Aeren d'Cannith#Group Patron|hire]] the party for a long-term mission: To investigate the origin of the modern warforged.
-- He wants the party to investigate Yelena and Norbit's old workshop to search for clues about the schematics.
 
 Session End: *Lets get a pint.*
 - The party encounters a bruised and newly unemployed Garhorn and his dog, Blinker.
