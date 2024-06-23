@@ -38,6 +38,11 @@
 
 > [!Danger] Hazards
 > - Stairs on left > 3 glyphs on steps DC 16 investigation > 3 DC 16 con saves > reduce
+
+
+> [!quote] Safe
+> Contents
+
 ### Floor 3: Private Quarters
 
 > [!TLDR] Floor 3: Testing Chamber and Private Quarters
@@ -49,22 +54,6 @@
 >- Two staircases > one centrally located > one near the back
 >- Large bay window on right side > view of Sharn > cracked glass
 
-### Hidden Vault (Ground Floor)
-
-> [!TLDR] Hidden Vault
-> 
-> - seamlessly blends with wall > no visible lock or handle
-> - faint magical aura > resists all attempts to open
-> - size of a small closet > contents unknown
-> - _Legacy Stone_ inside
-
-### Secret Compartments (Throughout)
-
-> [!TLDR] Secret Compartments
-> 
-> - various hiding spots > cleverly concealed
-> - behind loose bricks > under floorboards > inside hollow furniture
-> - may contain > old notes > experimental components > personal mementos
 ## Inhabitants
 ##### Enemy Roster
 > [!warning]
