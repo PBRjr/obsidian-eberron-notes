@@ -12,9 +12,9 @@ Session Start
 Moment 2: 
 - [[Misc Files/Tables/Random Encounters#Central Plateau - Middle Menthis|Random Encounters]]
 
-Moment 2: *Message from Aeren*
-- Whether by stone gargoyle or Sivis messenger, Aeren contacts the party, asking them to meet him at his workshop in *Everbright* in [[Sharn#Menthis Plateau|Middle Menthis]] the following night.
-- The messaged mentions that Aeren knows Geralt's parents.
+Moment 3: *Are you the Knight of the North?*
+- A young boy seems mesmerized at the sight of Draven
+- Then he is ushered away by his mother.
 
 Moment 3: *Attack at Morgrave*
 - There was an attack at Morgrave University. Clues point towards CotSF involvement
