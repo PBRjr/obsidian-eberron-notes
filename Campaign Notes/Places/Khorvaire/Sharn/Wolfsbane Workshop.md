@@ -3,8 +3,13 @@
 - A gift lay behind an impenetrable locked door, that only Geralt holds the key to, left by his parents.
 - [[Legacy Stone]]
 
+## Description
+- Sits across the road from a brothel > ladies are always tempting the guards
+- Two guards stand at doorway > conversation about the twins inside "Thats what the twins are for, dumbass. Fucking rookies."
+
 ## Notable Locations
-### Sewers
+### Tunnel Entrance
+Accessed by a grate in the floor that leads to an escape tunnel put in by Yelena and Norbit in secret. It is now known and guarded by House Cannith, though this post is regarded as the most boring.
 
 
 ### Floor 1: Entry and Main Workshop
