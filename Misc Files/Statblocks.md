@@ -518,9 +518,9 @@ _Challenge_ 5 (1,800 XP)
 
 **Electric Gauntlets.** The Brawler's fists are outfitted with electric gauntlets that deal an additional 2d6 lightning damage on a hit and allow them to make ranged attacks.
 
-**Heavy Armor Master.** The Brawler reduces any non-magical bludgeoning, piercing, and slashing damage they take by 3 while wearing heavy armor.
+**Heavy Armor Master.** The Brawler reduces any non-magical bludgeoning, piercing, and slashing damage they take by 3 due to heavy armor plating.
 
-
+**Boosters.** The Brawler can fly and hover thanks to boosters installed in its legs.
 
 **Actions** ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
