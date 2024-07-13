@@ -32,6 +32,9 @@
 
 **House Cannith Escape:**
 >Rain lashes your face, cold and relentless. Your heart pounds in your chest as you and Norbit race through the dark, winding alleys, a crying young boy clutched in your arms. You feel the presence of pursuers, their footsteps echoing on the cobblestones. You turn a corner, praying you lost them. Norbit squeezes your shoulder as you calm the boy whose head is nuzzling into your shirt. Terror grips you, fueled by the knowledge that you're not just protecting yourselves, but something far more precious, something that could change the world.
+
+**The Rageblight**
+> Cold Steel
 ### Location:
 
 - Behind an impenetrable locked door in [[Wolfsbane Workshop]]
