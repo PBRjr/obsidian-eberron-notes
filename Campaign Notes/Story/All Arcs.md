@@ -48,10 +48,19 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 
 ##### Act 2: The City of Towers
 - *Overview:* An exploration of the morally gray city
+- Main PCs: *Geralt, Forge*
 - Important story beats:
 	- [ ] Geralt learns about his parent's original vision for the Steelhardt
 	- [ ] Draven hears stories of his past heroism and starts having dreams about his training with Varyn in addition to the dreams of his death
 	- [ ] The party learns of the corrupting affect an FKD fragment can have on the soul
-	- [ ] The party learns that Geralt's parents are connected to the creation of the modern warforged
-	- [ ] The party faces off
-- [ ] **Completion point:** needs more development
+	- [x] The party learns that Geralt's parents are connected to the creation of the modern warforged
+	- [ ] The party learns of the threat of the Rageblight
+- [ ] **Completion point:** Confrontation with the Rageblight
+
+##### Act 3: TBD
+- *Overview:* Deeper story beats, progression act to the final story beats
+- Main PCs: *Draven, Bjorn*
+- Important story beats:
+	- [ ] Varyn the Valiant is introduced
+	- [ ] Draven learns of his upbringing and his downfall
+	- [ ] Bjorn
