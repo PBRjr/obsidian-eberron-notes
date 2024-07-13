@@ -63,4 +63,5 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 - Important story beats:
 	- [ ] Varyn the Valiant is introduced
 	- [ ] Draven learns of his upbringing and his downfall
-	- [ ] Bjorn
+	- [ ] Bjorn learns of his brother's corruption
+- [ ] **Completion point:** Confrontation with Hrothgar
