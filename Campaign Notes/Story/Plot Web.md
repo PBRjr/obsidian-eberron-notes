@@ -195,13 +195,13 @@
 	- Vorak
 		- Vorak was House Cannith's most skilled assassin, loyal to the House for most of his life. Originally a half-elf, he served for over a hundred years until his age forced him out of field work, though he remained a top advisor for covert activities within the House.
 		- He was sent by Marix d'Cannith to kill Geralt's parents after they fled House Cannith.
-		- Voluntarily underwent House Cannith's very first attempt at using the Steelhardt to transfer a soul to another body.
+		- Voluntarily underwent House Cannith's and the Wolfsbane's very first attempt at using a Steelhardt to transfer a soul to another body.
 		- The transfer was successful, moving Vorak from his original body to a younger, stronger one from a random deceased soldier.
 		- While he retained his memories, his mind quickly became plagued with dark thoughts, his grip on reality worsening.
-		- He went rogue, and was manipulated by Mordakhesh, who focused Vorak's mind to one objective: destory the Silver Flame.
+		- He went rogue, and was manipulated by Mordakhesh, who focused Vorak's mind to one objective: destroy the Silver Flame.
 		- Bolstered by new dark powers infused into his Steelhardt by Mordakesh, he led the forces of the LoD in their attack against the Silver Flame on the Day of Mourning.
 			- His attempt to destroy the Silver Flame failed and rebounded, turning him into a rage-fueled creature of destruction, and allowing the Silver Flame to defend itself by causing the Mourning.
-		- Now he roams the land, destroying villages, feeding off the rage of the survivors, and using it to resurrect himself should he fall in battle.
+		- Now he roams the land, destroying villages, feeding off the rage of the survivors, and using it to resurrect himself should he fall in battle. He is fed imaged in his mind by Mordakhesh to keep him focused on attacking his targets.
 		- His darkness-infused Steelhardt causes him to achieve quasi-lichdom through unique means:
 			- Should his body ever die, his soul will be kept safe in his Steelhardt until it is placed into a new body.
 			- The survivors of his onslaughts get the unrelenting urge to find Vorak and kill him, but if Vorak is dead they find the Steelhardt instead.
