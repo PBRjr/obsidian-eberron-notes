@@ -1,6 +1,6 @@
 ### Outline
 - Finish up the [[Wolfsbane Workshop]]
-- Aarons
+- Aeren's been kidnapped
 - Baelen ir'Torn is being hunted by the Boromar Clan
 - Encounter with Garhorn & Blinker
 
