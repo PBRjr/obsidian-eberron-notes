@@ -194,7 +194,7 @@
 - **Villains**
 	- Vorak
 		- Vorak was House Cannith's most skilled assassin, loyal to the House for most of his life. Originally a half-elf, he served for over a hundred years until his age forced him out of field work, though he remained a top advisor for covert activities within the House.
-		- He was sent by Marix d'Clone to kill Geralt's parents after they fled House Cannith.
+		- He was sent by Marix d'Cannith to kill Geralt's parents after they fled House Cannith.
 		- Voluntarily underwent House Cannith's very first attempt at using the Steelhardt to transfer a soul to another body.
 		- The transfer was successful, moving Vorak from his original body to a younger, stronger one from a random deceased soldier.
 		- While he retained his memories, his mind quickly became plagued with dark thoughts, his grip on reality worsening.
