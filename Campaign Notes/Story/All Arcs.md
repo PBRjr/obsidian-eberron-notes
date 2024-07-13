@@ -54,7 +54,7 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 	- [ ] Draven hears stories of his past heroism and starts having dreams about his training with Varyn in addition to the dreams of his death
 	- [ ] The party learns of the corrupting affect an FKD fragment can have on the soul
 	- [x] The party learns that Geralt's parents are connected to the creation of the modern warforged
-	- [ ] The party learns of the threat of the Rageblight
+	- [ ] The party learns that the Rageblight is destroying towns and heading in the direction of the Byeshk mountains.
 - [ ] **Completion point:** Confrontation with the Rageblight
 
 ##### Act 3: TBD
