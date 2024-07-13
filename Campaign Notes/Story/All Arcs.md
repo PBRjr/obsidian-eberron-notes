@@ -44,7 +44,7 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 	- [x] The party explores [[Shavalant]] on their way
 	- [x] They learn about [[Professor Baelen ir'Torn]]'s journey and his FKD fragment
 	- [x] They encounter [[The Lighthouse]] and the portal to the Kogs
-- [ ]  **Completion point:** The party arrives at Sharn
+- [x]  **Completion point:** The party arrives at Sharn
 
 ##### Act 2: The City of Towers
 - *Overview:* An exploration of the morally gray city
@@ -53,4 +53,5 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 	- [ ] Draven hears stories of his past heroism and starts having dreams about his training with Varyn in addition to the dreams of his death
 	- [ ] The party learns of the corrupting affect an FKD fragment can have on the soul
 	- [ ] The party learns that Geralt's parents are connected to the creation of the modern warforged
+	- [ ] The party faces off
 - [ ] **Completion point:** needs more development
