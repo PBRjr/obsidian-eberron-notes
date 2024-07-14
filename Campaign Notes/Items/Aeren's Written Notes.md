@@ -1,5 +1,6 @@
-Warforged => dead soldiers??
+Warforged are dead soldiers??
 creation forges?
 schematics in an ancient language? look draconic 
 schematics of a metal heart, what is the purpose
-why did they need a l
+why did they need a phylactery?
+the soul?
