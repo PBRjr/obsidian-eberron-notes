@@ -19,7 +19,7 @@ Siberys rises, the great dragon.
 Couatl speak, with strength and wisdom,  
 Guardians of peace and truth._
 
-_Hold the ideals, followers of Siberys,  
+_Hold the ideals, followers of Siberys(underlined),  
 Power and grace, the way of the Couatl.  
 Their voices bring justice,  
 Siberys' will, guiding the world."_
