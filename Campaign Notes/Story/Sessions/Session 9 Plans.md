@@ -1,16 +1,16 @@
 ### Outline
 - Finish up the [[Wolfsbane Workshop]]
 - Aeren's been kidnapped
-- Baelen ir'Torn is being hunted by the Boromar Clan
+- Encounter with Boromar gang thugs that kidnapped Aeren
 - Encounter with Garhorn & Blinker
 
 ### Moments & Encounters
 
 Session Start
-- Scout the [[Wolfsbane Workshop]]
+- Resume and finish the [[Wolfsbane Workshop]] location
 
-Moment 2: 
-- [[Misc Files/Tables/Random Encounters#Central Plateau - Middle Menthis|Random Encounters]]
+Moment 2: *Aeren's been kidnapped*
+- Aeren left a note on a table "*Went to the library, have an idea, be back soon. Make yourselves at home*"
 
 Moment 3: *Are you the Knight of the North?*
 - A young boy seems mesmerized at the sight of Draven
