@@ -7,4 +7,4 @@ He learned:
 - He went to the library to do research on the language. Unable to find anything on the language, he asked the librarian for their books on religious history. He checked out a book titled "*Godlings, Demigods, and other Mythic Creatures*" and left.
 - On his way back, he ran into Boromar Clan thugs, who kidnapped him at the order of Halak Boromar. (He is wanted for his technological ability and knowledge of the arcane. They want to use him to work with the professor and figure out the use/purpose of the FKD fragment they got from the professor.)
 - When he is kidnapped, he dropped his book on the ground, which can be found by the party.
-- The gang members can also be encountered and looted, and [[Aeren's Notes]] may be looted.
+- The gang members can also be encountered and looted, and [[Aeren's Written Notes]] may be looted.
