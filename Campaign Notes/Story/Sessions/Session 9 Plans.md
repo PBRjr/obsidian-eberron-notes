@@ -1,7 +1,7 @@
 ### Outline
 - Finish up the [[Wolfsbane Workshop]]
 - Aeren's been kidnapped
-- Encounter with Boromar gang thugs that kidnapped Aeren
+- Thugs
 - Encounter with Garhorn & Blinker
 
 ### Moments & Encounters
@@ -13,6 +13,9 @@ Moment 1: *Aeren's been kidnapped*
 - Aeren left a note on a table "*Unnamed Adventuring Party: Had an idea, went to the library, be back soon. Make yourselves at home*"
 - Aeren pulled out an old nursery rhyme called [[When the Couatl Sing]] then went to the "Books, book, and more books" library and checked out a book, then got kidnapped by the Boromar Clan.
 
+Moment 2: *Thugs*
+- A few thugs try to shake down the party.
+- One of the thugs has the scrawled notes of Aeren d'Cannith
 Moment 3: *Are you the Knight of the North?*
 - A young boy seems mesmerized at the sight of Draven
 - Then he is ushered away by his mother.
