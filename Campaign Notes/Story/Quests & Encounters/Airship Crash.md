@@ -15,7 +15,7 @@ References
 - Faction introductions (Tyrant changlings of Karrnathi soldiers, Lick boromar clan)
 
 ## Lead-in
-[[1 Lead-in|Read to players at the start of the session]]
+[[Session 1 Lead-in|Read to players at the start of the session]]
 
 ## Airship
 The PCs are traveling aboard 'Gyott Byufemitle' (elvish) or 'The Merkentile'
