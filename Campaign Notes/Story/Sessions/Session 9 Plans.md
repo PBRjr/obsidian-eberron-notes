@@ -65,11 +65,10 @@ Person 2: *Baelen ir'Torn*
 
 ### Plot Actions
 
-Action 1: *Boromar Clan*
-- Goal: Use Baelin and
-	- They are closing in on the professor, who is not cut-out to sneak through the city on his own.
-	- The Boromar clan will begin searching for potential buyers to make a profit on the FKD fragment, and interrogate Baelen in the hopes of figuring out how to find more.
-
+Action 1: *Boromar Clan (Halak Boromar)*
+- Goal: Use Baelin and Aeren to create a weapon from the FKD fragment so he can consolidate his power.
+	- Baelin revealed that the fragment is something ancient and powerful.
+	- Halak's mind immediately began thinking of how to use this powerful artifact to consolidate his power both within the clan and the clan's power over Sharn.
 ### Additional Notes
 
 - (Add any other notes or information that you need for the session)
