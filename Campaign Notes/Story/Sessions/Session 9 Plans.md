@@ -11,7 +11,7 @@ Session Start
 
 Moment 1: *Aeren's been kidnapped*
 - Aeren left a note on a table "*Unnamed Adventuring Party: Had an idea, went to the library, be back soon. Make yourselves at home*"
-- Aeren went to the "Books, book, and more books" library and checked out a book, then got kidnapped by th
+- Aeren pulled out an old nursery rhyme called [[When the Couatl Sing]] then went to the "Books, book, and more books" library and checked out a book, then got kidnapped by the Boromar Clan.
 
 Moment 3: *Are you the Knight of the North?*
 - A young boy seems mesmerized at the sight of Draven
@@ -51,9 +51,11 @@ Place 3: *Aeren's Workshop*
 ### People
 
 Person 1: *Aeren d'Cannith*
-- Wants to discuss Geralt's parents, the schematics, and requests aid in searching Geralt's parent's old workshop
+- Recognized the schematic text from an old nursery rhyme his mother used to read to him.
+- He traveled to the library to get more info on Siberys and the Couatl. 
+- On his way back he was captured by Boromar Clan thugs.
 *Plot Information*
-- Doesn't know what dialect the schematics are written in, hopes to find out more with the party's help
+- Found a book called [[]] and dropped it when 
 - Has a large amount of resources available, willing to become a group patron for the party in the future.
 - Ultimately wants to know what caused the Warforged to become sentient.
 
