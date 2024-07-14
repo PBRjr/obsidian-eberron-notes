@@ -55,24 +55,18 @@ Person 1: *Aeren d'Cannith*
 - He traveled to the library to get more info on Siberys and the Couatl. 
 - On his way back he was captured by Boromar Clan thugs.
 *Plot Information*
-- Found a book called [[]] and dropped it when 
-- Has a large amount of resources available, willing to become a group patron for the party in the future.
-- Ultimately wants to know what caused the Warforged to become sentient.
+- Found a book called [[Godlings, Demigods, and Other Mythical Creatures]] and dropped it when he was captured.
+- He believes the key to that language has something to do with an ancient language associated with the Couatl, and that the Byeshk mountains might have answers.
 
 Person 2: *Baelen ir'Torn*
-- Went back to the university with the priest to collect research supplies.
-- They were attacked by the Boromar clan on their way out, and only Baelen escaped uninjured. 
-- The priest can secretly be found a short distance away, barely clinging to life from the attack.
-- Guard investigation is being conducted on the campus, leaving clues for the party to discover.
+- Captured by the [[Boromar clan]].
 *Plot Information*
-- Baelen hasn't yet made it to a CotSF garrison. He is all alone, trying to sneak through the city unnoticed.
-- Baelen still holds the FKD fragment.
-- He will be captured by the Boromar clan soon.
+- Is being questioned about the FKD fragment and held at a secret Boromar facility.
 
 ### Plot Actions
 
 Action 1: *Boromar Clan*
-- Goal: Capture of Baelen and acquisition of the FKD fragment
+- Goal: Use Baelin and
 	- They are closing in on the professor, who is not cut-out to sneak through the city on his own.
 	- The Boromar clan will begin searching for potential buyers to make a profit on the FKD fragment, and interrogate Baelen in the hopes of figuring out how to find more.
 
