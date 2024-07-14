@@ -4,4 +4,4 @@
 >
 >Yet, none but one of these groups have endured since the legendary sacrifice of the Couatl. This one enduring group is believed to live secluded in the Byeshk Mountains, though this remains largely rumor, with no definitive evidence of their existence. Their name and true nature are lost to history, shrouded in mystery and legend.
 >
-> Interested in the Couatl and other draconic mythos? Look out for "**" 
+> Interested in the Couatl and other draconic mythos? Look out for "Couatl Cookbooks: 101 Ways to Roast a Rakshasa", coming to an Aundair certified textile vendor near you!
