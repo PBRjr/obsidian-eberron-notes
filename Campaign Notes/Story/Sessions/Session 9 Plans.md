@@ -9,8 +9,9 @@
 Session Start
 - Resume and finish the [[Wolfsbane Workshop]] location
 
-Moment 2: *Aeren's been kidnapped*
-- Aeren left a note on a table "*Went to the library, have an idea, be back soon. Make yourselves at home*"
+Moment 1: *Aeren's been kidnapped*
+- Aeren left a note on a table "*Unnamed Adventuring Party: Had an idea, went to the library, be back soon. Make yourselves at home*"
+- Aeren went to the "Books, book, and more books" library and checked out a book, then got kidnapped by th
 
 Moment 3: *Are you the Knight of the North?*
 - A young boy seems mesmerized at the sight of Draven
