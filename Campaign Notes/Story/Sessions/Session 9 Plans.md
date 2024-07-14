@@ -1,3 +1,4 @@
+TODO: what happens with Forge if ozzie can't make it?
 ### Outline
 - Finish up the [[Wolfsbane Workshop]]
 - Aeren's been kidnapped

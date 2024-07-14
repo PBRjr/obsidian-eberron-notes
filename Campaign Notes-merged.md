@@ -667,6 +667,17 @@ References
 
 # Items
 
+## Aeren's Written Notes
+
+
+Warforged are dead soldiers??
+creation forges?
+schematics in an ancient language? look draconic 
+schematics of a metal heart, what is the purpose
+why did they need a phylactery?
+the soul?
+
+
 ## Anonymous Letters
 
 
@@ -885,6 +896,17 @@ References
 - [[Woe]] seeks to increase his power using the shards
 - [[Mordakesh]] seeks to consume Woe's soul with the completed Dragonshard and unleash his master.
 
+## Godlings, Demigods, and Other Mythical Creatures
+
+
+#### Followers of Siberys and the Couatl
+
+>Throughout history, numerous groups have devoted themselves to the worship of Siberys, the great dragon above, and the revered Couatl. These followers, including the Knights of the Silver Sky and the Order of the Eternal Dawn, have risen and fallen with time, each leaving a mark upon Eberron's history.
+>
+>Yet, none but one of these groups have endured since the legendary sacrifice of the Couatl. This one enduring group is believed to live secluded in the Byeshk Mountains, though this remains largely rumor, with no definitive evidence of their existence. Their name and true nature are lost to history, shrouded in mystery and legend.
+>
+> Interested in the Couatl and other draconic mythos? Look out for "Couatl Cookbooks: 101 Ways to Roast a Rakshasa", coming to an Aundair certified textile vendor near you!
+
 ## Intel on Baelen ir'Torn
 
 
@@ -962,8 +984,8 @@ This piece of worn parchment has obviously seen the wear-and-tear of an active l
 | 2   | Norbit's Illness     |         |
 | 3   | Sibernyan Discovery  |         |
 | 4   | Steelhardt Prototype |         |
-| 5   | House Cannith Escape |         |
-| 6   | New Beginnings       |         |
+| 5   | House Cannith Escape | y       |
+| 6   | The Rageblight       |         |
 
 ***Memory Descriptions***
 **Kismet's Prophecy:** 
@@ -976,10 +998,13 @@ This piece of worn parchment has obviously seen the wear-and-tear of an active l
 >Wind howls outside, rattling the shutters of a small, isolated cabin perched atop a snow-covered mountain. Inside, a fire crackles in the hearth, casting flickering shadows on rough-hewn walls. You feel a mixture of anticipation and unease as you sit across a table from a figure shrouded in a thick cloak, his face obscured by the shadows. As he speaks, his voice is a low, melodic rumble, unlike any language you've ever heard. You sense an ancient wisdom, a connection to something beyond mortal comprehension. Norbit leans forward, his brow furrowed in concentration as he grasps the strange words, responding in kind.
 
 **Steelhardt Prototype:** 
->The air vibrates with energy, tingling your skin. A faint humming sound fills the chamber as you and Norbit stand before a pulsing device. You feel a surge of triumph as you complete the final connection, the culmination of years of research. A brilliant light flares, momentarily blinding you, then fades, leaving behind a sense of awe and a lingering taste of ozone. A deep, primal fear whispers within you, a warning about the choices you've made, about the forces you've put into motion.
+>The air vibrates with energy, tingling your skin. A faint humming sound fills the chamber as you and Norbit stand before a pulsing device. You feel a surge of triumph as you complete the final connection, the culmination of years of research. A brilliant light flares, momentarily blinding you, then fades, leaving behind a sense of awe and a lingering taste of ozone. A deep, primal fear whispers within you, a warning about the choices you've made, about the forces you've put into motion. You've done what no one else could, you've conquered a primal force of nature with nothing but your minds. You should be relieved. And yet, you can't shake the feeling that you just changed the course of the world in more ways than you can imagine. 
 
 **House Cannith Escape:**
 >Rain lashes your face, cold and relentless. Your heart pounds in your chest as you and Norbit race through the dark, winding alleys, a crying young boy clutched in your arms. You feel the presence of pursuers, their footsteps echoing on the cobblestones. You turn a corner, praying you lost them. Norbit squeezes your shoulder as you calm the boy whose head is nuzzling into your shirt. Terror grips you, fueled by the knowledge that you're not just protecting yourselves, but something far more precious, something that could change the world.
+
+**The Rageblight**
+> Three inch thick glass encased by cold steel is all that separates yourself and Norbit from... him. He's strapped to an exam table by concrete reinforced bindings that stress and crack as he strains against them. Dark red veins spider-web across his skin, which looks as though its been stretched across his body, as though any more tension would cause it to rip and tear in places. A large scar runs down the middle of his chest, inflamed and irritated. His eyes are jet black. "I don't know why this happened," you say aloud, "Our math checked out. The components were good. There's got to be something we're missing." Norbit starts a reply, but its interrupted with a cough from his lungs and a splatter of blood in his palm. Marix talks over him, his eyes fixed on the creature in the other room, "This is what happens if we get this wrong. He was one of my best before he volunteered. Now... I don't think there's anything left of him inside." The thing on the other side of the glass began to scream and strain against his bindings. The one holding his left arm splinters and shatters. He reaches over to start destroying his other bindings, but then a blue gas vents into the room, and he calms. "Now he's just a mistake... and an example. Don't get it wrong again."
 ### Location:
 
 - Behind an impenetrable locked door in [[Wolfsbane Workshop]]
@@ -1085,6 +1110,35 @@ Ethical Safeguard Latch:
 | 99     | Sovereign Glue                |
 | 100    | Potion of Superior Healing                              |
 
+
+## When the Couatl Sing
+
+
+**Original Text:**
+
+_"Yndri'a szaran, ilsha'ar,  
+Siberys thraka, il'sharak.  
+Couatl vraka, il'shandor,  
+Tir'kiva vara, draka'nor._
+
+_Vor'sha elara, siba'ryn,  
+Sha'thrak, Couatl'yn.  
+Tirak rasha, varaa'sh,  
+Siberys il'a, ven'rash."_
+
+---
+
+**Translation:**
+
+_"In the light of dawn, the sky,  
+Siberys rises, the great dragon.  
+Couatl speak, with strength and wisdom,  
+Guardians of peace and truth._
+
+_Hold the ideals, followers of Siberys(underlined),  
+Power and grace, the way of the Couatl.  
+Their voices bring justice,  
+Siberys' will, guiding the world."_
 
 ## Yelena and Norbit's Grocery List
 
@@ -2414,33 +2468,67 @@ References
 - [[Legacy Stone]]
 
 ## Description
-> 'box text' description of the overall location.
+- Sits across the road from a brothel > ladies are always tempting the guards
+- Two guards stand at doorway > conversation about the twins inside *"That's what the twins are for, dumbass. Fucking rookies."* (Rook - old one facial hair | Crag - young one shivering)
+- Cannith Sergeant (Human Knave) does rounds on his posts > only one that goes in/out > wears amulet that prevents twins from causing harm
 
 ## Notable Locations
-##### Location 1
-> [!TLDR]
-> - X
+### Tunnel Entrance
+Accessed by a grate in the floor that leads to an escape tunnel put in by Yelena and Norbit in secret. It is now known and guarded by House Cannith, though this post is regarded as the most boring.
+
+
+### Floor 1: Entry and Main Workshop
+
+> [!TLDR] Floor 1: Main Workshop
+> - Large rectangular room > dusty and cluttered > faint ozone smell
+> - **Left side**: hidden behind apparatus > tinkering table with tools, storage > sacks of flower > *sewer entrance*
+> - **Center**: Massive apparatus used to pressurize and contain/infuse, rope dangling from above > pipes leading up > scorch marks on floor
+> - **Right side**: Various workstations > tools and equipment strewn about
+> - **Back right**: Large circular machine > unknown purpose > magical residue indicating blast from inside
+> - **Front right**: Smaller room > secretaries office > leads to bathroom
+> - Staircases leading upwards
+> - Cracked windows on front wall > dusty and dim light
+
+> [!danger] Hazards
+> - Entrance door > The reverse knock > DC 18 Dexsave > 6d6 > DC 18 grapple, choked
+> - Spilled chemical residue > DC 12 dex save or PRONE
+> - Pressure plate near stairs > Fog cloud
+
+### Floor 2: Research Area
+
+>[!TLDR] Floor 2: Research and Development
+> 
+> - Large rectangular room > dimly lit > air thick with magical residue
+> - **Left**: study space > blank notebooks > blast marks in a spot on the floor > *safe*
+> - **Center**: Overlooks first floor > extension of machinery below > unused
+> - **Right** Magical testing area > scorch marks on floor > residual energy in air > broken dials and gauges
+> - **Back wall**: Shelves and cabinets > mostly empty > few remaining vials and components > 3 unstable *explosive marbles* > 2d4 Fdmg + DC 12 Dsave/pushed 5ft
+> - Two staircases > one centrally located > one on the left
+> - Three windows on front wall > magical symbols etched on glass
+
+> [!Danger] Hazards
+> - Stairs on left > 3 glyphs on steps DC 16 investigation > 3 DC 16 con saves > reduce
+
+> [!quote] **Safe Door Inscription**
+> The Wolfsbane blooms with the blood of its heir.
+
+### Floor 3: Private Quarters
+
+> [!TLDR] Floor 3: Testing Chamber and Private Quarters
+>- Large rectangular room > high ceiling > overlooks other 2 floors, small walkway
+>- **Left**: Curved area > personal living space > bed and personal items
+>- **Center**: More exhaust pipes leading outwards > rusted metals
+>- **Right**: Three large circular devices > similar to second floor > interconnected
+>- **Back wall**: Control panel > numerous levers and dials > faint magical aura
+>- Two staircases > one centrally located > one near the back
+>- Large bay window on right side > view of Sharn > cracked glass
+
 ## Inhabitants
 ##### Enemy Roster
-> [!warning]
-> - X
-
-##### Friendly Roster
-> [!warning]
-> - X
-
-## History
-- Background of this location - when settled, major events, how it ties into the campaign world, etc.
-
-## Hooks
-- Ideas for quests, events, encounters, etc. that could happen at this location
-- Ideas for why the PCs would be here in the first place
-
-## Secrets
-- Hidden things about this place the PCs could discover
-
-## Other notes
-- Miscellaneous details
+> [!warning] Enemy Roster
+> - [[Statblocks#Cannith Brawler Construct|Cannith Brawler Constructs]] (The Twins)
+> - [[Statblocks#Human Guard|Human Guards]]
+> - [[Statblocks#Human Knave|Human Knave]] (Cannith Sergant)
 
 ### Shavalant
 
@@ -2844,16 +2932,27 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 	- [x] The party explores [[Shavalant]] on their way
 	- [x] They learn about [[Professor Baelen ir'Torn]]'s journey and his FKD fragment
 	- [x] They encounter [[The Lighthouse]] and the portal to the Kogs
-- [ ]  **Completion point:** The party arrives at Sharn
+- [x]  **Completion point:** The party arrives at Sharn
 
 ##### Act 2: The City of Towers
 - *Overview:* An exploration of the morally gray city
+- Main PCs: *Geralt, Forge*
 - Important story beats:
 	- [ ] Geralt learns about his parent's original vision for the Steelhardt
 	- [ ] Draven hears stories of his past heroism and starts having dreams about his training with Varyn in addition to the dreams of his death
 	- [ ] The party learns of the corrupting affect an FKD fragment can have on the soul
-	- [ ] The party learns that Geralt's parents are connected to the creation of the modern warforged
-- [ ] **Completion point:** needs more development
+	- [x] The party learns that Geralt's parents are connected to the creation of the modern warforged
+	- [ ] The party learns that the Rageblight is destroying towns and heading in the direction of the Byeshk mountains.
+- [ ] **Completion point:** Confrontation with the Rageblight
+
+##### Act 3: TBD
+- *Overview:* Deeper story beats, progression act to the final story beats
+- Main PCs: *Draven, Bjorn*
+- Important story beats:
+	- [ ] Varyn the Valiant is introduced
+	- [ ] Draven learns of his upbringing and his downfall
+	- [ ] Bjorn learns of his brother's corruption
+- [ ] **Completion point:** Confrontation with Hrothgar
 
 ## Narrative Plot Overview
 
@@ -3101,14 +3200,14 @@ The world of Eberron stands on the edge of a knife. The heroes must forge their 
 - **Villains**
 	- Vorak
 		- Vorak was House Cannith's most skilled assassin, loyal to the House for most of his life. Originally a half-elf, he served for over a hundred years until his age forced him out of field work, though he remained a top advisor for covert activities within the House.
-		- He was sent by Marix d'Clone to kill Geralt's parents after they fled House Cannith.
-		- Voluntarily underwent House Cannith's very first attempt at using the Steelhardt to transfer a soul to another body.
+		- He was sent by Marix d'Cannith to kill Geralt's parents after they fled House Cannith.
+		- Voluntarily underwent House Cannith's and the Wolfsbane's very first attempt at using a Steelhardt to transfer a soul to another body.
 		- The transfer was successful, moving Vorak from his original body to a younger, stronger one from a random deceased soldier.
 		- While he retained his memories, his mind quickly became plagued with dark thoughts, his grip on reality worsening.
-		- He went rogue, and was manipulated by Mordakhesh, who focused Vorak's mind to one objective: destory the Silver Flame.
+		- He went rogue, and was manipulated by Mordakhesh, who focused Vorak's mind to one objective: destroy the Silver Flame.
 		- Bolstered by new dark powers infused into his Steelhardt by Mordakesh, he led the forces of the LoD in their attack against the Silver Flame on the Day of Mourning.
 			- His attempt to destroy the Silver Flame failed and rebounded, turning him into a rage-fueled creature of destruction, and allowing the Silver Flame to defend itself by causing the Mourning.
-		- Now he roams the land, destroying villages, feeding off the rage of the survivors, and using it to resurrect himself should he fall in battle.
+		- Now he roams the land, destroying villages, feeding off the rage of the survivors, and using it to resurrect himself should he fall in battle. He is fed imaged in his mind by Mordakhesh to keep him focused on attacking his targets.
 		- His darkness-infused Steelhardt causes him to achieve quasi-lichdom through unique means:
 			- Should his body ever die, his soul will be kept safe in his Steelhardt until it is placed into a new body.
 			- The survivors of his onslaughts get the unrelenting urge to find Vorak and kill him, but if Vorak is dead they find the Steelhardt instead.
@@ -3179,7 +3278,7 @@ References
 - Faction introductions (Tyrant changlings of Karrnathi soldiers, Lick boromar clan)
 
 ## Lead-in
-[[1 Lead-in|Read to players at the start of the session]]
+[[Session 1 Lead-in|Read to players at the start of the session]]
 
 ## Airship
 The PCs are traveling aboard 'Gyott Byufemitle' (elvish) or 'The Merkentile'
@@ -3679,7 +3778,21 @@ Here is a table with some brief encounter ideas for Sharn and related details to
 
 ## Sessions
 
-### 0 Plans
+### brainstorm
+
+
+Aeren puts together the dots of what the party told him
+He learned:
+- Modern warforged are the product of the souls of dead soldiers, wiped of their memories and transferred into warforged bodies.
+- Geralt's parents created schematics for a strange heart mechanism and wrote it down in an ancient draconic language. The shopping list he found probably has something to do with that
+- He concluded that the mechanism has to have something to do with transferring the souls of soldiers into the warforged, especially with them studying a lich phylactery to create it.
+- He recognizes the script from an old nursery rhyme his mother used to read to him. He finds the old book, titled "*When the Couatl sing*" and realized it was a draconic script that used to be used by the most devout followers of Siberys, the Dragon Above.
+- He went to the library to do research on the language. Unable to find anything on the language, he asked the librarian for their books on religious history. He checked out a book titled "*Godlings, Demigods, and other Mythical Creatures*" and left.
+- On his way back, he ran into Boromar Clan thugs, who kidnapped him at the order of Halak Boromar. (He is wanted for his technological ability and knowledge of the arcane. They want to use him to work with the professor and figure out the use/purpose of the FKD fragment they got from the professor.)
+- When he is kidnapped, he dropped his book on the ground, which can be found by the party.
+- The gang members can also be encountered and looted, and [[Aeren's Written Notes]] may be looted.
+
+### Session 0 Plans
 
 
 # Essentials to be Discussed
@@ -3749,7 +3862,7 @@ Out-of-game house rules
 - Goals/Motivation
 - Rumors
 
-### 1 Lead-in
+### Session 1 Lead-in
 
 
  Dried blood cakes Khorvaire like topsoil, giving way to the blooming flowers of greed, selfishness, and violence. Though it ended over 2 years ago, the effects of the Last War still linger, like scars on an old, beaten down body. 
@@ -3780,7 +3893,7 @@ A tall and rugged man with pale blue skin and a bald head stands at portside, le
 
 Bjorn, as you take one more look towards the bleeding evening sky, would you please describe your character, as well as what he might be reflecting on in this moment?
 
-### 1 Recap
+### Session 1 Recap
 
 
 # Events (in order)
@@ -3805,7 +3918,7 @@ Bjorn, as you take one more look towards the bleeding evening sky, would you ple
 	- 300 (250 combat + 50 from overall encounter)
 	- LEVEL UP!
 
-### 2 Plans
+### Session 2 Plans
 
 
 *Level Up*
@@ -3815,7 +3928,7 @@ Bjorn, as you take one more look towards the bleeding evening sky, would you ple
 - [[Aquefukt]]
 - [[Whitehorn Wood]]
 
-### 2 Recap
+### Session 2 Recap
 
 
 ## TODO
@@ -3857,7 +3970,7 @@ Bjorn, as you take one more look towards the bleeding evening sky, would you ple
 ## Next
 [[Shavalant]]
 
-### 3 Plans
+### Session 3 Plans
 
 
 ### Outline
@@ -3935,7 +4048,7 @@ Bjorn, as you take one more look towards the bleeding evening sky, would you ple
 - Don't forget about escaped kobolds. Oiled one is trapped in the camp.
 - The Boromar gang members WILL retaliate if they are foiled and left unharmed.
 
-### 3 Recap
+### Session 3 Recap
 
 
 - Very hung up on the Kobolds and their cult being involved in everything (they aren't)
@@ -3953,7 +4066,7 @@ Bjorn, as you take one more look towards the bleeding evening sky, would you ple
 - Bjorn ate the blueberry pie
 - They found the [[Boromar Challenge Coin]] in the corpse of Orc 2
 
-### 4 Plans
+### Session 4 Plans
 
 
 ### Outline
@@ -4080,7 +4193,7 @@ Action 2: Lords of Dust
 - Be prepared for the party's actions to have long-term effects on their relationship with the Boromar Clan and make them known (and possibly wanted) in Sharn.
 - Try to indicate the Sons of the Daughter of Khyber are unimportant pawns.
 
-### 4 recap
+### Session 4 Recap
 
 
 Raided the boromar gang campsite
@@ -4127,7 +4240,7 @@ SESSION LOOT
 - postions of fire breath and growth
 - 3 potions of healing
 
-### 5 Plans
+### Session 5 Plans
 
 
 ### Outline
@@ -4200,7 +4313,7 @@ Action 3: *Garhorn and Blinker contacted the Clan*
 ### Additional Notes
 - X
 
-### 5 Recap
+### Session 5 Recap
 
 
 Looted:
@@ -4245,7 +4358,7 @@ The party defeats them all and sustain no casualties.
 
 Session end.
 
-### 6 Plans
+### Session 6 Plans
 
 
 ### Outline
@@ -4349,7 +4462,7 @@ Action 1: *Boromar Clan*
 
 - (Add any other notes or information that you need for the session)
 
-### 6 Recap
+### Session 6 Recap
 
 
 Kogs ritual chamber skill challenge complete
@@ -4370,7 +4483,7 @@ The Tower of Old
 - side quest hooks?
 - populate with clutter, loot, plot delivery devices
 
-### 7 Plans
+### Session 7 Plans
 
 
 ### Outline
@@ -4465,7 +4578,7 @@ Action 1: *Boromar Clan*
 
 - (Add any other notes or information that you need for the session)
 
-### 7 Recap
+### Session 7 Recap
 
 
 Forge found a half-broken maul
@@ -4484,6 +4597,186 @@ TODO
 make torn journal entry handouts
 create Wolfsbane workshop
 Merkantile owner - Ianhorn Gillflower
+
+### Session 8 plans
+
+
+### Outline
+- Sharn random encounters
+- Scout out the [[Wolfsbane Workshop]]
+- Baelen ir'Torn is being hunted by the Boromar Clan
+- Encounter with Garhorn & Blinker
+
+### Moments & Encounters
+
+Session Start
+- Scout the [[Wolfsbane Workshop]]
+
+Moment 2: 
+- [[Misc Files/Tables/Random Encounters#Central Plateau - Middle Menthis|Random Encounters]]
+
+Moment 3: *Are you the Knight of the North?*
+- A young boy seems mesmerized at the sight of Draven
+- Then he is ushered away by his mother.
+
+Moment 3: *Attack at Morgrave*
+- There was an attack at Morgrave University. Clues point towards CotSF involvement
+
+Session End: *Lets get a pint.*
+- The party encounters a bruised and newly unemployed Garhorn and his dog, Blinker.
+
+### Location Details
+
+Place 1: *Olladra's Kitchen*
+- Tavern ward located in Lower Central Plateau
+	- Contains several Pubs, dark alleyways, and few brothels
+	- Main attraction: *Olladra's Whip*
+- Neighboring wards
+	- Shops: *Granite Halls, North Towers*
+	- Inns: *Boldrei's Hearth*
+	- Residential: *Vallia Towers, Myshan Gardens*
+
+Place 2: *Everbright*
+- Magic ward located in Middle Menthis Plateau
+	- Contains several alchemy, artifice, and healing services
+	- Main attraction: *Jorasco House of Healing*
+- Neighboring wards
+	- Garrison: *Warden Towers*
+	- Shops: *Cassan Bridge*
+	- Neighborhoods: *Deniytas (gnomes), Platinate (wealthy)*
+
+Place 3: *Aeren's Workshop*
+- Located in Everbright, appears to be apartments from the outside
+- Renovated to a studio-like inside with 3 levels, and enough space to house the party.
+- Clockwork butler: *Piston*
+
+### People
+
+Person 1: *Aeren d'Cannith*
+- Wants to discuss Geralt's parents, the schematics, and requests aid in searching Geralt's parent's old workshop
+*Plot Information*
+- Doesn't know what dialect the schematics are written in, hopes to find out more with the party's help
+- Has a large amount of resources available, willing to become a group patron for the party in the future.
+- Ultimately wants to know what caused the Warforged to become sentient.
+
+Person 2: *Baelen ir'Torn*
+- Went back to the university with the priest to collect research supplies.
+- They were attacked by the Boromar clan on their way out, and only Baelen escaped uninjured. 
+- The priest can secretly be found a short distance away, barely clinging to life from the attack.
+- Guard investigation is being conducted on the campus, leaving clues for the party to discover.
+*Plot Information*
+- Baelen hasn't yet made it to a CotSF garrison. He is all alone, trying to sneak through the city unnoticed.
+- Baelen still holds the FKD fragment.
+- He will be captured by the Boromar clan soon.
+
+### Plot Actions
+
+Action 1: *Boromar Clan*
+- Goal: Capture of Baelen and acquisition of the FKD fragment
+	- They are closing in on the professor, who is not cut-out to sneak through the city on his own.
+	- The Boromar clan will begin searching for potential buyers to make a profit on the FKD fragment, and interrogate Baelen in the hopes of figuring out how to find more.
+
+### Additional Notes
+
+- (Add any other notes or information that you need for the session)
+
+### Session 8 recap
+
+
+Scouted out the workshop
+- Tried using the brothel girls as distractions
+- Geralt payed for 2 girls for the night, might come back and use them when they finish up the mission.
+
+Infiltrated the Wolfsbane Workshop
+- Fought the Twins, two house cannith automatons that defend the workshop
+- Fought the sergeant
+- Geralt found the Legacy Stone and experienced memory 5 (House Cannith Esacpe)
+- Party found the *Goggles of Night* on the sergeant.
+
+
+### Session 9 Plans
+
+
+TODO: what happens with Forge if ozzie can't make it?
+### Outline
+- Finish up the [[Wolfsbane Workshop]]
+- Aeren's been kidnapped
+- Thugs
+- [[Misc Files/Tables/Random Encounters|Random Encounters]] (RE)
+- Lets get a pint
+
+### Moments & Encounters
+
+Session Start
+- Resume and finish the [[Wolfsbane Workshop]] location
+
+Moment 1: *Aeren's been kidnapped*
+- Aeren left a note on a table "*Unnamed Adventuring Party: Had an idea, went to the library, be back soon. Make yourselves at home*"
+- Aeren pulled out an old nursery rhyme called [[When the Couatl Sing]] then went to the "Books, book, and more books" library and checked out a book, then got kidnapped by the Boromar Clan.
+
+Moment 2: *Thugs*
+- A few thugs try to shake down the party.
+- One of the thugs has the scrawled notes of Aeren d'Cannith on him.
+
+RE 1: *Are you the Knight of the North?*
+- A young boy seems mesmerized at the sight of Draven.
+- Then he is ushered away by his mother.
+
+RE 2: *Attack at Morgrave*
+- There was an attack at Morgrave University. Clues point towards CotSF involvement
+
+Session End: *Lets get a pint.*
+- The party encounters a bruised and newly unemployed Garhorn and his dog, Blinker.
+
+### Location Details
+
+Place 1: *Olladra's Kitchen*
+- Tavern ward located in Lower Central Plateau
+	- Contains several Pubs, dark alleyways, and few brothels
+	- Main attraction: *Olladra's Whip*
+- Neighboring wards
+	- Shops: *Granite Halls, North Towers*
+	- Inns: *Boldrei's Hearth*
+	- Residential: *Vallia Towers, Myshan Gardens*
+
+Place 2: *Everbright*
+- Magic ward located in Middle Menthis Plateau
+	- Contains several alchemy, artifice, and healing services
+	- Main attraction: *Jorasco House of Healing*
+- Neighboring wards
+	- Garrison: *Warden Towers*
+	- Shops: *Cassan Bridge*
+	- Neighborhoods: *Deniytas (gnomes), Platinate (wealthy)*
+
+Place 3: *Aeren's Workshop*
+- Located in Everbright, appears to be apartments from the outside
+- Renovated to a studio-like inside with 3 levels, and enough space to house the party.
+- Clockwork butler: *Piston*
+
+### People
+
+Person 1: *Aeren d'Cannith*
+- Recognized the schematic text from an old nursery rhyme his mother used to read to him.
+- He traveled to the library to get more info on Siberys and the Couatl. 
+- On his way back he was captured by Boromar Clan thugs.
+*Plot Information*
+- Found a book called [[Godlings, Demigods, and Other Mythical Creatures]] and dropped it when he was captured.
+- He believes the key to that language has something to do with an ancient language associated with the Couatl, and that the Byeshk mountains might have answers.
+
+Person 2: *Baelen ir'Torn*
+- Captured by the [[Boromar clan]].
+*Plot Information*
+- Is being questioned about the FKD fragment and held at a secret Boromar facility.
+
+### Plot Actions
+
+Action 1: *Boromar Clan (Halak Boromar)*
+- Goal: Use Baelin and Aeren to create a weapon from the FKD fragment so he can consolidate his power.
+	- Baelin revealed that the fragment is something ancient and powerful.
+	- Halak's mind immediately began thinking of how to use this powerful artifact to consolidate his power both within the clan and the clan's power over Sharn.
+### Additional Notes
+
+- (Add any other notes or information that you need for the session)
 
 ## The Party
 
