@@ -2,7 +2,8 @@
 - Finish up the [[Wolfsbane Workshop]]
 - Aeren's been kidnapped
 - Thugs
-- Encounter with Garhorn & Blinker
+- [[Misc Files/Tables/Random Encounters|Random Encounters]] (RE)
+- Lets get a pint
 
 ### Moments & Encounters
 
@@ -15,12 +16,13 @@ Moment 1: *Aeren's been kidnapped*
 
 Moment 2: *Thugs*
 - A few thugs try to shake down the party.
-- One of the thugs has the scrawled notes of Aeren d'Cannith
-Moment 3: *Are you the Knight of the North?*
-- A young boy seems mesmerized at the sight of Draven
+- One of the thugs has the scrawled notes of Aeren d'Cannith on him.
+
+RE 1: *Are you the Knight of the North?*
+- A young boy seems mesmerized at the sight of Draven.
 - Then he is ushered away by his mother.
 
-Moment 3: *Attack at Morgrave*
+RE 2: *Attack at Morgrave*
 - There was an attack at Morgrave University. Clues point towards CotSF involvement
 
 Session End: *Lets get a pint.*
