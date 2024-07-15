@@ -15,7 +15,7 @@ Session Start
 
 Moment 1: *Aeren's been kidnapped*
 - Aeren left a note on a table "*Unnamed Adventuring Party: Had an idea, went to the library, be back soon. Make yourselves at home*"
-- Aeren pulled out an old nursery rhyme called [[When the Couatl Sing]] then went to the "Books, scrolls, and rigamarolls" library and checked out a book, then got kidnapped by the Boromar Clan.
+- Aeren pulled out an old nursery rhyme called [[When the Couatl Sing]] then went to the "Books, Scrolls, and Nooks" library and checked out a book, then got kidnapped by the Boromar Clan.
 
 Moment 2: *Thugs*
 - A few thugs try to shake down the party.
@@ -36,7 +36,9 @@ Session End: *Lets get a pint.*
 
 ### Location Details
 
-Place 1: *Olladra's Kitchen*
+Place 1: *Books, Scrolls, and Nooks*
+
+Place 2: *Olladra's Kitchen*
 - Tavern ward located in Lower Central Plateau
 	- Contains several Pubs, dark alleyways, and few brothels
 	- Main attraction: *Olladra's Whip*
@@ -45,7 +47,7 @@ Place 1: *Olladra's Kitchen*
 	- Inns: *Boldrei's Hearth*
 	- Residential: *Vallia Towers, Myshan Gardens*
 
-Place 2: *Everbright*
+Place 3: *Everbright*
 - Magic ward located in Middle Menthis Plateau
 	- Contains several alchemy, artifice, and healing services
 	- Main attraction: *Jorasco House of Healing*
@@ -54,7 +56,7 @@ Place 2: *Everbright*
 	- Shops: *Cassan Bridge*
 	- Neighborhoods: *Deniytas (gnomes), Platinate (wealthy)*
 
-Place 3: *Aeren's Workshop*
+Place 4: *Aeren's Workshop*
 - Located in Everbright, appears to be apartments from the outside
 - Renovated to a studio-like inside with 3 levels, and enough space to house the party.
 - Clockwork butler: *Piston*
