@@ -1,4 +1,6 @@
-TODO: what happens with Forge if ozzie can't make it?
+TODO: 
+- what happens with Forge if ozzie can't make it?
+- Make handouts
 ### Outline
 - Finish up the [[Wolfsbane Workshop]]
 - Aeren's been kidnapped
@@ -19,12 +21,12 @@ Moment 2: *Thugs*
 - A few thugs try to shake down the party.
 - One of the thugs has the scrawled notes of Aeren d'Cannith on him.
 
+Moment 3: *Attack at Morgrave*
+- There was an attack at Morgrave University. Clues point towards CotSF and Boromar Clan involvement
+
 RE 1: *Are you the Knight of the North?*
 - A young boy seems mesmerized at the sight of Draven.
 - Then he is ushered away by his mother.
-
-RE 2: *Attack at Morgrave*
-- There was an attack at Morgrave University. Clues point towards CotSF involvement
 
 Session End: *Lets get a pint.*
 - The party encounters a bruised and newly unemployed Garhorn and his dog, Blinker.

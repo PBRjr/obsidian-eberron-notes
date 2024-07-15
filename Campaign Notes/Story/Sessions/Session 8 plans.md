@@ -17,7 +17,7 @@ Moment 3: *Are you the Knight of the North?*
 - Then he is ushered away by his mother.
 
 Moment 3: *Attack at Morgrave*
-- There was an attack at Morgrave University. Clues point towards CotSF involvement
+- There was an attack at Morgrave University. Clues point towards CotSF and Boromar Clan involvement
 
 Session End: *Lets get a pint.*
 - The party encounters a bruised and newly unemployed Garhorn and his dog, Blinker.
