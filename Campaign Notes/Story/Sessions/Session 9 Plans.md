@@ -15,18 +15,21 @@ Session Start
 
 Moment 1: *Aeren's been kidnapped*
 - Aeren left a note on a table "*Unnamed Adventuring Party: Had an idea, went to the library, be back soon. Make yourselves at home*"
-- Aeren pulled out an old nursery rhyme called [[When the Couatl Sing]] then went to the "Books, book, and more books" library and checked out a book, then got kidnapped by the Boromar Clan.
+- Aeren pulled out an old nursery rhyme called [[When the Couatl Sing]] then went to the "Books, scrolls, and rigamarolls" library and checked out a book, then got kidnapped by the Boromar Clan.
 
 Moment 2: *Thugs*
 - A few thugs try to shake down the party.
 - One of the thugs has the scrawled notes of Aeren d'Cannith on him.
+- **Goal:** Give clues that the Boromar Clan kidnapped Aeren
 
 Moment 3: *Attack at Morgrave*
 - There was an attack at Morgrave University. Clues point towards CotSF and Boromar Clan involvement
+- **Goal:** Drop clues and hints that the Boromar Clan is involved for some reason
 
 RE 1: *Are you the Knight of the North?*
 - A young boy seems mesmerized at the sight of Draven.
 - Then he is ushered away by his mother.
+- **Goal:** Get Draven thinking more about who he was before he lost his memory
 
 Session End: *Lets get a pint.*
 - The party encounters a bruised and newly unemployed Garhorn and his dog, Blinker.
