@@ -48,16 +48,16 @@
 
 #### Northedge - Crystal Bridge
 
-|Roll|Encounter Description|
-|---|---|
-|1|Golem Cleaning Crew: A team of small, nimble golems cleaning the streets, moving with mechanical precision.|
-|2|High Society Walks: Wealthy individuals walking their exotic pets, often stopping to chat and gossip.|
-|3|Exclusive Auction: An invitation-only auction of rare artifacts and luxury items, visible through large windows.|
-|4|Sky Coach Arrivals: Elegant sky coaches arriving and departing from a grand station, with well-dressed passengers.|
-|5|Fashion Parade: Models showcasing the latest fashion trends on a temporary runway set up in a park.|
-|6|Arcane Study: A mage demonstrating a new spell to a small group of fascinated onlookers, with occasional bursts of light and sound.|
-|7|Eldritch Lanterns: Street lamps powered by bound elementals, flickering with a soft, magical glow.|
-|8|Private Guard Patrol: Well-armed private guards patrolling the streets, ensuring the safety of the district’s elite.|
+| Roll | Encounter Description                                                                                                               |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Golem Cleaning Crew: A team of small, nimble golems cleaning the streets, moving with mechanical precision.                         |
+| 2    | High Society Walks: Wealthy individuals walking their exotic pets, often stopping to chat and gossip.                               |
+| 3    | Exclusive Auction: An invitation-only auction of rare artifacts and luxury items, visible through large windows.                    |
+| 4    | Sky Coach Arrivals: Elegant sky coaches arriving and departing from a grand station, with well-dressed passengers.                  |
+| 5    | Fashion Parade: Models showcasing the latest fashion trends on a temporary runway set up in a park.                                 |
+| 6    | Arcane Study: A mage demonstrating a new spell to a small group of fascinated onlookers, with occasional bursts of light and sound. |
+| 7    | Eldritch Lanterns: Street lamps powered by bound elementals, flickering with a soft, magical glow.                                  |
+| 8    | Private Guard Patrol: Well-armed private guards patrolling the streets, ensuring the safety of the district’s elite.                |
 
 ### Middle Northedge
 
