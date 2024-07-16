@@ -37,12 +37,12 @@ Session End: *Lets get a pint.*
 ### Location Details
 
 Place 1: *Books, Scrolls, and Nooks*
-- Nestled in the Upper Menthis district, known for its academic institutions and scholarly pursuits.
+- University District located in Upper Menthis
 	- Narrow three-story building > large bay windows and pink wooden door > displaying old tomes and colorful scrolls.
+	-  Specialties: Religious and historical texts
 - Lyriel d'Phiarlan
 	- Knowledgeable half-elf 48f
 	- Left house Phiarlan to pursue her passion for literature
-- Specialties: Religious and historical texts
 
 Place 2: *Olladra's Kitchen*
 - Tavern ward located in Lower Central Plateau
