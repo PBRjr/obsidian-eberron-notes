@@ -52,7 +52,7 @@
 |7|A lone musician plays a haunting melody on a battered lute, hoping for a few copper pieces from sympathetic passersby.|
 |8|A desperate soul contemplates leaping from the edge of the platform, their silhouette a tragic reminder of life on the edge.|
 
-**The Cogs**
+### The Cogs
 
 |d8|Encounter|
 |---|---|
