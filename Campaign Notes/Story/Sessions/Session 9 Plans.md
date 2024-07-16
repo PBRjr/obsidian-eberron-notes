@@ -37,6 +37,8 @@ Session End: *Lets get a pint.*
 ### Location Details
 
 Place 1: *Books, Scrolls, and Nooks*
+- Nestled in the Upper Menthis district, known for its academic institutions and scholarly pursuits.
+	- Narrow three-story building > large bay windows and  displaying rare tomes and colorful scrolls.
 
 Place 2: *Olladra's Kitchen*
 - Tavern ward located in Lower Central Plateau
