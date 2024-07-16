@@ -1,3 +1,15 @@
+Reference
+- [[#Sharn encounters by district|Sharn encounters by district]]
+	- [[#Sharn encounters by district#Central|Central]]
+	- [[#Sharn encounters by district#Menthis|Menthis]]
+	- [[#Sharn encounters by district#Tavick's Landing|Tavick's Landing]]
+	- [[#Sharn encounters by district#Cliffside|Cliffside]]
+	- [[#Sharn encounters by district#Northedge|Northedge]]
+	- [[#Sharn encounters by district#Dura|Dura]]
+	- [[#Sharn encounters by district#Skyway|Skyway]]
+	- [[#Sharn encounters by district#The Cogs|The Cogs]]
+- [[#Plot encounters|Plot encounters]]
+---
 ## Sharn encounters by district
 
 ### Central
@@ -41,16 +53,54 @@
 
 ### Cliffside
 
+| d8  | Encounter                                                                                                                                              |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | A group of goblins attempts to ambush the party from a rickety bridge, hoping to loot them and throw their bodies into the depths.                     |
+| 2   | A desperate refugee pleads with the party for passage to one of the towers, claiming to have vital information about an impending threat.              |
+| 3   | The party witnesses a daring airship chase, complete with explosions and daring maneuvers, as it races past the towers.                                |
+| 4   | A rickety, makeshift dwelling collapses under the weight of the latest rainstorm, forcing its impoverished residents into the already crowded streets. |
+| 5   | A group of children play a dangerous game of tag amongst the scaffolding and walkways, their laughter a stark contrast to the precarious environment.  |
+| 6   | A street preacher screams about Sharn's decadence and the coming judgment, his words lost on the wind.                                                 |
+| 7   | A lone musician plays a haunting melody on a battered lute, hoping for a few copper pieces from sympathetic passersby.                                 |
+| 8   | A desperate soul contemplates leaping from the edge of the platform, their silhouette a tragic reminder of life on the edge.                           |
+
+### Northedge
+
 |d8|Encounter|
 |---|---|
-|1|A group of goblins attempts to ambush the party from a rickety bridge, hoping to loot them and throw their bodies into the depths.|
-|2|A desperate refugee pleads with the party for passage to one of the towers, claiming to have vital information about an impending threat.|
-|3|The party witnesses a daring airship chase, complete with explosions and daring maneuvers, as it races past the towers.|
-|4|A rickety, makeshift dwelling collapses under the weight of the latest rainstorm, forcing its impoverished residents into the already crowded streets.|
-|5|A group of children play a dangerous game of tag amongst the scaffolding and walkways, their laughter a stark contrast to the precarious environment.|
-|6|A street preacher screams about Sharn's decadence and the coming judgment, his words lost on the wind.|
-|7|A lone musician plays a haunting melody on a battered lute, hoping for a few copper pieces from sympathetic passersby.|
-|8|A desperate soul contemplates leaping from the edge of the platform, their silhouette a tragic reminder of life on the edge.|
+|1|A group of hobgoblin mercenaries argues loudly in their guttural language, shoving each other outside a seedy tavern.|
+|2|The party stumbles upon a hidden gambling den, frequented by shady characters and guarded by burly bouncers.|
+|3|A frantic gnome tries to sell the party a "map" to a lost treasure, which is clearly just a child's drawing.|
+|4|A group of children, hardened by life on the streets, try to sell the party "protection" from the dangers of the district.|
+|5|A lone musician plays a mournful tune on a broken-down instrument, their melody a reflection of the district's grim atmosphere.|
+|6|Two figures engage in a hushed but heated argument in a darkened alleyway, their shadows dancing in the flickering lamplight.|
+|7|A desperate soul rummages through a pile of refuse, searching for anything of value in the discarded scraps.|
+|8|The stench of decay and the sound of rats scurrying through the shadows permeate the air, a constant reminder of the district's harsh realities.|
+
+### Dura
+
+|d8|Encounter|
+|---|---|
+|1|A haughty-looking wyvern pulls a luxurious carriage through the sky, nearly clipping the party with its wing.|
+|2|The party is invited to a lavish party hosted by a mysterious but influential figure, rumored to have ties to one of the dragonmarked houses.|
+|3|A distraught individual begs the party for help, claiming their loved one has been kidnapped by a rival house or a jealous competitor.|
+|4|A group of nobles engages in a heated debate about politics and economics, their words laced with veiled insults and subtle threats.|
+|5|A renowned artist unveils their latest masterpiece, a stunning sculpture or painting that captures the essence of Sharn's grandeur and beauty.|
+|6|A group of musicians plays elegant music on a balcony overlooking the city, their melodies drifting through the air and enchanting all who hear them.|
+|7|A procession of elegantly dressed citizens makes its way through the streets, celebrating a recent victory or honoring a local hero.|
+|8|The air buzzes with excitement as news spreads of a groundbreaking invention or a lucrative trade agreement, fueling the city's ambition and prosperity.|
+### Skyway
+
+|d8|Encounter|
+|---|---|
+|1|A flock of trained messenger pigeons suddenly veers off course, startled by a passing wyvern, scattering messages to the wind.|
+|2|The party witnesses a breathtaking aerial display as a group of skyknights practices intricate formations, their enchanted blades flashing in the sunlight.|
+|3|A minor collision between two airships creates a shower of sparks and debris, forcing nearby vessels to take evasive maneuvers.|
+|4|A group of thrill-seekers leaps from a high platform, their bodies plummeting towards the ground before their enchanted cloaks deploy, slowing their descent.|
+|5|A street performer walks a tightrope strung between two towers, their balance seemingly defying gravity as they entertain the crowds below.|
+|6|A mournful horn sounds from a nearby tower, signaling the passing of a prominent figure and casting a somber mood over the bustling skyway.|
+|7|The air crackles with magical energy as a powerful spell is cast from a nearby tower, momentarily illuminating the sky with arcane light.|
+|8|The constant hum of magical engines and the whoosh of passing airships create a unique symphony of sound, a testament to Sharn's technological prowess.|
 
 ### The Cogs
 
