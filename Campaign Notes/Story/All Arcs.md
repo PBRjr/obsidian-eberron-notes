@@ -55,7 +55,7 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 	- [ ] The party learns of the corrupting affect an FKD fragment can have on the soul
 	- [x] The party learns that Geralt's parents are connected to the creation of the modern warforged
 	- [ ] The party learns that the Rageblight is destroying towns and heading in the direction of the Byeshk mountains.
-- [ ] **Completion point:** Confrontation with the Rageblight
+- [ ] **Completion point:** Conclusion of major Sharn beats
 
 ##### Act 3: TBD
 - *Overview:* Deeper story beats, progression act to the final story beats
