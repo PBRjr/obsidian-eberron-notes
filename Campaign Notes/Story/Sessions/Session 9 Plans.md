@@ -20,8 +20,10 @@ Moment 1: *Aeren's been kidnapped*
 
 Moment 2: *Thugs*
 - A few thugs try to shake down the party.
-- One of the thugs has the scrawled notes of Aeren d'Cannith on him.
+- One of the thugs has the [[Aeren's Written Notes|scrawled notes]] of Aeren d'Cannith on him.
 - **Goal:** Give clues that the Boromar Clan kidnapped Aeren
+
+Encounter: *T*
 
 Moment 3: *Attack at Morgrave*
 - There was an attack at Morgrave University. Clues point towards CotSF and Boromar Clan involvement

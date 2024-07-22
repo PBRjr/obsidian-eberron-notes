@@ -522,20 +522,15 @@ _Challenge_ 2 (450 XP)
 **Potions and Bombs.** The alchemist has a variety of potions and bombs they can use. The alchemist can throw a potion or bomb up to 20 feet, or 60 feet with disadvantage.
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
-
 *Actions*
-
-*Multiattack*. The alchemist makes two attacks with their potions or bombs.
 
 *Fire Bomb.* Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. _Hit:_ 10 (2d6 + 3) fire damage. On a hit, the target must succeed on a DC 13 Dexterity saving throw or take an additional 5 (1d10) fire damage at the start of its next turn.
 
-**Acid Vial.** Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. _Hit:_ 9 (2d6 + 3) acid damage, and the target takes 3 (1d6) acid damage at the end of its next turn.
+*Flashbang.* The alchemist throws a flashbang potion at a point within range. Each creature within 10 feet of that point must succeed on a DC 13 Constitution saving throw or be blinded and deafened until the end of their next turn.
 
-**Flashbang.** The alchemist throws a flashbang potion at a point within range. Each creature within 10 feet of that point must succeed on a DC 13 Constitution saving throw or be blinded and deafened until the end of their next turn.
+*Sticky Goo Bomb.* The alchemist throws a sticky goo bomb at a point within range. The bomb explodes in a 10-foot-radius, coating the area in sticky goo. Each creature in the area must succeed on a DC 13 Strength saving throw or be restrained until the end of their next turn. A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within reach on a success.
 
-**Sticky Goo Bomb.** The alchemist throws a sticky goo bomb at a point within range. The bomb explodes in a 10-foot-radius, coating the area in sticky goo. Each creature in the area must succeed on a DC 13 Strength saving throw or be restrained until the end of their next turn. A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within reach on a success.
-
-**Smoke Bomb.** The alchemist throws a smoke bomb at a point within range. The bomb releases a cloud of smoke that creates a heavily obscured area in a 10-foot radius. The smoke lasts for 1 minute or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+*Smoke Bomb.* The alchemist throws a smoke bomb at a point within range. The bomb releases a cloud of smoke that creates a heavily obscured area in a 10-foot radius. The smoke lasts for 1 minute or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 ### Cannith Brawler Construct
 
 Medium Construct, Any Alignment
