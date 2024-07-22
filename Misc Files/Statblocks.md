@@ -16,6 +16,9 @@ References
 	- [[#Kobolds#Kobold Scale Sorcerer|Kobold Scale Sorcerer]]
 	- [[#Kobolds#Kobold|Kobold]]
 - [[#Humanoids|Humanoids]]
+	- [[#Humanoids#Alchemist|Alchemist]]
+	- [[#Humanoids#Human Trickshot|Human Trickshot]]
+	- [[#Humanoids#Human Raider|Human Raider]]
 	- [[#Humanoids#Cannith Brawler Construct|Cannith Brawler Construct]]
 	- [[#Humanoids#Human Guard|Human Guard]]
 	- [[#Humanoids#Human Knave|Human Knave]]
@@ -31,6 +34,7 @@ References
 	- [[#Monstrosities#Mimic|Mimic]]
 - [[#Structures|Structures]]
 	- [[#Structures#Balista|Balista]]
+
 
 ---
 ## Undead
