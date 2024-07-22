@@ -6,7 +6,7 @@
 ## Description
 - Sits across the road from a brothel > ladies are always tempting the guards
 - Two guards stand at doorway > conversation about the twins inside *"That's what the twins are for, dumbass. Fucking rookies."* (Rook - old one facial hair | Crag - young one shivering)
-- Cannith Sergeant (Human Knave) does rounds on his posts > only one that goes in/out > wears amulet that prevents twins from causing harm
+- Cannith Sergeant *Keith Liadon* (Human Knave) does rounds on his posts > only one that goes in/out > wears *goggles of night*
 
 ## Notable Locations
 ### Tunnel Entrance
@@ -38,7 +38,7 @@ Accessed by a grate in the floor that leads to an escape tunnel put in by Yelena
 > - **Left**: study space > blank notebooks > blast marks in a spot on the floor > *safe*
 > - **Center**: Overlooks first floor > extension of machinery below > unused
 > - **Right** Magical testing area > scorch marks on floor > residual energy in air > broken dials and gauges
-> - **Back wall**: Shelves and cabinets > mostly empty > few remaining vials and components > 3 unstable *explosive marbles* > 2d4 Fdmg + DC 12 Dsave/pushed 5ft
+> - **Back wall**: Shelves and cabinets > mostly empty > few remaining vials and components > 3 unstable *explosive marbles* > 2d4 F dmg + DC 12 Dsave/pushed 5ft
 > - Two staircases > one centrally located > one on the left
 > - Three windows on front wall > magical symbols etched on glass
 

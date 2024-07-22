@@ -7,3 +7,4 @@ Infiltrated the Wolfsbane Workshop
 - Fought the sergeant
 - Geralt found the Legacy Stone and experienced memory 5 (House Cannith Esacpe)
 - Party found the *Goggles of Night* on the sergeant.
+- Geralt has *explosive marbels* (2d4 F dmg + DC 12 Dsave/pushed 5ft)
