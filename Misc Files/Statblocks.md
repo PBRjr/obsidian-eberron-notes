@@ -532,6 +532,11 @@ _Challenge_ 2 (450 XP)
 
 *Smoke Bomb.* The alchemist throws a smoke bomb at a point within range. The bomb releases a cloud of smoke that creates a heavily obscured area in a 10-foot radius. The smoke lasts for 1 minute or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+*Reactions*
+
+*Escape.* When the alchemist is the target 
+
 ### Human Trickshot
 Medium humanoid (human), any alignment
 
@@ -606,13 +611,14 @@ _Challenge_ 1/2 (100 XP)
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 *Actions*
 
-*Handaxe.* _Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d6 + 2) slashing damage.
+*Handaxe.* Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d6 + 2) slashing damage.
 
-**Shield Shove.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage. If the target is a Medium or smaller creature, they must succeed on a DC 12 Strength saving throw or be pushed 5 feet away from the raider.
+*Shield Shove.* Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage. If the target is a Medium or smaller creature, they must succeed on a DC 12 Strength saving throw or be pushed 5 feet away from the raider.
 
-**Reactions** ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+*Reactions*
 
-**Splinter Shield.** When the raider is wielding a shield and is hit by an attack made by a creature they can see, the raider gains a +4 bonus to AC against the triggering attack. If this causes the attack to miss, the raider's shield breaks, and until they get a new shield, their AC is reduced by 2 and they can't use this reaction or make a Shield Shove attack.
+*Splinter Shield.* When the raider is wielding a shield and is hit by an attack made by a creature they can see, the raider gains a +4 bonus to AC against the triggering attack. If this causes the attack to miss, the raider's shield breaks, and until they get a new shield, their AC is reduced by 2 and they can't use this reaction or make a Shield Shove attack.
 ### Cannith Brawler Construct
 
 Medium Construct, Any Alignment
