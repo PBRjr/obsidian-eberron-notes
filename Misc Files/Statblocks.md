@@ -571,6 +571,48 @@ _Challenge_ 2 (450 XP)
 *Bayonet*. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit:_ 7 (1d6 + 4) piercing damage.
 
 *Ricochet Bolt (Recharge 5–6).* The trickshot uses a special ricocheting bolt to make one Heavy Crossbow attack against a target within 100 feet of them, then a second Heavy Crossbow attack against a different target within 30 feet of the first target.
+
+### Human Raider
+Medium humanoid (human), any alignment
+
+Armor Class 14 (padded, shield; AC 12 without shield)
+
+Hit Points 22 (4d8 + 4)
+
+Speed 30 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|12 (+1)|12 (+1)|12 (+1)|10 (+0)|12 (+1)|10 (+0)|
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_Skills_ Stealth +3
+
+_Senses_ passive Perception 11
+
+_Languages_ Common
+
+_Challenge_ 1/2 (100 XP)
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Charge.** If the raider moves at least 15 feet straight toward a target and then hits the target with a melee attack on the same turn, the target takes an extra 3 (1d6) damage.
+
+**Exploit Opening (3/Day).** When the raider makes an attack, they have advantage on the attack roll.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+*Actions*
+
+*Handaxe.* _Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d6 + 2) slashing damage.
+
+**Shield Shove.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage. If the target is a Medium or smaller creature, they must succeed on a DC 12 Strength saving throw or be pushed 5 feet away from the raider.
+
+**Reactions** ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Splinter Shield.** When the raider is wielding a shield and is hit by an attack made by a creature they can see, the raider gains a +4 bonus to AC against the triggering attack. If this causes the attack to miss, the raider's shield breaks, and until they get a new shield, their AC is reduced by 2 and they can't use this reaction or make a Shield Shove attack.
 ### Cannith Brawler Construct
 
 Medium Construct, Any Alignment
