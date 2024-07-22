@@ -531,6 +531,46 @@ _Challenge_ 2 (450 XP)
 *Sticky Goo Bomb.* The alchemist throws a sticky goo bomb at a point within range. The bomb explodes in a 10-foot-radius, coating the area in sticky goo. Each creature in the area must succeed on a DC 13 Strength saving throw or be restrained until the end of their next turn. A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within reach on a success.
 
 *Smoke Bomb.* The alchemist throws a smoke bomb at a point within range. The bomb releases a cloud of smoke that creates a heavily obscured area in a 10-foot radius. The smoke lasts for 1 minute or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+
+### Human Trickshot
+Medium humanoid (human), any alignment
+
+Armor Class 15 (leather armor)
+
+Hit Points 39 (6d8 + 12)
+
+Speed 30 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|12 (+1)|18 (+4)|14 (+2)|10 (+0)|14 (+2)|14 (+2)|
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_Skills_ Perception +4, Stealth +6
+
+_Senses_ passive Perception 14
+
+_Languages_ Common
+
+_Challenge_ 2 (450 XP)
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Exploit Opening (3/Day).** When the trickshot makes an attack, they have advantage on the attack roll.
+
+**Point Blank Shooting.** When the trickshot hits a creature within 30 feet of them with a ranged weapon attack, they deal an extra 7 (2d6) piercing damage. Additionally, being within 5 feet of an enemy doesn't impose disadvantage on the trickshot's ranged attack rolls.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+*Actions*
+
+*Heavy Crossbow.* Ranged Weapon Attack: +6 to hit, range 100/400 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage.
+
+*Bayonet*. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit:_ 7 (1d6 + 4) piercing damage.
+
+*Ricochet Bolt (Recharge 5–6).* The trickshot uses a special ricocheting bolt to make one Heavy Crossbow attack against a target within 100 feet of them, then a second Heavy Crossbow attack against a different target within 30 feet of the first target.
 ### Cannith Brawler Construct
 
 Medium Construct, Any Alignment
