@@ -1,5 +1,5 @@
 TODO: 
-- what happens with Forge if ozzie can't make it?
+- [x] what happens with Forge if ozzie can't make it?
 - Make handouts
 ### Outline
 - Finish up the [[Wolfsbane Workshop]]
