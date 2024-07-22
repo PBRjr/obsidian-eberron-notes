@@ -13,29 +13,29 @@ TODO:
 Session Start
 - [x] Resume and finish the [[Wolfsbane Workshop]] location
 
--[ ] Moment 1: *Aeren's been kidnapped*
+- [ ] Moment 1: *Aeren's been kidnapped*
 - Aeren left a note on a table "*Unnamed Adventuring Party: Had an idea, went to the library, be back soon. Make yourselves at home*"
 - [[Mysterious Calamities Plague Outlying Settlements]] newspaper.
 - Aeren pulled out an old nursery rhyme called [[When the Couatl Sing]] then went to the "Books, Scrolls, and Nooks" library and checked out a book, then got kidnapped by the Boromar Clan.
 
-Moment 2: *Thugs*
+- [ ] Moment 2: *Thugs*
 - A few thugs try to shake down the party.
 - One of the thugs has the [[Aeren's Written Notes|scrawled notes]] of Aeren d'Cannith on him.
 - **Goal:** Give clues that the Boromar Clan kidnapped Aeren
 
-Encounter: *Thugs*
+- [ ] Encounter: *Thugs*
 - Enemy roster: [[Statblocks#Alchemist|Alchemist]] (Halfling, **Voss**), [[Statblocks#Human Trickshot|Trickshot]] (Human, **Nila**), [[Statblocks#Human Raider|Raider]] (Orc, **Dig**)
 
-Moment 3: *Attack at Morgrave*
+- [ ] Moment 3: *Attack at Morgrave*
 - There was an attack at Morgrave University. Clues point towards CotSF and Boromar Clan involvement
 - **Goal:** Drop clues and hints that the Boromar Clan is involved for some reason
 
-RE 1: *Are you the Knight of the North?*
+- [ ] RE 1: *Are you the Knight of the North?*
 - A young boy seems mesmerized at the sight of Draven.
 - Then he is ushered away by his mother.
 - **Goal:** Get Draven thinking more about who he was before he lost his memory
 
-Session End: *Lets get a pint.*
+- [ ] Session End: *Lets get a pint.*
 - The party encounters a bruised and newly unemployed Garhorn and his dog, Blinker.
 
 ### Location Details
