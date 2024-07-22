@@ -1,3 +1,20 @@
+# Brainstorms
+
+## Aeren putting together the dots
+
+
+Aeren puts together the dots of what the party told him
+He learned:
+- Modern warforged are the product of the souls of dead soldiers, wiped of their memories and transferred into warforged bodies.
+- Geralt's parents created schematics for a strange heart mechanism and wrote it down in an ancient draconic language. The shopping list he found probably has something to do with that
+- He concluded that the mechanism has to have something to do with transferring the souls of soldiers into the warforged, especially with them studying a lich phylactery to create it.
+- He recognizes the script from an old nursery rhyme his mother used to read to him. He finds the old book, titled "*When the Couatl sing*" and realized it was a draconic script that used to be used by the most devout followers of Siberys, the Dragon Above.
+- He went to the library to do research on the language. Unable to find anything on the language, he asked the librarian for their books on religious history. He checked out a book titled "*Godlings, Demigods, and other Mythical Creatures*" and left.
+- On his way back, he ran into Boromar Clan thugs, who kidnapped him at the order of Halak Boromar. (He is wanted for his technological ability and knowledge of the arcane. They want to use him to work with the professor and figure out the use/purpose of the FKD fragment they got from the professor.)
+- When he is kidnapped, he dropped his book on the ground, which can be found by the party.
+- The gang members can also be encountered and looted, and [[Aeren's Written Notes]] may be looted.
+
+
 # Factions
 
 ## Boromar clan
@@ -1262,6 +1279,33 @@ While critics express concerns over these omissions potentially sowing seeds for
 
 The Treaty signifies not only an end but also a new beginning – a chance for our war-torn continent to heal its wounds and move towards unity and prosperity. It is indeed a monumental milestone in Khorvaire’s history which we should all cherish cautiously while working towards establishing lasting peace.
 
+
+### Mysterious Calamities Plague Outlying Settlements
+
+
+SHARN INQUISITOR
+
+MYSTERIOUS CALAMITIES PLAGUE OUTLYING SETTLEMENTS
+
+In recent weeks, reports of inexplicable devastation have trickled in from several small towns and villages across Breland and neighboring regions. Eyewitness accounts describe scenes of utter destruction, with buildings reduced to rubble and farmlands scorched beyond recognition. Authorities remain baffled by the cause of these incidents, with theories ranging from freak magical storms to rampaging elementals.
+
+"It was like nothing I've ever seen," said Mira Thornhaven, a merchant who narrowly escaped the destruction of Millbrook, a small farming community near the Droaam border. "One moment all was calm, the next... it was as if the very earth was screaming."
+
+House Jorasco healers have been dispatched to affected areas, tending to survivors who speak of an overwhelming sense of rage and despair in the wake of the destruction. King Boranel's court has yet to make an official statement on these events.
+
+  
+
+UNDERWORLD UNREST: GANG VIOLENCE SURGES IN LOWER WARDS
+
+Tensions continue to rise in Sharn's lower wards as an ongoing turf war between rival gangs escalates. The City Watch reports an uptick in violence, particularly in the Callestan district.
+
+Sources close to the investigation suggest that the conflict centers around control of the lucrative dreamlily trade, with the Boromar Clan and Daask at the heart of the struggle. Residents report frequent skirmishes and suspicious disappearances, while local businesses suffer from increased "protection" fees. The situation has prompted calls for increased City Watch presence, but critics argue this may only inflame tensions further. Commander Iyanna ir'Talan of the Daggerwatch Garrison assures citizens that "all necessary measures" are being taken to restore order, but declined to provide specifics, citing ongoing operations.
+
+Giant Runes and New Routes
+
+Morgrave University has announced a breakthrough in the study of Xen'drik artifacts, with Professor Gellen ir'Korran claiming to have deciphered previously unknown Giant runes. This development promises to shed new light on pre-Galifar history.
+
+House Orien has unveiled plans for an expanded lightning rail network, promising faster travel times between major cities. Critics argue the project may disrupt local ecosystems, while supporters hail it as a necessary step for continued economic growth.
 
 ### Skyway's Floating Gardens Flourish with Rare Flora
 
@@ -2943,7 +2987,7 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 	- [ ] The party learns of the corrupting affect an FKD fragment can have on the soul
 	- [x] The party learns that Geralt's parents are connected to the creation of the modern warforged
 	- [ ] The party learns that the Rageblight is destroying towns and heading in the direction of the Byeshk mountains.
-- [ ] **Completion point:** Confrontation with the Rageblight
+- [ ] **Completion point:** Conclusion of major Sharn beats
 
 ##### Act 3: TBD
 - *Overview:* Deeper story beats, progression act to the final story beats
@@ -3778,20 +3822,6 @@ Here is a table with some brief encounter ideas for Sharn and related details to
 
 ## Sessions
 
-### brainstorm
-
-
-Aeren puts together the dots of what the party told him
-He learned:
-- Modern warforged are the product of the souls of dead soldiers, wiped of their memories and transferred into warforged bodies.
-- Geralt's parents created schematics for a strange heart mechanism and wrote it down in an ancient draconic language. The shopping list he found probably has something to do with that
-- He concluded that the mechanism has to have something to do with transferring the souls of soldiers into the warforged, especially with them studying a lich phylactery to create it.
-- He recognizes the script from an old nursery rhyme his mother used to read to him. He finds the old book, titled "*When the Couatl sing*" and realized it was a draconic script that used to be used by the most devout followers of Siberys, the Dragon Above.
-- He went to the library to do research on the language. Unable to find anything on the language, he asked the librarian for their books on religious history. He checked out a book titled "*Godlings, Demigods, and other Mythical Creatures*" and left.
-- On his way back, he ran into Boromar Clan thugs, who kidnapped him at the order of Halak Boromar. (He is wanted for his technological ability and knowledge of the arcane. They want to use him to work with the professor and figure out the use/purpose of the FKD fragment they got from the professor.)
-- When he is kidnapped, he dropped his book on the ground, which can be found by the party.
-- The gang members can also be encountered and looted, and [[Aeren's Written Notes]] may be looted.
-
 ### Session 0 Plans
 
 
@@ -4584,8 +4614,8 @@ Action 1: *Boromar Clan*
 Forge found a half-broken maul
 cannith south HQ in Highest towers district of upper central
 Geralt and Draven talked to Bree (Gnome) and adopted retarded sister Reyland (goblin)
-Forge talked to barkeep and acted as a boromar agent, learned about the protection wracket at olladra's whip
-met a guy that took them up a lift from lower central to upper central, advised them to go to platinum heights to find expensive escorts. they came out in skysedge park distrcit heading for highest towers
+Forge talked to barkeep and acted as a boromar agent, learned about the protection racket at Olladra's whip
+met a guy that took them up a lift from lower central to upper central, advised them to go to platinum heights to find expensive escorts. they came out in sky's edge park district heading for highest towers
 to make 1 stick of dynamite - 75gp & 3 days
 Geralt bought forge a trident
 Draven bought silk rope
@@ -4598,7 +4628,7 @@ make torn journal entry handouts
 create Wolfsbane workshop
 Merkantile owner - Ianhorn Gillflower
 
-### Session 8 plans
+### Session 8 Plans
 
 
 ### Outline
@@ -4620,7 +4650,7 @@ Moment 3: *Are you the Knight of the North?*
 - Then he is ushered away by his mother.
 
 Moment 3: *Attack at Morgrave*
-- There was an attack at Morgrave University. Clues point towards CotSF involvement
+- There was an attack at Morgrave University. Clues point towards CotSF and Boromar Clan involvement
 
 Session End: *Lets get a pint.*
 - The party encounters a bruised and newly unemployed Garhorn and his dog, Blinker.
@@ -4680,7 +4710,7 @@ Action 1: *Boromar Clan*
 
 - (Add any other notes or information that you need for the session)
 
-### Session 8 recap
+### Session 8 Recap
 
 
 Scouted out the workshop
@@ -4697,7 +4727,9 @@ Infiltrated the Wolfsbane Workshop
 ### Session 9 Plans
 
 
-TODO: what happens with Forge if ozzie can't make it?
+TODO: 
+- [x] what happens with Forge if ozzie can't make it?
+- Make handouts
 ### Outline
 - Finish up the [[Wolfsbane Workshop]]
 - Aeren's been kidnapped
@@ -4712,25 +4744,40 @@ Session Start
 
 Moment 1: *Aeren's been kidnapped*
 - Aeren left a note on a table "*Unnamed Adventuring Party: Had an idea, went to the library, be back soon. Make yourselves at home*"
-- Aeren pulled out an old nursery rhyme called [[When the Couatl Sing]] then went to the "Books, book, and more books" library and checked out a book, then got kidnapped by the Boromar Clan.
+- [[Mysterious Calamities Plague Outlying Settlements]] newspaper.
+- Aeren pulled out an old nursery rhyme called [[When the Couatl Sing]] then went to the "Books, Scrolls, and Nooks" library and checked out a book, then got kidnapped by the Boromar Clan.
 
 Moment 2: *Thugs*
 - A few thugs try to shake down the party.
-- One of the thugs has the scrawled notes of Aeren d'Cannith on him.
+- One of the thugs has the [[Aeren's Written Notes|scrawled notes]] of Aeren d'Cannith on him.
+- **Goal:** Give clues that the Boromar Clan kidnapped Aeren
+
+Encounter: *Thugs*
+- Enemy roster: 
+
+Moment 3: *Attack at Morgrave*
+- There was an attack at Morgrave University. Clues point towards CotSF and Boromar Clan involvement
+- **Goal:** Drop clues and hints that the Boromar Clan is involved for some reason
 
 RE 1: *Are you the Knight of the North?*
 - A young boy seems mesmerized at the sight of Draven.
 - Then he is ushered away by his mother.
-
-RE 2: *Attack at Morgrave*
-- There was an attack at Morgrave University. Clues point towards CotSF involvement
+- **Goal:** Get Draven thinking more about who he was before he lost his memory
 
 Session End: *Lets get a pint.*
 - The party encounters a bruised and newly unemployed Garhorn and his dog, Blinker.
 
 ### Location Details
 
-Place 1: *Olladra's Kitchen*
+Place 1: *Books, Scrolls, and Nooks*
+- University District located in Upper Menthis
+	- Narrow three-story building > large bay windows and pink wooden door > displaying old tomes and colorful scrolls.
+	-  Specialties: Religious and historical texts
+- Lyriel d'Phiarlan
+	- Knowledgeable half-elf 48f
+	- Left house Phiarlan to pursue her passion for literature
+
+Place 2: *Olladra's Kitchen*
 - Tavern ward located in Lower Central Plateau
 	- Contains several Pubs, dark alleyways, and few brothels
 	- Main attraction: *Olladra's Whip*
@@ -4739,7 +4786,7 @@ Place 1: *Olladra's Kitchen*
 	- Inns: *Boldrei's Hearth*
 	- Residential: *Vallia Towers, Myshan Gardens*
 
-Place 2: *Everbright*
+Place 3: *Everbright*
 - Magic ward located in Middle Menthis Plateau
 	- Contains several alchemy, artifice, and healing services
 	- Main attraction: *Jorasco House of Healing*
@@ -4748,7 +4795,7 @@ Place 2: *Everbright*
 	- Shops: *Cassan Bridge*
 	- Neighborhoods: *Deniytas (gnomes), Platinate (wealthy)*
 
-Place 3: *Aeren's Workshop*
+Place 4: *Aeren's Workshop*
 - Located in Everbright, appears to be apartments from the outside
 - Renovated to a studio-like inside with 3 levels, and enough space to house the party.
 - Clockwork butler: *Piston*
