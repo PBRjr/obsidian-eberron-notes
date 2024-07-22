@@ -11,9 +11,9 @@ TODO:
 ### Moments & Encounters
 
 Session Start
-- Resume and finish the [[Wolfsbane Workshop]] location
+- [x] Resume and finish the [[Wolfsbane Workshop]] location
 
-Moment 1: *Aeren's been kidnapped*
+-[ ] Moment 1: *Aeren's been kidnapped*
 - Aeren left a note on a table "*Unnamed Adventuring Party: Had an idea, went to the library, be back soon. Make yourselves at home*"
 - [[Mysterious Calamities Plague Outlying Settlements]] newspaper.
 - Aeren pulled out an old nursery rhyme called [[When the Couatl Sing]] then went to the "Books, Scrolls, and Nooks" library and checked out a book, then got kidnapped by the Boromar Clan.
