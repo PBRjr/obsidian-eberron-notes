@@ -27,16 +27,16 @@ Reference
 
 ### Menthis
 
-|d8|Encounter|
-|---|---|
-|1|A flamboyant bard attempts to recruit the party as backup dancers for their next big performance.|
-|2|A pompous noble bumps into a party member, spilling wine on them and demanding an apology.|
-|3|The party overhears a heated argument between two merchants about a shady business deal, possibly involving the Boromar Clan.|
-|4|A group of House Sivis students practice their cantrips on unsuspecting pigeons, much to the annoyance of a nearby shopkeeper.|
-|5|A street performer wows a crowd with illusions and sleight of hand, hoping for a generous donation.|
-|6|Two rival gangs of young nobles engage in a war of words, their bodyguards tense and ready for trouble.|
-|7|A distraught parent searches frantically for their lost child, begging for help from anyone who passes.|
-|8|A pair of Lyrandar skyknights engage in a heated argument about aerial regulations, their voices echoing through the plaza.|
+| d8  | Encounter                                                                                                                      |
+| --- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | A flamboyant bard attempts to recruit the party as backup dancers for their next big performance.                              |
+| 2   | A pompous noble bumps into a party member, spilling wine on them and demanding an apology.                                     |
+| 3   | The party overhears a heated argument between two merchants about a shady business deal, possibly involving the Boromar Clan.  |
+| 4   | A group of House Sivis students practice their cantrips on unsuspecting pigeons, much to the annoyance of a nearby shopkeeper. |
+| 5   | A street performer wows a crowd with illusions and sleight of hand, hoping for a generous donation.                            |
+| 6   | Two rival gangs of young nobles engage in a war of words, their bodyguards tense and ready for trouble.                        |
+| 7   | A distraught parent searches frantically for their lost child, begging for help from anyone who passes.                        |
+| 8   | A pair of Lyrandar skyknights engage in a heated argument about aerial regulations, their voices echoing through the plaza.    |
 
 ### Tavick's Landing
 
