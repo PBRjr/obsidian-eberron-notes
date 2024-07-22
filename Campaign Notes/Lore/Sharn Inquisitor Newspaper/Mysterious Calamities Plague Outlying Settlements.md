@@ -8,10 +8,16 @@ In recent weeks, reports of inexplicable devastation have trickled in from sever
 
 House Jorasco healers have been dispatched to affected areas, tending to survivors who speak of an overwhelming sense of rage and despair in the wake of the destruction. King Boranel's court has yet to make an official statement on these events.
 
-In other news, tensions continue to rise in Sharn's lower wards as an ongoing turf war between rival gangs escalates. The City Watch reports an uptick in violence, particularly in the Callestan district.
+  
 
-Meanwhile, Morgrave University has announced a breakthrough in the study of Xen'drik artifacts, with Professor Gellen ir'Korran claiming to have deciphered previously unknown Giant runes. This development promises to shed new light on pre-Galifar history.
+UNDERWORLD UNREST: GANG VIOLENCE SURGES IN LOWER WARDS
 
-Lastly, House Orien has unveiled plans for an expanded lightning rail network, promising faster travel times between major cities. Critics argue the project may disrupt local ecosystems, while supporters hail it as a necessary step for continued economic growth.
+Tensions continue to rise in Sharn's lower wards as an ongoing turf war between rival gangs escalates. The City Watch reports an uptick in violence, particularly in the Callestan district.
 
-Stay vigilant, citizens of Sharn, and remember: The Inquisitor brings you the truth, no matter how strange or unsettling it may be.
+Sources close to the investigation suggest that the conflict centers around control of the lucrative dreamlily trade, with the Boromar Clan and Daask at the heart of the struggle. Residents report frequent skirmishes and suspicious disappearances, while local businesses suffer from increased "protection" fees. The situation has prompted calls for increased City Watch presence, but critics argue this may only inflame tensions further. Commander Iyanna ir'Talan of the Daggerwatch Garrison assures citizens that "all necessary measures" are being taken to restore order, but declined to provide specifics, citing ongoing operations.
+
+Giant Runes and New Routes
+
+Morgrave University has announced a breakthrough in the study of Xen'drik artifacts, with Professor Gellen ir'Korran claiming to have deciphered previously unknown Giant runes. This development promises to shed new light on pre-Galifar history.
+
+House Orien has unveiled plans for an expanded lightning rail network, promising faster travel times between major cities. Critics argue the project may disrupt local ecosystems, while supporters hail it as a necessary step for continued economic growth.
