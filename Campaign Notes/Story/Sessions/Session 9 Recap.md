@@ -1,0 +1,1 @@
+Went to Starfire Dragon Tavern

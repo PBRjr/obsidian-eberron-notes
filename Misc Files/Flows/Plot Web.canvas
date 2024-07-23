@@ -16,7 +16,7 @@
 		{"id":"5ca42467c5b279aa","type":"text","text":"Baelen ir'Torn","x":-239,"y":-738,"width":250,"height":60,"color":"4"},
 		{"id":"6ca7f3f38e3ed230","type":"text","text":"Fragmented Dragonshard","x":-251,"y":-290,"width":274,"height":58,"color":"6"},
 		{"id":"fa966a602d97b4bf","type":"text","text":"Silver Flame","x":235,"y":-488,"width":250,"height":60},
-		{"id":"39bccfd85ea56cc1","type":"text","text":"Coautl","x":235,"y":-292,"width":250,"height":60,"color":"4"},
+		{"id":"39bccfd85ea56cc1","type":"text","text":"Coautl","x":235,"y":-290,"width":250,"height":58,"color":"4"},
 		{"id":"0c4a5e8bc856075f","type":"text","text":"Church of the Silver Flame","x":235,"y":-743,"width":250,"height":65},
 		{"id":"85773e8b6033d1a3","type":"text","text":"Woe","x":11,"y":-53,"width":250,"height":60,"color":"1"},
 		{"id":"64eed97371c2a743","type":"text","text":"Aeren d'Cannith","x":235,"y":-940,"width":250,"height":60,"color":"4"},
