@@ -3,24 +3,20 @@
 
 ### Moments & Encounters
 
-Session Start
+- [ ] Session Start
 - (based on where/how last session ended)
 
-Moment 1: *Name*
+- [ ] Moment 1: *Name*
 - X
 
-Moment 2: *Name*
+- [ ] Moment 2: *Name*
 - X
-
-Encounter 1: *Name*
-- X
-
-Encounter 2: *Name*
+- [ ] Encounter: *Name*
 - X
 
 (continue as needed, may nest encounters inside moments)
 
-Session End
+- [ ] Session End: *Name*
 - (possible cliffhanger)
 
 ### Location Details
@@ -34,15 +30,17 @@ Place 2: *Name*
 (continue as needed)
 ### People
 
-Person 1:
+Person 1: *Name*
+*Session Information*
 - X (information relevant to session)
 *Plot Information*
 - X (information relevant to overall plot)
 
-Person 2:
-- X
+Person 2: *Name*
+*Session Information*
+- X (information relevant to session)
 *Plot Information*
-- X 
+- X (information relevant to overall plot)
 
 (continue as needed)
 ### Plot Actions
