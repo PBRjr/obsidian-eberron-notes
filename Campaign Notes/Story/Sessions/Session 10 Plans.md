@@ -2,7 +2,7 @@ TODO:
 - [ ] Design Boromar safehouse
 	- What's interesting about it?
 	- Burned down in the past, used to be a smuggling hub?
-	- Something to make it time sensitive? Silver flame knight hostage, impending death?
+	- Something to make it time sensitive? Silver flame knight hostage, impending death? 
 ### Outline
 - (List of significant beats)
 
