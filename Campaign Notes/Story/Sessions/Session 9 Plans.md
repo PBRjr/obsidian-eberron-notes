@@ -35,7 +35,7 @@ Session Start
 - Then he is ushered away by his mother.
 - **Goal:** Get Draven thinking more about who he was before he lost his memory
 
-- [ ] Session End: *Lets get a pint.*
+- [x] Session End: *Lets get a pint.*
 - The party encounters a bruised and newly unemployed Garhorn and his dog, Blinker.
 
 ### Location Details
