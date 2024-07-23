@@ -13,7 +13,7 @@
 | 1   | Kismet's Prophecy    |         |
 | 2   | Norbit's Illness     |         |
 | 3   | Sibernyan Discovery  |         |
-| 4   | Steelhardt Prototype |         |
+| 4   | Steelhardt Prototype | y       |
 | 5   | House Cannith Escape | y       |
 | 6   | The Rageblight       |         |
 
