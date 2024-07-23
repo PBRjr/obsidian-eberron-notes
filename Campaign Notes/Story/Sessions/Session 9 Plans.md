@@ -24,7 +24,7 @@ Session Start
 - **Goal:** Give clues that the Boromar Clan kidnapped Aeren
 
 - [ ] Encounter: *Thugs*
-- Enemy roster: [[Statblocks#Alchemist|Alchemist]] (Halfling, **Voss**), [[Statblocks#Human Trickshot|Trickshot]] (Human, **Nila**), [[Statblocks#Human Raider|Raider]] (Orc, **Dig**)
+- Enemy roster: [[Statblocks#Alchemist|Alchemist]] (Orc, **Dig**), [[Statblocks#Human Trickshot|Trickshot]] (Human, **Nila**), [[Statblocks#Human Raider|Raider]] (Halfling, **Voss**)
 
 - [x] Moment 3: *Attack at Morgrave*
 - There was an attack at Morgrave University. Clues point towards CotSF and Boromar Clan involvement

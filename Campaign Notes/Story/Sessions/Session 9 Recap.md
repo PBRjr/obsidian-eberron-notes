@@ -39,7 +39,7 @@ Went to Starfire Dragon Tavern
 Thugs
 - The party follow Garhorn and Blinker the safehouse on the edge of Middle Dura.
 - They are stopped by 3 Boromar thugs who recognize Garhorn.
-- Thugs try to negotiate with the party
-ended on thug encounter, rolling initiative to fight
-- Garhorn taking them to the **boromar safehouse**
-Design safehouse
+- Thugs try to negotiate with the party to hand over Garhorn, party refused.
+- Initiative is rolled, session end.
+- Alchemist and Trickshot on the rooftops
+- Raider on the ground ahead of the party.
