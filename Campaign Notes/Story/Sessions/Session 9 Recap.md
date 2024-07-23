@@ -30,8 +30,16 @@ Back to Aeren's
 - Party decided to go to a Tavern and drink on it.
 
 Went to Starfire Dragon Tavern
-- Party found Garhorn and his blink dog Blinker ()
-- bought 4 dreamlilys from students
+- Party found Garhorn drunk at the bar with his blink dog Blinker (Sessions 3 & 4).
+- Garhorn told the party about his quitting the Boromar Clan after their encounter in Shavalant.
+- The party gave Garhorn 15gp to take them to the Boromar Clan's closest safehouse to Morgrave University.
+- He agreed then passed out on the floor to sleep off the drunkenness.
+- Draven bought 4 dreamlilys from a student in the Tavern while they were waiting for Garhorn to wakeup.
+
+Thugs
+- The party follow Garhorn and Blinker the safehouse on the edge of Middle Dura.
+- They are stopped by 3 Boromar thugs who recognize Garhorn.
+- Thugs try to negotiate with the party
 ended on thug encounter, rolling initiative to fight
 - Garhorn taking them to the **boromar safehouse**
 Design safehouse
