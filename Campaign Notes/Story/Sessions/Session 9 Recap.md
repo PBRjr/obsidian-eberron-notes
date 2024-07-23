@@ -14,8 +14,23 @@ Aeren's workshop
 Books, Scrolls, and Nooks
 - The party arrived at the library and spoke to a librarian
 - Party learned Aeren checked out one book and left
+
+Are you the Knight of the North?
+- On their way to Morgrave, a little boy stopped and stared at Draven, saying he looked like someone he used to hear stories about.
+- He asked where Draven's sword was.
+
+Morgrave University
+- Party was blocked entry into the campus, and snuck in with the help of some students.
+- Posing as investigators from the "Religious Precinct", they followed bloody clues that led to Professor Baelin ir'Torn's ransacked office.
+- They also investigated the body of the Silver Flame Priest that was protecting Baelin.
+- The party's cover was blown and they ran from the Sharn watch, escaping into the streets.
+
+Back to Aeren's
+- Party returned back to Aeren's workshop to find he still hadn't returned. 
+- Party decided to go to a Tavern and drink on it.
+
 Went to Starfire Dragon Tavern
-- found blinker
+- Party found Garhorn and his blink dog Blinker ()
 - bought 4 dreamlilys from students
 ended on thug encounter, rolling initiative to fight
 - Garhorn taking them to the **boromar safehouse**
