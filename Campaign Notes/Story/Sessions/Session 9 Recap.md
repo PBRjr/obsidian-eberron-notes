@@ -22,7 +22,7 @@ Are you the Knight of the North?
 Morgrave University
 - Party was blocked entry into the campus, and snuck in with the help of some students.
 - Posing as investigators from the "Religious Precinct", they followed bloody clues that led to Professor Baelin ir'Torn's ransacked office.
-- They also investigated the body of the Silver Flame Priest that was protecting Baelin.
+- They also investigated the body of the Silver Flame Priest that was protecting Baelin. They didn't put together who he was, just that he was with the CotSF.
 - The party's cover was blown and they ran from the Sharn watch, escaping into the streets.
 
 Back to Aeren's
