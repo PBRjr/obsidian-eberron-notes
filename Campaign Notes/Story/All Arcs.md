@@ -33,9 +33,8 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 ## TYFYS Arcs
 ### Current
 #### Immediate
-- Make it out of the Kogs and enter Sharn
-- Encounter at [[The Tower of Old]]
-- **Completion Point:** The party makes it to Sharn
+- Track down Aeren d'Cannith and Baelen ir'Torn
+- Resolve conflict with Boromar Clan
 #### Narrative
 ##### Act 1: The Journey
 - *Overview:* The party's journey to Sharn through the wilderness
