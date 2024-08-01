@@ -35,9 +35,10 @@ Went to Starfire Dragon Tavern
 - The party gave Garhorn 15gp to take them to the Boromar Clan's closest safehouse to Morgrave University.
 - He agreed then passed out on the floor to sleep off the drunkenness.
 - Draven bought 4 dreamlilys from a student in the Tavern while they were waiting for Garhorn to wakeup.
+- Geralt experienced another memory from the Legacy Stone (memory 4)
 
 Thugs
-- The party follow Garhorn and Blinker the safehouse on the edge of Middle Dura.
+- The party follow Garhorn and Blinker to the safehouse on the edge of Middle Dura.
 - They are stopped by 3 Boromar thugs who recognize Garhorn.
 - Thugs try to negotiate with the party to hand over Garhorn, party refused.
 - Initiative is rolled, session end.
