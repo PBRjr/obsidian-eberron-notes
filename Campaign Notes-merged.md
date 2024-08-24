@@ -14,6 +14,15 @@ He learned:
 - When he is kidnapped, he dropped his book on the ground, which can be found by the party.
 - The gang members can also be encountered and looted, and [[Aeren's Written Notes]] may be looted.
 
+## Dreamlily Den
+
+
+**The Dreamlily Den: A Descent into Addiction**
+
+The Boromar Clan is using the safehouse as a dreamlily lab and distribution point. Dreamlily is a highly addictive drug that’s plaguing Sharn’s lower wards. They’ve captured a group of addicts and are forcing them to work as laborers and informants.
+
+**The Twist:** The party stumbles upon the operation, witnessing the brutal treatment of the addicts and the Clan’s ruthlessness, in addition to exposing them to more of the background operations of the clan.
+
 
 # Factions
 
@@ -814,6 +823,14 @@ Khyber shards, known as "dragon's teeth", are found deep within the world, in th
 
 
 
+## Dreamlily
+
+
+Basically an opioid
+
+Anyone under the effects of a dreamlily feels euphoria and reduced sense of pain. For 5 rounds, the use has resistance to non-magical damage, however takes takes double the damage taken after the end of this drugs effects.
+
+
 ## Forge Knowledge Handout
 
 
@@ -1000,7 +1017,7 @@ This piece of worn parchment has obviously seen the wear-and-tear of an active l
 | 1   | Kismet's Prophecy    |         |
 | 2   | Norbit's Illness     |         |
 | 3   | Sibernyan Discovery  |         |
-| 4   | Steelhardt Prototype |         |
+| 4   | Steelhardt Prototype | y       |
 | 5   | House Cannith Escape | y       |
 | 6   | The Rageblight       |         |
 
@@ -2514,7 +2531,7 @@ References
 ## Description
 - Sits across the road from a brothel > ladies are always tempting the guards
 - Two guards stand at doorway > conversation about the twins inside *"That's what the twins are for, dumbass. Fucking rookies."* (Rook - old one facial hair | Crag - young one shivering)
-- Cannith Sergeant (Human Knave) does rounds on his posts > only one that goes in/out > wears amulet that prevents twins from causing harm
+- Cannith Sergeant *Keith Liadon* (Human Knave) does rounds on his posts > only one that goes in/out > wears *goggles of night*
 
 ## Notable Locations
 ### Tunnel Entrance
@@ -2546,7 +2563,7 @@ Accessed by a grate in the floor that leads to an escape tunnel put in by Yelena
 > - **Left**: study space > blank notebooks > blast marks in a spot on the floor > *safe*
 > - **Center**: Overlooks first floor > extension of machinery below > unused
 > - **Right** Magical testing area > scorch marks on floor > residual energy in air > broken dials and gauges
-> - **Back wall**: Shelves and cabinets > mostly empty > few remaining vials and components > 3 unstable *explosive marbles* > 2d4 Fdmg + DC 12 Dsave/pushed 5ft
+> - **Back wall**: Shelves and cabinets > mostly empty > few remaining vials and components > 3 unstable *explosive marbles* > 2d4 F dmg + DC 12 Dsave/pushed 5ft
 > - Two staircases > one centrally located > one on the left
 > - Three windows on front wall > magical symbols etched on glass
 
@@ -2965,9 +2982,8 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 ## TYFYS Arcs
 ### Current
 #### Immediate
-- Make it out of the Kogs and enter Sharn
-- Encounter at [[The Tower of Old]]
-- **Completion Point:** The party makes it to Sharn
+- Track down Aeren d'Cannith and Baelen ir'Torn
+- Resolve conflict with Boromar Clan
 #### Narrative
 ##### Act 1: The Journey
 - *Overview:* The party's journey to Sharn through the wilderness
@@ -4722,6 +4738,7 @@ Infiltrated the Wolfsbane Workshop
 - Fought the sergeant
 - Geralt found the Legacy Stone and experienced memory 5 (House Cannith Esacpe)
 - Party found the *Goggles of Night* on the sergeant.
+- Geralt has *explosive marbels* (2d4 F dmg + DC 12 Dsave/pushed 5ft)
 
 
 ### Session 9 Plans
@@ -4729,7 +4746,7 @@ Infiltrated the Wolfsbane Workshop
 
 TODO: 
 - [x] what happens with Forge if ozzie can't make it?
-- Make handouts
+- [x] Make handouts
 ### Outline
 - Finish up the [[Wolfsbane Workshop]]
 - Aeren's been kidnapped
@@ -4740,31 +4757,31 @@ TODO:
 ### Moments & Encounters
 
 Session Start
-- Resume and finish the [[Wolfsbane Workshop]] location
+- [x] Resume and finish the [[Wolfsbane Workshop]] location
 
-Moment 1: *Aeren's been kidnapped*
+- [x] Moment 1: *Aeren's been kidnapped*
 - Aeren left a note on a table "*Unnamed Adventuring Party: Had an idea, went to the library, be back soon. Make yourselves at home*"
 - [[Mysterious Calamities Plague Outlying Settlements]] newspaper.
 - Aeren pulled out an old nursery rhyme called [[When the Couatl Sing]] then went to the "Books, Scrolls, and Nooks" library and checked out a book, then got kidnapped by the Boromar Clan.
 
-Moment 2: *Thugs*
+- [ ] Moment 2: *Thugs*
 - A few thugs try to shake down the party.
 - One of the thugs has the [[Aeren's Written Notes|scrawled notes]] of Aeren d'Cannith on him.
 - **Goal:** Give clues that the Boromar Clan kidnapped Aeren
 
-Encounter: *Thugs*
-- Enemy roster: 
+- [ ] Encounter: *Thugs*
+- Enemy roster: [[Statblocks#Alchemist|Alchemist]] (Orc, **Dig**), [[Statblocks#Human Trickshot|Trickshot]] (Human, **Nila**), [[Statblocks#Human Raider|Raider]] (Halfling, **Voss**)
 
-Moment 3: *Attack at Morgrave*
+- [x] Moment 3: *Attack at Morgrave*
 - There was an attack at Morgrave University. Clues point towards CotSF and Boromar Clan involvement
 - **Goal:** Drop clues and hints that the Boromar Clan is involved for some reason
 
-RE 1: *Are you the Knight of the North?*
+- [x] RE 1: *Are you the Knight of the North?*
 - A young boy seems mesmerized at the sight of Draven.
 - Then he is ushered away by his mother.
 - **Goal:** Get Draven thinking more about who he was before he lost his memory
 
-Session End: *Lets get a pint.*
+- [x] Session End: *Lets get a pint.*
 - The party encounters a bruised and newly unemployed Garhorn and his dog, Blinker.
 
 ### Location Details
@@ -4821,6 +4838,133 @@ Action 1: *Boromar Clan (Halak Boromar)*
 - Goal: Use Baelin and Aeren to create a weapon from the FKD fragment so he can consolidate his power.
 	- Baelin revealed that the fragment is something ancient and powerful.
 	- Halak's mind immediately began thinking of how to use this powerful artifact to consolidate his power both within the clan and the clan's power over Sharn.
+### Additional Notes
+
+- (Add any other notes or information that you need for the session)
+
+### Session 9 Recap
+
+
+Start
+ - The party questioned and executed the human sergeant of House Cannith.
+ - Sergeant wasn't intimidated, didn't give up any important info, told the party House Cannith will find out about Geralt and will come looking for them.
+- Party escaped the workshop by Geralt posing as the sergeant and taking the rest of the party as "prisoners".
+
+Random Encounter
+- On their way back to Aeren's workshop, they bumped into a drunk nobleman and Geralt pickpocketed a ring and a wooden frog carving off of him.
+
+Aeren's workshop
+- Found the newspaper for the day, in addition to Aeren's note about him going to the library, and the nursery rhyme page from "When the Couatl Sing".
+- Party long rested and ate breakfast, then headed out to the Library to find Aeren, who hadn't returned yet.
+- Party asked about finding translation services for their schematic and was referred to Morgrave University.
+
+Books, Scrolls, and Nooks
+- The party arrived at the library and spoke to a librarian
+- Party learned Aeren checked out one book and left
+
+Are you the Knight of the North?
+- On their way to Morgrave, a little boy stopped and stared at Draven, saying he looked like someone he used to hear stories about.
+- He asked where Draven's sword was.
+
+Morgrave University
+- Party was blocked entry into the campus, and snuck in with the help of some students.
+- Posing as investigators from the "Religious Precinct", they followed bloody clues that led to Professor Baelin ir'Torn's ransacked office.
+- They also investigated the body of the Silver Flame Priest that was protecting Baelin. They didn't put together who he was, just that he was with the CotSF.
+- The party's cover was blown and they ran from the Sharn watch, escaping into the streets.
+
+Back to Aeren's
+- Party returned back to Aeren's workshop to find he still hadn't returned. 
+- Party decided to go to a Tavern and drink on it.
+
+Went to Starfire Dragon Tavern
+- Party found Garhorn drunk at the bar with his blink dog Blinker (Sessions 3 & 4).
+- Garhorn told the party about his quitting the Boromar Clan after their encounter in Shavalant.
+- The party gave Garhorn 15gp to take them to the Boromar Clan's closest safehouse to Morgrave University.
+- He agreed then passed out on the floor to sleep off the drunkenness.
+- Draven bought 4 dreamlilys from a student in the Tavern while they were waiting for Garhorn to wakeup.
+- Geralt experienced another memory from the Legacy Stone (memory 4)
+
+Thugs
+- The party follow Garhorn and Blinker to the safehouse on the edge of Middle Dura.
+- They are stopped by 3 Boromar thugs who recognize Garhorn.
+- Thugs try to negotiate with the party to hand over Garhorn, party refused.
+- Initiative is rolled, session end.
+- Alchemist and Trickshot on the rooftops
+- Raider on the ground ahead of the party.
+
+### Session 10 Plans
+
+
+TODO:
+- [ ] Design Boromar safehouse
+	- What's interesting about it?
+	- Dreamlily den
+	- Something to make it time sensitive? Silver flame knight hostage, impending death? 
+### Outline
+- (List of significant beats)
+
+### Moments & Encounters
+
+- [ ] Session Start: *Street Fight*
+- Voss has Aeren's [[Aeren's Written Notes|scrawled notes]]
+- Enemy roster:
+	- [[Statblocks#Human Raider|Raider]] (Halfling, **Voss**) | Leader
+	- [[Statblocks#Alchemist|Alchemist]] (Orc, **Dig**) | rooftop
+	- [[Statblocks#Human Trickshot|Trickshot]] (Human, **Nila**) | rooftop
+- Loot:
+	- Something indicating they came from an illegal dreamlily factory
+	- 
+- [ ] Moment 1: *Name*
+- X
+
+- [ ] Moment 2: *Name*
+- X
+- [ ] Encounter: *Name*
+- X
+
+(continue as needed, may nest encounters inside moments)
+
+- [ ] Session End: *Name*
+- (possible cliffhanger)
+
+### Location Details
+
+Place 1: *Name*
+- X (brief and relevant to the session)
+
+Place 2: *Name*
+- X
+
+(continue as needed)
+### People
+
+Person 1: *Aeren d'Cannith*
+- Recognized the schematic text from an old nursery rhyme his mother used to read to him.
+- He traveled to the library to get more info on Siberys and the Couatl. 
+- On his way back he was captured by Boromar Clan thugs.
+*Plot Information*
+- Found a book called [[Godlings, Demigods, and Other Mythical Creatures]] and dropped it when he was captured.
+- He believes the key to that language has something to do with an ancient language associated with the Couatl, and that the Byeshk mountains might have answers.
+
+Person 2: *Name*
+*Session Information*
+- X (information relevant to session)
+*Plot Information*
+- X (information relevant to overall plot)
+
+(continue as needed)
+### Plot Actions
+
+Action 1: *Boromar Clan (Halak Boromar)*
+- Goal: Use Baelin and Aeren to create a weapon from the FKD fragment so he can consolidate his power.
+	- Baelin revealed that the fragment is something ancient and powerful.
+	- Halak's mind immediately began thinking of how to use this powerful artifact to consolidate his power both within the clan and the clan's power over Sharn.
+
+Action 2: *Name of significant NPC(s) or organization(s) involved*
+- Goal: X
+- X
+
+(continue as needed)
 ### Additional Notes
 
 - (Add any other notes or information that you need for the session)

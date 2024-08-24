@@ -1,7 +1,7 @@
 TODO:
 - [ ] Design Boromar safehouse
 	- What's interesting about it?
-	- Burned down in the past, used to be a smuggling hub?
+	- Dreamlily den
 	- Something to make it time sensitive? Silver flame knight hostage, impending death? 
 ### Outline
 - (List of significant beats)
@@ -14,7 +14,9 @@ TODO:
 	- [[Statblocks#Human Raider|Raider]] (Halfling, **Voss**) | Leader
 	- [[Statblocks#Alchemist|Alchemist]] (Orc, **Dig**) | rooftop
 	- [[Statblocks#Human Trickshot|Trickshot]] (Human, **Nila**) | rooftop
-
+- Loot:
+	- Something indicating they came from an illegal dreamlily factory
+	- 
 - [ ] Moment 1: *Name*
 - X
 
