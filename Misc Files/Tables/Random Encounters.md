@@ -91,16 +91,16 @@ Reference
 |8|The air buzzes with excitement as news spreads of a groundbreaking invention or a lucrative trade agreement, fueling the city's ambition and prosperity.|
 ### Skyway
 
-|d8|Encounter|
-|---|---|
-|1|A flock of trained messenger pigeons suddenly veers off course, startled by a passing wyvern, scattering messages to the wind.|
-|2|The party witnesses a breathtaking aerial display as a group of skyknights practices intricate formations, their enchanted blades flashing in the sunlight.|
-|3|A minor collision between two airships creates a shower of sparks and debris, forcing nearby vessels to take evasive maneuvers.|
-|4|A group of thrill-seekers leaps from a high platform, their bodies plummeting towards the ground before their enchanted cloaks deploy, slowing their descent.|
-|5|A street performer walks a tightrope strung between two towers, their balance seemingly defying gravity as they entertain the crowds below.|
-|6|A mournful horn sounds from a nearby tower, signaling the passing of a prominent figure and casting a somber mood over the bustling skyway.|
-|7|The air crackles with magical energy as a powerful spell is cast from a nearby tower, momentarily illuminating the sky with arcane light.|
-|8|The constant hum of magical engines and the whoosh of passing airships create a unique symphony of sound, a testament to Sharn's technological prowess.|
+| d8  | Encounter                                                                                                                                                     |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | A flock of trained messenger pigeons suddenly veers off course, startled by a passing wyvern, scattering messages to the wind.                                |
+| 2   | The party witnesses a breathtaking aerial display as a group of skyknights practices intricate formations, their enchanted blades flashing in the sunlight.   |
+| 3   | A minor collision between two airships creates a shower of sparks and debris, forcing nearby vessels to take evasive maneuvers.                               |
+| 4   | A group of thrill-seekers leaps from a high platform, their bodies plummeting towards the ground before their enchanted cloaks deploy, slowing their descent. |
+| 5   | A street performer walks a tightrope strung between two towers, their balance seemingly defying gravity as they entertain the crowds below.                   |
+| 6   | A mournful horn sounds from a nearby tower, signaling the passing of a prominent figure and casting a somber mood over the bustling skyway.                   |
+| 7   | The air crackles with magical energy as a powerful spell is cast from a nearby tower, momentarily illuminating the sky with arcane light.                     |
+| 8   | The constant hum of magical engines and the whoosh of passing airships create a unique symphony of sound, a testament to Sharn's technological prowess.       |
 
 ### The Cogs
 

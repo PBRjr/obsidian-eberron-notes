@@ -4,7 +4,9 @@ TODO:
 	- Dreamlily den
 	- Something to make it time sensitive? Silver flame knight hostage, impending death? 
 ### Outline
-- (List of significant beats)
+- Street Fight (start)
+- [[Dreamlily Den]]
+- [[Misc Files/Tables/Random Encounters|Random Encounters]]
 
 ### Moments & Encounters
 
@@ -17,25 +19,20 @@ TODO:
 	- Something indicating they came from an illegal dreamlily factory
 
 - [ ] Moment 1: *Dreamlily Den*
-- An old warehouse being used by the Boromar Clan to make Dreamlily.
+- An old [[Dreamlily Den|warehouse]] being used by the Boromar Clan to make Dreamlily.
 - ***Secret.*** The Den is being surveilled by the Sharn Watch, who are preparing for a raid.
 - The front door is cracked open, signs inside show people left in a hurry.
 - **Goals:** Show that Aeren was kept here but was just moved elsewhere.
-
-- [ ] Moment 2: *Name*
-- X
-- [ ] Encounter: *Name*
-- X
-
-(continue as needed, may nest encounters inside moments)
 
 - [ ] Session End: *Name*
 - (possible cliffhanger)
 
 ### Location Details
 
-Place 1: *Name*
-- X (brief and relevant to the session)
+Place 1: *The Den*
+- Large and decrepit, seems devoid of life from the outside
+- The main door is cracked open
+- Several poor people sit in the main chamber and refine Dreamlily.
 
 Place 2: *Name*
 - X
