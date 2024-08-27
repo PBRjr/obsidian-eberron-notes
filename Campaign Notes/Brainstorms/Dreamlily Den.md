@@ -1,6 +1,6 @@
 Warehouse full of poor workers creating dreamlily for the Boromar clan
 - run by Halak Boromar's side, not Castar
-- Enforcers inside include a hobgoblin, goblins, and a guard drake
+- Enforcers all left moments before party arrived, after they were informed of an incoming raid by the Black Guard
 
 
 **secret**
