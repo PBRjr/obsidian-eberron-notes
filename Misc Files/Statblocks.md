@@ -917,6 +917,48 @@ Challenge 1 (200 XP)
 
 **Dagger.** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 
+## Giants
+### Fire Giant Red Fist
+_Huge Giant, Any Alignment_  
+**Armor Class** 17 (natural armor)  
+**Hit Points** 162 (13d12 + 78)  
+**Speed** 40 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|25 (+7)|14 (+2)|23 (+6)|10 (+0)|14 (+2)|13 (+1)|
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Saving Throws** Str +11, Dex +6, Con +10  
+**Skills** Athletics +11, Perception +6  
+**Damage Immunities** fire  
+**Senses** passive Perception 16  
+**Languages** Giant  
+**Challenge** 9 (5,000 XP)  
+**Proficiency Bonus** +4
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Heat and Pressure.** When an enemy moves out of the red fist’s reach, the enemy must succeed on a DC 18 Constitution saving throw or gain a level of exhaustion. Creatures with resistance or immunity to fire damage are immune to this effect.
+
+**Molten Flesh.** The first time a creature other than a fire giant touches the red fist or hits them with a melee attack on a turn, that creature takes 7 (2d6) fire damage.
+
+**Actions**  
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Multiattack.** The red fist makes two Unarmed Strike attacks.
+
+**Unarmed Strike.** _Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 21 (4d6 + 7) bludgeoning damage plus 7 (2d6) fire damage. If the same creature is hit twice with this attack on a turn, they are blinded until the end of their next turn.
+
+**Hurl Flame.** _Ranged Spell Attack:_ +10 to hit, range 180 ft., one target. _Hit:_ 34 (8d6 + 6) fire damage.
+
+**Reactions**  
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Guardian Block (3/Day).** When an enemy within 10 feet of the red fist hits a creature other than the red fist with an attack, the red fist halves the damage dealt by that attack. The red fist then makes an Unarmed Strike against the attacker.
 
 ## Goblins
 ### Hobgoblin Death Captain
@@ -960,12 +1002,14 @@ _Medium humanoid (Hobgoblin), Any Alignment
 
 *On My Mark.* The captain commands an ally within 60 feet of them who can hear them to attack. That ally can make a weapon attack (no action required), dealing an extra 3 (1d6) necrotic damage on a hit.
 
----
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
 **Bonus Actions**
 
 *Lead the Charge (1/Day).* The captain and each ally within 30 feet of them who can see them can move up to their speed without provoking opportunity attacks.
 
----
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
 **Reactions**
 
 *Hidden Gift (3/Day).* When an ally the captain can see within 30 feet of them takes damage, the captain magically turns that ally invisible. The ally remains invisible until the end of their next turn or until they attack, deal damage, or force another creature to make a saving throw.
