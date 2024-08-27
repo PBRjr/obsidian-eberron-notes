@@ -41,7 +41,7 @@ vitals of refined dreamlily can be found around the facility, which grant more p
 | 10  | **Divine Reflexes:** The player can take an additional reaction this round and gains +2 AC until the start of their next turn.                                       |
 
 **plot stuff**
-- list of other safehouses, including many that aren't functioning anymore
-- people found creating drugs are some missing persons?
-- evidence that Aeren & Baelin were taken to the Skyway
-	- Drawings and depictions of the grand skyway House Boromar facility all over walls and paintings
+- turned over furnitures, left behind belongings, general signs of leaving in a hurry.
+- a note on a table that reads "BLACK GUARD, BURN IT ALL, MOVE THE PRISONERS"
+- guards might drop hints about an untouchable location on the skyway
+- 
