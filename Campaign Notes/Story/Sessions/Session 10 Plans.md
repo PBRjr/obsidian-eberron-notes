@@ -34,10 +34,36 @@ Place 1: *The Den*
 - The main door is cracked open
 - Several poor people sit in the main chamber and refine Dreamlily.
 
-Place 2: *Name*
-- X
+Place 2: *Books, Scrolls, and Nooks*
+- University District located in Upper Menthis
+	- Narrow three-story building > large bay windows and pink wooden door > displaying old tomes and colorful scrolls.
+	-  Specialties: Religious and historical texts
+- Lyriel d'Phiarlan
+	- Knowledgeable half-elf 48f
+	- Left house Phiarlan to pursue her passion for literature
 
-(continue as needed)
+Place 3: *Olladra's Kitchen*
+- Tavern ward located in Lower Central Plateau
+	- Contains several Pubs, dark alleyways, and few brothels
+	- Main attraction: *Olladra's Whip*
+- Neighboring wards
+	- Shops: *Granite Halls, North Towers*
+	- Inns: *Boldrei's Hearth*
+	- Residential: *Vallia Towers, Myshan Gardens*
+
+Place 4: *Everbright*
+- Magic ward located in Middle Menthis Plateau
+	- Contains several alchemy, artifice, and healing services
+	- Main attraction: *Jorasco House of Healing*
+- Neighboring wards
+	- Garrison: *Warden Towers*
+	- Shops: *Cassan Bridge*
+	- Neighborhoods: *Deniytas (gnomes), Platinate (wealthy)*
+
+Place 5: *Aeren's Workshop*
+- Located in Everbright, appears to be apartments from the outside
+- Renovated to a studio-like inside with 3 levels, and enough space to house the party.
+- Clockwork butler: *Piston*
 ### People
 
 Person 1: *Aeren d'Cannith*
@@ -48,11 +74,13 @@ Person 1: *Aeren d'Cannith*
 - Found a book called [[Godlings, Demigods, and Other Mythical Creatures]] and dropped it when he was captured.
 - He believes the key to that language has something to do with an ancient language associated with the Couatl, and that the Byeshk mountains might have answers.
 
-Person 2: *Name*
+Person 2: *Garhorn*
 *Session Information*
-- X (information relevant to session)
+- Is still very drunk, leading the players to the Den.
 *Plot Information*
-- X (information relevant to overall plot)
+- Halfling [[Statblocks#Enchanter|enchanter]], mid 30s, polite and manipulative.
+- Always followed by his Blink Dog **Blinker**.
+- Sounds like Billy Butcher
 
 (continue as needed)
 ### Plot Actions
