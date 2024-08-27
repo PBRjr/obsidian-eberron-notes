@@ -24,7 +24,7 @@ TODO:
 - The front door is cracked open, signs inside show people left in a hurry.
 - **Goals:** Show that Aeren was kept here but was just moved elsewhere.
 
-- [ ] Encounter 1: *The Black Guard*
+- [ ] Encounter 1: *The Red Cloak Batallian
 - 
 
 - [ ] Session End: *Name*
