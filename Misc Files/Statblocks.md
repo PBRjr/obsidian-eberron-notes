@@ -918,7 +918,6 @@ Challenge 1 (200 XP)
 **Dagger.** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 
 ## Giants
-
 ### Fire Giant Red Fist
 _Huge Giant, Any Alignment_  
 **Armor Class** 17 (natural armor)  
