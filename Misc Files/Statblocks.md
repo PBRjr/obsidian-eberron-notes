@@ -967,6 +967,41 @@ _Medium humanoid (Hobgoblin), Any Alignment
 
 *Hidden Gift (3/Day).* When an ally the captain can see within 30 feet of them takes damage, the captain magically turns that ally invisible. The ally remains invisible until the end of their next turn or until they attack, deal damage, or force another creature to make a saving throw.
 
+
+## Orcs
+### Orc Blitzer
+*Medium humanoid (Orc), Any Alignment*
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+**Armor Class** 13 (studded leather)  
+**Hit Points** 7  
+**Speed** 35 ft.
+
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 15 (+2) | 12 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 11 (+0) |
+
+**Senses** darkvision 60 ft., passive Perception 10  
+**Languages** Common, Orc  
+**Proficiency Bonus** +2
+
+---
+
+**Gnashing Horde.** If an enemy the blitzer can see starts their turn within 5 feet of three or more blitzers, the enemy takes 1 piercing damage for each blitzer within 5 feet of them.
+
+**Minion.** If the blitzer takes damage from an attack or as the result of a failed saving throw, their hit points are reduced to 0. If the blitzer takes damage from another effect, they die if the damage equals or exceeds their hit point maximum; otherwise they take no damage.
+
+**Relentless Minion.** When the blitzer is reduced to 0 hit points while they aren’t incapacitated, they can deal 1 piercing damage to an enemy within 5 feet of them.
+
+---
+
+### Actions
+
+**Spear (Group Attack).** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 1 piercing damage.
+
+---
+
+This stat block follows the requested format and includes all relevant details from the provided image.
+
 ## Beasts
 ### Pteranodons
 Medium Beast, Unaligned
