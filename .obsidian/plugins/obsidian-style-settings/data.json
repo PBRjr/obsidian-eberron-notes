@@ -4,7 +4,7 @@
   "obsidian-prism-theme@@h4-text-color-dt": "var(--color-green-text)",
   "obsidian-prism-theme@@h5-text-color-dt": "var(--color-orange-text)",
   "obsidian-prism-theme@@h6-text-color-dt": "var(--color-pink-text)",
-  "obsidian-prism-theme@@text-bold-color-dt": "var(--color-red-text)",
+  "obsidian-prism-theme@@text-bold-color-dt": "var(--color-yellow-text)",
   "obsidian-prism-theme@@text-italic-color-dt": "var(--color-grey-text)",
   "obsidian-prism-theme@@text-italic-bold-color-dt": "var(--text-italic-bold-custom-color-dt)",
   "obsidian-prism-theme@@text-italic-bold-custom-color-dt": "#FA0563"

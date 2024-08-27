@@ -918,6 +918,7 @@ Challenge 1 (200 XP)
 **Dagger.** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 
 ## Giants
+
 ### Fire Giant Red Fist
 _Huge Giant, Any Alignment_  
 **Armor Class** 17 (natural armor)  
@@ -946,7 +947,7 @@ _Huge Giant, Any Alignment_
 
 **Molten Flesh.** The first time a creature other than a fire giant touches the red fist or hits them with a melee attack on a turn, that creature takes 7 (2d6) fire damage.
 
-**Actions**  
+***Actions***  
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
 **Multiattack.** The red fist makes two Unarmed Strike attacks.
@@ -955,7 +956,7 @@ _Huge Giant, Any Alignment_
 
 **Hurl Flame.** _Ranged Spell Attack:_ +10 to hit, range 180 ft., one target. _Hit:_ 34 (8d6 + 6) fire damage.
 
-**Reactions**  
+***Reactions***  
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
 **Guardian Block (3/Day).** When an enemy within 10 feet of the red fist hits a creature other than the red fist with an attack, the red fist halves the damage dealt by that attack. The red fist then makes an Unarmed Strike against the attacker.
