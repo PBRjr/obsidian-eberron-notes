@@ -54,3 +54,24 @@ only druggies and the drug makers that were left behind without their knowledge
 after the raid begins:
 Hobgoblin death captain leader of the black guard, Garhorn knows of him
 Hired hands Orc Blitzers to deal with the bulk of the members during the raid
+
+**loot**
+
+| **Item**                          | **Value**          | **Description**                                                                                                                               |
+| --------------------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Pouches of Silver and Copper**  | 5-20 sp            | Small leather pouches containing a handful of silver and copper coins, likely dropped in haste during the escape.                             |
+| **Silk Handkerchiefs**            | 10-15 gp each      | Finely embroidered handkerchiefs with the Boromar Clan insignia, made of high-quality silk. They could symbolize status or be used as a clue. |
+| **Fine Cigars**                   | 25 gp per box      | A box containing 5 expensive cigars, possibly laced with a mild Dreamlily infusion, valuable to collectors or connoisseurs.                   |
+| **Dreamlily Pipes**               | 20 gp each         | Ornate pipes designed for smoking Dreamlily, carved from exotic wood with silver inlays, showcasing high craftsmanship.                       |
+| **Vials of Residual Dreamlily**   | 10 gp per vial     | Small glass vials containing traces of Dreamlily, useful for crafting, bribing, or as a potential poison.                                     |
+| **Stolen Jewelry**                | 50-100 gp total    | A mix of rings, necklaces, and bracelets, some identifiable as stolen, making them valuable but potentially difficult to sell.                |
+| **Rare Spices or Exotic Liquors** | 20-50 gp per crate | Crates containing spices or liquors from distant lands, smuggled into the city and highly valuable to the right buyer.                        |
+| **Baelin's Pocket Watch**         | 30 gp              | A silver pocket watch with an inscription inside the lid, "Semper Discens" or "Forever Learning".                                             |
+| **Love Letters**                  | Sentimental        | A stack of unsent love letters between Boromar members, offering insight into their personal lives and internal dynamics.                     |
+| **Throwing Knives**               | 5 gp each          | Finely balanced throwing knives, likely used by Boromar enforcers, well-made but not extraordinary.                                           |
+| **Brass Knuckles**                | 10 gp              | Worn and scratched brass knuckles, a common weapon among street thugs, possibly collectible for those who appreciate rough fighting gear.     |
+| **Healing Potions**               | 50 gp each         | Standard minor healing potions, useful and valuable for any adventurer, overlooked in the rush to escape.                                     |
+| **Potion of Clarity**             | 75 gp              | A potion that grants advantage on Wisdom saving throws for 1 hour, useful against Dreamlily addiction or illusions.                           |
+| **Illegible Maps**                | Plot value         | A smudged, difficult-to-read map that could lead to a hidden location or stash, offering potential clues or plot advancement.                 |
+| **Marked Playing Cards**          | 15 gp              | A deck of cards with subtle markings for cheating, often used in gambling dens, which could be a clue or simply a curious find.               |
+| **Assorted Keys**                 | Plot value         | A ring of assorted keys, potentially unlocking hidden rooms or storage areas within the warehouse or other Boromar-controlled locations.      |
