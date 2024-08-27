@@ -15,4 +15,5 @@ The Galifar calendar is broken up into 12 months, each with 4 weeks or 28 days, 
 | Aryth     | Late autumn  | Passage     |
 | Vult      | Early winter | Warding     |
 Session 4: 10 Therendor, 998 YK
-Session 7: 13 Threrendor, 998 YK
+Session 7: 13 Therendor, 998 YK
+Session 10: 14 Therendor, 998 YK

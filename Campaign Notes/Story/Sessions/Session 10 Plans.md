@@ -1,8 +1,3 @@
-TODO:
-- [ ] Design Boromar safehouse
-	- What's interesting about it?
-	- Dreamlily den
-	- Something to make it time sensitive? Silver flame knight hostage, impending death? 
 ### Outline
 - Street Fight (start)
 - [[Dreamlily Den]]
@@ -26,7 +21,7 @@ TODO:
 
 - [ ] Encounter 1: *The Red Cloak Battalion
 - The raid is led by [[Statblocks#Hobgoblin Death Captain|Kazrak the Unyielding]] followed by a large mix of [[Statblocks#Human Guard|Guards]] and [[Statblocks#Orc Blitzer|Orc Blitzers]] from the *King's Swords*.
-- After d4 rounds in combat, the bomb inside th
+- After d4 rounds in combat, the bomb inside the warehouse explodes, triggering a **skill challenge** to escape.
 
 - [ ] Session End: *Name*
 - (possible cliffhanger)
@@ -93,11 +88,9 @@ Action 1: *Boromar Clan (Halak Boromar)*
 	- Baelin revealed that the fragment is something ancient and powerful.
 	- Halak's mind immediately began thinking of how to use this powerful artifact to consolidate his power both within the clan and the clan's power over Sharn.
 
-Action 2: *Sharn Watch (Black Guard)*
+Action 2: *Red Cloak Battalion*
 - Goal: Conduct a raid on the Den and secure evidence.
 - Overall goal: Systematically dismantle the Boromar Clan.
-
-(continue as needed)
 ### Additional Notes
 
-- (Add any other notes or information that you need for the session)
+- 14 Therendor, 998 YK
