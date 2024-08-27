@@ -43,3 +43,5 @@ vitals of refined dreamlily can be found around the facility, which grant more p
 **plot stuff**
 - list of other safehouses, including many that aren't functioning anymore
 - people found creating drugs are some missing persons?
+- evidence that Aeren & Baelin were taken to the Skyway
+	- Drawings and depictions of the grand skyway House Boromar facility all over walls and paintings
