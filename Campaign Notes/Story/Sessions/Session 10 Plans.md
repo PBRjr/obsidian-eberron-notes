@@ -16,8 +16,8 @@ TODO:
 - Loot:
 	- Something indicating they came from an illegal dreamlily factory
 
-- [ ] Moment 1: *Name*
-- X
+- [ ] Moment 1: *Dreamlily Den*
+- An old warehouse bein
 - [ ] Moment 2: *Name*
 - X
 - [ ] Encounter: *Name*
