@@ -39,3 +39,7 @@ vitals of refined dreamlily can be found around the facility, which grant more p
 | 8   | **True Sight:** The player gains truesight out to 60 feet, seeing through illusions, darkness, and invisibility. Lasts 1 round.                                      |
 | 9   | **Energy Burst:** The player can cast one spell they know at one level higher than they have spell slots for, without expending a spell slot. Lasts 1 round.         |
 | 10  | **Divine Reflexes:** The player can take an additional reaction this round and gains +2 AC until the start of their next turn.                                       |
+
+**plot stuff**
+- list of other safehouses, including many that aren't functioning anymore
+- people found creating drugs are some missing persons?
