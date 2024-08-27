@@ -972,9 +972,10 @@ _Medium humanoid (Hobgoblin), Any Alignment
 ### Orc Blitzer
 *Medium humanoid (Orc), Any Alignment*
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
 **Armor Class** 13 (studded leather)  
 **Hit Points** 7  
-**Speed** 35 ft.
+**Speed** 35 ft
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
 | ------- | ------- | ------- | ------ | ------ | ------ |
@@ -984,7 +985,7 @@ _Medium humanoid (Hobgoblin), Any Alignment
 **Languages** Common, Orc  
 **Proficiency Bonus** +2
 
----
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
 **Gnashing Horde.** If an enemy the blitzer can see starts their turn within 5 feet of three or more blitzers, the enemy takes 1 piercing damage for each blitzer within 5 feet of them.
 
@@ -992,15 +993,11 @@ _Medium humanoid (Hobgoblin), Any Alignment
 
 **Relentless Minion.** When the blitzer is reduced to 0 hit points while they aren’t incapacitated, they can deal 1 piercing damage to an enemy within 5 feet of them.
 
----
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-### Actions
+ *Actions*
 
 **Spear (Group Attack).** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 1 piercing damage.
-
----
-
-This stat block follows the requested format and includes all relevant details from the provided image.
 
 ## Beasts
 ### Pteranodons

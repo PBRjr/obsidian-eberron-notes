@@ -46,3 +46,10 @@ vitals of refined dreamlily can be found around the facility, which grant more p
 - guards might drop hints about an untouchable location on the skyway
 - flashing crystal wrapped with a magical conduit leading to various structures in the warehouse
 	- bomb timer, trigger skill challenge to escape the burning/collapsing warehouse with the Black Guard close in tail
+
+**enemy roster**
+all boromar enforcers and members have left
+only druggies and the drug makers that were left behind without their knowledge
+after the raid begins:
+Hobgoblin death captain leader of the black guard, Garhorn knows of him
+Hired hands Orc Blitzers to deal with the bulk of the members during the raid
