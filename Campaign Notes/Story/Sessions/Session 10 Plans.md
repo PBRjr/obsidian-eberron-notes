@@ -17,7 +17,11 @@ TODO:
 	- Something indicating they came from an illegal dreamlily factory
 
 - [ ] Moment 1: *Dreamlily Den*
-- An old warehouse bein
+- An old warehouse being used by the Boromar Clan to make Dreamlily.
+- ***Secret.*** The Den is being surveilled by the Sharn Watch, who are preparing for a raid.
+- The front door is cracked open, signs inside show people left in a hurry.
+- **Goals:** Show that Aeren was kept here but was just moved elsewhere.
+
 - [ ] Moment 2: *Name*
 - X
 - [ ] Encounter: *Name*
