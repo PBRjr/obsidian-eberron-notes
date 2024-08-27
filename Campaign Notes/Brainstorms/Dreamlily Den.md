@@ -42,6 +42,7 @@ vitals of refined dreamlily can be found around the facility, which grant more p
 
 **plot stuff**
 - turned over furnitures, left behind belongings, general signs of leaving in a hurry.
-- a note on a table that reads "BLACK GUARD, BURN IT ALL, MOVE THE PRISONERS"
+- a note on a table that reads "BLACK GUARD, BURN IT ALL, MOVE THE PRISONERS TO SKYWAY"
 - guards might drop hints about an untouchable location on the skyway
-- 
+- flashing crystal wrapped with a magical conduit leading to various structures in the warehouse
+	- bomb timer, trigger skill challenge to escape the burning/collapsing warehouse with the Black Guard close in tail
