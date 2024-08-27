@@ -14,8 +14,8 @@ Warehouse full of poor workers creating dreamlily for the Boromar clan
 all boromar enforcers and members have left
 only druggies and the drug makers that were left behind without their knowledge
 after the raid begins:
-Hobgoblin death captain leader of the black guard, Garhorn knows of him
-Hired hands Orc Blitzers to deal with the bulk of the members during the raid
+Hobgoblin death captain leader of the Red Cloak Battalion, Garhorn knows of him
+Extra guards help during the raid
 
 **secret**
 the place is being surveilled by the Sharn watch, who are preparing for a raid...
