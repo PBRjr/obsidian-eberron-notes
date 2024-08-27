@@ -7,8 +7,8 @@ Warehouse full of poor workers creating dreamlily for the Boromar clan
 the place is being surveilled by the Sharn watch, who are preparing for a raid...
 
 **dynamic encounter**
-magical smelling dust swirls and permiates the air
-anyone who inhales the dust must make a constatution saving throw or roll on a table for a random effect
+magical smelling dust swirls and permeates the air
+anyone who inhales the dust must make a constitution saving throw or roll on a table for a random effect
 
 *Bad gas*
 
