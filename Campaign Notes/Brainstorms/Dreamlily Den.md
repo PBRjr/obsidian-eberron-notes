@@ -43,7 +43,7 @@ vitals of refined dreamlily can be found around the facility, which grant more p
 **plot stuff**
 - turned over furnitures, left behind belongings, general signs of leaving in a hurry.
 - a note on a table that reads "BLACK GUARD, BURN IT ALL, MOVE THE PRISONERS TO SKYWAY"
-- scrawled [[Aeren's Written Notes]] on the desk from his capture
+- [[Godlings, Demigods, and Other Mythical Creatures]] is on the desk from his capture
 - guards might drop hints about an untouchable location on the skyway
 - flashing crystal wrapped with a magical conduit leading to various structures in the warehouse
 	- bomb timer, trigger skill challenge to escape the burning/collapsing warehouse with the Black Guard close in tail
@@ -72,6 +72,5 @@ Hired hands Orc Blitzers to deal with the bulk of the members during the raid
 | **Brass Knuckles**                | 10 gp              | Worn and scratched brass knuckles, a common weapon among street thugs, possibly collectible for those who appreciate rough fighting gear.     |
 | **Healing Potions**               | 50 gp each         | Standard minor healing potions, useful and valuable for any adventurer, overlooked in the rush to escape.                                     |
 | **Potion of Clarity**             | 75 gp              | A potion that grants advantage on Wisdom saving throws for 1 hour, useful against Dreamlily addiction or illusions.                           |
-| **Illegible Maps**                | Plot value         | A smudged, difficult-to-read map that could lead to a hidden location or stash, offering potential clues or plot advancement.                 |
+| **Illegible Maps**                | Plot value         | A smudged, difficult-to-read map of the interior warehouse with certain spots parked with red X's.                                            |
 | **Marked Playing Cards**          | 15 gp              | A deck of cards with subtle markings for cheating, often used in gambling dens, which could be a clue or simply a curious find.               |
-| **Assorted Keys**                 | Plot value         | A ring of assorted keys, potentially unlocking hidden rooms or storage areas within the warehouse or other Boromar-controlled locations.      |
