@@ -6,4 +6,5 @@ The Red Cloak Battalion is a very small and elite force of magically enhanced so
 [[Statblocks#Fire Giant Red Fist|Magmar]] - Fire Giant Red Fist
 - Stationed in the Kogs and Magma pools
 [[Statblocks#Hobgoblin Death Captain|Kazrak the Unyielding]] - Hobgoblin Death Captain
-- Stationed in the main city, lower and upper
+- Stationed in the main city, including the lower through upper wards.
+

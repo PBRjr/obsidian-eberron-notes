@@ -2,6 +2,20 @@ Warehouse full of poor workers creating dreamlily for the Boromar clan
 - run by Halak Boromar's side, not Castar
 - Enforcers all left moments before party arrived, after they were informed of an incoming raid by the Black Guard
 
+**plot stuff**
+- turned over furniture, left behind belongings, general signs of leaving in a hurry.
+- a note on a table that reads "RED CLOAK BATTALION, BURN IT ALL, MOVE THE PRISONERS TO SKYWAY"
+- [[Godlings, Demigods, and Other Mythical Creatures]] is on the desk from his capture
+- guards might drop hints about an untouchable location on the skyway
+- flashing crystal wrapped with a magical conduit leading to various structures in the warehouse
+	- bomb timer, trigger skill challenge to escape the burning/collapsing warehouse with the Black Guard close in tail
+
+**enemy roster**
+all boromar enforcers and members have left
+only druggies and the drug makers that were left behind without their knowledge
+after the raid begins:
+Hobgoblin death captain leader of the black guard, Garhorn knows of him
+Hired hands Orc Blitzers to deal with the bulk of the members during the raid
 
 **secret**
 the place is being surveilled by the Sharn watch, who are preparing for a raid...
@@ -40,20 +54,6 @@ vitals of refined dreamlily can be found around the facility, which grant more p
 | 9   | **Energy Burst:** The player can cast one spell they know at one level higher than they have spell slots for, without expending a spell slot. Lasts 1 round.         |
 | 10  | **Divine Reflexes:** The player can take an additional reaction this round and gains +2 AC until the start of their next turn.                                       |
 
-**plot stuff**
-- turned over furnitures, left behind belongings, general signs of leaving in a hurry.
-- a note on a table that reads "BLACK GUARD, BURN IT ALL, MOVE THE PRISONERS TO SKYWAY"
-- [[Godlings, Demigods, and Other Mythical Creatures]] is on the desk from his capture
-- guards might drop hints about an untouchable location on the skyway
-- flashing crystal wrapped with a magical conduit leading to various structures in the warehouse
-	- bomb timer, trigger skill challenge to escape the burning/collapsing warehouse with the Black Guard close in tail
-
-**enemy roster**
-all boromar enforcers and members have left
-only druggies and the drug makers that were left behind without their knowledge
-after the raid begins:
-Hobgoblin death captain leader of the black guard, Garhorn knows of him
-Hired hands Orc Blitzers to deal with the bulk of the members during the raid
 
 **loot**
 

@@ -16,7 +16,7 @@ TODO:
 	- [[Statblocks#Alchemist|Alchemist]] (Orc, **Dig**) | rooftop
 	- [[Statblocks#Human Trickshot|Trickshot]] (Human, **Nila**) | rooftop
 - Loot:
-	- Something indicating they came from an illegal dreamlily factory
+	- Something indicating they came from an illegal Dreamlily factory
 
 - [ ] Moment 1: *Dreamlily Den*
 - An old [[Dreamlily Den|warehouse]] being used by the Boromar Clan to make Dreamlily.
@@ -24,8 +24,9 @@ TODO:
 - The front door is cracked open, signs inside show people left in a hurry.
 - **Goals:** Show that Aeren was kept here but was just moved elsewhere.
 
-- [ ] Encounter 1: *The Red Cloak Batallian
-- 
+- [ ] Encounter 1: *The Red Cloak Battalion
+- The raid is led by [[Statblocks#Hobgoblin Death Captain|Kazrak the Unyielding]] followed by a large mix of [[Statblocks#Human Guard|Guards]] and [[Statblocks#Orc Blitzer|Orc Blitzers]] from the *King's Swords*.
+- After d4 rounds in combat, the bomb inside th
 
 - [ ] Session End: *Name*
 - (possible cliffhanger)
