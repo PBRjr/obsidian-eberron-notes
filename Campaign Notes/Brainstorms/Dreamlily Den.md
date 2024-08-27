@@ -14,9 +14,9 @@ anyone who inhales the dust must make a constatution saving throw or roll on a t
 
 | d10 | Effect                                                                                                                                                                           |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Intense Hallucinations:** The player perceives non-existent threats, attacking at (DC 15 Wisdom saving throw at the end of each turn to regain clarity.)                       |
+| 1   | **Intense Hallucinations:** The player perceives non-existent threats, using their next action to attack the air nearby.                                                         |
 | 2   | **Euphoria:** The player feels overwhelming joy, having disadvantage on Wisdom (Perception) checks and attack rolls for 1d4 rounds.                                              |
-| 3   | **Paranoia:** The player believes allies are enemies, and must make a DC 14 Wisdom saving throw to avoid attacking a nearby ally on their next turn.                             |
+| 3   | **Paranoia:** The player believes allies are enemies, and becomes fearful of allies, becoming unable to move towards allies for the next 3 rounds (DC 15 Wis Save).              |
 | 4   | **Debilitating Nausea:** The player is poisoned for 1d4 rounds, suffering disadvantage on attack rolls and ability checks.                                                       |
 | 5   | **Uncontrollable Laughter:** The player bursts into laughter, becoming incapacitated for 1d4 rounds. They can repeat the saving throw at the end of each turn to regain control. |
 | 6   | **Time Dilation:** The player perceives time slowing down, and their movement speed is halved for 1d6 rounds.                                                                    |
