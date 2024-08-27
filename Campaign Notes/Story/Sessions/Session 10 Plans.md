@@ -9,7 +9,6 @@ TODO:
 ### Moments & Encounters
 
 - [ ] Session Start: *Street Fight*
-- Voss has Aeren's [[Aeren's Written Notes|scrawled notes]]
 - Enemy roster:
 	- [[Statblocks#Human Raider|Raider]] (Halfling, **Voss**) | Leader
 	- [[Statblocks#Alchemist|Alchemist]] (Orc, **Dig**) | rooftop
