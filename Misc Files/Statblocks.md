@@ -26,6 +26,10 @@ References
 	- [[#Humanoids#Commoner|Commoner]]
 	- [[#Humanoids#Bandit (Increased Diff)|Bandit (Increased Diff)]]
 	- [[#Humanoids#Enchanter|Enchanter]]
+- [[#Goblins|Goblins]]
+	- [[#Goblins#Hobgoblin Death Captain|Hobgoblin Death Captain]]
+- [[#Orcs|Orcs]]
+	- [[#Orcs#Orc Blitzer|Orc Blitzer]]
 - [[#Beasts|Beasts]]
 	- [[#Beasts#Pteranodons|Pteranodons]]
 - [[#Monstrosities|Monstrosities]]
@@ -34,7 +38,6 @@ References
 	- [[#Monstrosities#Mimic|Mimic]]
 - [[#Structures|Structures]]
 	- [[#Structures#Balista|Balista]]
-
 
 ---
 ## Undead

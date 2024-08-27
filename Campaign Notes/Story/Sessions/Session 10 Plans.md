@@ -24,6 +24,9 @@ TODO:
 - The front door is cracked open, signs inside show people left in a hurry.
 - **Goals:** Show that Aeren was kept here but was just moved elsewhere.
 
+- [ ] Encounter 1: *The Black Guard*
+- 
+
 - [ ] Session End: *Name*
 - (possible cliffhanger)
 
@@ -80,9 +83,8 @@ Person 2: *Garhorn*
 *Plot Information*
 - Halfling [[Statblocks#Enchanter|enchanter]], mid 30s, polite and manipulative.
 - Always followed by his Blink Dog **Blinker**.
-- Sounds like Billy Butcher
-
-(continue as needed)
+- Sounds like Billy Butcher.
+- Has many enemies from the Clan.
 ### Plot Actions
 
 Action 1: *Boromar Clan (Halak Boromar)*
@@ -90,9 +92,9 @@ Action 1: *Boromar Clan (Halak Boromar)*
 	- Baelin revealed that the fragment is something ancient and powerful.
 	- Halak's mind immediately began thinking of how to use this powerful artifact to consolidate his power both within the clan and the clan's power over Sharn.
 
-Action 2: *Name of significant NPC(s) or organization(s) involved*
-- Goal: X
-- X
+Action 2: *Sharn Watch (Black Guard)*
+- Goal: Conduct a raid on the Den and secure evidence.
+- Overall goal: Systematically dismantle the Boromar Clan.
 
 (continue as needed)
 ### Additional Notes
