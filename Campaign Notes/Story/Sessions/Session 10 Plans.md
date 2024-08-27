@@ -16,10 +16,9 @@ TODO:
 	- [[Statblocks#Human Trickshot|Trickshot]] (Human, **Nila**) | rooftop
 - Loot:
 	- Something indicating they came from an illegal dreamlily factory
-	- 
+
 - [ ] Moment 1: *Name*
 - X
-
 - [ ] Moment 2: *Name*
 - X
 - [ ] Encounter: *Name*
