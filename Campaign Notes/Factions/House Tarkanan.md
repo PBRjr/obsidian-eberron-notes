@@ -25,7 +25,11 @@ References
 - Cost: 100gp + (1d4 x 100)gp
 **Manslaughter:**
 - No specifics, assassin is sent when coinvent
-- Cost: 
+- Cost: 50gp + (1d4 x 50)gp
+**Assassination of the Soul:**
+- Assassination utilizing the *Keeper's Fang Dagger* that traps the victim's soul in the domain of *The Keeper*, preventing raising/resurrection
+- Cost: 200gp + (2d4 x 100)
+
 ### HQ Location
 
 - Stronghold in [[Sharn#Lower Dura|Lower Dura]]
@@ -39,20 +43,17 @@ References
 
 ### Goals/Motivations
 
-- Gain respect, legitimacy, and influence in Sharn
+- Recruit aberrant dragonmark users
 - Challenge the power of established Dragonmarked Houses
 - Prove the strength of aberrant dragonmarks
 
 ### Resources/Capabilities
 
 - Network of establishments like the Dragon's Breath Tavern
-- Access to Mournland-tainted weapons via Marix d'Cannith
-- Members have varied dangerous dragonmark powers
+- Members have dangerous aberrant dragonmark powers
 
 ### Activities
-
-- Criminal enterprises - racketeering, smuggling
-- Underground war against the Boromar Clan for control of Sharn's underworld
+- Assassinations
 
 ### Allies & Enemies
 
