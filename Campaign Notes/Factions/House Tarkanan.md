@@ -20,7 +20,12 @@ References
 - Halas Martain, right hand, skilled infiltrator with healing dragonmark
 
 ### Services
-
+**Assassination:**
+- Client specifies place, method, time.
+- Cost: 100gp + (1d4 x 100)gp
+**Manslaughter:**
+- No specifics, assassin is sent when coinvent
+- Cost: 
 ### HQ Location
 
 - Stronghold in [[Sharn#Lower Dura|Lower Dura]]
