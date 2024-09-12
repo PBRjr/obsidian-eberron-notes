@@ -15,13 +15,16 @@ References
 ---
 ### Leadership
 
-- [[Thora Tarkanan]], leader, stern and charismatic human aberrant dragonmark bearer
+- [[The Son of Khyber]], Daine Halar Deneith, leader, possed by the soul of Daine, who lived during the War of the Mark
+- [[Thora Tarkanan]], public-facing leader, stern and charismatic human aberrant dragonmark bearer
 - Halas Martain, right hand, skilled infiltrator with healing dragonmark
+
+### Services
 
 ### HQ Location
 
-- Stronghold in Dura district of Sharn's lower city
-- Various safehouses across lower city districts like Dragoneyes and the Depths
+- Stronghold in [[Sharn#Lower Dura|Lower Dura]]
+- Various safehouses across lower and middle city districts like Dragoneyes and the Depths
 
 ### Members
 
