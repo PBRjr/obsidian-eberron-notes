@@ -51,7 +51,7 @@ House Tarkanan will refuse any contracts against any high-ranking members of the
 
 ### Allies & Enemies
 - No direct alliances with other organizations or governments
-- Uneasy tru
+- Uneasy truce with the Boromar clan: The House will not perform any work that may compete with the activities of the Boromar Clan
 ### Resources/Capabilities
 
 - Network of establishments like the Dragon's Breath Tavern
