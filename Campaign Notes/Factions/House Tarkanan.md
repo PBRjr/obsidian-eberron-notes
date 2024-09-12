@@ -30,6 +30,8 @@ References
 - Assassination utilizing the *Keeper's Fang Dagger* that traps the victim's soul in the domain of *The Keeper*, preventing raising/resurrection
 - Cost: 200gp + (2d4 x 100)
 
+House Tarkanan will refuse any contracts against any high-ranking members of the other criminal organizations in Sharn, however they will accept contracts against members of the other Dragonmarked Houses.
+
 ### HQ Location
 
 - Stronghold in [[Sharn#Lower Dura|Lower Dura]]
@@ -47,18 +49,13 @@ References
 - Challenge the power of established Dragonmarked Houses
 - Prove the strength of aberrant dragonmarks
 
+### Allies & Enemies
+- No direct alliances with other organizations or governments
+- Uneasy tru
 ### Resources/Capabilities
 
 - Network of establishments like the Dragon's Breath Tavern
 - Members have dangerous aberrant dragonmark powers
-
-### Activities
-- Assassinations
-
-### Allies & Enemies
-
-- Ally: Marix d'Cannith - provides mourning weapons
-- Enemy: The Boromar Clan - rival criminal organization
 
 ### PC Interactions
 
@@ -67,6 +64,5 @@ References
 
 ### Adventure Hooks
 
-- Investigate the alliance with Marix on behalf of the houses
 - Help strike a decisive blow against the Boromar Clan
 - Track down the identity of the mysterious Beggar King
