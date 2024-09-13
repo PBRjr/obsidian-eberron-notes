@@ -1,6 +1,6 @@
 ### Concept 
 
-2-3 sentence summary of the NPC's core concept and role
+2-3 sentence summary of the NPC's core concept and role in the lore/game
 
 ### Description
 
@@ -8,9 +8,13 @@
 - Personality
 - Mannerisms
 
+### Roleplaying Tips
+
+Suggestions for playing and voicing this NPC
+
 ### Backstory
 
-- Brief background and history of the NPC
+- Summarized bullet points of significant events in this NPC's backstory
 
 ### Motivations 
 
@@ -18,20 +22,15 @@
 - Short term goals
 - Long term aspirations
 
-### Abilities & Powers
+### Rumors
 
-- Statblock
-- Skills & expertise
-- Spells or special abilities 
+- A few simple and short rumors that may be overheard about this NPC
+
 ### Allies & Enemies
 
 - Associated faction(s)
 - Key Allies
 - Rivals or enemies
-
-### Roleplaying Tips
-
-Suggestions for playing and voicing this NPC
 
 ### Connections & Hooks
 
