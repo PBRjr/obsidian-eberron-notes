@@ -4,3 +4,5 @@ they are working in House Tarkanan, following the orders of tarkanan as he enact
 The players have to accomplish some goal
 it ends with the party dying in the collapse of the city
 what do they have to accomplish?
+
+### Read-in
