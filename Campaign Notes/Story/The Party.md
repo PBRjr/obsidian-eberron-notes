@@ -75,3 +75,16 @@ From an early age, Sylas displayed an insatiable curiosity for the arcane, an un
 One fateful night, during an illicit ritual deep in the city's labyrinthine sewers, Sylas made a pact with the mysterious and enigmatic Traveler. The Traveler granted Sylas otherworldly powers in exchange for his servitude and adherence to its unpredictable whims. Its motives were always veiled in mystery, and its presence brought chaos and intrigue to Sylas's life.
 
 The Traveler's influence transformed Sylas into a warlock with the power to manipulate time, reality, and fate. But in return, the Traveler would randomly manifest its presence, whisking Sylas away to alternate realities and planes, often leaving him to navigate unforeseen challenges.
+
+## Forge
+Forge was once a human general during the tumultuous times of the Last War. Known for his unwavering commitment to victory, he often made decisions that placed strategic objectives above the lives of his own soldiers. In a pivotal battle, faced with overwhelming odds, he made the fateful choice to detonate an explosion that claimed his life along with his entire squad, effectively turning the tide in his side's favor.
+
+After his death, Forge's soul was captured by House Cannith, a powerful faction renowned for their advancements in magical engineering. They were experimenting with the creation of sentient constructs called warforged—living beings made of metal and magic designed for warfare. Forge's soul was infused into one of these new bodies, and unlike others in the program, he retained his memories and sanity. This unexpected outcome puzzled the artificers, who could not replicate the process successfully with other subjects.
+
+Held captive by House Cannith, Forge underwent numerous tests as they sought to understand why he was different. Using his experience and tactical acumen, he eventually orchestrated an escape. In the process, he destroyed the creation forge responsible for his rebirth, dealing a significant blow to House Cannith's operations.
+
+Since his escape, Forge has been on the run. House Cannith is determined to find him, both to prevent any secrets from being exposed and to continue their research based on his unique transformation. Bearing a distinctive dragonmark emblazoned on his chest—an identifier linking him to House Cannith—he moves cautiously, aware that he is constantly being pursued.
+
+Forge grapples with his new existence, questioning what it means to be alive in a constructed body. He contemplates the ethics of creating more beings like himself. Would bringing others into the world as warforged be an act of creation or manipulation? This internal conflict drives him to seek understanding of his own identity and purpose.
+
+Amidst a world striving to recover from the devastation of war, Forge searches for a place where he belongs. He is caught between his past as a human general and his present as a warforged fugitive. His journey is one of self-discovery, as he tries to reconcile his actions during the war with his desire to forge a new path forward.
