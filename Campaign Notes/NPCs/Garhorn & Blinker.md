@@ -15,13 +15,15 @@ Once a proud member of the Boromar Clan, loyal to Castar, Garhorn now drinks his
 - The one thing he loves more than drinking is Blinker. I will give his life without hesitation to protect his cainine friend.
 ### Backstory
 
-- Worked in the Boromar clan for most of his adult life
+- Worked in the Boromar clan for most of his adult life, moving up in the ranks until he became a well-respected member, known for his charisma and intimidating presence, despite his short stature.
+- He was sent on a mission to the small town of Shavalant to begin a protection racket as a part of a larger operation overseen by Castar. He encountered the party there, and was subsequently ejected from the town, barely keeping his life thanks to his wit.
+- After returning to Boromar HQ in Sharn, he was punished severly by his superiors, and sentenced to death. He barely escaped, thanks to Blinker, and he now scuttles along the streets of Sharn, splitting his time between dodging Boromar operatives that are after him and drinking away his worries.
 
 ### Motivations 
 
-- Alignment
-- Short term goals
-- Long term aspirations
+- Chaotic neutral
+- Survive, stay intoxicated, dodge Boromar operatives
+- Survive, 
 
 ### Rumors
 
