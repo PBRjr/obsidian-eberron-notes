@@ -1,6 +1,6 @@
 ### Concept 
 
-Once a proud member of the Boromar Clan, loyal to Castar, Garhorn now drinks his day away in the streets of Sharn. After his encounter with the party, he spends his days picking up odd jobs to support his drinking. His blink dog Blinker remains fiercly loyal, always by his side, watching his back while he sleeps away his intoxication.
+Once a proud member of the Boromar Clan and loyal to Castar, Garhorn now drinks his days away in the streets of Sharn. After his encounter with the party, he spends his days picking up odd jobs to support his drinking. His blink dog Blinker remains fiercely loyal, always by his side, watching his back while he sleeps away his intoxication.
 
 ### Description
 
@@ -23,7 +23,7 @@ Once a proud member of the Boromar Clan, loyal to Castar, Garhorn now drinks his
 
 - Chaotic neutral
 - Survive, stay intoxicated, dodge Boromar operatives
-- Survive, 
+- Survive, find a long-term home for Blinker
 
 ### Rumors
 
@@ -31,9 +31,8 @@ Once a proud member of the Boromar Clan, loyal to Castar, Garhorn now drinks his
 
 ### Allies & Enemies
 
-- Associated faction(s)
-- Key Allies
-- Rivals or enemies
+- Boromar Clan (***Enemy***)
+- Blinker (**Best Friend**)
 
 ### Connections & Hooks
 
