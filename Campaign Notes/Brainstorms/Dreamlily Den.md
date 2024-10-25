@@ -2,16 +2,17 @@ Warehouse full of poor workers creating dreamlily for the Boromar clan
 - run by Halak Boromar's side, not Castar
 - Enforcers all left moments before party arrived, after they were informed of an incoming raid by the Red Cloak Battalion
 
-**plot stuff**
+## Plot
 - turned over furniture, left behind belongings, general signs of leaving in a hurry.
-- Note on desk in back: "We have a mole. Red Cloak Battalion raid today. Kill the Filth, burn the house, take as many of Sharn's finest with it. Go to "
+- Note on desk in back: *"We have a mole. Red Cloak Battalion raid today. Kill the Filth, burn the house with Sharn's finest in it. Meet at O's Whip. Take the prisoner with you."*
 - [[Godlings, Demigods, and Other Mythical Creatures]] is on the desk from his capture
-- flashing crystal wrapped with a magical conduit leading to various structures in the warehouse
-	- bomb timer, trigger skill challenge to escape the burning/collapsing warehouse with the Black Guard close in tail
+- flashing crystal wrapped with a magical conduit on desk next to note. Wires lead to various structures in the warehouse
+	- Bomb timer: bomb flashes faster and increases in pitch as it gets closer to detonating.
+	- Top of round 4: Skill challenge to escape the collapsed warehouse & Red cloak Battalion.
 
-**enemy roster**
-Warehouse is empty of live perssonnell. Corpses of drug slaves (Filth) littered throughout warehouse, executed.
-Hobgoblin death captain leader (**Kazrak the Unyielding**) of the Red Cloak Battalion, Garhorn knows of him
+## Roster
+Warehouse is empty of live personnel. Corpses of drug slaves (Filth) littered throughout warehouse, executed.
+Hobgoblin death captain leader ([[Statblocks#Hobgoblin Death Captain|Kazrak the Unyielding]]) of the Red Cloak Battalion, Garhorn knows of him
 Extra guards help during the raid
 
 **secret**

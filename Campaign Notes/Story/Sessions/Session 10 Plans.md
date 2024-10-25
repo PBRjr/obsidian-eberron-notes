@@ -49,7 +49,7 @@ Place 2: *Books, Scrolls, and Nooks*
 Place 3: *Olladra's Kitchen*
 - Tavern ward located in Lower Central Plateau
 	- Contains several Pubs, dark alleyways, and few brothels
-	- Main attraction: *OlladrPigsmeata's Whip*
+	- Main attraction: *Olladra's Whip*
 - Neighboring wards
 	- Shops: *Granite Halls, North Towers*
 	- Inns: *Boldrei's Hearth*
