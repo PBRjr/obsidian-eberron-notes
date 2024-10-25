@@ -1,5 +1,13 @@
-Warehouse full of poor workers creating dreamlily for the Boromar clan
-- run by Halak Boromar's side, not Castar
+Reference
+- [[#Plot|Plot]]
+- [[#Roster|Roster]]
+- [[#Unrefined Dreamlily Dust|Unrefined Dreamlily Dust]]
+- [[#Loot|Loot]]
+
+---
+
+Warehouse full of poor workers creating Dreamlily for the Boromar clan
+- Run by Halak Boromar's side, not Castar
 - Enforcers all left moments before party arrived, after they were informed of an incoming raid by the Red Cloak Battalion
 
 ## Plot
@@ -17,8 +25,9 @@ Warehouse is empty of live personnel. Corpses of drug slaves (Filth) littered th
 Extra [[Statblocks#Orc Blitzer|guards]] help during the raid
 
 ## Unrefined Dreamlily Dust
-magical smelling dust swirls and permeates the air
-anyone who inhales the dust must make a constitution saving throw or roll on a table for a random effect
+Purple cloud of unrefined Dreamlily permeates the air in parts of the warehouse Anyone who inhales the dust must make a constitution saving throw or roll on a table for a random effect
+
+DC 16 Con save
 
 *Bad gas*
 
@@ -35,7 +44,7 @@ anyone who inhales the dust must make a constitution saving throw or roll on a t
 | 9   | **Memory Fog:** The player’s memory becomes hazy, causing them to forget one spell or ability they know for 1d6 rounds.                                                          |
 | 10  | **Overwhelming Fear:** The player is frightened of the nearest creature for 1 minute. They can repeat the saving throw at the end of each turn to end the effect.                |
 
-vitals of refined dreamlily can be found around the facility, which grant more positive effects when consumed. The enforcers regularly carry some on them for emergencies.
+Vials of refined Dreamlily can be found around the facility, which grant more positive effects when consumed. The enforcers regularly carry some on them for emergencies.
 
 | d10 | Effect                                                                                                                                                               |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -51,7 +60,7 @@ vitals of refined dreamlily can be found around the facility, which grant more p
 | 10  | **Divine Reflexes:** The player can take an additional reaction this round and gains +2 AC until the start of their next turn.                                       |
 
 
-**loot**
+## Loot
 
 | **Item**                          | **Value**          | **Description**                                                                                                                               |
 | --------------------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |

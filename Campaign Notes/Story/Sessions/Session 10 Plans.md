@@ -1,5 +1,6 @@
 TODO
 - print out [[Godlings, Demigods, and Other Mythical Creatures]]
+- How to reintroduce Forge during the street fight?
 ### Outline
 - Street Fight (start)
 - [[Dreamlily Den]]
@@ -12,8 +13,10 @@ TODO
 	- [[Statblocks#Human Raider|Raider]] (Halfling, **Voss**) | Leader
 	- [[Statblocks#Alchemist|Alchemist]] (Orc, **Dig**) | rooftop
 	- [[Statblocks#Human Trickshot|Trickshot]] (Human, **Nila**) | rooftop
+- Tactics:
+- Raider: Has 2 shields
 - Loot:
-	- Something indicating they came from an illegal Dreamlily factory
+	- A a few vials of refined dreamlily.
 
 - [ ] Moment 1: *Dreamlily Den*
 - An old [[Dreamlily Den|warehouse]] being used by the Boromar Clan to make Dreamlily.
