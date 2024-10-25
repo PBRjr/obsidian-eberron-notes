@@ -16,7 +16,7 @@ Warehouse is empty of live personnel. Corpses of drug slaves (Filth) littered th
 	- [[Garhorn & Blinker]] knows of him - never accepts bribes, dangerous
 Extra [[Statblocks#Orc Blitzer|guards]] help during the raid
 
-**dynamic encounter**
+## Unrefined Dreamlily Dust
 magical smelling dust swirls and permeates the air
 anyone who inhales the dust must make a constitution saving throw or roll on a table for a random effect
 

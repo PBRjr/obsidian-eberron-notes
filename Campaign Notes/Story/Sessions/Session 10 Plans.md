@@ -99,3 +99,4 @@ Action 2: *Red Cloak Battalion*
 ### Additional Notes
 
 - 14 Therendor, 998 YK
+- Sunny and warm
