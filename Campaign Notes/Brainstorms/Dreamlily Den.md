@@ -12,11 +12,9 @@ Warehouse full of poor workers creating dreamlily for the Boromar clan
 
 ## Roster
 Warehouse is empty of live personnel. Corpses of drug slaves (Filth) littered throughout warehouse, executed.
-Hobgoblin death captain leader ([[Statblocks#Hobgoblin Death Captain|Kazrak the Unyielding]]) of the Red Cloak Battalion, Garhorn knows of him
-Extra guards help during the raid
-
-**secret**
-the place is being surveilled by the Sharn watch, who are preparing for a raid...
+- Hobgoblin death captain leader ([[Statblocks#Hobgoblin Death Captain|Kazrak the Unyielding]]) of the Red Cloak Battalion
+	- [[Garhorn & Blinker]] knows of him - never accepts bribes, dangerous
+Extra [[Statblocks#Orc Blitzer|guards]] help during the raid
 
 **dynamic encounter**
 magical smelling dust swirls and permeates the air
