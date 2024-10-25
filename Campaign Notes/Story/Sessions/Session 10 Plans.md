@@ -17,12 +17,14 @@
 - An old [[Dreamlily Den|warehouse]] being used by the Boromar Clan to make Dreamlily.
 - ***Secret.*** The Den is being surveilled by the Sharn Watch, who are preparing for a raid.
 - The front door is cracked open, signs inside show people left in a hurry.
-- **Goals:** Show that Aeren was kept here but was just moved elsewhere.
+- **Goal:** Show that Aeren was kept here but was just moved elsewhere.
+
 
 - [ ] Encounter 1: *The Red Cloak Battalion
 - The raid is led by [[Statblocks#Hobgoblin Death Captain|Kazrak the Unyielding]] followed by a large mix of [[Statblocks#Human Guard|Guards]] and [[Statblocks#Orc Blitzer|Orc Blitzers]] from the *King's Swords*.
 - After d4 rounds in combat, the bomb inside the warehouse explodes, triggering a **skill challenge** to escape.
-
+- **Goal:** 4 round combat with the guard followed by skill challenge to escape the bombed warehouse
+- 
 - [ ] Session End: *Name*
 - (possible cliffhanger)
 

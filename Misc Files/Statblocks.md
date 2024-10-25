@@ -998,7 +998,7 @@ _Medium humanoid (Hobgoblin), Any Alignment
 
 *Blightblade*. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) slashing damage plus 7 (2d6) necrotic damage.
 
-*Bye Fire.* _Ranged Spell Attack:_ +6 to hit, range 60 ft., one target. _Hit:_ 14 (4d6) fire damage.
+*Eye Fire.* _Ranged Spell Attack:_ +6 to hit, range 60 ft., one target. _Hit:_ 14 (4d6) fire damage.
 
 *On My Mark.* The captain commands an ally within 60 feet of them who can hear them to attack. That ally can make a weapon attack (no action required), dealing an extra 3 (1d6) necrotic damage on a hit.
 
