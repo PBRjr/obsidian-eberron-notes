@@ -1,3 +1,5 @@
+TODO
+- print out [[Godlings, Demigods, and Other Mythical Creatures]]
 ### Outline
 - Street Fight (start)
 - [[Dreamlily Den]]
