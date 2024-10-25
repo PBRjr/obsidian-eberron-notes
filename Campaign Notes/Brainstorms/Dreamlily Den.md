@@ -1,10 +1,10 @@
 Warehouse full of poor workers creating dreamlily for the Boromar clan
 - run by Halak Boromar's side, not Castar
-- Enforcers all left moments before party arrived, after they were informed of an incoming raid by the Black Guard
+- Enforcers all left moments before party arrived, after they were informed of an incoming raid by the Red Cloak Battalion
 
 **plot stuff**
 - turned over furniture, left behind belongings, general signs of leaving in a hurry.
-- a note on a table that reads "RED CLOAK BATTALION, BURN IT ALL, MOVE THE PRISONERS TO SKYWAY"
+- a note on a table that reads "RED CLOAK BATTALION, BURN IT ALL, MOVE THE PRISONER TO SKYWAY"
 - [[Godlings, Demigods, and Other Mythical Creatures]] is on the desk from his capture
 - guards might drop hints about an untouchable location on the skyway
 - flashing crystal wrapped with a magical conduit leading to various structures in the warehouse

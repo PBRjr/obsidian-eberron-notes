@@ -24,7 +24,7 @@
 - The raid is led by [[Statblocks#Hobgoblin Death Captain|Kazrak the Unyielding]] followed by a large mix of [[Statblocks#Human Guard|Guards]] and [[Statblocks#Orc Blitzer|Orc Blitzers]] from the *King's Swords*.
 - After d4 rounds in combat, the bomb inside the warehouse explodes, triggering a **skill challenge** to escape.
 - **Goal:** 4 round combat with the guard followed by skill challenge to escape the bombed warehouse
-- 
+
 - [ ] Session End: *Name*
 - (possible cliffhanger)
 
@@ -33,7 +33,8 @@
 Place 1: *The Den*
 - Large and decrepit, seems devoid of life from the outside
 - The main door is cracked open
-- Several poor people sit in the main chamber and refine Dreamlily.
+- Shattered vials of Dreamlily on the ground, tables/chair upturned, alchemy supplies strewn about
+- Usually, several poor people sit in the main chamber and refine Dreamlily.
 
 Place 2: *Books, Scrolls, and Nooks*
 - University District located in Upper Menthis
@@ -46,7 +47,7 @@ Place 2: *Books, Scrolls, and Nooks*
 Place 3: *Olladra's Kitchen*
 - Tavern ward located in Lower Central Plateau
 	- Contains several Pubs, dark alleyways, and few brothels
-	- Main attraction: *Olladra's Whip*
+	- Main attraction: *OlladrPigsmeata's Whip*
 - Neighboring wards
 	- Shops: *Granite Halls, North Towers*
 	- Inns: *Boldrei's Hearth*
