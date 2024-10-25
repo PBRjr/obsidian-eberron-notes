@@ -4,16 +4,14 @@ Warehouse full of poor workers creating dreamlily for the Boromar clan
 
 **plot stuff**
 - turned over furniture, left behind belongings, general signs of leaving in a hurry.
-- a note on a table that reads "RED CLOAK BATTALION, BURN IT ALL, MOVE THE PRISONER TO SKYWAY"
+- Note on desk in back: "We have a mole. Red Cloak Battalion raid today. Kill the Filth, burn the house, take as many of Sharn's finest with it. Go to "
 - [[Godlings, Demigods, and Other Mythical Creatures]] is on the desk from his capture
 - flashing crystal wrapped with a magical conduit leading to various structures in the warehouse
 	- bomb timer, trigger skill challenge to escape the burning/collapsing warehouse with the Black Guard close in tail
 
 **enemy roster**
-all boromar enforcers and members have left
-only druggies and the drug makers that were left behind without their knowledge
-after the raid begins:
-Hobgoblin death captain leader of the Red Cloak Battalion, Garhorn knows of him
+Warehouse is empty of live perssonnell. Corpses of drug slaves (Filth) littered throughout warehouse, executed.
+Hobgoblin death captain leader (**Kazrak the Unyielding**) of the Red Cloak Battalion, Garhorn knows of him
 Extra guards help during the raid
 
 **secret**
