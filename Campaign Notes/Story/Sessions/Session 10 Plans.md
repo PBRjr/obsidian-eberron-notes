@@ -14,7 +14,9 @@ TODO
 	- [[Statblocks#Alchemist|Alchemist]] (Orc, **Dig**) | rooftop
 	- [[Statblocks#Human Trickshot|Trickshot]] (Human, **Nila**) | rooftop
 - Tactics:
-- Raider: Has 2 shields
+	- *Raider*: Has 2 shields. Front-line tank, charges backline.
+	- *Alchemist*: Support/crowd control. Control the heavies.
+	- *Trickshot*: 
 - Loot:
 	- A a few vials of refined dreamlily.
 

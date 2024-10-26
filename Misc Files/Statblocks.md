@@ -542,7 +542,7 @@ _Challenge_ 2 (450 XP)
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 *Reactions*
 
-*Escape.* When the alchemist is the target of an attack, it can use it's reaction to drop a Smoke Bomb at its feet, giving its attacker disadvantage on the attack and allowing the Alchemist to move on his next turn as though he took the Disengage action.
+*Vanish.* When the alchemist is the target of an attack, it can use it's reaction to drop a Smoke Bomb at its feet, giving its attacker disadvantage on the attack and allowing the Alchemist to move on his next turn as though he took the Disengage action.
 
 ### Human Trickshot
 Medium humanoid (human), any alignment
