@@ -847,6 +847,193 @@
             "timestamp": 5e-324,
             "order": ""
           }
+        },
+        {
+          "name": "Airship Crash",
+          "description": null,
+          "date": {
+            "day": 10,
+            "month": 2,
+            "year": 998
+          },
+          "id": "ID_0bca4849494b",
+          "note": "Campaign Notes/Story/Sessions/Session 1 Recap.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Arrival in Shavalant",
+          "description": null,
+          "date": {
+            "day": 11,
+            "month": 2,
+            "year": 998
+          },
+          "id": "ID_a9caa8d95869",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Boromar Camp Confrontation",
+          "description": null,
+          "date": {
+            "day": 12,
+            "month": 2,
+            "year": 998
+          },
+          "id": "ID_e8b9ca0a0baa",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Departure from Shavalant",
+          "description": null,
+          "date": {
+            "day": 12,
+            "month": 2,
+            "year": 998
+          },
+          "id": "ID_b9da0a493a58",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Its Kismet",
+          "description": null,
+          "date": {
+            "day": 12,
+            "month": 2,
+            "year": 998
+          },
+          "id": "ID_9b0a985abb1a",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Lighthouse",
+          "description": null,
+          "date": {
+            "day": 12,
+            "month": 2,
+            "year": 998
+          },
+          "id": "ID_3aa90b7b7ac8",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Tower of Old",
+          "description": null,
+          "date": {
+            "day": 13,
+            "month": 2,
+            "year": 998
+          },
+          "id": "ID_5b98695a3a5a",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Arrival in Sharn",
+          "description": null,
+          "date": {
+            "day": 13,
+            "month": 2,
+            "year": 998
+          },
+          "id": "ID_4b19791968ab",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Met Aeren d'Cannith",
+          "description": null,
+          "date": {
+            "day": 13,
+            "month": 2,
+            "year": 998
+          },
+          "id": "ID_8a287bab8b58",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Wolfsbane Workshop",
+          "description": null,
+          "date": {
+            "day": 14,
+            "month": 2,
+            "year": 998
+          },
+          "id": "ID_6848894aab3a",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Legacy Stone",
+          "description": null,
+          "date": {
+            "day": 14,
+            "month": 2,
+            "year": 998
+          },
+          "id": "ID_190b0a6a8bca",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "id": "ID_eb99ca6acaaa",
