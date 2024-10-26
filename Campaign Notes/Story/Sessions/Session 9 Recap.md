@@ -34,7 +34,7 @@ Went to Starfire Dragon Tavern
 - Garhorn told the party about his quitting the Boromar Clan after their encounter in Shavalant.
 - The party gave Garhorn 15gp to take them to the Boromar Clan's closest safehouse to Morgrave University.
 - He agreed then passed out on the floor to sleep off the drunkenness.
-- Draven bought 4 dreamlilys from a student in the Tavern while they were waiting for Garhorn to wakeup.
+- Draven bought 4 vials of refined dreamlily dust from a student in the Tavern while they were waiting for Garhorn to wakeup.
 - Geralt experienced another memory from the Legacy Stone (memory 4)
 
 Thugs
