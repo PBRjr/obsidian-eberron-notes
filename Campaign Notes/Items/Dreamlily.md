@@ -3,8 +3,6 @@ Purple cloud of unrefined Dreamlily permeates the air in parts of the warehouse 
 
 DC 16 Con save
 
-*Bad gas*
-
 | d10 | Effect                                                                                                                                                                           |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Intense Hallucinations:** The player perceives non-existent threats, using their next action to attack the air nearby.                                                         |
@@ -20,6 +18,9 @@ DC 16 Con save
 
 ## Refined Dreamlily Dust
 These vials are getting cheaper and more common every day. Inhaling this concentrated dust grants positive effects when consumed. Boromar clan enforcers often carry a vial or two for use in case of emergencies.
+
+***Downside.*** After the effects of Dreamlily wear off, roll a DC 8 con save. On a fail, you become addicted. The con save DC increases by +2 with every use of Dreamlily. Addiction can only be cured by effects similar to Lesser Restoration.
+**Addicted.** While addicted to Dreamlily, you are unable to long rest if no Dreamlily was consumed that day.
 
 | d10 | Effect                                                                                                                                                               |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
