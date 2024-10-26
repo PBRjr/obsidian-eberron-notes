@@ -17,11 +17,88 @@ He learned:
 ## Dreamlily Den
 
 
-**The Dreamlily Den: A Descent into Addiction**
+Reference
+- [[#Plot|Plot]]
+- [[#Roster|Roster]]
+- [[#Unrefined Dreamlily Dust|Unrefined Dreamlily Dust]]
+- [[#Loot|Loot]]
 
-The Boromar Clan is using the safehouse as a dreamlily lab and distribution point. Dreamlily is a highly addictive drug that’s plaguing Sharn’s lower wards. They’ve captured a group of addicts and are forcing them to work as laborers and informants.
+---
 
-**The Twist:** The party stumbles upon the operation, witnessing the brutal treatment of the addicts and the Clan’s ruthlessness, in addition to exposing them to more of the background operations of the clan.
+Warehouse full of poor workers creating Dreamlily for the Boromar clan
+- Run by Halak Boromar's side, not Castar
+- Enforcers all left moments before party arrived, after they were informed of an incoming raid by the Red Cloak Battalion
+
+## Plot
+- turned over furniture, left behind belongings, general signs of leaving in a hurry.
+- Note on desk in back: *"We have a mole. Red Cloak Battalion raid today. Kill the Filth, burn the house with Sharn's finest in it. Meet at O's Whip. Take the prisoner with you."*
+- [[Godlings, Demigods, and Other Mythical Creatures]] is on the desk from his capture
+- flashing crystal wrapped with a magical conduit on desk next to note. Wires lead to various structures in the warehouse
+	- Bomb timer: bomb flashes faster and increases in pitch as it gets closer to detonating.
+	- Top of round 4: Skill challenge to escape the collapsed warehouse & Red cloak Battalion.
+
+## Roster
+Warehouse is empty of live personnel. Corpses of drug slaves (Filth) littered throughout warehouse, executed.
+- Hobgoblin death captain leader ([[Statblocks#Hobgoblin Death Captain|Kazrak the Unyielding]]) of the Red Cloak Battalion
+	- [[Garhorn & Blinker]] knows of him - never accepts bribes, dangerous
+Extra [[Statblocks#Orc Blitzer|guards]] help during the raid
+
+## Unrefined Dreamlily Dust
+Purple cloud of unrefined Dreamlily permeates the air in parts of the warehouse Anyone who inhales the dust must make a constitution saving throw or roll on a table for a random effect
+
+DC 16 Con save
+
+*Bad gas*
+
+| d10 | Effect                                                                                                                                                                           |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Intense Hallucinations:** The player perceives non-existent threats, using their next action to attack the air nearby.                                                         |
+| 2   | **Euphoria:** The player feels overwhelming joy, having disadvantage on Wisdom (Perception) checks and attack rolls for 1d4 rounds.                                              |
+| 3   | **Paranoia:** The player believes allies are enemies, and becomes fearful of allies, becoming unable to move towards allies for the next 3 rounds (DC 15 Wis Save).              |
+| 4   | **Debilitating Nausea:** The player is poisoned for 1d4 rounds, suffering disadvantage on attack rolls and ability checks.                                                       |
+| 5   | **Uncontrollable Laughter:** The player bursts into laughter, becoming incapacitated for 1d4 rounds. They can repeat the saving throw at the end of each turn to regain control. |
+| 6   | **Time Dilation:** The player perceives time slowing down, and their movement speed is halved for 1d6 rounds.                                                                    |
+| 7   | **Muscle Relaxation:** The player’s muscles go slack, reducing their Strength score by 2 for 1d6 rounds.                                                                         |
+| 8   | **Sudden Fatigue:** The player feels extreme drowsiness and must succeed on a DC 13 Constitution saving throw or fall asleep for 1d4 rounds.                                     |
+| 9   | **Memory Fog:** The player’s memory becomes hazy, causing them to forget one spell or ability they know for 1d6 rounds.                                                          |
+| 10  | **Overwhelming Fear:** The player is frightened of the nearest creature for 1 minute. They can repeat the saving throw at the end of each turn to end the effect.                |
+
+Vials of refined Dreamlily can be found around the facility, which grant more positive effects when consumed. The enforcers regularly carry some on them for emergencies.
+
+| d10 | Effect                                                                                                                                                               |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Surge of Strength:** The player gains +5 to their next melee attack roll and adds an extra 2d6 damage on a successful hit. Lasts 1 round.                          |
+| 2   | **Blinding Speed:** The player’s movement speed doubles, and they can take an additional action on their turn. Lasts 1 round.                                        |
+| 3   | **Perfect Focus:** The player’s next spell or ability that requires concentration does not require a Concentration check, regardless of damage taken. Lasts 1 round. |
+| 4   | **Vital Resilience:** The player gains resistance to all damage types until the start of their next turn.                                                            |
+| 5   | **Unyielding Will:** The player automatically succeeds on their next saving throw. Lasts 1 round.                                                                    |
+| 6   | **Fury Unleashed:** The player gains advantage on all attack rolls, and their attacks score a critical hit on a roll of 18-20. Lasts 1 round.                        |
+| 7   | **Miraculous Recovery:** The player immediately regains hit points equal to half their maximum HP.                                                                   |
+| 8   | **True Sight:** The player gains truesight out to 60 feet, seeing through illusions, darkness, and invisibility. Lasts 1 round.                                      |
+| 9   | **Energy Burst:** The player can cast one spell they know at one level higher than they have spell slots for, without expending a spell slot. Lasts 1 round.         |
+| 10  | **Divine Reflexes:** The player can take an additional reaction this round and gains +2 AC until the start of their next turn.                                       |
+
+
+## Loot
+
+| **Item**                          | **Value**          | **Description**                                                                                                                               |
+| --------------------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Pouches of Silver and Copper**  | 5-20 sp            | Small leather pouches containing a handful of silver and copper coins, likely dropped in haste during the escape.                             |
+| **Silk Handkerchiefs**            | 10-15 gp each      | Finely embroidered handkerchiefs with the Boromar Clan insignia, made of high-quality silk. They could symbolize status or be used as a clue. |
+| **Fine Cigars**                   | 25 gp per box      | A box containing 5 expensive cigars, possibly laced with a mild Dreamlily infusion, valuable to collectors or connoisseurs.                   |
+| **Dreamlily Pipes**               | 20 gp each         | Ornate pipes designed for smoking Dreamlily, carved from exotic wood with silver inlays, showcasing high craftsmanship.                       |
+| **Vials of Residual Dreamlily**   | 10 gp per vial     | Small glass vials containing traces of Dreamlily, useful for crafting, bribing, or as a potential poison.                                     |
+| **Stolen Jewelry**                | 50-100 gp total    | A mix of rings, necklaces, and bracelets, some identifiable as stolen, making them valuable but potentially difficult to sell.                |
+| **Rare Spices or Exotic Liquors** | 20-50 gp per crate | Crates containing spices or liquors from distant lands, smuggled into the city and highly valuable to the right buyer.                        |
+| **Baelin's Pocket Watch**         | 30 gp              | A silver pocket watch with an inscription inside the lid, "Semper Discens" or "Forever Learning".                                             |
+| **Love Letters**                  | Sentimental        | A stack of unsent love letters between Boromar members, offering insight into their personal lives and internal dynamics.                     |
+| **Throwing Knives**               | 5 gp each          | Finely balanced throwing knives, likely used by Boromar enforcers, well-made but not extraordinary.                                           |
+| **Brass Knuckles**                | 10 gp              | Worn and scratched brass knuckles, a common weapon among street thugs, possibly collectible for those who appreciate rough fighting gear.     |
+| **Healing Potions**               | 50 gp each         | Standard minor healing potions, useful and valuable for any adventurer, overlooked in the rush to escape.                                     |
+| **Potion of Clarity**             | 75 gp              | A potion that grants advantage on Wisdom saving throws for 1 hour, useful against Dreamlily addiction or illusions.                           |
+| **Illegible Maps**                | Plot value         | A smudged, difficult-to-read map of the interior warehouse with certain spots parked with red X's.                                            |
+| **Marked Playing Cards**          | 15 gp              | A deck of cards with subtle markings for cheating, often used in gambling dens, which could be a clue or simply a curious find.               |
+
 
 
 # Factions
@@ -572,13 +649,27 @@ References
 ---
 ### Leadership
 
-- [[Thora Tarkanan]], leader, stern and charismatic human aberrant dragonmark bearer
+- [[The Son of Khyber]], Daine Halar Deneith, leader, possed by the soul of Daine, who lived during the War of the Mark
+- [[Thora Tarkanan]], public-facing leader, stern and charismatic human aberrant dragonmark bearer
 - Halas Martain, right hand, skilled infiltrator with healing dragonmark
+
+### Services
+**Assassination:**
+- Client specifies place, method, time.
+- Cost: 100gp + (1d4 x 100)gp
+**Manslaughter:**
+- No specifics, assassin is sent when coinvent
+- Cost: 50gp + (1d4 x 50)gp
+**Assassination of the Soul:**
+- Assassination utilizing the *Keeper's Fang Dagger* that traps the victim's soul in the domain of *The Keeper*, preventing raising/resurrection
+- Cost: 200gp + (2d4 x 100)
+
+House Tarkanan will refuse any contracts against any high-ranking members of the other criminal organizations in Sharn, however they will accept contracts against members of the other Dragonmarked Houses.
 
 ### HQ Location
 
-- Stronghold in Dura district of Sharn's lower city
-- Various safehouses across lower city districts like Dragoneyes and the Depths
+- Stronghold in [[Sharn#Lower Dura|Lower Dura]]
+- Various safehouses across lower and middle city districts like Dragoneyes and the Depths
 
 ### Members
 
@@ -588,25 +679,17 @@ References
 
 ### Goals/Motivations
 
-- Gain respect, legitimacy, and influence in Sharn
+- Recruit aberrant dragonmark users
 - Challenge the power of established Dragonmarked Houses
 - Prove the strength of aberrant dragonmarks
 
+### Allies & Enemies
+- No direct alliances with other organizations or governments
+- Uneasy truce with the Boromar clan: The House will not perform any work that may compete with the activities of the Boromar Clan
 ### Resources/Capabilities
 
 - Network of establishments like the Dragon's Breath Tavern
-- Access to Mournland-tainted weapons via Marix d'Cannith
-- Members have varied dangerous dragonmark powers
-
-### Activities
-
-- Criminal enterprises - racketeering, smuggling
-- Underground war against the Boromar Clan for control of Sharn's underworld
-
-### Allies & Enemies
-
-- Ally: Marix d'Cannith - provides mourning weapons
-- Enemy: The Boromar Clan - rival criminal organization
+- Members have dangerous aberrant dragonmark powers
 
 ### PC Interactions
 
@@ -615,7 +698,6 @@ References
 
 ### Adventure Hooks
 
-- Investigate the alliance with Marix on behalf of the houses
 - Help strike a decisive blow against the Boromar Clan
 - Track down the identity of the mysterious Beggar King
 
@@ -687,6 +769,21 @@ References
 - PC's discover they are being spied on by a chamber minion
 - PC's are approached about their [[Fractured Khyber Dragonshard]]
 - PC's learn about the cause of the [[Day of Mourning]]
+
+
+
+## The Red Cloak Battalion
+
+
+
+## Overview
+The Red Cloak Battalion is a very small and elite force of magically enhanced soldiers that battled at the forefront of the Brelish line during the Last War. They are made up of only 5 Commanders, all of which have undergone surgeries and rituals to become living weapons.
+
+## Personnel
+[[Statblocks#Fire Giant Red Fist|Magmar]] - Fire Giant Red Fist
+- Stationed in the Kogs and Magma pools
+[[Statblocks#Hobgoblin Death Captain|Kazrak the Unyielding]] - Hobgoblin Death Captain
+- Stationed in the main city, including the lower through upper wards.
 
 
 
@@ -826,9 +923,42 @@ Khyber shards, known as "dragon's teeth", are found deep within the world, in th
 ## Dreamlily
 
 
-Basically an opioid
+## Unrefined Dreamlily Dust
+Purple cloud of unrefined Dreamlily permeates the air in parts of the warehouse Anyone who inhales the dust must make a constitution saving throw or roll on a table for a random effect
 
-Anyone under the effects of a dreamlily feels euphoria and reduced sense of pain. For 5 rounds, the use has resistance to non-magical damage, however takes takes double the damage taken after the end of this drugs effects.
+DC 16 Con save
+
+| d10 | Effect                                                                                                                                                                           |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Intense Hallucinations:** The player perceives non-existent threats, using their next action to attack the air nearby.                                                         |
+| 2   | **Euphoria:** The player feels overwhelming joy, having disadvantage on Wisdom (Perception) checks and attack rolls for 1d4 rounds.                                              |
+| 3   | **Paranoia:** The player believes allies are enemies, and becomes fearful of allies, becoming unable to move towards allies for the next 3 rounds (DC 15 Wis Save).              |
+| 4   | **Debilitating Nausea:** The player is poisoned for 1d4 rounds, suffering disadvantage on attack rolls and ability checks.                                                       |
+| 5   | **Uncontrollable Laughter:** The player bursts into laughter, becoming incapacitated for 1d4 rounds. They can repeat the saving throw at the end of each turn to regain control. |
+| 6   | **Time Dilation:** The player perceives time slowing down, and their movement speed is halved for 1d6 rounds.                                                                    |
+| 7   | **Muscle Relaxation:** The player’s muscles go slack, reducing their Strength score by 2 for 1d6 rounds.                                                                         |
+| 8   | **Sudden Fatigue:** The player feels extreme drowsiness and must succeed on a DC 13 Constitution saving throw or fall asleep for 1d4 rounds.                                     |
+| 9   | **Memory Fog:** The player’s memory becomes hazy, causing them to forget one spell or ability they know for 1d6 rounds.                                                          |
+| 10  | **Overwhelming Fear:** The player is frightened of the nearest creature for 1 minute. They can repeat the saving throw at the end of each turn to end the effect.                |
+
+## Refined Dreamlily Dust
+These vials are getting cheaper and more common every day. Inhaling this concentrated dust grants positive effects when consumed. Boromar clan enforcers often carry a vial or two for use in case of emergencies.
+
+***Downside.*** After the effects of Dreamlily wear off, roll a DC 8 con save. On a fail, you become addicted. The con save DC increases by +2 with every use of Dreamlily. Addiction can only be cured by effects similar to Lesser Restoration.
+**Addicted.** While addicted to Dreamlily, you are unable to long rest if no Dreamlily was consumed that day.
+
+| d10 | Effect                                                                                                                                                               |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Surge of Strength:** The player gains +5 to their next melee attack roll and adds an extra 2d6 damage on a successful hit. Lasts 1 round.                          |
+| 2   | **Blinding Speed:** The player’s movement speed doubles, and they can take an additional action on their turn. Lasts 1 round.                                        |
+| 3   | **Perfect Focus:** The player’s next spell or ability that requires concentration does not require a Concentration check, regardless of damage taken. Lasts 1 round. |
+| 4   | **Vital Resilience:** The player gains resistance to all damage types until the start of their next turn.                                                            |
+| 5   | **Unyielding Will:** The player automatically succeeds on their next saving throw. Lasts 1 round.                                                                    |
+| 6   | **Fury Unleashed:** The player gains advantage on all attack rolls, and their attacks score a critical hit on a roll of 18-20. Lasts 1 round.                        |
+| 7   | **Miraculous Recovery:** The player immediately regains hit points equal to half their maximum HP.                                                                   |
+| 8   | **True Sight:** The player gains truesight out to 60 feet, seeing through illusions, darkness, and invisibility. Lasts 1 round.                                      |
+| 9   | **Energy Burst:** The player can cast one spell they know at one level higher than they have spell slots for, without expending a spell slot. Lasts 1 round.         |
+| 10  | **Divine Reflexes:** The player can take an additional reaction this round and gains +2 AC until the start of their next turn.                                       |
 
 
 ## Forge Knowledge Handout
@@ -1241,7 +1371,8 @@ The Galifar calendar is broken up into 12 months, each with 4 weeks or 28 days, 
 | Aryth     | Late autumn  | Passage     |
 | Vult      | Early winter | Warding     |
 Session 4: 10 Therendor, 998 YK
-Session 7: 13 Threrendor, 998 YK
+Session 7: 13 Therendor, 998 YK
+Session 10: 14 Therendor, 998 YK
 
 ## Misc Books and Texts
 
@@ -1530,6 +1661,99 @@ Brother Cec was born in a poor household in *Thrane* to teifling parents. Being 
 - May want protection while preaching in lawless regions
 - Rumors suggest a rogue cockatrice is troubling a nearby village
 
+## Garhorn & Blinker
+
+
+### Concept 
+
+Once a proud member of the Boromar Clan and loyal to Castar, Garhorn now drinks his days away in the streets of Sharn. After his encounter with the party, he spends his days picking up odd jobs to support his drinking. His blink dog Blinker remains fiercely loyal, always by his side, watching his back while he sleeps away his intoxication.
+
+### Description
+
+- A short gnome [[Statblocks#Enchanter|enchanter]] that smells of bourbon and bad decisions.
+- Wears rugged clothing too warm for the heat and with too many holes for the cold.
+- Unclean, unshaven,  uncaring.
+
+### Roleplaying Tips
+
+- Sounds like Billy Butcher from the show "The Boys"
+- He holds no ill-will against the party, and is even willing to help them with the odd job.
+- The one thing he loves more than drinking is Blinker. I will give his life without hesitation to protect his cainine friend.
+### Backstory
+
+- Worked in the Boromar clan for most of his adult life, moving up in the ranks until he became a well-respected member, known for his charisma and intimidating presence, despite his short stature.
+- He was sent on a mission to the small town of Shavalant to begin a protection racket as a part of a larger operation overseen by Castar. He encountered the party there, and was subsequently ejected from the town, barely keeping his life thanks to his wit.
+- After returning to Boromar HQ in Sharn, he was punished severly by his superiors, and sentenced to death. He barely escaped, thanks to Blinker, and he now scuttles along the streets of Sharn, splitting his time between dodging Boromar operatives that are after him and drinking away his worries.
+
+### Motivations 
+
+- Chaotic neutral
+- Survive, stay intoxicated, dodge Boromar operatives
+- Survive, find a long-term home for Blinker
+
+### Rumors
+
+- A few simple and short rumors that may be overheard about this NPC
+
+### Allies & Enemies
+
+- Boromar Clan (***Enemy***)
+- Blinker (**Best Friend**)
+
+### Connections & Hooks
+
+- Connections to other NPCs or factions
+- Potential plot hooks related to this NPC
+
+## Halas Tarkanan
+
+
+### Concept
+
+Halas Tarkanan was a skilled military commander and powerful aberrant dragonmark bearer who led the resistance against the dragonmarked houses during the War of the Mark. He was a tragic figure, driven by a desire for justice and vengeance, ultimately sacrificing himself to protect his people.
+
+### Description
+
+- Appearance: A battle-hardened human man with a stern expression. His aberrant dragonmark, likely visible on his skin, pulses with barely contained power.
+- Personality: Calm and controlled on the surface, masking inner turmoil and rage. Strategic, ruthless when necessary, but deeply committed to protecting other aberrants.
+- Mannerisms: Speaks with measured words, rarely raising his voice. Often seen in deep thought, planning the next move.
+
+### Roleplaying Tips
+
+Portray Halas as a man carrying a great burden. Speak with authority and conviction, but hint at the emotional toll of leadership. In combat situations, describe his actions as precise and calculated.
+
+### Backstory
+
+- Born to Ilana Halar d'Deneith (excoriate) and Grayn Tarkanan (aberrant dragonmark bearer)
+- Raised on the battlefield, trained in warfare by his mother
+- Aberrant mark manifested during an ambush, killing his parents and enemies
+- Waged a guerrilla war against King Breggor III and House Deneith
+- Met the Lady of the Plague and began rallying aberrants around Sharn
+
+### Motivations
+
+- Alignment: Chaotic Good
+- Short term goals: Protect aberrants from persecution, strike against the dragonmarked houses
+- Long term aspirations: Create a safe haven for aberrants, prove the value and importance of aberrant marks
+
+### Rumors
+
+- "They say his anger can shatter mountains."
+- "I heard he infiltrated Rekkenmark and trained with Karrnath's finest."
+- "The houses fear him more than any other aberrant."
+
+### Allies & Enemies
+
+- Associated faction: Leader of the Sharn aberrants
+- Key Allies: The Lady of the Plague, The Dreambreaker, The Tinker
+- Rivals or enemies: House Deneith, King Breggor III, The Twelve
+
+### Connections & Hooks
+
+- Possesses the Earth's Fist, a powerful magic item created by The Tinker
+- May have had secret, unmarked children who survived the purge
+- His "death curse" that leveled old Sharn could be a plot point for present-day adventures
+
 ## Jonston Marsh (deceased)
 
 
@@ -1797,6 +2021,104 @@ Roleplay him as secretive and whispering. Show signs of his deeper vendetta agai
 
 - Could tip off the PCs about House Tarkanan's schemes.
 - Might request the PCs steal House Cannith secrets.
+
+## The Dreambreaker
+
+
+### Concept
+
+The Dreambreaker was a gnome with immense psionic power granted by his aberrant mark, capable of shattering minds and possibly manipulating time and space. His unstable perception of reality made him both a powerful ally and a dangerous wildcard in the War of the Mark.
+
+### Description
+
+- Appearance: A gnome with unfocused, constantly shifting eyes. His aberrant mark might appear to move or change when looked at directly.
+- Personality: Erratic and unpredictable, with moments of startling lucidity. Deeply committed to the aberrant cause, but often misunderstands the nature of their struggle.
+- Mannerisms: Speaks in riddles or non-sequiturs. Sometimes pauses mid-sentence as if listening to unheard voices.
+
+### Roleplaying Tips
+
+Portray the Dreambreaker as someone constantly shifting between different perceptions of reality. His speech should be disjointed and cryptic, with occasional moments of stark clarity. Emphasize the unnerving effect he has on those around him.
+
+### Backstory
+
+- Born in what is now Zilargo
+- Developed an aberrant mark that granted immense psionic powers
+- Joined the aberrant cause, believing they were fighting against the Sovereigns themselves
+- Became a key figure in the resistance due to his sheer power
+- Obtained the Delirium Stone, enhancing his already formidable abilities
+
+### Motivations
+
+- Alignment: Chaotic Neutral
+- Short term goals: Defeat the "avatars" of the Sovereigns (actually the dragonmarked houses)
+- Long term aspirations: Reshape reality to fit his vision of how the world should be
+
+### Rumors
+
+- "He can kill you in your dreams."
+- "I heard he's not really fighting the houses, but something much bigger."
+- "They say he can see through time itself."
+
+### Allies & Enemies
+
+- Associated faction: Key member of the Sharn aberrants
+- Key Allies: Halas Tarkanan, The Lady of the Plague, The Tinker
+- Rivals or enemies: House Sivis, The Twelve, anyone he perceives as an agent of the Sovereigns
+
+### Connections & Hooks
+
+- The Delirium Stone could be a powerful artifact to be found or fought over
+- His plan to "steal the future from the houses" might have had unexpected consequences
+- There's a possibility he survived the siege of Sharn through time manipulation
+
+## The Lady of the Plague
+
+
+### Concept
+
+The Lady of the Plague was a charismatic and visionary leader of the aberrant cause, possessing the terrible power to create and spread diseases. Despite her destructive abilities, she was the heart of the aberrant resistance, rallying both marked and unmarked individuals to their cause.
+
+### Description
+
+- Appearance: A woman with a haunted look in her eyes, often wearing a cloak (Silence). Her presence seems to make people uneasy.
+- Personality: Passionate and driven, with a burning desire to protect the innocent. Carries immense guilt for the deaths she's caused.
+- Mannerisms: Speaks with fervor when addressing crowds. Often seen comforting or encouraging others one-on-one.
+
+### Roleplaying Tips
+
+Portray the Lady as someone who carries both great power and great burden. Her speeches should be impassioned and inspiring. In quieter moments, show glimpses of her guilt and determination.
+
+### Backstory
+
+- Born in a village in Daskara near modern-day Sigilstar
+- At 13, her aberrant mark manifested, killing her family and village
+- Fled to Sarus, which was later burned to contain her plague
+- Learned to control her powers and took on the identity of the Lady of the Plague
+- Joined forces with Halas Tarkanan to lead the aberrant resistance
+
+### Motivations
+
+- Alignment: Neutral Good
+- Short term goals: Protect aberrants from persecution, find a way to control her powers
+- Long term aspirations: Understand the true nature and purpose of aberrant dragonmarks
+
+### Rumors
+
+- "She can kill a city with a whisper."
+- "The rats follow her everywhere she goes."
+- "I heard she's looking for a cure for the plagues she creates."
+
+### Allies & Enemies
+
+- Associated faction: Co-leader of the Sharn aberrants
+- Key Allies: Halas Tarkanan, The Dreambreaker, unmarked supporters
+- Rivals or enemies: The Twelve, House Jorasco, House Medani
+
+### Connections & Hooks
+
+- Her cloak, Silence, could be a powerful artifact in the present day
+- Her journals, if found, might reveal crucial information about aberrant marks
+- The lingering effects of her death curse could be a present-day plot point
 
 ## Thora Tarkanan
 
@@ -4895,47 +5217,83 @@ Thugs
 ### Session 10 Plans
 
 
-TODO:
-- [ ] Design Boromar safehouse
-	- What's interesting about it?
-	- Dreamlily den
-	- Something to make it time sensitive? Silver flame knight hostage, impending death? 
+TODO
+- print out [[Godlings, Demigods, and Other Mythical Creatures]]
+- How to reintroduce Forge during the street fight?
 ### Outline
-- (List of significant beats)
+- Street Fight (start)
+- [[Dreamlily Den]]
+- [[Misc Files/Tables/Random Encounters|Random Encounters]]
 
 ### Moments & Encounters
 
 - [ ] Session Start: *Street Fight*
-- Voss has Aeren's [[Aeren's Written Notes|scrawled notes]]
 - Enemy roster:
 	- [[Statblocks#Human Raider|Raider]] (Halfling, **Voss**) | Leader
 	- [[Statblocks#Alchemist|Alchemist]] (Orc, **Dig**) | rooftop
 	- [[Statblocks#Human Trickshot|Trickshot]] (Human, **Nila**) | rooftop
+- Tactics:
+	- *Raider*: Has 2 shields. Frontline tank, charges backline.
+	- *Alchemist*: Support/crowd control. Control the heavies.
+	- *Trickshot*: Backline single-target damage.
 - Loot:
-	- Something indicating they came from an illegal dreamlily factory
-	- 
-- [ ] Moment 1: *Name*
-- X
+	- A a few vials of refined dreamlily.
+	- Boromar pendants
+	- 2d4x10 gp each
 
-- [ ] Moment 2: *Name*
-- X
-- [ ] Encounter: *Name*
-- X
+- [ ] Moment 1: *Dreamlily Den*
+- An old [[Dreamlily Den|warehouse]] being used by the Boromar Clan to make Dreamlily.
+- ***Secret.*** The Den is being surveilled by the Sharn Watch, who are preparing for a raid.
+- The front door is cracked open, signs inside show people left in a hurry.
+- **Goal:** Show that Aeren was kept here but was just moved elsewhere.
 
-(continue as needed, may nest encounters inside moments)
+
+- [ ] Encounter 1: *The Red Cloak Battalion
+- The raid is led by [[Statblocks#Hobgoblin Death Captain|Kazrak the Unyielding]] followed by a large mix of [[Statblocks#Human Guard|Guards]] and [[Statblocks#Orc Blitzer|Orc Blitzers]] from the *King's Swords*.
+- At the start of round 4 in combat, the bomb inside the warehouse explodes, triggering a **skill challenge** to escape.
+- **Goal:** 3 round combat with the guard followed by skill challenge to escape the bombed warehouse
 
 - [ ] Session End: *Name*
 - (possible cliffhanger)
 
 ### Location Details
 
-Place 1: *Name*
-- X (brief and relevant to the session)
+Place 1: *The Den*
+- Large and decrepit, seems devoid of life from the outside
+- The main door is cracked open
+- Shattered vials of Dreamlily on the ground, tables/chair upturned, alchemy supplies strewn about
+- Usually, several poor people sit in the main chamber and refine Dreamlily.
 
-Place 2: *Name*
-- X
+Place 2: *Books, Scrolls, and Nooks*
+- University District located in Upper Menthis
+	- Narrow three-story building > large bay windows and pink wooden door > displaying old tomes and colorful scrolls.
+	-  Specialties: Religious and historical texts
+- Lyriel d'Phiarlan
+	- Knowledgeable half-elf 48f
+	- Left house Phiarlan to pursue her passion for literature
 
-(continue as needed)
+Place 3: *Olladra's Kitchen*
+- Tavern ward located in Lower Central Plateau
+	- Contains several Pubs, dark alleyways, and few brothels
+	- Main attraction: *Olladra's Whip*
+- Neighboring wards
+	- Shops: *Granite Halls, North Towers*
+	- Inns: *Boldrei's Hearth*
+	- Residential: *Vallia Towers, Myshan Gardens*
+
+Place 4: *Everbright*
+- Magic ward located in Middle Menthis Plateau
+	- Contains several alchemy, artifice, and healing services
+	- Main attraction: *Jorasco House of Healing*
+- Neighboring wards
+	- Garrison: *Warden Towers*
+	- Shops: *Cassan Bridge*
+	- Neighborhoods: *Deniytas (gnomes), Platinate (wealthy)*
+
+Place 5: *Aeren's Workshop*
+- Located in Everbright, appears to be apartments from the outside
+- Renovated to a studio-like inside with 3 levels, and enough space to house the party.
+- Clockwork butler: *Piston*
 ### People
 
 Person 1: *Aeren d'Cannith*
@@ -4946,13 +5304,14 @@ Person 1: *Aeren d'Cannith*
 - Found a book called [[Godlings, Demigods, and Other Mythical Creatures]] and dropped it when he was captured.
 - He believes the key to that language has something to do with an ancient language associated with the Couatl, and that the Byeshk mountains might have answers.
 
-Person 2: *Name*
+Person 2: *Garhorn*
 *Session Information*
-- X (information relevant to session)
+- Is still very drunk, leading the players to the Den.
 *Plot Information*
-- X (information relevant to overall plot)
-
-(continue as needed)
+- Halfling [[Statblocks#Enchanter|enchanter]], mid 30s, polite and manipulative.
+- Always followed by his Blink Dog **Blinker**.
+- Sounds like Billy Butcher.
+- Has many enemies from the Clan.
 ### Plot Actions
 
 Action 1: *Boromar Clan (Halak Boromar)*
@@ -4960,14 +5319,13 @@ Action 1: *Boromar Clan (Halak Boromar)*
 	- Baelin revealed that the fragment is something ancient and powerful.
 	- Halak's mind immediately began thinking of how to use this powerful artifact to consolidate his power both within the clan and the clan's power over Sharn.
 
-Action 2: *Name of significant NPC(s) or organization(s) involved*
-- Goal: X
-- X
-
-(continue as needed)
+Action 2: *Red Cloak Battalion*
+- Goal: Conduct a raid on the Den and secure evidence.
+- Overall goal: Systematically dismantle the Boromar Clan.
 ### Additional Notes
 
-- (Add any other notes or information that you need for the session)
+- 14 Therendor, 998 YK
+- Sunny and warm
 
 ## The Party
 
@@ -5049,3 +5407,16 @@ From an early age, Sylas displayed an insatiable curiosity for the arcane, an un
 One fateful night, during an illicit ritual deep in the city's labyrinthine sewers, Sylas made a pact with the mysterious and enigmatic Traveler. The Traveler granted Sylas otherworldly powers in exchange for his servitude and adherence to its unpredictable whims. Its motives were always veiled in mystery, and its presence brought chaos and intrigue to Sylas's life.
 
 The Traveler's influence transformed Sylas into a warlock with the power to manipulate time, reality, and fate. But in return, the Traveler would randomly manifest its presence, whisking Sylas away to alternate realities and planes, often leaving him to navigate unforeseen challenges.
+
+## Forge
+Forge was once a human general during the tumultuous times of the Last War. Known for his unwavering commitment to victory, he often made decisions that placed strategic objectives above the lives of his own soldiers. In a pivotal battle, faced with overwhelming odds, he made the fateful choice to detonate an explosion that claimed his life along with his entire squad, effectively turning the tide in his side's favor.
+
+After his death, Forge's soul was captured by House Cannith, a powerful faction renowned for their advancements in magical engineering. They were experimenting with the creation of sentient constructs called warforged—living beings made of metal and magic designed for warfare. Forge's soul was infused into one of these new bodies, and unlike others in the program, he retained his memories and sanity. This unexpected outcome puzzled the artificers, who could not replicate the process successfully with other subjects.
+
+Held captive by House Cannith, Forge underwent numerous tests as they sought to understand why he was different. Using his experience and tactical acumen, he eventually orchestrated an escape. In the process, he destroyed the creation forge responsible for his rebirth, dealing a significant blow to House Cannith's operations.
+
+Since his escape, Forge has been on the run. House Cannith is determined to find him, both to prevent any secrets from being exposed and to continue their research based on his unique transformation. Bearing a distinctive dragonmark emblazoned on his chest—an identifier linking him to House Cannith—he moves cautiously, aware that he is constantly being pursued.
+
+Forge grapples with his new existence, questioning what it means to be alive in a constructed body. He contemplates the ethics of creating more beings like himself. Would bringing others into the world as warforged be an act of creation or manipulation? This internal conflict drives him to seek understanding of his own identity and purpose.
+
+Amidst a world striving to recover from the devastation of war, Forge searches for a place where he belongs. He is caught between his past as a human general and his present as a warforged fugitive. His journey is one of self-discovery, as he tries to reconcile his actions during the war with his desire to forge a new path forward.
