@@ -14,11 +14,13 @@ TODO
 	- [[Statblocks#Alchemist|Alchemist]] (Orc, **Dig**) | rooftop
 	- [[Statblocks#Human Trickshot|Trickshot]] (Human, **Nila**) | rooftop
 - Tactics:
-	- *Raider*: Has 2 shields. Front-line tank, charges backline.
+	- *Raider*: Has 2 shields. Frontline tank, charges backline.
 	- *Alchemist*: Support/crowd control. Control the heavies.
-	- *Trickshot*: 
+	- *Trickshot*: Backline single-target damage.
 - Loot:
 	- A a few vials of refined dreamlily.
+	- Boromar pendants
+	- 2d4x10 gp each
 
 - [ ] Moment 1: *Dreamlily Den*
 - An old [[Dreamlily Den|warehouse]] being used by the Boromar Clan to make Dreamlily.
@@ -29,8 +31,8 @@ TODO
 
 - [ ] Encounter 1: *The Red Cloak Battalion
 - The raid is led by [[Statblocks#Hobgoblin Death Captain|Kazrak the Unyielding]] followed by a large mix of [[Statblocks#Human Guard|Guards]] and [[Statblocks#Orc Blitzer|Orc Blitzers]] from the *King's Swords*.
-- After d4 rounds in combat, the bomb inside the warehouse explodes, triggering a **skill challenge** to escape.
-- **Goal:** 4 round combat with the guard followed by skill challenge to escape the bombed warehouse
+- At the start of round 4 in combat, the bomb inside the warehouse explodes, triggering a **skill challenge** to escape.
+- **Goal:** 3 round combat with the guard followed by skill challenge to escape the bombed warehouse
 
 - [ ] Session End: *Name*
 - (possible cliffhanger)
