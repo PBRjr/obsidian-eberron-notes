@@ -13,16 +13,22 @@ Warehouse full of poor workers creating Dreamlily for the Boromar clan
 ## Plot
 
 ### Description
-- Front door appears shut from a distance > Was left slightly ajar
+- Front door appears shut from a distance > was left slightly ajar
  - Turned over furniture, scattered alchemical equipment, general signs of leaving in a hurry.
  - Bloody dead bodies > corpses are dressed in dirty clothes wearing cloth mouth coverings > hands covered with Dreamlily dust.
  - Office room in back > nice wood chair & desk > see clues
 ### Clues
-- Note on desk in back: *"We have a mole. Red Cloak Battalion raid today. Kill the Filth, burn the Den. Meet at O's Whip. Take the artificer with you. Halak's orders."*
-- [[Godlings, Demigods, and Other Mythical Creatures]] is on the desk from his capture
-- Flashing crystal wrapped with a magical conduit on desk next to note. Wires lead to various structures in the warehouse
-	- Bomb timer: bomb flashes faster and increases in pitch as it gets closer to detonating.
-	- Top of round 4: Skill challenge to escape the collapsed warehouse & Red cloak Battalion.
+
+**Office**
+- Desk > Note, book, cup of warm tea
+	- **Note.** *"We have a mole. Red Cloak Battalion raid today. Kill the Filth, burn the Den. Meet at O's Whip. Take the artificer with you. Halak's orders."*
+	- **Book.** [[Godlings, Demigods, and Other Mythical Creatures]] is on the desk from his capture
+	- **Cup of tea.** Luke warm, half empty
+- Chair > 
+- Machine bolted to wall next to desk > flashing crystal bolted magical conduit 
+	-> Wires lead to various structures in the warehouse
+		- Bomb timer: bomb flashes faster and increases in pitch as it gets closer to detonating.
+		- Top of round 4: Skill challenge to escape the collapsed warehouse & Red cloak Battalion.
 
 ## Roster
 Warehouse is empty of live personnel. Corpses of drug slaves (Filth) littered throughout warehouse, executed.
@@ -30,12 +36,12 @@ Warehouse is empty of live personnel. Corpses of drug slaves (Filth) littered th
 	- [[Garhorn & Blinker]] knows of him - never accepts bribes, dangerous
 Extra [[Statblocks#Orc Blitzer|guards]] help during the raid
 
-## Unrefined Dreamlily Dust
+## Dreamlily Dust
+
+### Unrefined
 Purple cloud of unrefined Dreamlily permeates the air in parts of the warehouse Anyone who inhales the dust must make a constitution saving throw or roll on a table for a random effect
 
 DC 16 Con save
-
-*Bad gas*
 
 | d10 | Effect                                                                                                                                                                           |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -50,6 +56,7 @@ DC 16 Con save
 | 9   | **Memory Fog:** The player’s memory becomes hazy, causing them to forget one spell or ability they know for 1d6 rounds.                                                          |
 | 10  | **Overwhelming Fear:** The player is frightened of the nearest creature for 1 minute. They can repeat the saving throw at the end of each turn to end the effect.                |
 
+### Refined
 Vials of refined Dreamlily can be found around the facility, which grant more positive effects when consumed. The enforcers regularly carry some on them for emergencies.
 
 | d10 | Effect                                                                                                                                                               |
