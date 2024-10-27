@@ -12,7 +12,7 @@ Warehouse full of poor workers creating Dreamlily for the Boromar clan
 
 ## Plot
 - turned over furniture, left behind belongings, general signs of leaving in a hurry.
-- Note on desk in back: *"We have a mole. Red Cloak Battalion raid today. Kill the Filth, burn the house with Sharn's finest in it. Meet at O's Whip. Take the prisoner with you."*
+- Note on desk in back: *"We have a mole. Red Cloak Battalion raid today. Kill the Filth, burn the Den. Meet at O's Whip. Take the artificer with you. Halak's orders."*
 - [[Godlings, Demigods, and Other Mythical Creatures]] is on the desk from his capture
 - flashing crystal wrapped with a magical conduit on desk next to note. Wires lead to various structures in the warehouse
 	- Bomb timer: bomb flashes faster and increases in pitch as it gets closer to detonating.
