@@ -1356,23 +1356,9 @@ The prophecy isn't a document that tells of all that will be. Its more like an o
 
 The Galifar calendar is broken up into 12 months, each with 4 weeks or 28 days, 7 days/week.
 
-| Month     | Season       | Dragonmark  |
-| --------- | ------------ | ----------- |
-| Zarabtyr  | Mid winter   | Storm       |
-| Olarune   | Late winter  | Sentinel    |
-| Therendor | Early Spring | Healing     |
-| Eyre      | Mid spring   | Making      |
-| Dravago   | Late spring  | Handiling   |
-| Nymm      | Early summer | Hospitality |
-| Lharvion  | Mid summer   | Detection   |
-| Barrakas  | Late summer  | Finding     |
-| Rhaan     | Early autumn | Scribing    |
-| Sypheros  | Mid autumn   | Shadow      |
-| Aryth     | Late autumn  | Passage     |
-| Vult      | Early winter | Warding     |
-Session 4: 10 Therendor, 998 YK
-Session 7: 13 Therendor, 998 YK
-Session 10: 14 Therendor, 998 YK
+
+```calendarium
+```
 
 ## Misc Books and Texts
 
@@ -5203,7 +5189,7 @@ Went to Starfire Dragon Tavern
 - Garhorn told the party about his quitting the Boromar Clan after their encounter in Shavalant.
 - The party gave Garhorn 15gp to take them to the Boromar Clan's closest safehouse to Morgrave University.
 - He agreed then passed out on the floor to sleep off the drunkenness.
-- Draven bought 4 dreamlilys from a student in the Tavern while they were waiting for Garhorn to wakeup.
+- Draven bought 4 vials of refined dreamlily dust from a student in the Tavern while they were waiting for Garhorn to wakeup.
 - Geralt experienced another memory from the Legacy Stone (memory 4)
 
 Thugs
