@@ -11,10 +11,16 @@ Warehouse full of poor workers creating Dreamlily for the Boromar clan
 - Enforcers all left moments before party arrived, after they were informed of an incoming raid by the Red Cloak Battalion
 
 ## Plot
-- turned over furniture, left behind belongings, general signs of leaving in a hurry.
+
+### Description
+- Front door appears shut from a distance > Was left slightly ajar
+ - Turned over furniture, scattered alchemical equipment, general signs of leaving in a hurry.
+ - Bloody dead bodies > corpses are dressed in dirty clothes wearing cloth mouth coverings > hands covered with Dreamlily dust.
+ - Office room in back > nice wood chair & desk > see clues
+### Clues
 - Note on desk in back: *"We have a mole. Red Cloak Battalion raid today. Kill the Filth, burn the Den. Meet at O's Whip. Take the artificer with you. Halak's orders."*
 - [[Godlings, Demigods, and Other Mythical Creatures]] is on the desk from his capture
-- flashing crystal wrapped with a magical conduit on desk next to note. Wires lead to various structures in the warehouse
+- Flashing crystal wrapped with a magical conduit on desk next to note. Wires lead to various structures in the warehouse
 	- Bomb timer: bomb flashes faster and increases in pitch as it gets closer to detonating.
 	- Top of round 4: Skill challenge to escape the collapsed warehouse & Red cloak Battalion.
 
