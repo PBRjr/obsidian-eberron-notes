@@ -17,6 +17,10 @@ TODO
 	- *Raider*: Has 2 shields. Frontline tank, charges backline.
 	- *Alchemist*: Support/crowd control. Control the heavies.
 	- *Trickshot*: Backline single-target damage.
+- Dynamic encounter
+	- Enemies might try to take hostages
+	- Enemies might shoot innocent victims
+	- A few pedestrians will start walking through the area on round 2
 - Loot:
 	- A a few vials of refined dreamlily.
 	- Boromar pendants

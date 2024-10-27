@@ -1,7 +1,11 @@
 Reference
 - [[#Plot|Plot]]
+	- [[#Plot#Description|Description]]
+	- [[#Plot#Clues|Clues]]
 - [[#Roster|Roster]]
-- [[#Unrefined Dreamlily Dust|Unrefined Dreamlily Dust]]
+- [[#Dreamlily Dust|Dreamlily Dust]]
+	- [[#Dreamlily Dust#Unrefined|Unrefined]]
+	- [[#Dreamlily Dust#Refined|Refined]]
 - [[#Loot|Loot]]
 
 ---
@@ -24,10 +28,10 @@ Warehouse full of poor workers creating Dreamlily for the Boromar clan
 	- **Note.** *"We have a mole. Red Cloak Battalion raid today. Kill the Filth, burn the Den. Meet at O's Whip. Take the artificer with you. Halak's orders."*
 	- **Book.** [[Godlings, Demigods, and Other Mythical Creatures]] is on the desk from his capture
 	- **Cup of tea.** Luke warm, half empty
-- Chair > 
+- Chair > shackles still clipped, hanging from sides of chair > drops of blood scattered beneath
 - Machine bolted to wall next to desk > flashing crystal bolted magical conduit 
-	-> Wires lead to various structures in the warehouse
-		- Bomb timer: bomb flashes faster and increases in pitch as it gets closer to detonating.
+	- **Wires.** Lead to explosives in the warehouse
+		- **Timer.** Crystal flashes faster and increases in pitch as it gets closer to detonating
 		- Top of round 4: Skill challenge to escape the collapsed warehouse & Red cloak Battalion.
 
 ## Roster
