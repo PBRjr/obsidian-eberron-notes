@@ -34,6 +34,8 @@ Warehouse full of poor workers creating Dreamlily for the Boromar clan
 		- **Timer.** Crystal flashes faster and increases in pitch as it gets closer to detonating
 		- Top of round 4: Skill challenge to escape the collapsed warehouse & Red cloak Battalion.
 
+**Main Chamber**
+-  **Wires.** Leading from the office to 4 explosive devices bolted to the walls. Each takes *DC 20 slight of hand* check to defuse.
 ## Roster
 Warehouse is empty of live personnel. Corpses of drug slaves (Filth) littered throughout warehouse, executed.
 - Hobgoblin death captain leader ([[Statblocks#Hobgoblin Death Captain|Kazrak the Unyielding]]) of the Red Cloak Battalion
