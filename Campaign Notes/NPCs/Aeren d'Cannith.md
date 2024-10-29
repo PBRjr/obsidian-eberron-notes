@@ -4,7 +4,13 @@ Aeren is a cunning and charming half-elf Artificer with a mind for pattern recog
 
 ### Description
 
-- Appearance: Aeren is a middle-aged half-elf with short ruffled hair, bright green eyes, and a perpetual half-smile. 
+- Demographics:
+	- 38 year old half-elf male
+	- Born to an Elven mother and Human father
+	- Born as Aeren Thorne on 8 Therendor, 960YK
+	- Born and raised in [[fair]]
+
+- Appearance: Aeren is considered young for a half-elf with short ruffled hair, bright green eyes, and a perpetual half-smile. 
 
 - Personality: He is naturally curious, friendly, and charismatic but also a shrewd investigator.
 
@@ -18,8 +24,6 @@ The interior is filled with small contraptions, decorations, and bland but funct
 The only other resident is *Piston*, a short machination who is Aeren's clockwork assistant. He is able to take simple commands, however he is not sentient.
 
 ### Backstory
-
-Aeren d'Cannith - previously known as **Aeren Thorne** prior to Induction into house Cannith.
 
 A proficient and acclaimed artificer of House Cannith (invented the Everbright lantern), Aeren holds the title of the youngest Master Artificer [[House Cannith]] has ever known. Having been born outside of the Dragonmarked house to an Elven mother and human father, Aeren is also the only Master Artificer that does not bare a *Mark of Making.
 
