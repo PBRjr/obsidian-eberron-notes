@@ -19,6 +19,8 @@ The only other resident is *Piston*, a short machination who is Aeren's clockwor
 
 ### Backstory
 
+Aeren d'Cannith - previously known as **Aeren Thorne** prior to Induction into house Cannith.
+
 A proficient and acclaimed artificer of House Cannith (invented the Everbright lantern), Aeren holds the title of the youngest Master Artificer [[House Cannith]] has ever known. Having been born outside of the Dragonmarked house to an Elven mother and human father, Aeren is also the only Master Artificer that does not bare a *Mark of Making.
 
 After becoming a Master Artificer, he was gifted an old and almost forgotten workshop to use as his own. He was always obsessed with the great warforged creations, though his probing questions were always met with standard answers. The mystery only served to intrigue Aeren more.
