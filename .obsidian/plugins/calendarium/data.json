@@ -1139,6 +1139,40 @@
             "timestamp": 5e-324,
             "order": ""
           }
+        },
+        {
+          "name": "Death of King Jarot",
+          "description": "The exact date of King Jarot's death is not widely known, though it is known that it happened in this year of 894 YK.",
+          "date": {
+            "day": 1,
+            "month": 0,
+            "year": 894
+          },
+          "id": "ID_4af8c83b6958",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Start of the Last War",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 0,
+            "year": 894
+          },
+          "id": "ID_7899ebe848d8",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "id": "ID_eb99ca6acaaa",

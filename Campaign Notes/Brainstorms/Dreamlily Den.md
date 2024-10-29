@@ -26,7 +26,9 @@ Warehouse full of poor workers creating Dreamlily for the Boromar clan
 **Office**
 - Desk > Note, book, cup of warm tea
 	- **Note.** *"We have a mole. Red Cloak Battalion raid today. Kill the Filth, burn the Den. Meet at O's Whip. Take the artificer with you. Halak's orders."*
-	- **Book.** [[Godlings, Demigods, and Other Mythical Creatures]] is on the desk from his capture
+	- **Aeren's belongings.**
+		- ***Book.*** Godlings, Demigods, and Other Mythical Creatures is on the desk from his capture. On top of the closed book is a [[Godlings, Demigods, and Other Mythical Creatures|torn out page]]
+		- ***Keys.*** A small keyring with a few keys on it. These open Aeren's workshop and various locks/doors within.
 	- **Cup of tea.** Luke warm, half empty
 - Chair > shackles still clipped, hanging from sides of chair > drops of blood scattered beneath
 - Machine bolted to wall next to desk > flashing crystal bolted magical conduit 
@@ -34,6 +36,8 @@ Warehouse full of poor workers creating Dreamlily for the Boromar clan
 		- **Timer.** Crystal flashes faster and increases in pitch as it gets closer to detonating
 		- Top of round 4: Skill challenge to escape the collapsed warehouse & Red cloak Battalion.
 
+**Main Chamber**
+-  **Wires.** Leading from the office to 4 explosive devices bolted to the walls. Each takes *DC 20 slight of hand* check to defuse.
 ## Roster
 Warehouse is empty of live personnel. Corpses of drug slaves (Filth) littered throughout warehouse, executed.
 - Hobgoblin death captain leader ([[Statblocks#Hobgoblin Death Captain|Kazrak the Unyielding]]) of the Red Cloak Battalion

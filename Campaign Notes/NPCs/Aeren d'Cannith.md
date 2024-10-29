@@ -4,7 +4,13 @@ Aeren is a cunning and charming half-elf Artificer with a mind for pattern recog
 
 ### Description
 
-- Appearance: Aeren is a middle-aged half-elf with short ruffled hair, bright green eyes, and a perpetual half-smile. 
+- Demographics:
+	- 38 year old half-elf male
+	- Born to an Elven mother and Human father
+	- Born as Aeren Thorne on 8 Therendor, 960YK
+	- Born and raised in Fairhaven, Aundair
+
+- Appearance: Aeren is considered young for a half-elf with short ruffled hair, bright green eyes, and a perpetual half-smile. He is light-skinned, tall, and slender, with hands plagued with worked callouses.
 
 - Personality: He is naturally curious, friendly, and charismatic but also a shrewd investigator.
 
