@@ -5,7 +5,7 @@
 
 - [ ] Session Start
 - Trapped by the Red Cloak Battalion in an abandoned towers staircase above 
-- The floor collapses, sending 
+- The floor collapses, sending the party and the battalion plummeting through old staircases hundreds of feet below, landing in a pool of grey water in [[Old Sharn]].
 - 
 
 - [ ] Moment 1: *Name*
