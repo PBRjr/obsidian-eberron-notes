@@ -45,14 +45,26 @@ Place 2: *Olladra's Kitchen*
 	- Inns: *Boldrei's Hearth*
 	- Residential: *Vallia Towers, Myshan Gardens*
 
-(continue as needed)
+Place 3: *Everbright*
+- Magic ward located in Middle Menthis Plateau
+	- Contains several alchemy, artifice, and healing services
+	- Main attraction: *Jorasco House of Healing*
+- Neighboring wards
+	- Garrison: *Warden Towers*
+	- Shops: *Cassan Bridge*
+	- Neighborhoods: *Deniytas (gnomes), Platinate (wealthy)*
+
+Place 4: *Aeren's Workshop*
+- Located in Everbright, appears to be apartments from the outside
+- Renovated to a studio-like inside with 3 levels, and enough space to house the party.
+- Clockwork butler: *Piston*
 ### People
 
-Person 1: *Name*
+Person 1: *Kazrak the Unyielding*
 *Session Information*
-- X (information relevant to session)
+- Led the raid against the Dreamlily Den, currently believes the party is with the Clan.
 *Plot Information*
-- X (information relevant to overall plot)
+- Leads the Red Cloak Batallion, very determined to take down the Boromar Clan
 
 Person 2: *Name*
 *Session Information*
@@ -60,7 +72,6 @@ Person 2: *Name*
 *Plot Information*
 - X (information relevant to overall plot)
 
-(continue as needed)
 ### Plot Actions
 
 Action 1: *Name of significant NPC(s) or organization(s) involved*
