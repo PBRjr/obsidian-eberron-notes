@@ -11,11 +11,16 @@ Tokens and maps on Foundry
 - Trapped by the Red Cloak Battalion in an abandoned towers staircase above 
 - The floor collapses, sending the party and the battalion plummeting through old staircases hundreds of feet below, landing in a pool of grey water in [[Old Sharn]].
 
-- [ ] Moment 1: *E*
-- X
+- [ ] Moment 1: *Old Sharn*
+- **Creature** resides here, blind and attracted to sound, it will charge anything that gets its attention.
+	- **Creature** mechanics:
 
-- [ ] Moment 2: *Name*
-- X
+- [ ] Moment 2: *Escape Routes*
+- Supply lift:
+	- leads to an old stone mill that has been shut down since the War of the Mark
+- Flowing water channel:
+	- leads to lower sewers, with a possible gelatinous cube encounter
+
 - [ ] Encounter: *Name*
 - X
 
@@ -26,8 +31,9 @@ Tokens and maps on Foundry
 
 ### Location Details
 
-Place 1: *Name*
-- X (brief and relevant to the session)
+Place 1: *Old Sharn*
+- An old part of Sharn that was all but destroyed at the end of the War of the Mark.
+- Cursed by the [[The Lady of the Plague]], creating terrible mutations and grotesque monis
 
 Place 2: *Name*
 - X
