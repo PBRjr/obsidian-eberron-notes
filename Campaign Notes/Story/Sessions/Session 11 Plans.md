@@ -3,7 +3,10 @@ Figure out Jarrod's and Randi's characters & how to integrate them into session 
 Finish planning for Old Sharn
 Tokens and maps on Foundry
 ### Outline
-- (List of key events or topics that will happen in the session)
+- **Start.** Collapse into Old Sharn
+- Old Sharn
+- The Creature
+- Escape Routes
 
 ### Moments & Encounters
 
