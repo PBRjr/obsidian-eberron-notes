@@ -11,6 +11,7 @@ Tokens and maps on Foundry
 - Trapped by the Red Cloak Battalion in an abandoned towers staircase above. 
 - The floor collapses, sending the party and the battalion plummeting through old staircases hundreds of feet below, landing in a pool of grey water in [[Old Sharn]].
 - Of the Red Cloaks, only **Kazrak the Unyielding** lands in the water with the party.
+- **Roll a 1d4.** Even - *Garhorn* dies in the collapse. Odd - *Blinker* dies in the collapse.
 
 - [ ] Moment 1: *Old Sharn*
 - **Creature** resides here, blind and attracted to sound, it will charge anything that gets its attention.
@@ -64,23 +65,28 @@ Person 1: *Kazrak the Unyielding*
 *Session Information*
 - Led the raid against the Dreamlily Den, currently believes the party is with the Clan.
 *Plot Information*
-- Leads the Red Cloak Batallion, very determined to take down the Boromar Clan
+- Leads the Red Cloak Battalion, very determined to take down the Boromar Clan.
+- Reasonable man, but firm and stubborn. Unwavering ideals - strong belief in good vs. evil.
 
-Person 2: *Name*
+Person 2: *Garhorn*
 *Session Information*
-- X (information relevant to session)
+- Starting to sober up, trapped with the party.
 *Plot Information*
-- X (information relevant to overall plot)
+- Halfling [[Statblocks#Enchanter|enchanter]], mid 30s, polite and manipulative.
+- Always followed by his Blink Dog **Blinker**.
+- Sounds like Billy Butcher.
+- Has many enemies from the Clan.
 
 ### Plot Actions
 
-Action 1: *Name of significant NPC(s) or organization(s) involved*
-- Goal: X (immediate goal of involved person/org)
-- X (what that person/org is doing to accomplish that goal, assuming PCs don't interfere)
+Action 1: *Boromar Clan (Halak Boromar)*
+- Goal: Use Baelin and Aeren to create a weapon from the FKD fragment so he can consolidate his power.
+	- Baelin revealed that the fragment is something ancient and powerful.
+	- Halak's mind immediately began thinking of how to use this powerful artifact to consolidate his power both within the clan and the clan's power over Sharn.
 
-Action 2: *Name of significant NPC(s) or organization(s) involved*
-- Goal: X
-- X
+Action 2: *Red Cloak Battalion*
+- Goal: Conduct a raid on the Den and secure evidence.
+- Overall goal: Systematically dismantle the Boromar Clan.
 
 (continue as needed)
 ### Additional Notes
