@@ -1,3 +1,7 @@
+TODO:
+Figure out Jarrod's and Randi's characters & how to integrate them into session 11
+Finish planning for Old Sharn
+Tokens and maps on Foundry
 ### Outline
 - (List of key events or topics that will happen in the session)
 
@@ -7,7 +11,7 @@
 - Trapped by the Red Cloak Battalion in an abandoned towers staircase above 
 - The floor collapses, sending the party and the battalion plummeting through old staircases hundreds of feet below, landing in a pool of grey water in [[Old Sharn]].
 
-- [ ] Moment 1: *Name*
+- [ ] Moment 1: *E*
 - X
 
 - [ ] Moment 2: *Name*
