@@ -2,6 +2,7 @@ TODO:
 Figure out Jarrod's and Randi's characters & how to integrate them into session 11
 Finish planning for Old Sharn
 Tokens and maps on Foundry
+Refine the **plague-eater**
 ### Outline
 - **Start.** Collapse into Old Sharn
 - Old Sharn
@@ -94,4 +95,71 @@ Action 2: *Red Cloak Battalion*
 (continue as needed)
 ### Additional Notes
 
-- (Add any other notes or information that you need for the session)
+#### Plague-Eater (Repurposed Bulette)
+
+- **Large Monstrosity, Unaligned**
+- **Armor Class**: 18 (natural armor)
+- **Hit Points**: 136 (16d10 + 48)
+- **Speed**: 40 ft., burrow 30 ft.
+
+---
+
+**Abilities**
+- **STR** 22 (+6)
+- **DEX** 11 (+0)
+- **CON** 21 (+5)
+- **INT** 2 (-4)
+- **WIS** 10 (+0)
+- **CHA** 5 (-3)
+
+---
+
+**Saving Throws**: Dex +4, Con +9
+**Skills**: Perception +6
+**Damage Resistances**: Necrotic, Poison
+**Senses**: Blindsight 60 ft. (blind beyond this radius), Passive Perception 16
+**Languages**: 
+**Challenge**: 9 (5,000 XP)
+**Proficiency Bonus**: +4
+
+---
+
+**Traits**
+
+**Blind but Deadly**: The Plague-Eater is blind and relies on sound to locate its prey. It has **blindsight** out to a range of 60 feet, but is deafened by magical silence. If a creature remains completely still (taking no actions, bonus actions, or reactions), it has advantage on Stealth checks to avoid detection.
+
+**Plague Aura**: Creatures within 10 feet of the Plague-Eater at the start of their turn must make a **DC 16 Constitution saving throw** or take 7 (2d6) necrotic damage. On a failed save, they are also poisoned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the poisoned condition on itself on a success.
+
+**Charge of Destruction**: If the Plague-Eater moves at least 20 feet straight toward a target and then hits it with a Gore attack on the same turn, the target takes an extra 22 (4d10) piercing damage. If the target is a creature, it must succeed on a **DC 18 Strength saving throw** or be knocked prone. If it hits a wall or structure, it instead deals 22 (4d10) bludgeoning damage to the barrier.
+
+---
+
+**Actions**
+
+**Multiattack**: The Plague-Eater makes two attacks: one with its Gore and one with its Bite.
+
+**Gore**:  
+_Melee Weapon Attack_: +10 to hit, reach 10 ft., one target.  
+_Hit_: 19 (3d8 + 6) piercing damage.
+
+**Bite**:  
+_Melee Weapon Attack_: +10 to hit, reach 5 ft., one target.  
+_Hit_: 30 (4d12 + 6) piercing damage. If the target is a creature, it must succeed on a **DC 16 Constitution saving throw** or become infected with a virulent plague. While infected, the creature takes 3 (1d6) necrotic damage at the start of each of its turns. The infection can only be cured by magical healing.
+
+**Deadly Leap (Recharge 5-6)**:  
+The Plague-Eater leaps up to 30 feet in a straight line and lands in a space that contains one or more other creatures. Each creature in that space must succeed on a **DC 18 Strength or Dexterity saving throw** (target’s choice) or be knocked prone, take 22 (4d10) bludgeoning damage, and be pushed 10 feet away. On a successful save, the creature takes only half damage and isn't knocked prone or pushed.
+
+---
+
+**Reactions**
+
+**Rampage**: When the Plague-Eater reduces a creature to 0 hit points with a melee attack on its turn, it can move up to half its speed and make a Bite attack.
+
+---
+
+**Legendary Actions**
+
+The Plague-Eater can take 2 legendary actions, choosing from the options below. It regains spent legendary actions at the start of its turn.
+
+- **Move**: The Plague-Eater moves up to half its speed without provoking opportunity attacks.
+- **Sonic Pulse (Costs 2 Actions)**: The Plague-Eater emits a pulse of sound to detect hidden enemies. All creatures within 30 feet must make a **DC 16 Dexterity saving throw** or be revealed, losing any benefits of being hidden or invisible.
