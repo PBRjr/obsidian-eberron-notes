@@ -940,6 +940,7 @@ _Huge Giant, Chaotic Evil_
 **Saving Throws** Con +7, Str +9  
 **Skills** Athletics +9, Perception +5  
 **Damage Immunities** necrotic, poison  
+**Damage Vulnerability** fire
 **Condition Immunities** blinded, poisoned  
 **Senses** blindsight 60 ft. (blind beyond this radius), tremorsense 30 ft., passive Perception 15  
 **Languages** Giant  
@@ -952,21 +953,21 @@ _Huge Giant, Chaotic Evil_
 
 **Keen Hearing.** The giant has advantage on Wisdom (Perception) checks that rely on hearing.
 
-**Plague Carrier.** When a creature starts its turn within 10 feet of the giant, it must succeed on a DC 15 Constitution saving throw or become poisoned until the start of its next turn. While poisoned this way, the creature takes 7 (2d6) necrotic damage at the start of each of its turns.
+**Plague Carrier.** When a creature starts its turn within 10 feet of the giant, it must succeed on a DC 15 Constitution saving throw or become poisoned until the start of its next turn. While poisoned this way, the creature takes 7 (1d6) necrotic damage at the start of each of its turns.
 
 _**Actions**_  
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
 **Multiattack.** The giant makes two slam attacks or uses Devastating Charge once.
 
-**Slam.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 15 (3d6 + 5) bludgeoning damage plus 5 (2d4) necrotic damage.
+**Slam.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 12(2d6 + 5) bludgeoning damage plus 5 (2d4) necrotic damage.
 
-**Devastating Charge.** The giant moves up to its speed in a straight line and can move through the space of any creature or object, treating walls and similar barriers as difficult terrain. Each creature in its path must make a DC 15 Dexterity saving throw. On a failed save, a creature takes 14 (3d10 + 5) bludgeoning damage plus 10 (3d6) necrotic damage and is knocked prone. On a successful save, the creature takes half damage and isn't knocked prone. Any walls or barriers in its path take 44 (8d10) bludgeoning damage.
+**Devastating Charge.** The giant moves up to its speed in a straight line and can move through the space of any creature or object, treating walls and similar barriers as difficult terrain. Each creature in its path must make a DC 15 Dexterity saving throw. On a failed save, a creature takes 16 (2d10 + 5) bludgeoning damage plus 7 (2d6) necrotic damage and is knocked prone. On a successful save, the creature takes half damage and isn't knocked prone. Any walls or barriers in its path take 44 (8d10) bludgeoning damage.
 
 _**Bonus Action**_  
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Vomit Plague (Recharge 5–6).** The giant spews diseased bile in a 15-foot cone. Each creature in that area must make a DC 15 Constitution saving throw. On a failed save, a creature takes 14 (4d6) poison damage and is poisoned until the end of its next turn. On a successful save, the creature takes half damage and isn't poisoned.
+**Vomit Plague (Recharge 5–6).** The giant spews diseased bile in a 15-foot cone. Each creature in that area must make a DC 15 Constitution saving throw. On a failed save, a creature takes 10 (3d6) poison damage and is poisoned until the end of its next turn. On a successful save, the creature takes half damage and isn't poisoned.
 
 _**Villain Actions**_ (Once per round, Initiative Count 20)  
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
