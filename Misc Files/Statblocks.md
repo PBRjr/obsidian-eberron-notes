@@ -955,6 +955,7 @@ _Huge Giant, Chaotic Evil_
 
 **Plague Carrier.** When a creature starts its turn within 10 feet of the giant, it must succeed on a DC 15 Constitution saving throw or become poisoned until the start of its next turn. While poisoned this way, the creature takes 3 (1d6) necrotic damage at the start of each of its turns.
 
+**Water Weakness.** While in direct contact with water, any attacks against the Plague Giant are made with advantage, and the Plague Giant makes all attacks and saving throws with disadvantage.
 _**Actions**_  
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
