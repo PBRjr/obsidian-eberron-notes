@@ -925,15 +925,15 @@ Challenge 1 (200 XP)
 
 _Huge Giant, Chaotic Evil_
 
-**Armor Class** 15 (natural armor)  
+**Armor Class** 14 (natural armor)  
 **Hit Points** 168 (16d12 + 64)  
 **Speed** 40 ft., climb 20 ft.
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-|STR|DEX|CON|INT|WIS|CHA|
-|---|---|---|---|---|---|
-|22 (+6)|12 (+1)|18 (+4)|6 (−2)|14 (+2)|7 (−2)|
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 21 (+5) | 12 (+1) | 18 (+4) | 6 (−2) | 14 (+2) | 7 (−2) |
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
@@ -959,9 +959,9 @@ _**Actions**_
 
 **Multiattack.** The giant makes two slam attacks or uses Devastating Charge once.
 
-**Slam.** _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 19 (3d8 + 6) bludgeoning damage plus 7 (2d6) necrotic damage.
+**Slam.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 15 (3d6 + 5) bludgeoning damage plus 5 (2d4) necrotic damage.
 
-**Devastating Charge.** The giant moves up to its speed in a straight line and can move through the space of any creature or object, treating walls and similar barriers as difficult terrain. Each creature in its path must make a DC 16 Dexterity saving throw. On a failed save, a creature takes 27 (5d8 + 5) bludgeoning damage plus 14 (4d6) necrotic damage and is knocked prone. On a successful save, the creature takes half damage and isn't knocked prone. Any walls or barriers in its path take 44 (8d10) bludgeoning damage.
+**Devastating Charge.** The giant moves up to its speed in a straight line and can move through the space of any creature or object, treating walls and similar barriers as difficult terrain. Each creature in its path must make a DC 15 Dexterity saving throw. On a failed save, a creature takes 14 (3d10 + 5) bludgeoning damage plus 10 (3d6) necrotic damage and is knocked prone. On a successful save, the creature takes half damage and isn't knocked prone. Any walls or barriers in its path take 44 (8d10) bludgeoning damage.
 
 _**Bonus Action**_  
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
