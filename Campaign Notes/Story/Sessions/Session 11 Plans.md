@@ -1,8 +1,5 @@
 TODO:
-Figure out Jarrod's and Randi's characters & how to integrate them into session 11
-Finish planning for Old Sharn
-Tokens and maps on Foundry
-Refine the **plague-eater**
+- [ ] Integrate Nyx & Lox into the plot web
 ### Outline
 - **Start.** Collapse into Old Sharn
 - Old Sharn
