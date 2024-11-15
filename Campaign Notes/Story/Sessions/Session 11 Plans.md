@@ -20,6 +20,8 @@ Refine the **plague-eater**
 - [ ] Moment 1: *Old Sharn*
 - **Creature** resides here, blind and attracted to sound, it will charge anything that gets its attention.
 	- **Creature** mechanics:
+- **Loot.** 
+	- *Bag of Holding* | 
 
 - [ ] Moment 2: *Escape Routes*
 - Supply lift:
