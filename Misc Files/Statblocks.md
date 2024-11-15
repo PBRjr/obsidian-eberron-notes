@@ -42,6 +42,49 @@ References
 ---
 ## Undead
 
+### Plague Giant
+_Huge Giant, Any Alignment_
+
+**Armor Class** 12 (natural armor)  
+**Hit Points** 150 (12d12 + 48)  
+**Speed** 40 ft., climb 20 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|21 (+5)|8 (−1)|18 (+4)|8 (−1)|9 (−1)|7 (−2)|
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Skills** Athletics +8, Perception +2  
+**Senses** passive Perception 12  
+**Languages** Giant  
+**Proficiency Bonus** +3  
+**Challenge** 5 (1,800 XP)
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Distracted.** When the clobberer targets a creature with an attack, another creature within range of that attack can use their reaction to distract the clobberer. If the clobberer can see or hear the distracting creature, the clobberer targets them with the attack instead.
+
+**Pummel.** When the clobberer hits a prone creature with a melee weapon attack, the attack deals an extra 10 (3d6) damage, and that target’s speed is reduced to 0 until the end of their next turn.
+
+**Siege Monster.** The clobberer’s attacks deal double damage to objects and structures.
+
+_**Actions**_  
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Multiattack.** The clobberer makes two attacks using Greatclub, Rock, or both.
+
+**Greatclub.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 18 (3d8 + 5) bludgeoning damage, and the target must succeed on a DC 16 Strength saving throw or be knocked prone.
+
+**Rock.** _Ranged Weapon Attack:_ +8 to hit, range 60/240 ft., one target. _Hit:_ 16 (2d10 + 5) bludgeoning damage.
+
+_**Bonus Actions**_  
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Hill Quake.** The clobberer falls prone, and each creature on the ground within 20 feet of the clobberer must succeed on a DC 16 Dexterity saving throw or fall prone. Structures in that area take 33 (6d10) bludgeoning damage.
+
 ### Giant Zombie
 Huge undead, neutral evil
 
