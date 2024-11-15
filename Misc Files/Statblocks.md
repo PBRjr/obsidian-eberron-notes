@@ -26,6 +26,9 @@ References
 	- [[#Humanoids#Commoner|Commoner]]
 	- [[#Humanoids#Bandit (Increased Diff)|Bandit (Increased Diff)]]
 	- [[#Humanoids#Enchanter|Enchanter]]
+- [[#Giants|Giants]]
+	- [[#Giants#Plague Giant|Plague Giant]]
+	- [[#Giants#Fire Giant Red Fist|Fire Giant Red Fist]]
 - [[#Goblins|Goblins]]
 	- [[#Goblins#Hobgoblin Death Captain|Hobgoblin Death Captain]]
 - [[#Orcs|Orcs]]
@@ -39,53 +42,9 @@ References
 - [[#Structures|Structures]]
 	- [[#Structures#Balista|Balista]]
 
+
 ---
 ## Undead
-
-### Plague Giant
-_Huge Giant, Any Alignment_
-
-**Armor Class** 12 (natural armor)  
-**Hit Points** 150 (12d12 + 48)  
-**Speed** 40 ft., climb 20 ft.
-
-![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
-
-|STR|DEX|CON|INT|WIS|CHA|
-|---|---|---|---|---|---|
-|21 (+5)|8 (−1)|18 (+4)|8 (−1)|9 (−1)|7 (−2)|
-
-![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
-
-**Skills** Athletics +8, Perception +2 
-**Damage Immunities** necrotic
-**Senses** passive Perception 12  
-**Languages** Giant  
-**Proficiency Bonus** +3  
-**Challenge** 5 (1,800 XP)
-
-![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
-
-**Distracted.** When the Plague Giant targets a creature with an attack, another creature within range of that attack can use their reaction to distract the Plague Giant. If the Plague Giant can see or hear the distracting creature, the Plague Giant targets them with the attack instead.
-
-**Pummel.** When the Plague Giant hits a prone creature with a melee weapon attack, the attack deals an extra 10 (3d6) damage, and that target’s speed is reduced to 0 until the end of their next turn.
-
-**Siege Monster.** The Plague Giant’s attacks deal double damage to objects and structures.
-
-_**Actions**_  
-![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
-
-**Multiattack.** The Plague Giant makes two attacks using Greatclub, Rock, or both.
-
-**Greatclub.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 18 (3d8 + 5) bludgeoning damage, and the target must succeed on a DC 16 Strength saving throw or be knocked prone.
-
-**Rock.** _Ranged Weapon Attack:_ +8 to hit, range 60/240 ft., one target. _Hit:_ 16 (2d10 + 5) bludgeoning damage.
-
-_**Bonus Actions**_  
-![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
-
-**Hill Quake.** The Plague Giant falls prone, and each creature on the ground within 20 feet of the Plague Giant must succeed on a DC 16 Dexterity saving throw or fall prone. Structures in that area take 33 (6d10) bludgeoning damage.
-
 ### Giant Zombie
 Huge undead, neutral evil
 
@@ -962,6 +921,66 @@ Challenge 1 (200 XP)
 **Dagger.** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 
 ## Giants
+### Plague Giant
+
+_Huge Giant, Chaotic Evil_
+
+**Armor Class** 15 (natural armor)  
+**Hit Points** 168 (16d12 + 64)  
+**Speed** 40 ft., climb 20 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|22 (+6)|12 (+1)|18 (+4)|6 (−2)|14 (+2)|7 (−2)|
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Saving Throws** Con +7, Str +9  
+**Skills** Athletics +9, Perception +5  
+**Damage Immunities** necrotic, poison  
+**Condition Immunities** blinded, poisoned  
+**Senses** blindsight 60 ft. (blind beyond this radius), tremorsense 30 ft., passive Perception 15  
+**Languages** Giant  
+**Challenge** 8 (3,900 XP)  
+**Proficiency Bonus** +3
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Blind.** The giant cannot see and is immune to any effect that would require sight. It has blindsight out to 60 feet due to its acute hearing.
+
+**Keen Hearing.** The giant has advantage on Wisdom (Perception) checks that rely on hearing.
+
+**Plague Carrier.** When a creature starts its turn within 10 feet of the giant, it must succeed on a DC 15 Constitution saving throw or become poisoned until the start of its next turn. While poisoned this way, the creature takes 7 (2d6) necrotic damage at the start of each of its turns.
+
+_**Actions**_  
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Multiattack.** The giant makes two slam attacks or uses Devastating Charge once.
+
+**Slam.** _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 19 (3d8 + 6) bludgeoning damage plus 7 (2d6) necrotic damage.
+
+**Devastating Charge.** The giant moves up to its speed in a straight line and can move through the space of any creature or object, treating walls and similar barriers as difficult terrain. Each creature in its path must make a DC 16 Dexterity saving throw. On a failed save, a creature takes 27 (5d8 + 5) bludgeoning damage plus 14 (4d6) necrotic damage and is knocked prone. On a successful save, the creature takes half damage and isn't knocked prone. Any walls or barriers in its path take 44 (8d10) bludgeoning damage.
+
+_**Bonus Action**_  
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Vomit Plague (Recharge 5–6).** The giant spews diseased bile in a 15-foot cone. Each creature in that area must make a DC 15 Constitution saving throw. On a failed save, a creature takes 14 (4d6) poison damage and is poisoned until the end of its next turn. On a successful save, the creature takes half damage and isn't poisoned.
+
+_**Villain Actions**_ (Once per round, Initiative Count 20)  
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Phase 1: Echo Hunt.** The giant uses echolocation and can pinpoint the location of all creatures within 60 feet. Until the start of its next turn, it has advantage on attack rolls against any creature it detected.
+
+**Phase 2: Rampage.** The giant can use Devastating Charge twice, choosing a different direction for each charge.
+
+**Phase 3: Plague Eruption.** The giant's body violently expels disease in all directions. Each creature within 30 feet must succeed on a DC 15 Constitution saving throw or take 17 (5d6) necrotic damage and become poisoned until the end of their next turn. Additionally, the area becomes filled with diseased fog until the end of the giant's next turn, heavily obscuring it for all creatures except the giant.
+
+_**Reaction**_  
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Sound Stalker.** When a creature within 60 feet makes a sound (including speaking or casting a spell with verbal components), the giant can immediately move up to half its speed toward that creature without provoking opportunity attacks.
 ### Fire Giant Red Fist
 _Huge Giant, Any Alignment_  
 **Armor Class** 17 (natural armor)  
