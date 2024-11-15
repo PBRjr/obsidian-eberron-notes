@@ -57,7 +57,8 @@ _Huge Giant, Any Alignment_
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Skills** Athletics +8, Perception +2  
+**Skills** Athletics +8, Perception +2 
+**Damage Immunities** necrotic
 **Senses** passive Perception 12  
 **Languages** Giant  
 **Proficiency Bonus** +3  
@@ -65,16 +66,16 @@ _Huge Giant, Any Alignment_
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Distracted.** When the clobberer targets a creature with an attack, another creature within range of that attack can use their reaction to distract the clobberer. If the clobberer can see or hear the distracting creature, the clobberer targets them with the attack instead.
+**Distracted.** When the Plague Giant targets a creature with an attack, another creature within range of that attack can use their reaction to distract the Plague Giant. If the Plague Giant can see or hear the distracting creature, the Plague Giant targets them with the attack instead.
 
-**Pummel.** When the clobberer hits a prone creature with a melee weapon attack, the attack deals an extra 10 (3d6) damage, and that target’s speed is reduced to 0 until the end of their next turn.
+**Pummel.** When the Plague Giant hits a prone creature with a melee weapon attack, the attack deals an extra 10 (3d6) damage, and that target’s speed is reduced to 0 until the end of their next turn.
 
-**Siege Monster.** The clobberer’s attacks deal double damage to objects and structures.
+**Siege Monster.** The Plague Giant’s attacks deal double damage to objects and structures.
 
 _**Actions**_  
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Multiattack.** The clobberer makes two attacks using Greatclub, Rock, or both.
+**Multiattack.** The Plague Giant makes two attacks using Greatclub, Rock, or both.
 
 **Greatclub.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 18 (3d8 + 5) bludgeoning damage, and the target must succeed on a DC 16 Strength saving throw or be knocked prone.
 
@@ -83,7 +84,7 @@ _**Actions**_
 _**Bonus Actions**_  
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Hill Quake.** The clobberer falls prone, and each creature on the ground within 20 feet of the clobberer must succeed on a DC 16 Dexterity saving throw or fall prone. Structures in that area take 33 (6d10) bludgeoning damage.
+**Hill Quake.** The Plague Giant falls prone, and each creature on the ground within 20 feet of the Plague Giant must succeed on a DC 16 Dexterity saving throw or fall prone. Structures in that area take 33 (6d10) bludgeoning damage.
 
 ### Giant Zombie
 Huge undead, neutral evil
