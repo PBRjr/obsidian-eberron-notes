@@ -944,7 +944,7 @@ _Huge Giant, Chaotic Evil_
 **Condition Immunities** blinded, poisoned  
 **Senses** blindsight 60 ft. (blind beyond this radius), tremorsense 30 ft., passive Perception 15  
 **Languages** Giant  
-**Challenge** 8 (3,900 XP)  
+**Challenge** 11 (7,200 XP)  
 **Proficiency Bonus** +3
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
@@ -953,7 +953,7 @@ _Huge Giant, Chaotic Evil_
 
 **Keen Hearing.** The giant has advantage on Wisdom (Perception) checks that rely on hearing.
 
-**Plague Carrier.** When a creature starts its turn within 10 feet of the giant, it must succeed on a DC 15 Constitution saving throw or become poisoned until the start of its next turn. While poisoned this way, the creature takes 7 (1d6) necrotic damage at the start of each of its turns.
+**Plague Carrier.** When a creature starts its turn within 10 feet of the giant, it must succeed on a DC 15 Constitution saving throw or become poisoned until the start of its next turn. While poisoned this way, the creature takes 3 (1d6) necrotic damage at the start of each of its turns.
 
 _**Actions**_  
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
@@ -976,7 +976,7 @@ _**Villain Actions**_ (Once per round, Initiative Count 20)
 
 **Phase 2: Rampage.** The giant can use Devastating Charge twice, choosing a different direction for each charge.
 
-**Phase 3: Plague Eruption.** The giant's body violently expels disease in all directions. Each creature within 30 feet must succeed on a DC 15 Constitution saving throw or take 17 (5d6) necrotic damage and become poisoned until the end of their next turn. Additionally, the area becomes filled with diseased fog until the end of the giant's next turn, heavily obscuring it for all creatures except the giant.
+**Phase 3: Plague Eruption.** The giant's body violently expels disease in all directions. Each creature within 30 feet must succeed on a DC 15 Constitution saving throw or take 14 (4d6) necrotic damage and become poisoned until the end of their next turn. Additionally, the area becomes filled with diseased fog until the end of the giant's next turn, heavily obscuring it for all creatures except the giant.
 
 _**Reaction**_  
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
