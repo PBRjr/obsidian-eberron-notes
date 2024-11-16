@@ -108,6 +108,9 @@
 
 #### PC: Lox Tempest
 * 
+* Made a pact with a demon/devil to give Lox the power to enact revenge against his son's killer.
+	* **who is the demon/devil? What were the details of the contract?**
+
 #### PC: Nyx Tempest
 ## Story Plot Pieces
 - **Themes**:
