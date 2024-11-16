@@ -107,11 +107,14 @@
 - Would be randomly taken to a different plane for the Traveler's duties
 
 #### PC: Lox Tempest
-* 
+* Married to Nyx. They lost their daughter (**name?**) in the airship attack at the hands of *Woe*.
 * Made a pact with a demon/devil to give Lox the power to enact revenge against his son's killer.
 	* **who is the demon/devil? What were the details of the contract?**
 
 #### PC: Nyx Tempest
+* Married to Lox. They lost their daughter (**name?**) in the airship attack at the hands of Woe.
+	* Daughter was traveling on the airship back to Nyx's homeland in the forest to spend time with her druidic side of the family.
+* Nyx is a drui
 ## Story Plot Pieces
 - **Themes**:
 	- What makes a person good? 
