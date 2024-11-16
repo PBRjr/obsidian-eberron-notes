@@ -105,6 +105,10 @@
 - Learned of eldritch power through his father
 - Made a pact w/ the Traveler in the sewers
 - Would be randomly taken to a different plane for the Traveler's duties
+
+#### PC: Lox Tempest
+* 
+#### PC: Nyx Tempest
 ## Story Plot Pieces
 - **Themes**:
 	- What makes a person good? 
