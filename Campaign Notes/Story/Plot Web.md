@@ -106,15 +106,18 @@
 - Made a pact w/ the Traveler in the sewers
 - Would be randomly taken to a different plane for the Traveler's duties
 
-#### PC: Lox Tempest
-* Married to Nyx. They lost their daughter (**name?**) in the airship attack at the hands of *Woe*.
-* Made a pact with a demon/devil to give Lox the power to enact revenge against his son's killer.
-	* **who is the demon/devil? What were the details of the contract?**
-
-#### PC: Nyx Tempest
-* Married to Lox. They lost their daughter (**name?**) in the airship attack at the hands of Woe.
-	* Daughter was traveling on the airship back to Nyx's homeland in the forest to spend time with her druidic side of the family.
-* Nyx is a drui
+#### PCs: Lox & Nyx Tempest
+* Lox & Nyx married. They think that they lost their daughter (**name?**) in the airship attack at the hands of *Woe*.
+	*  Daughter was supposed to be traveling on the airship back to Nyx's homeland in the forest to spend time with her druidic side of the family.
+* Lox made a pact with a demon/devil to give Lox the power to enact revenge against his son's killer.
+	* **Who is the demon/devil? What were the details of the contract?**
+* Nyx is a druid, raised in the forest by her family.
+* ***Character motivation:***
+	* After learning of the airship crash and **daughter's** probable death, Lox & Nyx embarked on a quest to find and kill her murderer.
+* ***Secret.***
+	* **Daughter** isn't actually dead, because she was never on *The Merkentile*. 
+	* Party may find clues about the ship's manifest and find out her name isn't on there.
+	* *Where was she? How is she connected? What is she doing?
 ## Story Plot Pieces
 - **Themes**:
 	- What makes a person good? 
