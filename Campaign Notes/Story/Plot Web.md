@@ -110,14 +110,17 @@
 * Lox & Nyx married. They think that they lost their daughter (**name?**) in the airship attack at the hands of *Woe*.
 	*  Daughter was supposed to be traveling on the airship back to Nyx's homeland in the forest to spend time with her druidic side of the family.
 * Lox made a pact with a demon/devil to give Lox the power to enact revenge against his son's killer.
-	* **Who is the demon/devil? What were the details of the contract?**
+	* ***Lox Secret:***
+		* His pact is with *Mordakesh*. Lox has no idea the significance of his patron, but Mordakesh will ensure Lox plays a vital role in releasing his Overlord.
 * Nyx is a druid, raised in the forest by her family.
-* ***Character motivation:***
+* ***Characters motivation:***
 	* After learning of the airship crash and **daughter's** probable death, Lox & Nyx embarked on a quest to find and kill her murderer.
 * ***Secret.***
 	* **Daughter** isn't actually dead, because she was never on *The Merkentile*. 
 	* Party may find clues about the ship's manifest and find out her name isn't on there.
 	* *Where was she? How is she connected? What is she doing?
+		* Joined a group of goliath nomads
+		* They are part of Bjorn's new following, working to take down *Hrothgar*.
 ## Story Plot Pieces
 - **Themes**:
 	- What makes a person good? 

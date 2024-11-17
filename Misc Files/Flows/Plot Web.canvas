@@ -4,6 +4,7 @@
 		{"id":"9f650774c908532e","type":"group","x":1025,"y":110,"width":685,"height":425,"label":"Draven"},
 		{"id":"cd56867760750ef1","type":"group","x":-660,"y":100,"width":610,"height":441,"label":"Bjorn"},
 		{"id":"9c4bda647b633fdf","type":"group","x":-771,"y":-186,"width":290,"height":243,"label":"Forge"},
+		{"id":"69d1c1f7785c0181","x":-1140,"y":-680,"width":290,"height":243,"type":"group","label":"Lox & Nyx"},
 		{"id":"a408fded727356c9","type":"text","text":"Stormpeak Clan","x":-320,"y":120,"width":250,"height":60,"color":"5"},
 		{"id":"978619b39d18e46e","type":"text","text":"Bjorn's new following","x":-640,"y":285,"width":250,"height":60,"color":"5"},
 		{"id":"f453ee9d7ac8ba07","type":"text","text":"Shavalant","x":-751,"y":-488,"width":250,"height":60},
@@ -38,7 +39,10 @@
 		{"id":"6a4712ac1be66fee","type":"text","text":"Draven's Amnesia","x":1045,"y":285,"width":250,"height":63,"color":"#ffffff"},
 		{"id":"a41aad56b46b1b5a","type":"text","text":"Draven Flameforge","x":1045,"y":455,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"b88d31bfb3c7f8f5","type":"text","text":"Byeshk Mountains","x":1440,"y":287,"width":250,"height":60,"color":"#ffffff"},
-		{"id":"24953c68b90ee4d9","type":"text","text":"Destroyed Villages","x":1421,"y":-378,"width":250,"height":60}
+		{"id":"24953c68b90ee4d9","type":"text","text":"Destroyed Villages","x":1421,"y":-378,"width":250,"height":60},
+		{"id":"972bbbcaec62f1ad","x":-1120,"y":-320,"width":250,"height":60,"color":"#0f24bb","type":"text","text":"Daughter Tempest"},
+		{"id":"d47d16064a5dbe61","x":-1120,"y":-517,"width":250,"height":60,"color":"#021ff7","type":"text","text":"Lox Tempest"},
+		{"id":"71dcdd32aa005995","x":-1120,"y":-660,"width":250,"height":60,"color":"#021ff7","type":"text","text":"Nyx Tempest"}
 	],
 	"edges":[
 		{"id":"bac70c1e9d04a13c","fromNode":"7d97e1a39c8769f5","fromSide":"right","toNode":"c5913a0f3a00186c","toSide":"left","toEnd":"none"},
@@ -121,6 +125,10 @@
 		{"id":"706ae6c7a715a5d9","fromNode":"fed548b03f4c89f8","fromSide":"left","toNode":"464ac02db265d3de","toSide":"right","toEnd":"none","color":"2"},
 		{"id":"d49517b2a9b6b432","fromNode":"20f75aab969a0225","fromSide":"top","toNode":"2012d8a809c88c82","toSide":"left","toEnd":"none"},
 		{"id":"29ab7f9b4978f4d1","fromNode":"5ca42467c5b279aa","fromSide":"right","toNode":"64eed97371c2a743","toSide":"left","toEnd":"none"},
-		{"id":"f53e9fa23d7ffed5","fromNode":"85773e8b6033d1a3","fromSide":"left","toNode":"ca58cb84c84cb022","toSide":"right","toEnd":"none"}
+		{"id":"f53e9fa23d7ffed5","fromNode":"85773e8b6033d1a3","fromSide":"left","toNode":"ca58cb84c84cb022","toSide":"right","toEnd":"none"},
+		{"id":"3b4603d2eac323d9","fromNode":"71dcdd32aa005995","fromSide":"bottom","toNode":"d47d16064a5dbe61","toSide":"top","toEnd":"none","color":"#0e22b3"},
+		{"id":"e08d69361d23eed2","fromNode":"972bbbcaec62f1ad","fromSide":"right","toNode":"ca58cb84c84cb022","toSide":"left","toEnd":"none"},
+		{"id":"b1f0ddd4f0004202","fromNode":"69d1c1f7785c0181","fromSide":"bottom","toNode":"972bbbcaec62f1ad","toSide":"top","toEnd":"none"},
+		{"id":"b37434d26558f82e","fromNode":"972bbbcaec62f1ad","fromSide":"bottom","toNode":"978619b39d18e46e","toSide":"left","toEnd":"none"}
 	]
 }
