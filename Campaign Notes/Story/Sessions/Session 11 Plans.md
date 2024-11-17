@@ -16,15 +16,21 @@ TODO:
 
 - [ ] Moment 1: *Old Sharn*
 - **Creature** resides here, blind and attracted to sound, it will charge anything that gets its attention.
-	- **Creature** mechanics:
 - **Loot.** 
-	- *Bag of Holding* | 
+	- Various items and wealth throughout Old Sharn
+	- Additional wealth hoard at the top of prepper's home.
+		- *Wealth hoard.*
+			- 5,500 GP
+			- 500 SP
+			- 1,000 CP
+			- *Dimensional Shackles*
+			- *+1 Greataxe*
 
 - [ ] Moment 2: *Escape Routes*
 - Supply lift:
-	- leads to an old stone mill that has been shut down since the War of the Mark
+	- leads to a prepper's house that has long since died. The lift leads into his vault room with a *wealth hoard.*
 - Flowing water channel:
-	- leads to lower sewers, with a possible gelatinous cube encounter
+	- leads to lower water filtration facility.
 
 - [ ] Encounter: *Name*
 - X
