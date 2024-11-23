@@ -99,6 +99,7 @@
 - He learned of **another creation forge in Sharn (How did he find out?)**, explaining his presence outside the lighthouse during his introduction to the campaign in session 5, because he was looking for the teleportation circle inside The Lighthouse.
 - ***Character motivation:***
 	- Is it unethical to create more in my image? Does that make me a God, or does that make me one of you (normal people)?
+
 #### PC: Sylas Stormshadow (Deceased)
 - Father was an Elven scholar focused on forbidden knowledge about magic
 - Mother was a human merchant in Sharn's Underbelly
@@ -112,6 +113,11 @@
 * Lox made a pact with a demon/devil to give Lox the power to enact revenge against his son's killer.
 	* ***Lox Secret:***
 		* His pact is with *Mordakesh*. Lox has no idea the significance of his patron, but Mordakesh will ensure Lox plays a vital role in releasing his Overlord.
+		* **The Contract.**
+			* Mordakesh approached Lox, which is very rare in the world of warlock patrons.
+				* This happened before their daughter died, so Mordakesh showed Lox a vision of the future, convincing him that Lox would need this power to protect his family.
+			* The *draconic prophecy* led Mordakesh to Lox, suggesting that he would play a pivotal role in the final part of the plan to resurrect *Rak Tulkesh*.
+			* The contract is simple: Mordakesh provides Lox with his powers, and in return Lox will owe a single favor that he must comply with, which will be redeemed when Mordakesh seems fit.
 * Nyx is a druid, raised in the forest by her family.
 * ***Characters motivation:***
 	* After learning of the airship crash and **daughter's** probable death, Lox & Nyx embarked on a quest to find and kill her murderer.

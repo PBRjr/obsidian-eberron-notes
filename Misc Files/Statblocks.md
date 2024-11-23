@@ -923,7 +923,7 @@ Challenge 1 (200 XP)
 ## Giants
 ### Plague Giant
 
-_Huge Giant, Chaotic Evil_
+_Large Giant, Chaotic Evil_
 
 **Armor Class** 14 (natural armor)  
 **Hit Points** 168 (16d12 + 64)  
