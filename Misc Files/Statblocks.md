@@ -984,6 +984,7 @@ _**Reaction**_
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
 **Sound Stalker.** When a creature within 60 feet makes a sound (including speaking or casting a spell with verbal components), the giant can immediately move up to half its speed toward that creature without provoking opportunity attacks.
+
 ### Fire Giant Red Fist
 _Huge Giant, Any Alignment_  
 **Armor Class** 17 (natural armor)  

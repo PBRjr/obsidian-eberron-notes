@@ -1,12 +1,11 @@
 TODO:
 - [x] Integrate Nyx & Lox into the plot web
 - [x] Plans if old sharn doesn't happen (Bjorn gets a letter from his following?)
-- [ ] Create player binders
+- [x] Create player binders
 ### Outline
 - **Start.** Collapse into Old Sharn OR Escape
-- Old Sharn
-- The Creature
-- Escape Routes
+- Old Sharn or Meeting with the King
+- **End.** You're being watched
 
 ### Moments & Encounters
 
@@ -42,7 +41,7 @@ TODO:
 		- The facility is filled with workers that won't make a big fuss if the players are spotted, as long as they leave before they call security.
 		- The facility is located in *Cogsgate*, the warehouse district of lower [[Sharn#Tavick’s Landing|Tavicks Landing]]
 
-- [ ] Moment 2: Meeting with the King
+- [ ] Moment 2: *Meeting with the King*
 - The party is contacted by an agent of [[The Beggar King]], who requests a meeting in the [[Dragoneyes District]] at [[The Crimson Silk Brothel]]
 - **Offer to Aid.** The Beggar King has learned of the party's need to free Aeren d'Cannith and Professor Baelen ir'Torn.
 	- The King knows that the prisoners are currently being held at the Boromar HQ in the Skyway
@@ -112,71 +111,65 @@ Action 2: *Red Cloak Battalion*
 (continue as needed)
 ### Additional Notes
 
-#### Plague-Eater (Repurposed Bulette)
+#### Plague Giant
+_Large Giant, Chaotic Evil_
 
-- **Large Monstrosity, Unaligned**
-- **Armor Class**: 18 (natural armor)
-- **Hit Points**: 136 (16d10 + 48)
-- **Speed**: 40 ft., burrow 30 ft.
+**Armor Class** 14 (natural armor)  
+**Hit Points** 168 (16d12 + 64)  
+**Speed** 40 ft., climb 20 ft.
 
----
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Abilities**
-- **STR** 22 (+6)
-- **DEX** 11 (+0)
-- **CON** 21 (+5)
-- **INT** 2 (-4)
-- **WIS** 10 (+0)
-- **CHA** 5 (-3)
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 21 (+5) | 12 (+1) | 18 (+4) | 6 (−2) | 14 (+2) | 7 (−2) |
 
----
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Saving Throws**: Dex +4, Con +9
-**Skills**: Perception +6
-**Damage Resistances**: Necrotic, Poison
-**Senses**: Blindsight 60 ft. (blind beyond this radius), Passive Perception 16
-**Languages**: 
-**Challenge**: 9 (5,000 XP)
-**Proficiency Bonus**: +4
+**Saving Throws** Con +7, Str +9  
+**Skills** Athletics +9, Perception +5  
+**Damage Immunities** necrotic, poison  
+**Damage Vulnerability** fire
+**Condition Immunities** blinded, poisoned  
+**Senses** blindsight 60 ft. (blind beyond this radius), tremorsense 30 ft., passive Perception 15  
+**Languages** Giant  
+**Challenge** 11 (7,200 XP)  
+**Proficiency Bonus** +3
 
----
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Traits**
+**Blind.** The giant cannot see and is immune to any effect that would require sight. It has blindsight out to 60 feet due to its acute hearing.
 
-**Blind but Deadly**: The Plague-Eater is blind and relies on sound to locate its prey. It has **blindsight** out to a range of 60 feet, but is deafened by magical silence. If a creature remains completely still (taking no actions, bonus actions, or reactions), it has advantage on Stealth checks to avoid detection.
+**Keen Hearing.** The giant has advantage on Wisdom (Perception) checks that rely on hearing.
 
-**Plague Aura**: Creatures within 10 feet of the Plague-Eater at the start of their turn must make a **DC 16 Constitution saving throw** or take 7 (2d6) necrotic damage. On a failed save, they are also poisoned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the poisoned condition on itself on a success.
+**Plague Carrier.** When a creature starts its turn within 10 feet of the giant, it must succeed on a DC 15 Constitution saving throw or become poisoned until the start of its next turn. While poisoned this way, the creature takes 3 (1d6) necrotic damage at the start of each of its turns.
 
-**Charge of Destruction**: If the Plague-Eater moves at least 20 feet straight toward a target and then hits it with a Gore attack on the same turn, the target takes an extra 22 (4d10) piercing damage. If the target is a creature, it must succeed on a **DC 18 Strength saving throw** or be knocked prone. If it hits a wall or structure, it instead deals 22 (4d10) bludgeoning damage to the barrier.
+**Water Weakness.** While in direct contact with water, any attacks against the Plague Giant are made with advantage, and the Plague Giant makes all attacks and saving throws with disadvantage.
 
----
+_**Actions**_  
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Actions**
+**Multiattack.** The giant makes two slam attacks or uses Devastating Charge once.
 
-**Multiattack**: The Plague-Eater makes two attacks: one with its Gore and one with its Bite.
+**Slam.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 12(2d6 + 5) bludgeoning damage plus 5 (2d4) necrotic damage.
 
-**Gore**:  
-_Melee Weapon Attack_: +10 to hit, reach 10 ft., one target.  
-_Hit_: 19 (3d8 + 6) piercing damage.
+**Devastating Charge.** The giant moves up to its speed in a straight line and can move through the space of any creature or object, treating walls and similar barriers as difficult terrain. Each creature in its path must make a DC 15 Dexterity saving throw. On a failed save, a creature takes 16 (2d10 + 5) bludgeoning damage plus 7 (2d6) necrotic damage and is knocked prone. On a successful save, the creature takes half damage and isn't knocked prone. Any walls or barriers in its path take 44 (8d10) bludgeoning damage.
 
-**Bite**:  
-_Melee Weapon Attack_: +10 to hit, reach 5 ft., one target.  
-_Hit_: 30 (4d12 + 6) piercing damage. If the target is a creature, it must succeed on a **DC 16 Constitution saving throw** or become infected with a virulent plague. While infected, the creature takes 3 (1d6) necrotic damage at the start of each of its turns. The infection can only be cured by magical healing.
+_**Bonus Action**_  
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Deadly Leap (Recharge 5-6)**:  
-The Plague-Eater leaps up to 30 feet in a straight line and lands in a space that contains one or more other creatures. Each creature in that space must succeed on a **DC 18 Strength or Dexterity saving throw** (target’s choice) or be knocked prone, take 22 (4d10) bludgeoning damage, and be pushed 10 feet away. On a successful save, the creature takes only half damage and isn't knocked prone or pushed.
+**Vomit Plague (Recharge 5–6).** The giant spews diseased bile in a 15-foot cone. Each creature in that area must make a DC 15 Constitution saving throw. On a failed save, a creature takes 10 (3d6) poison damage and is poisoned until the end of its next turn. On a successful save, the creature takes half damage and isn't poisoned.
 
----
+_**Villain Actions**_ (Once per round, Initiative Count 20)  
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-**Reactions**
+**Phase 1: Echo Hunt.** The giant uses echolocation and can pinpoint the location of all creatures within 60 feet. Until the start of its next turn, it has advantage on attack rolls against any creature it detected.
 
-**Rampage**: When the Plague-Eater reduces a creature to 0 hit points with a melee attack on its turn, it can move up to half its speed and make a Bite attack.
+**Phase 2: Rampage.** The giant can use Devastating Charge twice, choosing a different direction for each charge.
 
----
+**Phase 3: Plague Eruption.** The giant's body violently expels disease in all directions. Each creature within 30 feet must succeed on a DC 15 Constitution saving throw or take 14 (4d6) necrotic damage and become poisoned until the end of their next turn. Additionally, the area becomes filled with diseased fog until the end of the giant's next turn, heavily obscuring it for all creatures except the giant.
 
-**Legendary Actions**
+_**Reaction**_  
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
 
-The Plague-Eater can take 2 legendary actions, choosing from the options below. It regains spent legendary actions at the start of its turn.
-
-- **Move**: The Plague-Eater moves up to half its speed without provoking opportunity attacks.
-- **Sonic Pulse (Costs 2 Actions)**: The Plague-Eater emits a pulse of sound to detect hidden enemies. All creatures within 30 feet must make a **DC 16 Dexterity saving throw** or be revealed, losing any benefits of being hidden or invisible.
+**Sound Stalker.** When a creature within 60 feet makes a sound (including speaking or casting a spell with verbal components), the giant can immediately move up to half its speed toward that creature without provoking opportunity attacks.
