@@ -942,9 +942,9 @@ _Large Giant, Chaotic Evil_
 **Damage Immunities** necrotic, poison  
 **Damage Vulnerability** fire
 **Condition Immunities** blinded, poisoned  
-**Senses** blindsight 60 ft. (blind beyond this radius), tremorsense 30 ft., passive Perception 15  
+**Senses** blindsight 60 ft. (blind beyond this radius), tremor sense 30 ft., passive Perception 15  
 **Languages** Giant  
-**Challenge** 11 (7,200 XP)  
+**Challenge** 8 (3,900 XP)  
 **Proficiency Bonus** +3
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
