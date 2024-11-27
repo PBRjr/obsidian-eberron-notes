@@ -1,6 +1,6 @@
 TODO:
 - [x] Integrate Nyx & Lox into the plot web
-- [ ] Plans if old sharn doesn't happen (Bjorn gets a letter from his following?)
+- [x] Plans if old sharn doesn't happen (Bjorn gets a letter from his following?)
 - [ ] Create player binders
 ### Outline
 - **Start.** Collapse into Old Sharn OR Escape

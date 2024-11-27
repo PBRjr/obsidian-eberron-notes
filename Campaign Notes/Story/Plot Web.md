@@ -44,11 +44,11 @@
 - He became a legend, known as the Knight of the North.
 - He eventually found his way to the Stormpeak clan, after Hrothgar had usurped Bjorn.
 	- Draven could sense the dark cancer on his soul, and tried to vanquish him.
-	- During their battle, Hrothgar took the dragonshard fragment and used the power it gave him to kill Draven, solidifying the hold Hrothgar had over the Clan.
-	- Draven's body fell off a cliffside, and the white flameblade along with him.
+	- During their battle, Hrothgar took the dragonshard fragment and used the power it gave him to kill Draven and take the ***Etherseraph***, solidifying the hold Hrothgar had over the Stormpeak Clan.
+	- Draven's body fell off a cliffside, landing in the snow hundreds of feet below.
 - Varyn found Draven's corpse.
 	- Varyn used most of his remaining power to heal Draven, but didn't have enough left to return his memories.
-	- Varyn is now old, weak, and near powerless
+	- Varyn is now old, weak, and near powerless, filled with a great shame for his many failures in life.
 
 #### PC: Geralt Wolfsbane
 - Yelena & Norbit Wolfsbane
