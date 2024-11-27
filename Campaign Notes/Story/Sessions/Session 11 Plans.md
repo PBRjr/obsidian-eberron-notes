@@ -3,7 +3,7 @@ TODO:
 - [ ] Plans if old sharn doesn't happen (Bjorn gets a letter from his following?)
 - [ ] Create player binders
 ### Outline
-- **Start.** Collapse into Old Sharn
+- **Start.** Collapse into Old Sharn OR Escape
 - Old Sharn
 - The Creature
 - Escape Routes
@@ -11,36 +11,46 @@ TODO:
 ### Moments & Encounters
 
 - [ ] Session Start
-- Trapped by the Red Cloak Battalion in an abandoned towers staircase above. 
-- The floor collapses, sending the party and the battalion plummeting through old staircases hundreds of feet below, landing in a pool of grey water in [[Old Sharn]].
-- Of the Red Cloaks, only **Kazrak the Unyielding** lands in the water with the party.
-- **Roll a 1d4.** Even - *Garhorn* dies in the collapse. Odd - *Blinker* dies in the collapse.
+	- [ ] Collapse into Old sharn
+	- Trapped by the Red Cloak Battalion in an abandoned towers staircase above. 
+	- The floor collapses, sending the party and the battalion plummeting through old staircases hundreds of feet below, landing in a pool of grey water in [[Old Sharn]].
+	- Of the Red Cloaks, only **Kazrak the Unyielding** lands in the water with the party.
+	- **Roll a 1d4.** Even - *Garhorn* dies in the collapse. Odd - *Blinker* dies in the collapse.
+	- Leads to ***Moment 1***
 
-- [ ] Moment 1: *Old Sharn*
-- **Creature** resides here, blind and attracted to sound, it will charge anything that gets its attention.
-- **Loot.** 
-	- Various items and wealth throughout Old Sharn
-	- Additional wealth hoard at the top of prepper's home.
-		- *Wealth hoard.*
-			- 5,500 GP
-			- 500 SP
-			- 1,000 CP
-			- *Dimensional Shackles*
-			- *+1 Greataxe*
+	- [ ] Escape
+	- The party manages to escape the clutches of the Red Cloak Battalion by some means
+	- Leads to ***Moment 2***
 
-- [ ] Moment 2: *Escape Routes*
-- Supply lift:
-	- leads to a prepper's house that has long since died. The lift leads into his vault room with a *wealth hoard.*
-- Flowing water channel:
-	- leads to lower water filtration facility.
+- [ ] Moment 1: [[Old Sharn]]
+	- [ ] Encounter 1
+		- The **Plague Giant** resides here. Blind and attracted to sound, it will charge anything that gets its attention.
+		- **Loot.** 
+			- Various items and wealth throughout Old Sharn
+			- Additional wealth hoard at the top of prepper's home.
+				- *Wealth hoard.*
+					- 5,500 GP
+					- 500 SP
+					- 1,000 CP
+					- *Dimensional Shackles*
+					- *+1 Greataxe*
+* **Escape Routes**
+	- [ ] Supply lift:
+		- leads to a prepper's house that has long since died. The lift leads into his vault room with a *wealth hoard.*
+	- [ ] Flowing water channel:
+		- leads to lower water filtration facility.
+		- The facility is filled with workers that won't make a big fuss if the players are spotted, as long as they leave before they call security.
+		- The facility is located in *Cogsgate*, the warehouse district of lower [[Sharn#Tavick’s Landing|Tavicks Landing]]
 
-- [ ] Encounter: *Name*
-- X
+- [ ] Moment 2: Meeting with the King
+- The party is contacted by an agent of [[The Beggar King]], who requests a meeting in the [[Dragoneyes District]] at [[The Crimson Silk Brothel]]
+- **Offer to Aid.** The Beggar King has learned of the party's need to free Aeren d'Cannith and Professor Baelen ir'Torn.
+	- The King knows that the prisoners are currently being held at the Boromar HQ in the Skyway
+	- He offers the party help in infiltrating the location, at a price.
+- **Gather Intel.** In return for aid, the Beggar King needs the party to find out what is causing so much internal strife within the clan, and why Saidan Boromar hasn't been seen for weeks,
 
-(continue as needed, may nest encounters inside moments)
-
-- [ ] Session End: *Name*
-- (possible cliffhanger)
+- [ ] Session End: *You're being watched*
+- Someone in the party feels as though they're being watched, perhaps realizing they're being scryed on.
 
 ### Location Details
 

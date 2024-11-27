@@ -83,7 +83,7 @@
 	- Forge's Steelhardt used Siberys shards as a conduit. In all other warforged in his batch, only having a Siberys shard wasn't enough, since there was no aspect of Khyber attached to their soul/in the Steelhardt.
 	- Hence why Vorak's transfer was tainted as well. His Steelhardt used a Khyber shard conduit, but there was no aspect of Siberys attached to him.
 	- Since Forge died in proximity to Lick's father's FKD fragment, an aspect of Khyber attached to his soul, which, in addition to the Siberys Dragonshard conduit in his Steelhardt, meant he retained his memories AND his sanity.
-	- This information about the missing traits is not currently known **(Vorak stole most of the schematics, which were scattered in various locations for future quests)
+	- This information about the missing traits is not currently known **(Vorak stole most of the schematics, however Geralt's schematic is the only one that mentions this requirement.)
 - All subsequent batches were made with these methods, using the souls of dead soldiers, however they were stripped of their mortal memories. This was the only work-around House Cannith could devise to prevent these new Warforged from losing their minds.
 - Forge was a human general of **House Cannith (Or maybe some other affiliation makes more sense?)**
 - In a battle during the last war, he sacrificed his and his men's lives in an explosion he set off to overtake the enemy.
@@ -108,23 +108,27 @@
 - Would be randomly taken to a different plane for the Traveler's duties
 
 #### PCs: Lox & Nyx Tempest
-* Lox & Nyx married. They think that they lost their daughter (**name?**) in the airship attack at the hands of *Woe*.
-	*  Daughter was supposed to be traveling on the airship back to Nyx's homeland in the forest to spend time with her druidic side of the family.
-* Lox made a pact with a demon/devil to give Lox the power to enact revenge against his son's killer.
-	* ***Lox Secret:***
-		* His pact is with *Mordakesh*. Lox has no idea the significance of his patron, but Mordakesh will ensure Lox plays a vital role in releasing his Overlord.
-		* **The Contract.**
-			* Mordakesh approached Lox, which is very rare in the world of warlock patrons.
-				* This happened before their daughter died, so Mordakesh showed Lox a vision of the future, convincing him that Lox would need this power to protect his family.
-			* The *draconic prophecy* led Mordakesh to Lox, suggesting that he would play a pivotal role in the final part of the plan to resurrect *Rak Tulkesh*.
-			* The contract is simple: Mordakesh provides Lox with his powers, and in return Lox will owe a single favor that he must comply with, which will be redeemed when Mordakesh seems fit.
-* Nyx is a druid, raised in the forest by her family.
+* Lox & Nyx married. They think that they lost their daughter *Elix* in the airship attack at the hands of *Woe*.
+	*  Elix was supposed to be traveling on the airship back to Nyx's homeland in the forest to spend time with her druidic side of the family.
+* **Lox**
+	* Lox made a pact with a demon/devil to give Lox the power to enact revenge against his daughter's killer.
+		* ***Lox Secret:***
+			* His pact is with *Mordakesh*. Lox has no idea the significance of his patron, but Mordakesh will ensure Lox plays a vital role in releasing his Overlord.
+			* **The Contract.**
+				* Mordakesh approached Lox, which is very rare in the world of warlock patrons.
+					* This happened before their daughter died, so Mordakesh showed Lox a vision of the future, convincing him that Lox would need this power to protect his family.
+				* The *draconic prophecy* led Mordakesh to Lox, suggesting that he would play a pivotal role in the final part of the plan to resurrect *Rak Tulkesh*.
+				* The contract is simple: Mordakesh provides Lox with his powers, and in return Lox will owe a single favor that will be redeemed when Mordakesh seems fit.
+					* Failure to perform the favor will result in Lox losing "what he values most".
+* **Nyx**
+	* Nyx is a druid, raised in the forest by her family.
 * ***Characters motivation:***
-	* After learning of the airship crash and **daughter's** probable death, Lox & Nyx embarked on a quest to find and kill her murderer.
+	* After learning of the airship crash and *Elix's* probable death, Lox & Nyx embarked on a quest to find and kill her murderer.
 * ***Secret.***
-	* **Daughter** isn't actually dead, because she was never on *The Merkentile*. 
+	* *Elix* isn't actually dead, because she was never on *The Merkentile*. 
 	* Party may find clues about the ship's manifest and find out her name isn't on there.
-	* *Where was she? How is she connected? What is she doing?
+	* *Where was she? How is she connected? What is she doing?* 
+		* (WORK IN PROGRESS, NEEDS DEVELOPMENT)
 		* Joined a group of goliath nomads
 		* They are part of Bjorn's new following, working to take down *Hrothgar*.
 ## Story Plot Pieces

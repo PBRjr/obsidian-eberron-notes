@@ -22,6 +22,16 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 	- Ex.: *Safely travel around the nation and make it to the City of Towers*
 	- Ex. 2: *Figure out why tensions are high in Sharn and fix it.*
 
+##### Personal Arc
+* This is what each individual player's story arc looks like.
+* Different parts of the campaign will have a greater focus on different players.
+* Some player's arcs may be of a similar focus.
+* Multiple player's personal arcs can be of equal focus at any one time.
+* Think of these as "character development".
+* Parts of the personal arc:
+	* *Actualization.* The ultimate end-stage of this character's development. The biggest over-arching goal of this character. When realized, this character arc is considered 'finished'.
+	* *Prerequisites.* These are certain story beats that must be hit in one way or another in order for the actualization to take place or make sense in the context of the story.
+
 ##### Campaign Arc
 - The overall theme or main arc of the entire campaign
 - Built up to by each narrative arc, becoming more obvious as the game goes on
@@ -64,3 +74,40 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 	- [ ] Draven learns of his upbringing and his downfall
 	- [ ] Bjorn learns of his brother's corruption
 - [ ] **Completion point:** Confrontation with Hrothgar
+
+#### Character Arcs
+##### Bjorn "Bearwolf" Ulfr
+- *Actualization.* Bjorn seeks to retake his position as the leader of the Stormpeak Clan and deal with his brother Hrothgar.
+- *Prerequisites.*
+	- [ ] The party learns of the effects that the [[Fractured Khyber Dragonshard]] can have on someone when they are born/die near one.
+	- [ ] Varyn the Valiant must explain to Bjorn what happened to Hrothgar, and why Varyn left the Stormpeak Clan.
+
+##### Draven Flameforge
+* *Actualization.* Draven learns who he once was and faces Hrothgar for the second time.
+* *Prerequisites.*
+	- [ ] Draven meets Varyn the Valiant and learns of his battle with Hrothgar, and why he lost his memories.
+	- [ ] Draven learns that Hrothgar now possesses the Etherseraph and a fragment of the FKD.
+
+##### Geralt Wolfsbane
+* *Actualization.* Geralt learns what happened to his parents, and decides whether or not to follow in their footsteps.
+* *Prerequisites.*
+	* [ ] Geralt learns of the Steelhardt's intended use, and his parents involvement with House Cannith.
+	* [ ] Geralt learns Sibernyan from Varyn the Valiant, and understands the Steelhardt Schematic page.
+	* [ ] Geralt learns of Vorak's role in his parent's assassination.
+
+##### Forge
+* *Actualization.* Find a creation forge, decide if he should create more warforged in his image or them all down permanently.
+* *Prerequisites.*
+	* [ ] Forge learns the location of a creation forge
+	* [ ] Forge learns of the requirements to create a properly working Steelhardt from Geralt's schematics.
+
+##### Lox Tempest
+* *Actualization.* Learn of Elix's fate, resolve his contract with Mordakhesh.
+* *Prerequisites.*
+	* [ ] Lox learns of his Daughter's fate, why she wasn't on the airship and what really happened to her (still a work in progress)
+	* [ ] Lox learns who his patron is, and decides whether or not he will execute Mordakhesh's favor when the time comes.
+
+##### Nyx Tempest
+* *Actualization.* Learn of Elix's fate (NEEDS MORE DEVELOPMENT)
+* *Prerequisites.*
+	* [ ] Nyx learns why her daughter wasn't on the airship, and what happened to her.

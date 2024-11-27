@@ -90,7 +90,7 @@ Lower Dura is known for its rough reputation. Rife with crime and poverty, it's 
 ### Cliffside
 Located on the steep cliffs that edge the city to the south, Cliffside offers breathtaking views but precarious living conditions. Filled with sailors, dockworkers, and those drawn by the allure of adventure or escape from law enforcement.
 
-### Tarvick’s Landing
+### Tavick’s Landing
 A major transport hub filled with rail stations, airship docks and warehouses. This district keeps Sharn connected with other parts of Khorvaire both by land and air. Home to a diverse mix of inhabitants from traveling merchants to dock workers.
 
 ### The Depths

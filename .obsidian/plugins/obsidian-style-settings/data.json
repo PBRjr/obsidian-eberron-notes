@@ -7,5 +7,5 @@
   "obsidian-prism-theme@@text-bold-color-dt": "var(--color-yellow-text)",
   "obsidian-prism-theme@@text-italic-color-dt": "var(--color-grey-text)",
   "obsidian-prism-theme@@text-italic-bold-color-dt": "var(--text-italic-bold-custom-color-dt)",
-  "obsidian-prism-theme@@text-italic-bold-custom-color-dt": "#FA0563"
+  "obsidian-prism-theme@@text-italic-bold-custom-color-dt": "#CF1059"
 }
