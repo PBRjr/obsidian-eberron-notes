@@ -10,7 +10,7 @@ TODO:
 ### Moments & Encounters
 
 - [ ] Session Start
-	- [ ] Collapse into Old sharn
+	- [x] Collapse into Old sharn
 	- Trapped by the Red Cloak Battalion in an abandoned towers staircase above. 
 	- The floor collapses, sending the party and the battalion plummeting through old staircases hundreds of feet below, landing in a pool of grey water in [[Old Sharn]].
 	- Of the Red Cloaks, only **Kazrak the Unyielding** lands in the water with the party.
@@ -21,7 +21,7 @@ TODO:
 	- The party manages to escape the clutches of the Red Cloak Battalion by some means
 	- Leads to ***Moment 2***
 
-- [ ] Moment 1: [[Old Sharn]]
+- [x] Moment 1: [[Old Sharn]]
 	- [ ] Encounter 1
 		- The **Plague Giant** resides here. Blind and attracted to sound, it will charge anything that gets its attention.
 		- **Loot.** 
@@ -36,7 +36,7 @@ TODO:
 * **Escape Routes**
 	- [ ] Supply lift:
 		- leads to a prepper's house that has long since died. The lift leads into his vault room with a *wealth hoard.*
-	- [ ] Flowing water channel:
+	- [x] Flowing water channel:
 		- leads to lower water filtration facility.
 		- The facility is filled with workers that won't make a big fuss if the players are spotted, as long as they leave before they call security.
 		- The facility is located in *Cogsgate*, the warehouse district of lower [[Sharn#Tavick’s Landing|Tavicks Landing]]
