@@ -21,3 +21,4 @@
 ### Save for later
 * Meeting with the King
 * You're being watched
+* Do another Legacy stone vision at the start of session 12.
