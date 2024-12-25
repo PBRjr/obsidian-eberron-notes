@@ -5,7 +5,7 @@ TODO:
 ### Outline
 - You're being watched (start)
 - [[Legacy Stone]]
-- Shamukaar
+- Shamukaar (Kazrak elects to leave)
 
 ### Moments & Encounters
 
@@ -25,6 +25,7 @@ TODO:
 
 - [ ] Moment 3: Shamukaar
 	 - The players arrive through *the old well.*
+	 - Kozrak knows that he is not welcome here, and chooses to leave the party and return to the surface.
 	 - Various patrons of different species intermingle here. 
 		 - Information may be sought from different NPCs.
 			 - **What do the schematics say/What language are they in?**
