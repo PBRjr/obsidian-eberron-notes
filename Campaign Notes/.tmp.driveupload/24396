@@ -1,24 +1,7 @@
 TODO:
-* Plan out the path down the channel
-	* More underground exploration? What plot gets moved forward?
-	* Lox's arc - Mordakesh may try to communicate telepathically with Lox and give him a goal.
-		* What's the goal? It must seem insignificant to Lox so he will actually try to accomplish it.
-* What plots need to be moved forward this session?
-	* Forge's goal to find a creation forge?
-* Going down the channel, into the underdark?
-	* first it travels down the narrow channel, see "youre being watched"
-	* then it opens up, turning into rapids
-	* finally stop at a dead end, where the channel continues through small cracks in the cavern wall/ground. A cramped tunnel must be climbed upwards.
-	* Tunnel leads up to... Shamukaar
-* Shamukaar
-	* What/who do they find within? Any answers to their questions?
-	* Questions that the party might have: 
-		* What do the schematics say? What language are they in?
-			* What type of person/monster might have this kind of information here?
-		* Who is Woe?
-			* A few will have knowledge of him. They will know his name, and that he serves a master/higher power.
-	* Woe will have agents planted here, who will attack the party during/after a rest or follow them and attack them once they leave the tavern and return to the surface.
-	* The party can use Shamukaar to generally rest and recoup, and to attempt to get answers to questions they might have.
+-  Lox's arc - Mordakesh may try to communicate telepathically with Lox and give him a goal.
+	- What's the goal? It must seem insignificant to Lox so he will actually try to accomplish it.
+- Agent's of woe encounter?
 ### Outline
 - You're being watched (start)
 - [[Legacy Stone]]
@@ -31,13 +14,24 @@ TODO:
 	- Mordakesh attempts to scry on Bjorn
 
 - [ ] Moment 1: *Legacy Stone*
-	- Geralt experiences another vision from the legacy stone
+	- Geralt experiences another vision from the [[Legacy Stone]]
 	- This could send Geralt into unconsciousness if his player can't make the session
 	- Makes the session all about escaping to the surface and finding a healer
 
-- [ ] Moment 2: Shamukaar
-	 - The players arrive in an open channel that leads into a part of the city, and a port to dock at
-	 - 
+- [ ] Moment 2: The Rapids
+	- The narrow channel opens up slighty, and the water begins to travel faster, soon leading to rapids. This channel may no longer be traveled against the current via non-magical means.
+	- A small metal crate with 2 potions of greater healing can be found floating in water, stuck against some rocks. **DC 15 acrobatics/athletics** check to grab the crate.
+	- The channel comes to a dead end, with a ladder on the cavern wall leading upwards through a small tunnel, into ***Moment 3.***
+
+- [ ] Moment 3: Shamukaar
+	 - The players arrive through *the old well.*
+	 - Various patrons of different species intermingle here. 
+		 - Information may be sought from different NPCs.
+			 - **What do the schematics say/What language are they in?**
+				* What type of person/monster might have this kind of information here?
+			* **Who is Woe?**
+				* A few will have knowledge of him. They will know his name, and that he serves a master/higher power.
+	- A few agents of Woe are planted here and will follow/observe the party (NEEDS DEVELOPMENT)
 
 - [ ] Encounter: *Name*
 - X
