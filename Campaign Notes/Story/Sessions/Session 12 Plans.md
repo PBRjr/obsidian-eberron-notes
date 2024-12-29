@@ -11,12 +11,21 @@ TODO:
 
 - [ ] Session Start
 	- While traveling down the narrow water channel, someone in the party feels like they're being watched.
-	- Mordakesh attempts to scry on Bjorn
+	- Woe attempts to scry on Forge. Due to him having served under Forge, Forge will have a -8 to this wisdom saving throw.
 
 - [ ] Moment 1: *Legacy Stone*
 	- Geralt experiences another vision from the [[Legacy Stone]]
 	- This could send Geralt into unconsciousness if his player can't make the session
 	- Makes the session all about escaping to the surface and finding a healer
+
+- [ ] Moment 2: *Mordakhesh's favor*
+	- While floating along through the tunnel, Lox is communicated with by his Patron, who he does not know is Mordakhesh.
+	- The scenery changes to reflect a beautiful garden set in the courtyard of a stone castle. Colorful flowers blow in the wind. A cloaked figure stands tall with his back to Lox, his hands clasped behind his back. His hands are his only feature not shrouded in a cloak, and they appear to be human.
+	- Mordakhesh requests another favor from Lox.
+		- "During your travels you will encounter a... 'thing' that calls itself Vorak." The origin of this creature is of no import, as it is but a shell of its former glory. Normally I would pay no heed to such a disappointment, however within that outer shell lives a... prize. A prize that, should you recover it and bring it to me, may sooth your grief and repair your... broken heart. ""
+		- Your patron takes a look to his left, then to his right, as if taking in his surroundings for the first time since you've been here. "Lords, I hate places like this. Its one of mankind's greatest illusions, to build a structure as grand as this out of stone and brick, then claim these structures could stand for a millennia. 'Stone can outlast time itself', they would say. 
+		- What they don't understand is that its not the stone that gives way, allowing intruders into one's castle. Its the decay of order that destroys civilizations. Because a wall requires maintenance, requires order. Without that, a wall of stone will always decay into nothing but a pile of rocks.
+		* Find the creature and return to me what lies within the shell, and you will get your prize.
 
 - [ ] Moment 2: The Rapids
 	- The narrow channel opens up slighty, and the water begins to travel faster, soon leading to rapids. This channel may no longer be traveled against the current via non-magical means.
