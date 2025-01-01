@@ -256,7 +256,7 @@
         "eras": []
       },
       "current": {
-        "day": 15,
+        "day": 16,
         "month": 2,
         "year": 998
       },
@@ -1201,6 +1201,40 @@
           },
           "id": "ID_7bb8a9bb681a",
           "note": "Campaign Notes/Story/Sessions/Session 10 Recap.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Shamukaar",
+          "description": null,
+          "date": {
+            "day": 15,
+            "month": 2,
+            "year": 998
+          },
+          "id": "ID_2a782a8aa8cb",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Arrival at Khyber's Gate",
+          "description": null,
+          "date": {
+            "day": 16,
+            "month": 2,
+            "year": 998
+          },
+          "id": "ID_89daeac86b2b",
+          "note": null,
           "category": null,
           "sort": {
             "timestamp": 5e-324,

@@ -1,12 +1,13 @@
 TODO:
--  Lox's arc - Mordakesh may try to communicate telepathically with Lox and give him a goal.
-	- What's the goal? It must seem insignificant to Lox so he will actually try to accomplish it.
 - Agent's of woe encounter?
 ### Outline
 - You're being watched (start)
 - [[Legacy Stone]]
+- Mordakhesh's Favor
 - Shamukaar (Kazrak elects to leave)
 
+**Don't Forget:**
+- Kazrak will leave Shamukaar quickly
 ### Moments & Encounters
 
 - [ ] Session Start
@@ -30,7 +31,7 @@ TODO:
 - [ ] Moment 3: The Rapids
 	- The narrow channel opens up slightly, and the water begins to travel faster, soon leading to rapids. This channel may no longer be traveled against the current via non-magical means.
 	- A small metal crate with 2 potions of greater healing can be found floating in water, stuck against some rocks. **DC 15 acrobatics/athletics** check to grab the crate.
-	- The channel comes to a dead end, with a ladder on the cavern wall leading upwards through a small tunnel, into ***Moment 3.***
+	- The channel comes to a dead end, with carved handholds on the cavern wall leading upwards through a small tunnel, into ***Moment 4.***
 
 - [ ] Moment 4: Shamukaar
 	 - The players arrive through *the old well.*
