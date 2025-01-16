@@ -46,7 +46,7 @@ Most members are starting to split, choosing sides between the *Castars* and the
 **Castar's goals:**
 - Expand the operation out of Sharn into other nations
 - Outmaneuver rival gangs through expansion and political power
-- Source funding through control of poor communities via 'protection' and drug dependance
+- Source funding through control of poor communities via 'protection' and drug dependence
 
 ### Resources and Capabilities
 
