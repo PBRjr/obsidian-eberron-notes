@@ -22,6 +22,7 @@ Develop:
 - Side quest and interaction with Kazrak to infiltrate the Boromar HQ
 	- Kazrak will have learned of Aeren's capture by the clan, in addition to a captured 'academic'
 	- He will also know that the academic was with an escort of Knights of the Silver Flame, which got attacked by the clan a short time after their arrival in the city.
+	- Garhorn was captured by the battallion, and Kazrak has convinced Garhorn to get the party into the HQ for this mission.
 - The Boromar HQ infiltration mission will be the climax of the Sharn Arc?
 - At the end of this mission, the players will learn...
 	- Aeren will tell them to go to the Byeshk Mountains
