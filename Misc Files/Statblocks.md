@@ -44,6 +44,69 @@ References
 
 
 ---
+
+## Dragons
+
+### White Guard Drake
+_Medium Dragon, unaligned_
+
+**Armor Class** 14 (natural armor)  
+**Hit Points** 52 (7d8 + 21)  
+**Speed** 30 ft., climb 30 ft., burrow 20 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|16 (+3)|11 (+0)|16 (+3)|4 (-3)|10 (+0)|7 (-2)|
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Skills** Perception +2  
+**Senses** darkvision 60 ft., passive Perception 12
+**Resistances** Cold
+**Languages** understands Draconic but can't speak  
+**Challenge** 2 (450 XP) Proficiency Bonus +2
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_**Actions**_  
+
+**Multiattack.** The guard drake makes one Bite attack and one Tail attack.
+
+**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage.
+
+**Tail.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage.
+### Red Guard Drake
+_Medium Dragon, unaligned_
+
+**Armor Class** 14 (natural armor)  
+**Hit Points** 52 (7d8 + 21)  
+**Speed** 30 ft., climb 30 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|16 (+3)|11 (+0)|16 (+3)|4 (-3)|10 (+0)|7 (-2)|
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Skills** Perception +2  
+**Senses** darkvision 60 ft., passive Perception 12
+**Resistances** Fire
+**Languages** understands Draconic but can't speak  
+**Challenge** 2 (450 XP) Proficiency Bonus +2
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+_**Actions**_  
+
+**Multiattack.** The guard drake makes one Bite attack and one Tail attack.
+
+**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage.
+
+**Tail.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage.
 ## Undead
 ### Giant Zombie
 Huge undead, neutral evil
@@ -771,7 +834,54 @@ _Javelin._ Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 7
 
 _Stay Down._ The knave kicks one prone creature within 5 feet of them. The target must succeed on a DC 14 Constitution saving throw or their speed is reduced to 0 until the end of their next turn.
 
----
+
+### Human Cryomancer
+_Medium Humanoid (Human), Any Alignment_  
+
+**Armor Class** 12 (15 with mage armor)  
+**Hit Points** 75 (10d8 + 30)  
+**Speed** 30 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|10 (+0)|14 (+2)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Saving Throws** Int +7, Wis +5  
+**Skills** Arcana +7, History +7
+**Senses** passive Perception 12
+**Languages** Common, Draconic, Giant
+**Proficiency Bonus** +3
+**Challenge** 6 (2,300 XP)
+
+**Exploit Opening (3/Day).** When the wizard makes an attack, they have advantage on the attack roll.
+
+_**Actions**_  
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Arcane Staff.** _Melee or Ranged Spell Attack:_ +7 to hit, reach 5 ft. or range 30 ft., one target. _Hit:_ 21 (6d6) cold damage.
+
+**Gust of Wind (1/Day; 2nd-Level Spell; Concentration).** A 10-foot-wide, 60-foot-long line of strong wind gusts from the wizard for 1 minute. Each creature who starts its turn in the area must succeed on a *DC 15 Strength saving throw* or be pushed 15 feet away from the wizard. Each creature in the area must spend 2 feet of movement for every 1 foot they move toward the wizard.  
+The gust disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames. It has a 50 percent chance to extinguish protected flames like lanterns. The wizard can use a bonus action to change the direction in which the wind blasts from them.
+
+**Ice Storm (3/Day; 4th-Level Spell).** The wizard calls down a hail of rock-hard ice in a 20-foot radius, 40-foot-high cylinder centered on a point within 300 feet. Each creature in the area must make a *DC 15 Dexterity saving throw, taking 20 (4d8) cold damage and 10 (2d8) bludgeoning damage* on a failed save, or half as much damage on a successful one. The area becomes difficult terrain until the end of the wizard's next turn.
+
+_**Reactions**_  
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Arcane Shield (3/Day).** When the wizard is hit by an attack, they magically gain a +5 bonus to AC against that attack, potentially causing it to miss. If the attacker is within 10 feet, the attacker must succeed on a DC 15 Constitution saving throw or take 18 (4d8) cold damage and be pushed 10 feet away from the wizard.
+
+_**Utility Spells**_  
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+In addition to any other spells in this stat block, the wizard can cast the following spells, using Intelligence as the spellcasting ability (spell save DC 15):
+
+- _Mage armor, detect magic, feather fall, gust of wind, sending_
+
+
 ### Veteran
 Medium Humanoid (Any Race), Any Alignment
 
@@ -1113,6 +1223,49 @@ _Medium humanoid (Hobgoblin), Any Alignment
 
 **Spear (Group Attack).** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 1 piercing damage.
 
+## Orc Godcaller
+_Medium Humanoid (Orc), Any Alignment_  
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Armor Class** 14 (studded leather)  
+**Hit Points** 82 (11d8 + 33)  
+**Speed** 35 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|14 (+2)|14 (+2)|16 (+3)|12 (+1)|13 (+1)|19 (+4)|
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Saving Throws** Wis +3  
+**Skills** Arcana +3, Insight +3, Performance +8  
+**Condition Immunities** charmed  
+**Senses** darkvision 60 ft., passive Perception 11  
+**Languages** Common, Orc  
+**Proficiency Bonus** +2
+**Challenge** 4 (1,100XP)
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Relentless (1/Turn).** When the godcaller isn’t incapacitated and they are reduced to 0 hit points but not killed outright, they can make an attack against an enemy (no action required) before the hit point reduction is resolved. If the attack hits and its damage reduces the target to 0 hit points, the godcaller drops to 1 hit point instead of 0 hit points.
+
+_**Actions**_  
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Power Chord (1st-Level Spell).** _Melee or Ranged Spell Attack:_ +6 to hit, reach 5 ft. or range 30 ft., one creature who can hear the godcaller. _Hit:_ 18 (4d6 + 4) thunder damage.
+
+**Cadenza.** The godcaller chooses another creature within 30 feet of them. If the target can hear the godcaller, the target can use their reaction to move up to their speed and make an attack.
+
+**Song of the Gods (2nd-Level Spell).** The godcaller and each ally within 30 feet of them who can hear them has advantage on attack rolls until the start of the godcaller’s next turn. This effect ends early if the godcaller takes any damage.
+
+_**Bonus Actions**_  
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Rallying Ostinato (1/Day).** The godcaller and up to three allies within 60 feet of them who can hear them regain 20 hit points, and these creatures ignore difficult terrain for 1 minute.
+
 ## Beasts
 ### Pteranodons
 Medium Beast, Unaligned
@@ -1238,6 +1391,40 @@ Challenge 3 (700 XP)
 **Slam**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage.
 
 **Read Thoughts**: The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's concentration isn't broken (as if concentrating on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target.
+
+
+### Displacer Beast
+_Large monstrosity, lawful evil_
+
+**Armor Class** 13 (natural armor)  
+**Hit Points** 85 (10d10 + 30)  
+**Speed** 40 ft.
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|18 (+4)|15 (+2)|16 (+3)|6 (-2)|12 (+1)|8 (-1)|
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Senses** darkvision 60 ft., passive Perception 11  
+**Languages** Understands Common but can not speak
+**Challenge** 3 (700 XP)
+
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Avoidance.** If the displacer beast is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+
+**Displacement.** The displacer beast projects a magical illusion that makes it appear to be standing near its actual location, causing attack rolls against it to have disadvantage. If it is hit by an attack, this trait is disrupted until the end of its next turn. This trait is also disrupted while the displacer beast is incapacitated or has a speed of 0.
+
+_**Actions**_  
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
+**Multiattack.** The displacer beast makes two attacks with its tentacles.
+
+**Tentacle.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 7 (1d6 + 4) bludgeoning damage plus 3 (1d6) piercing damage.
+
 
 ### Mimic
 
