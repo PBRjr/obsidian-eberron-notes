@@ -25,16 +25,16 @@ ToDo:
 	- smuggler's den
 	- Stronger combatants, less magic more brute force
 	- ***Roster.***
-		- [[Statblocks#Displacer Beast|Displacer Beast]]
-		- [[Statblocks#Human Guard|Human Guards]] (minions)
-		- [[Statblocks#Orc Godcaller|Orc Godcaller]] (FM 209)
+		- [[Monstrosity - Displacer Beast|Displacer Beast]]
+		- [[Humanoid - Guard|Human Guards]] (minions)
+		- [[Humanoid - Orc Godcaller|Orc Godcaller]] (FM 209)
 - Castar
 	- Airship dock
 	- More magic and less direct battle, archers/magic/traps
 	- ***Roster.***
-		- [[Statblocks#Human Cryomancer|Human Cryomancer]] (FM 164)
-		- [[Statblocks#White Guard Drake|White Guard Drake]]
-		- [[Statblocks#Human Guard|Human Guards]] (minions)
+		- [[Humanoid - Cryomancer|Human Cryomancer]] (FM 164)
+		- [[Dragon - White Guard Drake|White Guard Drake]]
+		- [[Humanoid - Guard|Human Guards]] (minions)
 		- Traps/glyph of warding
 
 (continue as needed, may nest encounters inside moments)

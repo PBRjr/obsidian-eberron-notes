@@ -1,6 +1,9 @@
 
 ---
 References
+- [[#Dragons|Dragons]]
+	- [[#Dragons#White Guard Drake|White Guard Drake]]
+	- [[#Dragons#Red Guard Drake|Red Guard Drake]]
 - [[#Undead|Undead]]
 	- [[#Undead#Giant Zombie|Giant Zombie]]
 	- [[#Undead#Zombie|Zombie]]
@@ -22,6 +25,7 @@ References
 	- [[#Humanoids#Cannith Brawler Construct|Cannith Brawler Construct]]
 	- [[#Humanoids#Human Guard|Human Guard]]
 	- [[#Humanoids#Human Knave|Human Knave]]
+	- [[#Humanoids#Human Cryomancer|Human Cryomancer]]
 	- [[#Humanoids#Veteran|Veteran]]
 	- [[#Humanoids#Commoner|Commoner]]
 	- [[#Humanoids#Bandit (Increased Diff)|Bandit (Increased Diff)]]
@@ -33,15 +37,14 @@ References
 	- [[#Goblins#Hobgoblin Death Captain|Hobgoblin Death Captain]]
 - [[#Orcs|Orcs]]
 	- [[#Orcs#Orc Blitzer|Orc Blitzer]]
+	- [[#Orcs#Orc Godcaller|Orc Godcaller]]
 - [[#Beasts|Beasts]]
 	- [[#Beasts#Pteranodons|Pteranodons]]
 - [[#Monstrosities|Monstrosities]]
 	- [[#Monstrosities#Ankheg|Ankheg]]
 	- [[#Monstrosities#Doppelganger|Doppelganger]]
+	- [[#Monstrosities#Displacer Beast|Displacer Beast]]
 	- [[#Monstrosities#Mimic|Mimic]]
-- [[#Structures|Structures]]
-	- [[#Structures#Balista|Balista]]
-
 
 ---
 
@@ -742,7 +745,6 @@ _Electric Arc._ Ranged Weapon Attack: +5 to hit, range 30/90 ft., one target. Hi
 
 _Meat Shield._ When the brawler is grappling a target and is hit by a ranged attack made by another creature the brawler can see, the brawler gains a +2 bonus to AC against the triggering attack. If this bonus causes the attack to miss the brawler, it hits the grappled target instead.
 
----
 ### Human Guard
 
 Medium Humanoid (Human), Any Alignment
@@ -857,10 +859,12 @@ _Medium Humanoid (Human), Any Alignment_
 **Proficiency Bonus** +3
 **Challenge** 6 (2,300 XP)
 
+![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+
 **Exploit Opening (3/Day).** When the wizard makes an attack, they have advantage on the attack roll.
 
-_**Actions**_  
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
+_**Actions**_  
 
 **Arcane Staff.** _Melee or Ranged Spell Attack:_ +7 to hit, reach 5 ft. or range 30 ft., one target. _Hit:_ 21 (6d6) cold damage.
 
@@ -1223,7 +1227,7 @@ _Medium humanoid (Hobgoblin), Any Alignment
 
 **Spear (Group Attack).** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 1 piercing damage.
 
-## Orc Godcaller
+### Orc Godcaller
 _Medium Humanoid (Orc), Any Alignment_  
 
 ![](https://www.dndbeyond.com/file-attachments/0/579/stat-block-header-bar.svg)
@@ -1473,11 +1477,3 @@ _Actions_
 **Pseudopod**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.
 
 **Bite**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
-## Structures
-### Balista
-AC 15
-HP 40
-_Hardened_: Damage is only applied when 20 or more is delt in one attack
-
-Takes 1 action to load, 1 action to aim, 1 action to fire
-If within sightline and range, target must make a DC 15 dexterity saving through or be struck, dealing 6d8 piercing damage.
