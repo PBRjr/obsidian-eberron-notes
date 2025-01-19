@@ -1,6 +1,7 @@
 ToDo:
 * Plan out the encounters/locations for either Boromar group they decide to attack
 * What about the Creation Forge?
+* Create "Target packets" about the two clans, detailing information about those they may encounter.
 ### Outline
 - (List of key events or topics that will happen in the session)
 
@@ -23,9 +24,18 @@ ToDo:
 - Halak
 	- smuggler's den
 	- Stronger combatants, less magic more brute force
+	- ***Roster.***
+		- **Guard Drake** (VGtM)
+		- [[Statblocks#Human Guard|Human Guards]] (minions)
+		- **Orc Godcaller** (FM 209)
 - Castar
 	- Airship dock
 	- More magic and less direct battle, archers/magic/traps
+	- ***Roster.***
+		- **Human Cryomancer** (FM 164)
+		- **Displacer Beast**
+		- [[Statblocks#Human Guard|Human Guards]] (minions)
+		- Traps/glyph of warding
 
 (continue as needed, may nest encounters inside moments)
 
