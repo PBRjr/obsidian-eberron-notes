@@ -11,6 +11,12 @@ ToDo:
 - (based on where/how last session ended)
 
 - [ ] Moment 1: *Meeting with Kazrak*
+- **Kazrak** and the Red Cloak Battallion arrested **Garhorn** while they were pursuing the party, and he is now being held and interrogated.
+- Garhorn is cooperating, and has given Kazrak very valuable intel about the Boromar Clan, including...
+	- **Aaron D'Cannith** and a **Professor Baelin ir'Torn** are being held at their HQ, rumored to being forced in working on something important involving a unique fragment of a **Dragonshard.**
+	- **Saidan Boromar died 2 months ago**, and his disappearance was covered up by his closest advisers.
+	- His 2 best men, **Halak and Castar**, have different visions of how the clan should continue, and who should lead it.
+	- Tensions have been building within the Boromar Clan, between those who follow Halak and those who follow Castar.
 - Garhorn
 	- Gives intel that there is a 'civil war' going on within the Clan
 	- Party must stage an attack on one of the inner groups and make it look like the other did it
