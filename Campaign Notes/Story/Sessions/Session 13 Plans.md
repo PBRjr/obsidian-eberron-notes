@@ -3,12 +3,20 @@ ToDo:
 * What about the Creation Forge?
 * Create "Target packets" about the two clans, detailing information about those they may encounter.
 ### Outline
-- (List of key events or topics that will happen in the session)
+- Recap Geralt's Vision
+- Contest of Strength
+- Discussion with Kazrak & Garhorn
+- Encounter with Boromar Clan
 
 ### Moments & Encounters
 
 - [ ] Khyber's Gate
-- (based on where/how last session ended)
+	Contest of Strength
+	* "Tucked away in Khyber’s Gate, there’s a makeshift stall run by a burly, tattooed half-orc beckoning people forward, yelling about a contest of strength. The stall looks modest at first glance, but the heavily dented training dummies standing off to the side suggests some serious martial prowess has been tested here."
+	* **Grask Stonefist** runs this market stall. 
+	* 11 GP buy in - 1GP for fees
+	* Most damage in 1 round wins the pool.
+	* *Rewards:* the pot of gold, *Gloves of missle snaring*
 
 - [ ] Moment 1: *Meeting with Kazrak*
 - **Kazrak** and the Red Cloak Battallion arrested **Garhorn** while they were pursuing the party, and he is now being held and interrogated.
@@ -42,8 +50,6 @@ ToDo:
 		- [[Dragon - White Guard Drake|White Guard Drake]]
 		- [[Humanoid - Guard|Human Guards]] (minions)
 		- Traps/glyph of warding
-
-(continue as needed, may nest encounters inside moments)
 
 - [ ] Session End: *Name*
 - (possible cliffhanger)

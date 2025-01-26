@@ -6,12 +6,12 @@
 - Once per long rest, when Geralt concentrates for at least 10 minutes while holding the Legacy Stone, he experiences a surge of warmth before his mind is flooded with a memory that is chosen at random from the table below.
 
 ***First Interaction***
->The Siberys dragonshard pulses warmly in your hand, its golden light seeping into your skin. For a moment, the workshop fades, replaced by a rush of sensations, emotions, and fragmented images. It’s not your memory, you realize, but hers. You are seeing the world through your mother's eyes, feeling the world through her body.
+>The Siberys dragonshard pulses warmly in your hand, its golden light seeping into your skin. For a moment, the *surroundings* around you fades, replaced by a rush of sensations, emotions, and fragmented images. It’s not your memory, you realize, but hers. You are seeing the world through your mother's eyes, feeling the world through her body.
 
 | #   | Memory               | Viewed? |
 | --- | -------------------- | ------- |
 | 1   | Kismet's Prophecy    |         |
-| 2   | Norbit's Illness     |         |
+| 2   | Norbit's Illness     | y       |
 | 3   | Sibernyan Discovery  |         |
 | 4   | Steelhardt Prototype | y       |
 | 5   | House Cannith Escape | y       |

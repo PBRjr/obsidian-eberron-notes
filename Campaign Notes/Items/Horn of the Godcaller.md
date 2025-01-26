@@ -1,0 +1,1 @@
+1/day - Use an action, until the start of your next turn any allies within 30ft of you have advantage on their attacks. This effect ends early if you take damage.
