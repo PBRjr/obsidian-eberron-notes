@@ -1,3 +1,5 @@
+
+
 ```dataview
 TABLE cr as "CR", size, type, alignment
 FROM "Campaign Notes/Statblocks"
