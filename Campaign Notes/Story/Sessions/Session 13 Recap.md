@@ -15,6 +15,6 @@ Ozzy REALLY wants:
 Need to plan:
 What the party can do over the week long wait for the opening to infiltrate the Boromar HQ
 * downtime activities?
-* side quests?
+* side quests?**
 Boromar infiltration and HQ
 * Needs to be well planned out, being the climax of the Sharn Arc.

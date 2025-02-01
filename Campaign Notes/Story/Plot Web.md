@@ -18,10 +18,10 @@
 	- Was born when a piece of the fractured shard was nearby, tainting his soul
 	- Slowly gained unnatural (sorcerer-like) powers that use his evil and rage as fuel, increasing the dark cancers hold on him
 	- Fueled by these emotions and the dark taint on his soul, he led a group of clan members and usurped his brother's rule.
-	- He eventually killed Draven, and the dragonshard fragment he obtained continued fueling his rage and increasing his power.
+	- He eventually killed Draven Flameforge, who came for him to cleanse the land, and the dragonshard fragment he obtained continued fueling his rage and increasing his power.
 	- His power now noticeably plagues the land.
 - Old Clan members
-	- Some were swayed by Hrothgar
+	- Some were enthralled by Hrothgar
 	- Most others remain loyal to Bjorn
 	- Ones that didn't leave are forced to hide their disagreement d/t Hrothgar's increasing power.
 - Bjorn's new group
@@ -108,7 +108,7 @@
 - Would be randomly taken to a different plane for the Traveler's duties
 
 #### PCs: Lox & Nyx Tempest
-* Lox & Nyx married. They think that they lost their daughter *Elix* in the airship attack at the hands of *Woe*.
+* Lox & Nyx are married. They think that they lost their daughter *Elix* in the airship attack at the hands of *Woe*.
 	*  Elix was supposed to be traveling on the airship back to Nyx's homeland in the forest to spend time with her druidic side of the family.
 * **Lox**
 	* Lox made a pact with a demon/devil to give Lox the power to enact revenge against his daughter's killer.
@@ -126,11 +126,10 @@
 	* After learning of the airship crash and *Elix's* probable death, Lox & Nyx embarked on a quest to find and kill her murderer.
 * ***Secret.***
 	* *Elix* isn't actually dead, because she was never on *The Merkentile*. 
-	* Party may find clues about the ship's manifest and find out her name isn't on there.
 	* *Where was she? How is she connected? What is she doing?* 
-		* (WORK IN PROGRESS, NEEDS DEVELOPMENT)
-		* Joined a group of goliath nomads
-		* They are part of Bjorn's new following, working to take down *Hrothgar*.
+		* She was taken by Mordakesh directly, before she was able to board *The Merkentile.*
+		* This ensures that Lox feels he needs his patron's help, and fulfills the 'visions' of the future that he provided to Lox.
+		* Elix is now secretly being held at an *unknown* location by Mordakhesh, who will use her as yet another tool to manipulate Lox into following Mordakhesh's orders.
 ## Story Plot Pieces
 - **Themes**:
 	- What makes a person good? 
