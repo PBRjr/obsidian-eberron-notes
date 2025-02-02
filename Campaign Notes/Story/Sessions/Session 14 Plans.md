@@ -1,3 +1,6 @@
+TODO:
+* The party may want to return to the airship, leave clues and develop Shavalant
+* Kismet is going to cause hallucinations to Nyx - Rework Kismet's backstory and why she would give Nyx hallucinations of her daughter.
 ### Outline
 - The party is visited by the Church of the Silver Flame
 
@@ -7,11 +10,13 @@
 - (based on where/how last session ended)
 
 - [ ] Moment 1: *CotSF*
-- **Mother Tulip** from the CotSF pays the party a visit, stating she has an offer.
-	- They know the party plans on infiltrating the HQ, and they want to be a part of that.
+- **Mother Tulip** from the CotSF *Order of Ministers* pays the party a visit, stating she has an offer.
+	- They know the party plans on infiltrating the HQ, and they want to benefit from that.
 	- When the party finds the [[Fractured Khyber Dragonshard]] Baelin ir'Torn had, return it to the CotSF.
 	- They are willing to share that they believe the FKD to be *an ancient artifact of great and terrible power*.
 	- The CotSF believes it can best protect these shards.
+	- **Rewards.** 
+		- Money? Magic items? Property? Entry into the church/security clearance?
 
 - [ ] Moment 2: *Name*
 - X
