@@ -10,7 +10,7 @@ TODO:
 - (based on where/how last session ended)
 
 - [ ] Moment 1: *CotSF*
-- **Mother Tulip** from the CotSF *Order of Ministers* pays the party a visit, stating she has an offer.
+- **Mother Tulip** from the [[Church of the Silver Flame]] *Order of Ministers* pays the party a visit, stating she has an offer.
 	- They know the party plans on infiltrating the HQ, and they want to benefit from that.
 	- When the party finds the [[Fractured Khyber Dragonshard]] Baelin ir'Torn had, return it to the CotSF.
 	- They are willing to share that they believe the FKD to be *an ancient artifact of great and terrible power*.
