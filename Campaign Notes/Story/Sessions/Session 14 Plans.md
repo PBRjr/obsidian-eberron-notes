@@ -7,7 +7,7 @@ TODO:
 ### Moments & Encounters
 
 - [ ] *Downtime Session*
-- Whatever the party wants to accomplish - lasts about 1 week while chaos is sewn within the Boromar Clan.
+- Whatever the party wants to accomplish - lasts about 1 week while they wait for Kazrak to tell the party that they are ready to infiltrate the Boromar HQ.
 
 - [ ] Moment 1: *CotSF*
 - **Mother Tulip** from the [[Church of the Silver Flame]] *Order of Ministers* pays the party a visit, stating she has an offer.
