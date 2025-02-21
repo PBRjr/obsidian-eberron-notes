@@ -1,4 +1,5 @@
 TODO:
+* Print [[Traust's letter to Bjorn]]
 * The party may want to return to the airship, leave clues and develop Shavalant
 * Kismet is going to cause hallucinations to Nyx - Rework Kismet's backstory and why she would give Nyx hallucinations of her daughter.
 ### Outline
