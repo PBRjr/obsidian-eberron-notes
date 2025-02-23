@@ -2,6 +2,7 @@ TODO:
 * Print [[Traust's letter to Bjorn]]
 * The party may want to return to the airship, leave clues and develop Shavalant
 * Kismet is going to cause hallucinations to Nyx - Rework Kismet's backstory and why she would give Nyx hallucinations of her daughter.
+* Nyx wants to investigate the Merkentile at a library.
 ### Outline
 - The party is visited by the Church of the Silver Flame
 
@@ -20,30 +21,34 @@ TODO:
 		- Money? Magic items? Property? Entry into the church/security clearance?
 
 - [ ] Moment 2: *Bjorn gets a letter from a gargoyle*
-- Bjorn is delivered a letter from his mother Traust Ulfr
-	- The letter details how [[Plot Web#Hrothgar|Hrothgar]] has grown in power and fallen into darkness, and that more and more of the other clan members have fallen under his power and corruption.
-	- It also states that her seer abilities don't work when peering into Hrothgar's future, his future is clouded to her.
-	- Somewhere in the letter she also vaguely hints towards seeing into Hrothgar's future when he was a boy.
-		- Even since the moment he was born it was more difficult for her to view his future than anyone else.
-		- However, when he was a boy, she did foresee him slaying a knight who came to kill him, though she couldn't see any more details.
-		- She then briefly explains how a man did come to the camp a year and a half ago and was killed. She says something like, "Though it pains me to write this, I wonder if it should have been Hrothgar thrown off that cliff."
-	- It finishes on the note that she is scared of the future, for this is the first time she truly has no idea what is going to happen. 
-		- She could even foresee the death of Kvitrafen, Bjorn's father, and though she grieved, it gave her some comfort knowing it was coming.
-		- Since Hrothgar's corruption has grown, her ability to peer into his future has diminished until recently, and now she can't see anything involving him.
+- [[Traust's letter to Bjorn]]
 
-- [ ] Moment 3: *Trouble with a Spider*
-- Kazrak hears posted a guild mission to deal with a spider that has been plaguing an area of Sharn (?). 
-	- Can pose an interesting and challenging boss fight with minions, baddies, and a boss. 
+- [ ] Moment 3: *Trouble with Gnolls
+- Kazrak has a guild mission posted to deal with some Gnoll pirates that have been pestering airship docks.
+- ***Enemy Roster.***
+	- [[Fiend - Gnoll Bonesplitter]] x1 or 2
+	- [[Fiend - Gnoll Abyssal Summoner]] x1
+	- [[Fiend - Gnoll Marauder]] as needed
+	- [[Fiend - Abyssal Hyena]] as needed
 
-- [ ] Moment 4: *Nyx's visions of her daughter*
+- [ ] Moment 4: *Nyx's visions of her daughter* 
 - Nyx will hallucinate and see her daughter, when she was young, running around somewhere nearby. Only she can see her.
 	- This is a hallucination wrought by the power of Kismet, who intents to prepare the party for their terrible battles ahead of them against the agents of Rak Tulkesh.
 	- Her hallucination of her daughter will tell her, "*Daddy will have to make a terrible choice, protect him!*"
 
-(continue as needed, may nest encounters inside moments)
+- [ ] Moment 5: Each PC's plans
+* Nyx: 
+	* Looks around for evidence about the Merkentile
+	* May find the owner of The Merkentile, *Ianhorn Gillflower*, can discover her daughter's name was never on the passenger roster
+* Geralt:
+	* Spends time investigating [[Legacy Stone]]
+* Lox:
+	* Wants to go monster hunting?
+* Forge:
+	* Probably wants to add the thrown property to his maul
 
-- [ ] Session End: *Name*
-- (possible cliffhanger)
+- [ ] Session End: *Kazrak is ready*
+- The session ends with Kazrak saying to the party that the Clan HQ has fallen into chaos, and that it is time to infiltrate.
 
 ### Location Details
 
