@@ -30,6 +30,11 @@ TODO:
 	- [[Fiend - Gnoll Abyssal Summoner]] x1
 	- [[Fiend - Gnoll Marauder]] as needed
 	- [[Fiend - Abyssal Hyena]] as needed
+- **Treasure.**
+	- 1700GP, 600SP, 700CP
+	- Brooch of Shielding
+	- Sentinel Shield
+	- Gloves of Thievery
 
 - [ ] Moment 4: *Nyx's visions of her daughter* 
 - Nyx will hallucinate and see her daughter, when she was young, running around somewhere nearby. Only she can see her.
