@@ -13,5 +13,5 @@ Siberys shards, or "dragon's tears", are the rarest and most coveted of the thre
 ---
 
 **Khyber Dragonshards**
-Khyber shards, known as "dragon's teeth", are found deep within the world, in the underdark and other subterranean locales. These shards have a sinister, dark hue, often perceived as an abyssal black or a deep blue. Khyber shards are used to create binding circles and magic items that contain or utilize fiends or other extraplanar entities. Their energy is considered potent but unpredictable, which often leads to their use in more nefarious magical applications. ^023b44
+Khyber shards, known as "dragon's teeth", are found deep within the world, in the underdark and other subterranean locales. These shards have a sinister, dark hue, often perceived as an abyssal black or a deep purple. Khyber shards are used to create binding circles and magic items that contain or utilize fiends or other extraplanar entities. Their energy is considered potent but unpredictable, which often leads to their use in more nefarious magical applications. ^023b44
 

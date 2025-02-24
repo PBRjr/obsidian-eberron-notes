@@ -16,7 +16,7 @@
 | 3   | Sibernyan Discovery  |         |
 | 4   | Steelhardt Prototype | y       |
 | 5   | House Cannith Escape | y       |
-| 6   | The Rageblight       |         |
+| 6   | The Rageblight       | y       |
 
 ***Memory Descriptions***
 **Kismet's Prophecy:** 
