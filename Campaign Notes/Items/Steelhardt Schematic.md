@@ -25,6 +25,7 @@ Transference Shard:
     - Material: A perfectly intact Siberys Dragonshard, no smaller than 0.77 Aundair Shard Standard but no larger than 0.86 ASS.
     - Function: Container for the willing conscious soul, maintains spiritual alignment.
     - Notation: Elemental balance is crucial; misalignment may result in fragmentation of soul and/or complete or partial uninstallation of persona.
+
 Feedback Loop Stabilizer:
     - Mechanism: A dual-layered coil of electrum and orichalcum, interwoven with strands of unicorn mane.
     - Function: Regulates the flow of magical energy within the device, preventing overload or burnout during the transference process.

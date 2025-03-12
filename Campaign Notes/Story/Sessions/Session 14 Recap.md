@@ -7,5 +7,5 @@
 
 Mother tulip reports to Father Alan - the party wants to speak to Father Alan
 Father alan talks to Geralt - Geralt experiences another Legacy stone vision
-They do NOT to bring FKD fragments to the church for 3000GP each - 18K total per FKD fragment
+They do NOT agree to bring FKD fragments to the church for 3000GP each - 18K total per FKD fragment
 * Lox ripped up the contract
