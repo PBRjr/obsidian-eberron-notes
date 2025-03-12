@@ -29,6 +29,8 @@
 			- May be activated 1 time to grant the user 1 minute of "Feather Fall"
 			- Disguised as Boromar Clan pendants
 		- Boromar disguises
+	- Key points.
+		- *"Once they discover we're moving on them like this, they'll likely kill the prisoners"*
 
 
 - [ ] Moment 1: *The Approach*
@@ -58,6 +60,9 @@
 
 - [ ] Moment 3: *Finding Aeren*
 	- Aeren is being kept behind a locked door somewhere in the crew quarter scrubbing floors
+	- ***Challenge.***
+		- Door is being guarded by a [[Dragon - Red Guard Drake]]
+		- Door is padlocked: DC 17 SoH or DC 20 athletics
 	- **Revelations.**
 		- Geralt's parents went to the Byeshk Mountains for *something* that had to do with the Coautl
 			- Clues:
@@ -72,12 +77,15 @@
 - [ ] Moment 4: *Castar's forces attack*
 	- After a short time, Kazrak reports to the party that a large collection of thugs are storming the entrance from the docking point, killing the guards
 	- Kazrak believes they are Castars forces, who is trying to kill Halak and consolidate power
-	- The party will encounter a large force of these thugs who will attack, believing the party to be a part of Halak's forces
+	- Three-way fight between Halak's and Castar's forces and the party
 	- ***Enemy Roster.***
+		- Halak's forces: heavy hitters, big weapons
+		- Castar's forces: Magic users, potions and 'grenades'
 
 
 - [ ] Moment 5: *Finding Baelin*
 	- Baelin is locked in a bathroom, and is found shaking and scared.
+	- *Complication.* Baelin's right leg is broken and he can't walk
 	- **Revelations**
 		- The fragment is being kept in the artifact room on the upper levels, locked behind a safe
 		- A warforged with a purple heart and eyes is hunting the FKD fragments
