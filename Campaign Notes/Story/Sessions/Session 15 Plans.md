@@ -31,6 +31,7 @@
 		- Boromar disguises
 	- Key points.
 		- *"Once they discover we're moving on them like this, they'll likely kill the prisoners"*
+		- *"Once you rescue the prisoners we will move in."*
 
 
 - [ ] Moment 1: *The Approach*
@@ -80,7 +81,10 @@
 	- Three-way fight between Halak's and Castar's forces and the party
 	- ***Enemy Roster.***
 		- Halak's forces: heavy hitters, big weapons
+			- Frontline-offensive: Orc bloodrunners
+			- 
 		- Castar's forces: Magic users, potions and 'grenades'
+			- Invisible ambushers: Orc Garroter (make human, remove relentless)
 
 
 - [ ] Moment 5: *Finding Baelin*
