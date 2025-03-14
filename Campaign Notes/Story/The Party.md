@@ -88,3 +88,35 @@ Since his escape, Forge has been on the run. House Cannith is determined to find
 Forge grapples with his new existence, questioning what it means to be alive in a constructed body. He contemplates the ethics of creating more beings like himself. Would bringing others into the world as warforged be an act of creation or manipulation? This internal conflict drives him to seek understanding of his own identity and purpose.
 
 Amidst a world striving to recover from the devastation of war, Forge searches for a place where he belongs. He is caught between his past as a human general and his present as a warforged fugitive. His journey is one of self-discovery, as he tries to reconcile his actions during the war with his desire to forge a new path forward.
+
+## **Lox Tempest**
+
+Lox Tempest's life was forever changed by a single moment. As a husband to Nyx and father to their daughter Elix, Lox's world revolved around his small, cherished family.
+
+Before tragedy struck, Lox was approached by a mysterious patron who showed him disturbing **visions of the future** - glimpses of danger that would supposedly threaten his family. Convinced by these prophecies and desperate to protect those he loved, Lox made a **pact** that would grant him power beyond ordinary means.
+
+The terms were simple yet ominous: Lox would receive his powers, and in return, he would owe a single **favor** to be redeemed when his patron deemed fit. The consequence for failing to perform this favor was equally clear - Lox would lose "what he values most."
+
+When news came that **The Merkantile** had been attacked and his daughter Elix was presumed dead among the passengers, the power he had gained seemed a cruel mockery of his intentions.
+
+Now consumed by grief and rage, Lox travels alongside his wife Nyx. Their shared loss has bound them in a quest for vengeance, though each pursues it through different means. While Nyx channels her pain through her druidic connection to nature, Lox wields the **dark powers** granted by his pact – abilities that sometimes frighten even him.
+
+Though the full extent of his capabilities remains to be seen, whispers follow him - of enemies who fall to unseen forces, of bargains struck in moments of desperation. The power flows through him like a cold current, always reminding him of its price.
+
+Despite the darkness that has entered his life, Lox remains driven by love. His devotion to finding his daughter's killer and protecting what remains of his family gives him purpose. Yet questions haunt him in quiet moments - about the true nature of his unseen patron, about the favor that will eventually be called due, and about whether the power he wields is changing him into something he no longer recognizes.
+
+## **Nyx Tempest**
+
+"Nyx Tempest was born beneath the ancient boughs of the deep forests, where the boundaries between the material world and the Feywild grow thin. As a child of mixed heritage - part wood elf from her mother's lineage and part drow from her father's - Nyx learned early to navigate between different worlds, different perspectives.
+
+Raised among the **druidic circles** of her mother's people, Nyx developed a profound connection to the natural world. The whispers of leaves, the secrets carried by the wind, and the silent wisdom of ancient trees became her first teachers. She learned to listen to the voice of nature, to recognize its patterns and its magic, and eventually, to channel its power through her own being.
+
+When she met **Lox**, their connection transcended the ordinary. Despite their different backgrounds and approaches to the world, they found in each other a sense of belonging that neither had experienced before. Their union blessed them with a **daughter, Elix**, who embodied the best of them both - Nyx's innate connection to the natural world and Lox's passionate intensity.
+
+For years, they built a life together, finding a balance between Nyx's communion with nature and Lox's increasingly protective stance toward their family. When Lox began to change - speaking of **visions** and demonstrating abilities that seemed to stem from something beyond the natural world - Nyx felt concern but trusted in the love that bound them together.
+
+Their world shattered when Elix was to travel alone for the first time, aboard an airship called **The Merkantile**. The attack on the vessel and the presumed loss of their daughter tore through Nyx's heart like wildfire through a drought-stricken forest. Her grief manifested in her druidic powers, transforming her once-nurturing magic into something that could equally heal or harm.
+
+Now Nyx travels alongside Lox, united by loss yet sometimes divided by their methods of seeking justice. While Lox draws upon the **darker powers** granted by his mysterious patron, Nyx channels her anguish through her connection to nature - calling upon storms when her heart rages, or coaxing healing blooms from barren soil in rare moments of hope.
+
+Despite her pain, Nyx remains a **healer at heart**, capable of great compassion. She watches Lox with a mixture of love and concern, aware of how his pact has changed him and uncertain of where his new path might lead them both. Yet their shared goal keeps them bound together - to discover the truth about what happened aboard The Merkantile, to find those responsible, and perhaps, though she scarcely dares hope, to discover that their beloved Elix might somehow still be found."
