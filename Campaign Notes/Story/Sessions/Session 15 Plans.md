@@ -11,17 +11,35 @@
 
 - [ ] Mission Brief
 	- The party meets up with Kazrak before they infiltrate the Boromar HQ
-	- He briefs them on the options for entry, objectives, and possible threats
-	- Kazrak will have a squad of airships surrounding the HQ, as well as a squad of foot solders surrounding the docking point.
-	- Kazrak's people won't go in first because he doesn't want to spook the clan into killing the captives.
-	- **Options for entry.**
-		- The Dock
-		- Speed ship approach
-	- **Objectives**
-		- Rescue Aaron d'Cannith and Professor Baelin ir'Torn
+	
+	- **Circumstances**
+		- Halak has taken the offensive against Castar. Most of Castar's safehouses have been hit, however a majority of Castar's men are unaccounted for.
+		- Halak has taken total control of the HQ, however was forced to leave only a skeleton crew behind to run it due to his offensive against Castar.
+		- No intel on Castar's location, and Halak is believed to be somewhere inside the HQ.
+		- Red Cloak Batallion (RCB) airships and foot soldiers are posted out-of-sight and are ready to make entry once the prisoners are secured and the anti-air cannons are destroyed.
+		
+	- **Primary Objectives**
+		1. Rescue Aaron d'Cannith and Professor Baelin ir'Torn without being detected.
+		2. Take out the AA cannons on the lower and upper floors so the RCB airships can move in.
+		3. Get to the rooftop and extract with the prisoners
+		
+	- **Secondary Objectives
+		- Eliminate Halak Boromar
+		- Recover any intel on safehouse locations
+		
+	- **Layout**
+		- The HQ is constructed like a small castle with multiple floors and stairs at the corners
+		- It stays constantly docked to a port that allows entry through a main gate that is under constant guard
+		- The base is kept afloat via a large Eberron Dragonshard via a captured air elemental in the engine room on the lower levels.
+		- *Entry*
+			- *Front gate*. High difficulty due to current circumstances. Any disguise will be under heavy scrutiny.
+			- *Service hatch*. A small maintenance hatch is located on the bottom level leading into the engine room. A very small prototype airship can get them close enough to crawl through.
+			
 	- **Threats**
-		- The skeleton crew
+		- The skeleton crew left behind to run and operate the HQ.
+		- Halak Boromar and his bodyguard
 		- Air defenses (cannons built into multiple floors, ballista & harpoons on the rooftop)
+		
 	- **Extra gear**
 		- Modified Sending Stone earpieces
 			- Allows the party to communicate with each other & Kazrak during the mission.
@@ -79,12 +97,19 @@
 	- After a short time, Kazrak reports to the party that a large collection of thugs are storming the entrance from the docking point, killing the guards
 	- Kazrak believes they are Castars forces, who is trying to kill Halak and consolidate power
 	- Three-way fight between Halak's and Castar's forces and the party
+	
+- [ ] Encounter 1: *Three-way fight*
+	- Kazrak will tell the party:
+		- *"Castar's men are flooding through the main entrance!"*
+		- *"We need you to take out those cannons before we can extract you"*
+		- *"Protect the prisoners and get to the rooftop, that's the only way we can reach you!"*
 	- ***Enemy Roster.***
 		- Halak's forces: heavy hitters, big weapons
-			- Frontline-offensive: Orc bloodrunners
-			- 
+			- Frontline defenders: Orc bloodrunners
+			- Backline offensives: [[Humanoid - Veteran]]
 		- Castar's forces: Magic users, potions and 'grenades'
 			- Invisible ambushers: Orc Garroter (make human, remove relentless)
+			- Backline controllers: [[Humanoid - Alchemist]]
 
 
 - [ ] Moment 5: *Finding Baelin*
@@ -102,9 +127,15 @@
 					- Animals are seemingly resurrected immediately after death in proximity, but display increasingly violent and unsettling behavior after.
 					- The proximity to the shard doesn't matter once the life form has been corrupted.
 
+- [ ] Moment 6: *Halak Boromar and his bodyguard*
+	- Halak's bodyguard is a [[Monstrosity - Doppleganger]] that poses as Halak.
+	- Halak is donned in full plate armor and is posing as the bodyguard.
+	- Both are the size of halflings
+	- Halak and his guard might be found on the rooftop as the party tries to leave, which will be interrupted by *Moment 7*
 
-- [ ] Moment 6: *Woe*
-	- Shortly after Kazrak gives the order for the Red Cloak Battalion to move in on the HQ, he begins yelling out in confusion over the comms joined by the sounds of explosions and crashed outside
+
+- [ ] Moment 7: *Woe*
+	- Shortly after Kazrak gives the order for the Red Cloak Battalion to move in on the HQ, he begins yelling out in confusion over the comms joined by the sounds of explosions and crashes outside
 		- *"What the hell is that?!"*
 		- *"Airship 3 down, airship 5 down!"*
 		- *"Oh hell, get out of there! Somethings killing us! Get to the- ARRRGH!"*
