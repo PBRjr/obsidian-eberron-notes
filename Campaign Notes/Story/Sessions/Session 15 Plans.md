@@ -32,7 +32,7 @@
 		- It stays constantly docked to a port that allows entry through a main gate that is under constant guard
 		- The base is kept afloat via a large Eberron Dragonshard via a captured air elemental in the engine room on the lower levels.
 		- *Entry*
-			- *Front gate*. High difficulty due to current circumstances. Any disguise will be under heavy scrutiny.
+			- *Docking point on rooftop.* High difficulty due to current circumstances. Any disguise will be under heavy scrutiny.
 			- *Service hatch*. A small maintenance hatch is located on the bottom level leading into the engine room. A very small prototype airship can get them close enough to crawl through.
 			
 	- **Threats**
@@ -53,19 +53,21 @@
 
 
 - [ ] Moment 1: *The Approach*
-- **Approach 1: The dock**
-	- Most straight-forward approach, from the dock that connects to the floating HQ.
-	- "Main doors"
+- **Approach 1: The rooftop dock**
+	- Most straight-forward approach, from the dock that connects to the floating HQ on the roof.
 	- Will be a guard post to get through
 	- *Challenge*
-		- ID checks 
-- **Approach 2: Speed ship approach**
+		- ID checks
+	- ***Enemy Roster.***
+		- [[Monstrosity - Displacer Beast]] named *Spines*
+		- [[Humanoid - Veteran]] heavy guard
+		- [[Humanoid - Raider]] light guard, checks ID
+- **Approach 2: Service Hatch**
 	- More risky due to anti-air weapons
-	- A smaller airship will get the party close enough to jump and attach to the walls of the HQ and infiltrate a lower level through windows
-	- Kazrak will supply grapple equipment as well as window cutters.
+	- A smaller airship will get the party close enough to enter into a locked service hatch.
 	- *Challenge*
-		- Attack rolls to test grapple points
-		- Slight of hand checks to determine window-cutting speed
+		- DC 15 SoH or DC 18 Str to open hatch.
+		- Failing DC will require more time to open hatch, and a ***few guards will come to investigate***
 
 
 - [ ] Moment 2: *Clan Unrest*
