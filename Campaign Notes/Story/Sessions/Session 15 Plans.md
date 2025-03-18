@@ -9,6 +9,12 @@
 
 ### Moments & Encounters
 
+
+> [!example] NOTES
+> Cannonball/Powder MEMO
+> 	*"If I see another one of you brainless inbred twats loading powder into the cannons AFTER the cannonball you'll have a sudden and unscheduled meeting with the ground. THESE THINGS ARE EXPENSIVE!!!"*
+
+
 - [ ] Mission Brief
 	- The party meets up with Kazrak before they infiltrate the Boromar HQ
 	
@@ -80,7 +86,7 @@
 
 
 - [ ] Moment 3: *Finding Aeren*
-	- Aeren is being kept behind a locked door somewhere in the crew quarter scrubbing floors
+	- Aeren is being kept behind a locked door somewhere in the crew quarters scrubbing floors
 	- ***Challenge.***
 		- Door is being guarded by a [[Dragon - Red Guard Drake]]
 		- Door is padlocked: DC 17 SoH or DC 20 athletics
@@ -192,3 +198,5 @@ Action 2: *Name of significant NPC(s) or organization(s) involved*
 ### Additional Notes
 
 - (Add any other notes or information that you need for the session)
+
+[^1]: 
