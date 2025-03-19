@@ -13,6 +13,9 @@
 > [!example] NOTES
 > Cannonball/Powder MEMO
 > 	*"If I see another one of you brainless inbred twats loading powder into the cannons AFTER the cannonball you'll have a sudden and unscheduled meeting with the ground. THESE THINGS ARE EXPENSIVE!!!"*
+> [[Research Notes on Proximity Tests 7-10]] handout
+
+
 
 
 - [ ] Mission Brief
@@ -74,6 +77,8 @@
 	- *Challenge*
 		- DC 15 SoH or DC 18 Str to open hatch.
 		- Failing DC will require more time to open hatch, and a ***few guards will come to investigate***
+	- ***Enemy Roster.***
+		- 
 
 
 - [ ] Moment 2: *Clan Unrest*
