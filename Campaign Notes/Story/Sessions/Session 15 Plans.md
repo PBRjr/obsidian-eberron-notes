@@ -16,7 +16,9 @@
 > [[Research Notes on Proximity Tests 7-10]] handout
 
 
-
+- Forge gets scared
+	- After forge reads a Sharn Inquisitor [[EXPLOSION ROCKS LOWER DURA BOROMAR CLAN|article]] (*handout*) about the party's escape from the Dream Lily Den, he decides that he shouldn't participate in such a big operation, considering the House Cannith operators that are searching for him.
+	- *With all the heat we've been generating in Sharn lately, I think its best that I sit this one out. I don't want them to realize I'm traveling with you and put you all in more danger than necessary.*
 
 - [ ] Mission Brief
 	- The party meets up with Kazrak before they infiltrate the Boromar HQ
@@ -34,8 +36,8 @@
 		3. Get to the rooftop and extract with the prisoners
 		
 	- **Secondary Objectives
-		- Eliminate Halak Boromar & Castar
 		- Recover any intel on safehouse locations
+		- Eliminate Halak Boromar & Castar
 		
 	- **Layout**
 		- The HQ is constructed like a small castle with multiple floors and stairs at the corners
@@ -49,7 +51,7 @@
 		- The skeleton crew left behind to run and operate the HQ.
 		- Castar's spellcasters and spies
 		- Halak's brutes
-		- Air defenses (cannons built into multiple floors, ballista & harpoons on the rooftop)
+		- Air defenses (cannons built into multiple floors)
 		
 	- **Extra gear**
 		- Modified Sending Stone earpieces
@@ -59,7 +61,7 @@
 			- Disguised as Boromar Clan pendants
 		- Boromar disguises
 	- Key points.
-		- *"Once they discover we're moving on them like this, they'll likely kill the prisoners"*
+		- *"If they discover we're moving on them like this, they'll likely kill the prisoners"*
 		- *"Once you rescue the prisoners we will move in."*
 
 
@@ -166,11 +168,12 @@
 		* If the party doesn't have the fragment he will seek it out by destroying the HQ.
 	* *Dialogue with party*
 		* To the party:
-			* *I must say, I'm impressed you've managed to escape death at every turn. On the airship, in the depths of Khyber. You've impressed me.*
+			* *I must say, I'm impressed you've managed to escape death at every turn. On the airship, in the depths of Khyber. You've lot have impressed me.*
+			* *My powers have grown since we've last met. Turns out I can corrupt even the strongest of beasts to act on my will, given enough time.*
 			* *I've come for that fragment. Hand it over now.*
 			* *He ordered me not to kill you this day. He didn't say anything about allowing gravity to do it.*
-			* *Hand over the fragment, or I will drop this place out of the sky, and let nature take its course.*
-		* To Forge: 
+			* *Hand over the fragment, or I will drop this place out of the sky, and let nature take its course. I've done it once before.*
+		* To Forge: (don't include, forge's player won't be present at this session)
 			* *My name is Woe. But Forge, or should I say Otto, perhaps you know me by another name. I am Teln a'Loft. Do you remember me?*
 			* *You made a choice to sacrifice yourself and your men to win a battle. You chose to take my life in the pursuit of victory. You killed me in the name of sacrifice and victory.*
 			* *And now look at us. We are the same, given bodies a'new, forced to fight in yet another war. The only difference between us is that I know what I'm fighting for, and you haven't even begun to understand the things you're fighting against.
@@ -213,5 +216,3 @@ Action 2: *Name of significant NPC(s) or organization(s) involved*
 ### Additional Notes
 
 - (Add any other notes or information that you need for the session)
-
-[^1]: 
