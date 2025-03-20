@@ -113,12 +113,13 @@
 		- Castar's forces: Magic users, potions and 'grenades'
 			- Controllers: [[Humanoid - Enchanter]]
 			- Backline controllers: [[Humanoid - Alchemist]]
+			- Frontline: [[Humanoid - Raider]]
 
 
 - [ ] Moment 4: *Finding Aeren*
 	- Aeren is being kept behind a locked door somewhere in the crew quarters scrubbing floors
 	- ***Challenge.***
-		- Door is being guarded by a [[Dragon - Red Guard Drake]]
+		- Door is being guarded by a sleeping [[Beast - Wolf]]
 		- Door is padlocked: DC 17 SoH or DC 20 athletics
 	- **Revelations.**
 		- Geralt's parents went to the Byeshk Mountains for *something* that had to do with the Coautl
