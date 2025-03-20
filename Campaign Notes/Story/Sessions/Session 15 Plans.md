@@ -24,8 +24,9 @@
 	- **Circumstances**
 		- Halak has taken the offensive against Castar. Most of Castar's safehouses have been hit, however a majority of Castar's men are unaccounted for.
 		- Halak has taken total control of the HQ, however was forced to leave only a skeleton crew behind to run it due to his offensive against Castar.
-		- No intel on Castar's location, and Halak is believed to be somewhere inside the HQ.
+		- No intel on Castar's current location, however new intel indicates his forces will attack the HQ shortly. Halak is believed to be somewhere inside the HQ.
 		- Red Cloak Batallion (RCB) airships and foot soldiers are posted out-of-sight and are ready to make entry once the prisoners are secured and the anti-air cannons are destroyed.
+		- Entry will be made shortly before Castar's forces attack, which will be the distraction needed to rescue the prisoners.
 		
 	- **Primary Objectives**
 		1. Rescue Aaron d'Cannith and Professor Baelin ir'Torn without being detected.
@@ -33,7 +34,7 @@
 		3. Get to the rooftop and extract with the prisoners
 		
 	- **Secondary Objectives
-		- Eliminate Halak Boromar
+		- Eliminate Halak Boromar & Castar
 		- Recover any intel on safehouse locations
 		
 	- **Layout**
@@ -46,7 +47,8 @@
 			
 	- **Threats**
 		- The skeleton crew left behind to run and operate the HQ.
-		- Halak Boromar and his bodyguard
+		- Castar's spellcasters and spies
+		- Halak's brutes
 		- Air defenses (cannons built into multiple floors, ballista & harpoons on the rooftop)
 		
 	- **Extra gear**
@@ -70,7 +72,7 @@
 	- ***Enemy Roster.***
 		- [[Monstrosity - Displacer Beast]] named *Spines*
 		- [[Humanoid - Veteran]] heavy guard
-		- [[Humanoid - Raider]] light guard, checks ID
+		- [[Humanoid - Tough Boss]] light guard, checks ID
 - **Approach 2: Service Hatch**
 	- More risky due to anti-air weapons
 	- A smaller airship will get the party close enough to enter into a locked service hatch.
@@ -78,7 +80,8 @@
 		- DC 15 SoH or DC 18 Str to open hatch.
 		- Failing DC will require more time to open hatch, and a ***few guards will come to investigate***
 	- ***Enemy Roster.***
-		- 
+		- [[Humanoid - Trickshot]]
+		- [[Humanoid - Berserker]]
 
 
 - [ ] Moment 2: *Clan Unrest*
@@ -90,7 +93,29 @@
 		- *"Locked that puny professor in the pisser... right after Jonsey took a fish-fueled shite."*
 
 
-- [ ] Moment 3: *Finding Aeren*
+- [ ] Moment 3: *Castar's forces attack*
+	- After a short time, Kazrak reports to the party that a large collection of thugs are storming the entrance from the docking point
+	- Three-way fight between Halak's and Castar's forces and the party at the throne room
+	- Kazrak will tell the party:
+		- *"Castar's men are flooding through the main entrance!"*
+		- *"Don't forget, we need you to take out those cannons before we can extract you"*
+		- *"Protect the prisoners and get to the rooftop, that's the only way we can reach you!"*
+	
+- [ ] Encounter 1: *Throne room battle*
+	- ***Enemy Roster.***
+		- Bosses:
+			- Halak: [[Humanoid - Knave]]
+			- Castar: [[Humanoid - Garroter]]
+		- Halak's forces: heavy hitters, big weapons
+			- Frontline defenders: [[Humanoid - Orc Bloodrunner]]
+			- Backline offensives: [[Humanoid - Trickshot]]
+			- Fighters: [[Humanoid - Veteran]]
+		- Castar's forces: Magic users, potions and 'grenades'
+			- Controllers: [[Humanoid - Enchanter]]
+			- Backline controllers: [[Humanoid - Alchemist]]
+
+
+- [ ] Moment 4: *Finding Aeren*
 	- Aeren is being kept behind a locked door somewhere in the crew quarters scrubbing floors
 	- ***Challenge.***
 		- Door is being guarded by a [[Dragon - Red Guard Drake]]
@@ -104,25 +129,6 @@
 			- Clues:
 				- The items on [[Yelena and Norbit's Grocery List]] seems unrelated, however the used lich phylactery suggests that the transfer of life is involved
 				- The other items seem to be used to somehow stabilize the process, or at least prevent the undeath that accompanies lichdom
-
-
-- [ ] Moment 4: *Castar's forces attack*
-	- After a short time, Kazrak reports to the party that a large collection of thugs are storming the entrance from the docking point, killing the guards
-	- Kazrak believes they are Castars forces, who is trying to kill Halak and consolidate power
-	- Three-way fight between Halak's and Castar's forces and the party
-	
-- [ ] Encounter 1: *Three-way fight*
-	- Kazrak will tell the party:
-		- *"Castar's men are flooding through the main entrance!"*
-		- *"We need you to take out those cannons before we can extract you"*
-		- *"Protect the prisoners and get to the rooftop, that's the only way we can reach you!"*
-	- ***Enemy Roster.***
-		- Halak's forces: heavy hitters, big weapons
-			- Frontline defenders: Orc bloodrunners
-			- Backline offensives: [[Humanoid - Veteran]]
-		- Castar's forces: Magic users, potions and 'grenades'
-			- Invisible ambushers: Orc Garroter (make human, remove relentless)
-			- Backline controllers: [[Humanoid - Alchemist]]
 
 
 - [ ] Moment 5: *Finding Baelin*
@@ -140,30 +146,33 @@
 					- Animals are seemingly resurrected immediately after death in proximity, but display increasingly violent and unsettling behavior after.
 					- The proximity to the shard doesn't matter once the life form has been corrupted.
 
-- [ ] Moment 6: *Halak Boromar and his bodyguard*
-	- Halak's bodyguard is a [[Monstrosity - Doppleganger]] that poses as Halak.
-	- Halak is donned in full plate armor and is posing as the bodyguard.
-	- Both are the size of halflings
-	- Halak and his guard might be found on the rooftop as the party tries to leave, which will be interrupted by *Moment 7*
-
 
 - [ ] Moment 7: *Woe*
 	- Shortly after Kazrak gives the order for the Red Cloak Battalion to move in on the HQ, he begins yelling out in confusion over the comms joined by the sounds of explosions and crashes outside
 		- *"What the hell is that?!"*
 		- *"Airship 3 down, airship 5 down!"*
 		- *"Oh hell, get out of there! Somethings killing us! Get to the- ARRRGH!"*
-	- Woe makes a dramatic entrance riding a corrupted ***Young Black Dragon ?***
-	* He has developed more control over his new powers since absorbing the second FKD fragment
+	- Woe makes a dramatic entrance riding a corrupted [[Dragon - Juvenile Shadow Dragon]] with purple glowing eyes
+	* He has developed more control over his new powers since absorbing the second FKD fragment, and can now corrupt monsters if given enough time.
 	* He has come looking for the 3rd
 	* *Mordakhesh* gave Woe orders not to kill the party
 		* However, he will drop the HQ out of the sky
 	* **Appearance**
 		* Woe now looks more corrupted
 		* Parts of his body have taken on a purple crystalline appearance, as thought he is becoming a Khyber Dragonshard
-
-
-- [ ] Session End: *Name*
-- (possible cliffhanger)
+	* **Plot.**
+		* If the party has the shard, he will confront the party on the rooftop.
+		* If the party doesn't have the fragment he will seek it out by destroying the HQ.
+	* *Dialogue with party*
+		* To the party:
+			* *I must say, I'm impressed you've managed to escape death at every turn. On the airship, in the depths of Khyber. You've impressed me.*
+			* *I've come for that fragment. Hand it over now.*
+			* *He ordered me not to kill you this day. He didn't say anything about allowing gravity to do it.*
+			* *Hand over the fragment, or I will drop this place out of the sky, and let nature take its course.*
+		* To Forge: 
+			* *My name is Woe. But Forge, or should I say Otto, perhaps you know me by another name. I am Teln a'Loft. Do you remember me?*
+			* *You made a choice to sacrifice yourself and your men to win a battle. You chose to take my life in the pursuit of victory. You killed me in the name of sacrifice and victory.*
+			* *And now look at us. We are the same, given bodies a'new, forced to fight in yet another war. The only difference between us is that I know what I'm fighting for, and you haven't even begun to understand the things you're fighting against.
 
 ### Location Details
 

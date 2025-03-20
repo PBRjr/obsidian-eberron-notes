@@ -85,9 +85,9 @@
 	- Since Forge died in proximity to Lick's father's FKD fragment, an aspect of Khyber attached to his soul, which, in addition to the Siberys Dragonshard conduit in his Steelhardt, meant he retained his memories AND his sanity.
 	- This information about the missing traits is not currently known **(Vorak stole most of the schematics, however Geralt's schematic is the only one that mentions this requirement.)
 - All subsequent batches were made with these methods, using the souls of dead soldiers, however they were stripped of their mortal memories. This was the only work-around House Cannith could devise to prevent these new Warforged from losing their minds.
-- Forge was a human general of **House Cannith (Or maybe some other affiliation makes more sense?)**
+- Forge was a human general of **House Cannith**
 - In a battle during the last war, he sacrificed his and his men's lives in an explosion he set off to overtake the enemy.
-	- Lick's father and Woe were in Forge's squad. Forge valued winning the battle/war over the lives of his own men. While Woe and Lick's father were engaged in battle, Forge made the decision to sacrifice himself and his entire squad to blow up and destroy the **target (what was the target/what was this battle being fought for?)**.
+	- Lick's father and Woe were in Forge's squad. Forge valued winning the battle/war over the lives of his own men. While Woe and Lick's father were engaged in battle, Forge made the decision to sacrifice himself and his entire squad to blow up and destroy the enemy and win the battle for his side.
 	- Woe died close to Lick's father's fragment of the *FKD*, causing an aspect of Khyber to latch onto his soul which allowed him to be resurrected into a Warforged body through Mordakhesh's ritual (more details in Woe's backstory)
 - Forge's soul was captured by House Cannith and infused into a warforged body. He was held prisoner and used for various tests and experiments for a period of time.
 - Near the end of the war, he broke free and, using his skills from his past life, **destroyed his creation forge**.
@@ -239,7 +239,7 @@
 	- Once one of the survivors finds his Steehardt, rage consumes them, and forces them to plunge the artifact into their own chest, killing them, and allowing Vorak to resurrect through their body.
 	- This process can only be stopped through a ritual involving a Siberys Dragonshard
 
-##### Woe
+##### Woe (Teln a'Loft)
 - Was originally a human soldier fighting in the Last war under his commanding officer, Forge.
 - During a battle, he was locked into a duel with Lick's father, who wore a fragment of the *FKD* around his neck.
 - During this duel, Forge set off an explosion that completed their objective, but also killed Forge, Woe, Lick's father, and most others that were involved in this battle.
@@ -263,6 +263,7 @@
 - Bjorn's brother
 - Usurped Bjorn's position as the Chieftian of the Stormpeak Clan
 - Killed Draven and took his fractured dragonshard fragment and white flameblade, further increasing his power and dark influence on the surrounding land.
+- Can only be cleansed of the dark corruption on his soul via use of the [[Legacy Stone]] after Geralt has learned how to use it.
 
 #### Factions
 ##### House Cannith
