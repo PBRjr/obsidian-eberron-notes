@@ -6,6 +6,6 @@
 * Bjorn - got his letter, tried to find a contact, found one in lower Dura
 
 Mother tulip reports to Father Alan - the party wants to speak to Father Alan
-Father alan talks to Geralt - Geralt experiences another Legacy stone vision
+Father Alan talks to Geralt - Geralt experiences another Legacy stone vision
 They do NOT agree to bring FKD fragments to the church for 3000GP each - 18K total per FKD fragment
 * Lox ripped up the contract

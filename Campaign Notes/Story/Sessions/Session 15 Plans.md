@@ -79,7 +79,7 @@
 	- More risky due to anti-air weapons
 	- A smaller airship will get the party close enough to enter into a locked service hatch.
 	- *Challenge*
-		- DC 15 SoH or DC 18 Str to open hatch.
+		- DC 18 SoH or DC 20 Str to open hatch.
 		- Failing DC will require more time to open hatch, and a ***few guards will come to investigate***
 	- ***Enemy Roster.***
 		- [[Humanoid - Trickshot]]
