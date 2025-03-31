@@ -2,6 +2,7 @@
 
 #### PC: Bjorn "Bearwolf" Ulfr
 - Stormpeak Clan
+- From the Icehorn Mountains
 - Kvitrafn "White Raven" Ulfr
 	- Bjorn & Hrothgar's father
 	- Former chieftain
@@ -134,6 +135,7 @@
 		* She was taken by Mordakesh directly, before she was able to board *The Merkentile.*
 		* This ensures that Lox feels he needs his patron's help, and fulfills the 'visions' of the future that he provided to Lox.
 		* Elix is now secretly being held at an *unknown* location by Mordakhesh, who will use her as yet another tool to manipulate Lox into following Mordakhesh's orders.
+
 ## Story Plot Pieces
 - #### **Themes**:
 	- What makes a person good? 
@@ -198,7 +200,7 @@
 - Grants user powers if their soul is tainted
 - Who has them
 	- Woe: main shard + 1 fragment (taken from Lick in session 1)
-	- Professor Baelen ir'Torn: 1 fragment (Needs development, where/how did he find it?)
+	- Professor Baelen ir'Torn: 1 fragment
 	- Hrothgar: 1 fragment, obtained from Draven when Hrothgar battled and killed him
 
 ##### Etherseraph
@@ -227,12 +229,13 @@
 - Vorak was House Cannith's most skilled assassin, loyal to the House for most of his life. Originally a half-elf, he served for over a hundred years until his age forced him out of field work, though he remained a top advisor for covert activities within the House.
 - He was sent by Marix d'Cannith to kill Geralt's parents after they fled House Cannith.
 - Voluntarily underwent House Cannith's and the Wolfsbane's very first attempt at using a Steelhardt to transfer a soul to another body.
-- The transfer was successful, moving Vorak from his original body to a younger, stronger one from a random deceased soldier.
-- While he retained his memories, his mind quickly became plagued with dark thoughts, his grip on reality worsening.
+- The transfer was partially successful, moving Vorak from his original body to a younger, stronger one from a deceased Cannith soldier.
+- While he retained his memories, his mind quickly became plagued with dark thoughts, his grip on reality slipping.
+- Before he lost his mind completely, Marix pointed him towards the Wolfsbanes, whom he killed save for Geralt, who escaped.
 - He went rogue, and was manipulated by Mordakhesh, who focused Vorak's mind to one objective: destroy the Silver Flame.
 - Bolstered by new dark powers infused into his Steelhardt by Mordakesh, he led the forces of the LoD in their attack against the Silver Flame on the Day of Mourning.
-	- His attempt to destroy the Silver Flame failed and rebounded, turning him into a rage-fueled creature of destruction, and allowing the Silver Flame to defend itself by causing the Mourning.
-- Now he roams the land, destroying villages, feeding off the rage of the survivors, and using it to resurrect himself should he fall in battle. He is fed imaged in his mind by Mordakhesh to keep him focused on attacking his targets.
+	- His attempt to destroy the Silver Flame failed and rebounded, shutting his mind to outside manipulations and causing the Silver Flame to defend itself by unleashing a the dead gray mists, causing the Mourning.
+- Now he roams the land, destroying villages, feeding off the rage of the survivors, and using it to resurrect himself should he fall in battle.
 - His darkness-infused Steelhardt causes him to achieve quasi-lichdom through unique means:
 	- Should his body ever die, his soul will be kept safe in his Steelhardt until it is placed into a new body.
 	- The survivors of his onslaughts get the unrelenting urge to find Vorak and kill him, but if Vorak is dead they find the Steelhardt instead.

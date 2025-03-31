@@ -15,12 +15,16 @@
 	- They want Forge due to his backstory as a Cannith creation and his knowledge of the Creation Forges
 	- They want Geralt due to the schematics he holds
 
-- [ ] Moment 2: *Name*
-- X
-- [ ] Encounter: *Name*
-- X
+- [ ] Moment 2: *Glimpse of the Rageblight*
+	- News arrives of the Rageblight destroying another village that will be on the party's way towards the Byeshk Mountains
+	- *OR* the party encounters a refugee of that village that recounts their experiences with the Rageblight
+		- This village was *Ringbriar*, a small hunting and fishing village off the Graymoon river
 
-(continue as needed, may nest encounters inside moments)
+- [ ] Moment 3: *Bjorn's contact*
+	- Bjorn's contact is a goliath female that can be found in Lower Dura
+	- Her name is *Rutha Rockfist*
+		- She can be found frequenting *Marquet's Meat Market* in her free time
+		- OR shining shoes during working hours at *Rockfist Boot Booth*
 
 - [ ] Session End: *Name*
 - (possible cliffhanger)**
