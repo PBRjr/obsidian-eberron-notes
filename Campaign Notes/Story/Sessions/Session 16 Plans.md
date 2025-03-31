@@ -18,7 +18,7 @@
 - [ ] Moment 2: *Glimpse of the Rageblight*
 	- News arrives of the Rageblight destroying another village that will be on the party's way towards the Byeshk Mountains
 	- *OR* the party encounters a refugee of that village that recounts their experiences with the Rageblight
-		- This village was *Ringbriar*, a small hunting and fishing village off the Graymoon river
+		- This village was *Ringbriar*, a small hunting and fishing village off the Graymoon river, which is barely out of the way of the path to the Byeshk Mountains
 
 - [ ] Moment 3: *Bjorn's contact*
 	- Bjorn's contact is a goliath female that can be found in Lower Dura
