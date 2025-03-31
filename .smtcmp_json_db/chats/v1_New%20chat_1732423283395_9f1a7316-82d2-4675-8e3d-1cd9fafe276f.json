@@ -1,0 +1,47 @@
+{
+  "id": "9f1a7316-82d2-4675-8e3d-1cd9fafe276f",
+  "title": "New chat",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "c3b963eb-a2e4-492c-9387-abe24d032346",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Campaign Notes/Story/Sessions/Session 11 Plans.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "id": "5166b2f3-3388-42d2-ad50-a79877394807",
+      "metadata": {}
+    }
+  ],
+  "createdAt": 1732423262726,
+  "updatedAt": 1732423283395,
+  "schemaVersion": 1
+}

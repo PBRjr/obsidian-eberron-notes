@@ -1,0 +1,207 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+tags:
+- ttrpg-cli/spell/list/subclass/college-of-lore
+aliases: ["Spells for College of Lore"]
+---
+# Spells for College of Lore
+
+## Cantrip
+
+- [Acid Splash](Misc%20Files/CLI/compendium/spells/acid-splash-xphb.md "XPHB") at class level 6
+- [Blade Ward](Misc%20Files/CLI/compendium/spells/blade-ward-xphb.md "XPHB") at class level 6
+- [Chill Touch](Misc%20Files/CLI/compendium/spells/chill-touch-xphb.md "XPHB") at class level 6
+- [Dancing Lights](Misc%20Files/CLI/compendium/spells/dancing-lights-xphb.md "XPHB") at class level 6
+- [Druidcraft](Misc%20Files/CLI/compendium/spells/druidcraft-xphb.md "XPHB") at class level 6
+- [Elementalism](Misc%20Files/CLI/compendium/spells/elementalism-xphb.md "XPHB") at class level 6
+- [Fire Bolt](Misc%20Files/CLI/compendium/spells/fire-bolt-xphb.md "XPHB") at class level 6
+- [Friends](Misc%20Files/CLI/compendium/spells/friends-xphb.md "XPHB") at class level 6
+- [Guidance](Misc%20Files/CLI/compendium/spells/guidance-xphb.md "XPHB") at class level 6
+- [Gust](Misc%20Files/CLI/compendium/spells/gust-xge.md "XGE") at class level 6
+- [Light](Misc%20Files/CLI/compendium/spells/light-xphb.md "XPHB") at class level 6
+- [Mage Hand](Misc%20Files/CLI/compendium/spells/mage-hand-xphb.md "XPHB") at class level 6
+- [Mending](Misc%20Files/CLI/compendium/spells/mending-xphb.md "XPHB") at class level 6
+- [Message](Misc%20Files/CLI/compendium/spells/message-xphb.md "XPHB") at class level 6
+- [Mind Sliver](Misc%20Files/CLI/compendium/spells/mind-sliver-xphb.md "XPHB") at class level 6
+- [Minor Illusion](Misc%20Files/CLI/compendium/spells/minor-illusion-xphb.md "XPHB") at class level 6
+- [Poison Spray](Misc%20Files/CLI/compendium/spells/poison-spray-xphb.md "XPHB") at class level 6
+- [Prestidigitation](Misc%20Files/CLI/compendium/spells/prestidigitation-xphb.md "XPHB") at class level 6
+- [Produce Flame](Misc%20Files/CLI/compendium/spells/produce-flame-xphb.md "XPHB") at class level 6
+- [Ray of Frost](Misc%20Files/CLI/compendium/spells/ray-of-frost-xphb.md "XPHB") at class level 6
+- [Resistance](Misc%20Files/CLI/compendium/spells/resistance-xphb.md "XPHB") at class level 6
+- [Sacred Flame](Misc%20Files/CLI/compendium/spells/sacred-flame-xphb.md "XPHB") at class level 6
+- [Shillelagh](Misc%20Files/CLI/compendium/spells/shillelagh-xphb.md "XPHB") at class level 6
+- [Shocking Grasp](Misc%20Files/CLI/compendium/spells/shocking-grasp-xphb.md "XPHB") at class level 6
+- [Spare the Dying](Misc%20Files/CLI/compendium/spells/spare-the-dying-xphb.md "XPHB") at class level 6
+- [Starry Wisp](Misc%20Files/CLI/compendium/spells/starry-wisp-xphb.md "XPHB") at class level 6
+- [Thaumaturgy](Misc%20Files/CLI/compendium/spells/thaumaturgy-xphb.md "XPHB") at class level 6
+- [Thorn Whip](Misc%20Files/CLI/compendium/spells/thorn-whip-xphb.md "XPHB") at class level 6
+- [Thunderclap](Misc%20Files/CLI/compendium/spells/thunderclap-xphb.md "XPHB") at class level 6
+- [Toll the Dead](Misc%20Files/CLI/compendium/spells/toll-the-dead-xphb.md "XPHB") at class level 6
+- [True Strike](Misc%20Files/CLI/compendium/spells/true-strike-xphb.md "XPHB") at class level 6
+- [Word of Radiance](Misc%20Files/CLI/compendium/spells/word-of-radiance-xphb.md "XPHB") at class level 6
+
+## 1st Level
+
+- [Alarm](Misc%20Files/CLI/compendium/spells/alarm-xphb.md "XPHB") at class level 6
+- [Animal Friendship](Misc%20Files/CLI/compendium/spells/animal-friendship-xphb.md "XPHB") at class level 6
+- [Bane](Misc%20Files/CLI/compendium/spells/bane-xphb.md "XPHB") at class level 6
+- [Bless](Misc%20Files/CLI/compendium/spells/bless-xphb.md "XPHB") at class level 6
+- [Burning Hands](Misc%20Files/CLI/compendium/spells/burning-hands-xphb.md "XPHB") at class level 6
+- [Charm Person](Misc%20Files/CLI/compendium/spells/charm-person-xphb.md "XPHB") at class level 6
+- [Chromatic Orb](Misc%20Files/CLI/compendium/spells/chromatic-orb-xphb.md "XPHB") at class level 6
+- [Color Spray](Misc%20Files/CLI/compendium/spells/color-spray-xphb.md "XPHB") at class level 6
+- [Command](Misc%20Files/CLI/compendium/spells/command-xphb.md "XPHB") at class level 6
+- [Comprehend Languages](Misc%20Files/CLI/compendium/spells/comprehend-languages-xphb.md "XPHB") at class level 6
+- [Create or Destroy Water](Misc%20Files/CLI/compendium/spells/create-or-destroy-water-xphb.md "XPHB") at class level 6
+- [Cure Wounds](Misc%20Files/CLI/compendium/spells/cure-wounds-xphb.md "XPHB") at class level 6
+- [Detect Evil and Good](Misc%20Files/CLI/compendium/spells/detect-evil-and-good-xphb.md "XPHB") at class level 6
+- [Detect Magic](Misc%20Files/CLI/compendium/spells/detect-magic-xphb.md "XPHB") at class level 6
+- [Detect Poison and Disease](Misc%20Files/CLI/compendium/spells/detect-poison-and-disease-xphb.md "XPHB") at class level 6
+- [Disguise Self](Misc%20Files/CLI/compendium/spells/disguise-self-xphb.md "XPHB") at class level 6
+- [Entangle](Misc%20Files/CLI/compendium/spells/entangle-xphb.md "XPHB") at class level 6
+- [Expeditious Retreat](Misc%20Files/CLI/compendium/spells/expeditious-retreat-xphb.md "XPHB") at class level 6
+- [Faerie Fire](Misc%20Files/CLI/compendium/spells/faerie-fire-xphb.md "XPHB") at class level 6
+- [False Life](Misc%20Files/CLI/compendium/spells/false-life-xphb.md "XPHB") at class level 6
+- [Feather Fall](Misc%20Files/CLI/compendium/spells/feather-fall-xphb.md "XPHB") at class level 6
+- [Find Familiar](Misc%20Files/CLI/compendium/spells/find-familiar-xphb.md "XPHB") at class level 6
+- [Fog Cloud](Misc%20Files/CLI/compendium/spells/fog-cloud-xphb.md "XPHB") at class level 6
+- [Goodberry](Misc%20Files/CLI/compendium/spells/goodberry-xphb.md "XPHB") at class level 6
+- [Grease](Misc%20Files/CLI/compendium/spells/grease-xphb.md "XPHB") at class level 6
+- [Guiding Bolt](Misc%20Files/CLI/compendium/spells/guiding-bolt-xphb.md "XPHB") at class level 6
+- [Healing Word](Misc%20Files/CLI/compendium/spells/healing-word-xphb.md "XPHB") at class level 6
+- [Ice Knife](Misc%20Files/CLI/compendium/spells/ice-knife-xphb.md "XPHB") at class level 6
+- [Identify](Misc%20Files/CLI/compendium/spells/identify-xphb.md "XPHB") at class level 6
+- [Illusory Script](Misc%20Files/CLI/compendium/spells/illusory-script-xphb.md "XPHB") at class level 6
+- [Inflict Wounds](Misc%20Files/CLI/compendium/spells/inflict-wounds-xphb.md "XPHB") at class level 6
+- [Jump](Misc%20Files/CLI/compendium/spells/jump-xphb.md "XPHB") at class level 6
+- [Longstrider](Misc%20Files/CLI/compendium/spells/longstrider-xphb.md "XPHB") at class level 6
+- [Mage Armor](Misc%20Files/CLI/compendium/spells/mage-armor-xphb.md "XPHB") at class level 6
+- [Magic Missile](Misc%20Files/CLI/compendium/spells/magic-missile-xphb.md "XPHB") at class level 6
+- [Protection from Evil and Good](Misc%20Files/CLI/compendium/spells/protection-from-evil-and-good-xphb.md "XPHB") at class level 6
+- [Purify Food and Drink](Misc%20Files/CLI/compendium/spells/purify-food-and-drink-xphb.md "XPHB") at class level 6
+- [Ray of Sickness](Misc%20Files/CLI/compendium/spells/ray-of-sickness-xphb.md "XPHB") at class level 6
+- [Sanctuary](Misc%20Files/CLI/compendium/spells/sanctuary-xphb.md "XPHB") at class level 6
+- [Shield](Misc%20Files/CLI/compendium/spells/shield-xphb.md "XPHB") at class level 6
+- [Shield of Faith](Misc%20Files/CLI/compendium/spells/shield-of-faith-xphb.md "XPHB") at class level 6
+- [Silent Image](Misc%20Files/CLI/compendium/spells/silent-image-xphb.md "XPHB") at class level 6
+- [Sleep](Misc%20Files/CLI/compendium/spells/sleep-xphb.md "XPHB") at class level 6
+- [Speak with Animals](Misc%20Files/CLI/compendium/spells/speak-with-animals-xphb.md "XPHB") at class level 6
+- [Tasha's Hideous Laughter](Misc%20Files/CLI/compendium/spells/tashas-hideous-laughter-xphb.md "XPHB") at class level 6
+- [Tenser's Floating Disk](Misc%20Files/CLI/compendium/spells/tensers-floating-disk-xphb.md "XPHB") at class level 6
+- [Thunderwave](Misc%20Files/CLI/compendium/spells/thunderwave-xphb.md "XPHB") at class level 6
+- [Unseen Servant](Misc%20Files/CLI/compendium/spells/unseen-servant-xphb.md "XPHB") at class level 6
+- [Witch Bolt](Misc%20Files/CLI/compendium/spells/witch-bolt-xphb.md "XPHB") at class level 6
+
+## 2nd Level
+
+- [Aid](Misc%20Files/CLI/compendium/spells/aid-xphb.md "XPHB") at class level 6
+- [Alter Self](Misc%20Files/CLI/compendium/spells/alter-self-xphb.md "XPHB") at class level 6
+- [Animal Messenger](Misc%20Files/CLI/compendium/spells/animal-messenger-xphb.md "XPHB") at class level 6
+- [Arcane Lock](Misc%20Files/CLI/compendium/spells/arcane-lock-xphb.md "XPHB") at class level 6
+- [Arcane Vigor](Misc%20Files/CLI/compendium/spells/arcane-vigor-xphb.md "XPHB") at class level 6
+- [Augury](Misc%20Files/CLI/compendium/spells/augury-xphb.md "XPHB") at class level 6
+- [Barkskin](Misc%20Files/CLI/compendium/spells/barkskin-xphb.md "XPHB") at class level 6
+- [Beast Sense](Misc%20Files/CLI/compendium/spells/beast-sense-xphb.md "XPHB") at class level 6
+- [Blindness/Deafness](Misc%20Files/CLI/compendium/spells/blindness-deafness-xphb.md "XPHB") at class level 6
+- [Blur](Misc%20Files/CLI/compendium/spells/blur-xphb.md "XPHB") at class level 6
+- [Calm Emotions](Misc%20Files/CLI/compendium/spells/calm-emotions-xphb.md "XPHB") at class level 6
+- [Cloud of Daggers](Misc%20Files/CLI/compendium/spells/cloud-of-daggers-xphb.md "XPHB") at class level 6
+- [Continual Flame](Misc%20Files/CLI/compendium/spells/continual-flame-xphb.md "XPHB") at class level 6
+- [Crown of Madness](Misc%20Files/CLI/compendium/spells/crown-of-madness-xphb.md "XPHB") at class level 6
+- [Darkness](Misc%20Files/CLI/compendium/spells/darkness-xphb.md "XPHB") at class level 6
+- [Darkvision](Misc%20Files/CLI/compendium/spells/darkvision-xphb.md "XPHB") at class level 6
+- [Detect Thoughts](Misc%20Files/CLI/compendium/spells/detect-thoughts-xphb.md "XPHB") at class level 6
+- [Dragon's Breath](Misc%20Files/CLI/compendium/spells/dragons-breath-xphb.md "XPHB") at class level 6
+- [Enhance Ability](Misc%20Files/CLI/compendium/spells/enhance-ability-xphb.md "XPHB") at class level 6
+- [Enlarge/Reduce](Misc%20Files/CLI/compendium/spells/enlarge-reduce-xphb.md "XPHB") at class level 6
+- [Find Traps](Misc%20Files/CLI/compendium/spells/find-traps-xphb.md "XPHB") at class level 6
+- [Flame Blade](Misc%20Files/CLI/compendium/spells/flame-blade-xphb.md "XPHB") at class level 6
+- [Flaming Sphere](Misc%20Files/CLI/compendium/spells/flaming-sphere-xphb.md "XPHB") at class level 6
+- [Gentle Repose](Misc%20Files/CLI/compendium/spells/gentle-repose-xphb.md "XPHB") at class level 6
+- [Gust of Wind](Misc%20Files/CLI/compendium/spells/gust-of-wind-xphb.md "XPHB") at class level 6
+- [Heat Metal](Misc%20Files/CLI/compendium/spells/heat-metal-xphb.md "XPHB") at class level 6
+- [Hold Person](Misc%20Files/CLI/compendium/spells/hold-person-xphb.md "XPHB") at class level 6
+- [Invisibility](Misc%20Files/CLI/compendium/spells/invisibility-xphb.md "XPHB") at class level 6
+- [Knock](Misc%20Files/CLI/compendium/spells/knock-xphb.md "XPHB") at class level 6
+- [Lesser Restoration](Misc%20Files/CLI/compendium/spells/lesser-restoration-xphb.md "XPHB") at class level 6
+- [Levitate](Misc%20Files/CLI/compendium/spells/levitate-xphb.md "XPHB") at class level 6
+- [Locate Animals or Plants](Misc%20Files/CLI/compendium/spells/locate-animals-or-plants-xphb.md "XPHB") at class level 6
+- [Locate Object](Misc%20Files/CLI/compendium/spells/locate-object-xphb.md "XPHB") at class level 6
+- [Magic Mouth](Misc%20Files/CLI/compendium/spells/magic-mouth-xphb.md "XPHB") at class level 6
+- [Magic Weapon](Misc%20Files/CLI/compendium/spells/magic-weapon-xphb.md "XPHB") at class level 6
+- [Melf's Acid Arrow](Misc%20Files/CLI/compendium/spells/melfs-acid-arrow-xphb.md "XPHB") at class level 6
+- [Mind Spike](Misc%20Files/CLI/compendium/spells/mind-spike-xphb.md "XPHB") at class level 6
+- [Mirror Image](Misc%20Files/CLI/compendium/spells/mirror-image-xphb.md "XPHB") at class level 6
+- [Misty Step](Misc%20Files/CLI/compendium/spells/misty-step-xphb.md "XPHB") at class level 6
+- [Moonbeam](Misc%20Files/CLI/compendium/spells/moonbeam-xphb.md "XPHB") at class level 6
+- [Nystul's Magic Aura](Misc%20Files/CLI/compendium/spells/nystuls-magic-aura-xphb.md "XPHB") at class level 6
+- [Pass without Trace](Misc%20Files/CLI/compendium/spells/pass-without-trace-xphb.md "XPHB") at class level 6
+- [Phantasmal Force](Misc%20Files/CLI/compendium/spells/phantasmal-force-xphb.md "XPHB") at class level 6
+- [Prayer of Healing](Misc%20Files/CLI/compendium/spells/prayer-of-healing-xphb.md "XPHB") at class level 6
+- [Protection from Poison](Misc%20Files/CLI/compendium/spells/protection-from-poison-xphb.md "XPHB") at class level 6
+- [Ray of Enfeeblement](Misc%20Files/CLI/compendium/spells/ray-of-enfeeblement-xphb.md "XPHB") at class level 6
+- [Rope Trick](Misc%20Files/CLI/compendium/spells/rope-trick-xphb.md "XPHB") at class level 6
+- [Scorching Ray](Misc%20Files/CLI/compendium/spells/scorching-ray-xphb.md "XPHB") at class level 6
+- [See Invisibility](Misc%20Files/CLI/compendium/spells/see-invisibility-xphb.md "XPHB") at class level 6
+- [Shatter](Misc%20Files/CLI/compendium/spells/shatter-xphb.md "XPHB") at class level 6
+- [Silence](Misc%20Files/CLI/compendium/spells/silence-xphb.md "XPHB") at class level 6
+- [Spider Climb](Misc%20Files/CLI/compendium/spells/spider-climb-xphb.md "XPHB") at class level 6
+- [Spike Growth](Misc%20Files/CLI/compendium/spells/spike-growth-xphb.md "XPHB") at class level 6
+- [Spiritual Weapon](Misc%20Files/CLI/compendium/spells/spiritual-weapon-xphb.md "XPHB") at class level 6
+- [Suggestion](Misc%20Files/CLI/compendium/spells/suggestion-xphb.md "XPHB") at class level 6
+- [Summon Beast](Misc%20Files/CLI/compendium/spells/summon-beast-xphb.md "XPHB") at class level 6
+- [Warding Bond](Misc%20Files/CLI/compendium/spells/warding-bond-xphb.md "XPHB") at class level 6
+- [Web](Misc%20Files/CLI/compendium/spells/web-xphb.md "XPHB") at class level 6
+- [Zone of Truth](Misc%20Files/CLI/compendium/spells/zone-of-truth-xphb.md "XPHB") at class level 6
+
+## 3rd Level
+
+- [Animate Dead](Misc%20Files/CLI/compendium/spells/animate-dead-xphb.md "XPHB") at class level 6
+- [Aura of Vitality](Misc%20Files/CLI/compendium/spells/aura-of-vitality-xphb.md "XPHB") at class level 6
+- [Beacon of Hope](Misc%20Files/CLI/compendium/spells/beacon-of-hope-xphb.md "XPHB") at class level 6
+- [Bestow Curse](Misc%20Files/CLI/compendium/spells/bestow-curse-xphb.md "XPHB") at class level 6
+- [Blink](Misc%20Files/CLI/compendium/spells/blink-xphb.md "XPHB") at class level 6
+- [Call Lightning](Misc%20Files/CLI/compendium/spells/call-lightning-xphb.md "XPHB") at class level 6
+- [Clairvoyance](Misc%20Files/CLI/compendium/spells/clairvoyance-xphb.md "XPHB") at class level 6
+- [Conjure Animals](Misc%20Files/CLI/compendium/spells/conjure-animals-xphb.md "XPHB") at class level 6
+- [Counterspell](Misc%20Files/CLI/compendium/spells/counterspell-xphb.md "XPHB") at class level 6
+- [Create Food and Water](Misc%20Files/CLI/compendium/spells/create-food-and-water-xphb.md "XPHB") at class level 6
+- [Daylight](Misc%20Files/CLI/compendium/spells/daylight-xphb.md "XPHB") at class level 6
+- [Dispel Magic](Misc%20Files/CLI/compendium/spells/dispel-magic-xphb.md "XPHB") at class level 6
+- [Elemental Weapon](Misc%20Files/CLI/compendium/spells/elemental-weapon-xphb.md "XPHB") at class level 6
+- [Fear](Misc%20Files/CLI/compendium/spells/fear-xphb.md "XPHB") at class level 6
+- [Feign Death](Misc%20Files/CLI/compendium/spells/feign-death-xphb.md "XPHB") at class level 6
+- [Fireball](Misc%20Files/CLI/compendium/spells/fireball-xphb.md "XPHB") at class level 6
+- [Fly](Misc%20Files/CLI/compendium/spells/fly-xphb.md "XPHB") at class level 6
+- [Gaseous Form](Misc%20Files/CLI/compendium/spells/gaseous-form-xphb.md "XPHB") at class level 6
+- [Glyph of Warding](Misc%20Files/CLI/compendium/spells/glyph-of-warding-xphb.md "XPHB") at class level 6
+- [Haste](Misc%20Files/CLI/compendium/spells/haste-xphb.md "XPHB") at class level 6
+- [Hypnotic Pattern](Misc%20Files/CLI/compendium/spells/hypnotic-pattern-xphb.md "XPHB") at class level 6
+- [Leomund's Tiny Hut](Misc%20Files/CLI/compendium/spells/leomunds-tiny-hut-xphb.md "XPHB") at class level 6
+- [Lightning Bolt](Misc%20Files/CLI/compendium/spells/lightning-bolt-xphb.md "XPHB") at class level 6
+- [Magic Circle](Misc%20Files/CLI/compendium/spells/magic-circle-xphb.md "XPHB") at class level 6
+- [Major Image](Misc%20Files/CLI/compendium/spells/major-image-xphb.md "XPHB") at class level 6
+- [Mass Healing Word](Misc%20Files/CLI/compendium/spells/mass-healing-word-xphb.md "XPHB") at class level 6
+- [Meld into Stone](Misc%20Files/CLI/compendium/spells/meld-into-stone-xphb.md "XPHB") at class level 6
+- [Nondetection](Misc%20Files/CLI/compendium/spells/nondetection-xphb.md "XPHB") at class level 6
+- [Phantom Steed](Misc%20Files/CLI/compendium/spells/phantom-steed-xphb.md "XPHB") at class level 6
+- [Plant Growth](Misc%20Files/CLI/compendium/spells/plant-growth-xphb.md "XPHB") at class level 6
+- [Protection from Energy](Misc%20Files/CLI/compendium/spells/protection-from-energy-xphb.md "XPHB") at class level 6
+- [Remove Curse](Misc%20Files/CLI/compendium/spells/remove-curse-xphb.md "XPHB") at class level 6
+- [Revivify](Misc%20Files/CLI/compendium/spells/revivify-xphb.md "XPHB") at class level 6
+- [Sending](Misc%20Files/CLI/compendium/spells/sending-xphb.md "XPHB") at class level 6
+- [Sleet Storm](Misc%20Files/CLI/compendium/spells/sleet-storm-xphb.md "XPHB") at class level 6
+- [Slow](Misc%20Files/CLI/compendium/spells/slow-xphb.md "XPHB") at class level 6
+- [Speak with Dead](Misc%20Files/CLI/compendium/spells/speak-with-dead-xphb.md "XPHB") at class level 6
+- [Speak with Plants](Misc%20Files/CLI/compendium/spells/speak-with-plants-xphb.md "XPHB") at class level 6
+- [Spirit Guardians](Misc%20Files/CLI/compendium/spells/spirit-guardians-xphb.md "XPHB") at class level 6
+- [Stinking Cloud](Misc%20Files/CLI/compendium/spells/stinking-cloud-xphb.md "XPHB") at class level 6
+- [Summon Fey](Misc%20Files/CLI/compendium/spells/summon-fey-xphb.md "XPHB") at class level 6
+- [Summon Undead](Misc%20Files/CLI/compendium/spells/summon-undead-xphb.md "XPHB") at class level 6
+- [Tongues](Misc%20Files/CLI/compendium/spells/tongues-xphb.md "XPHB") at class level 6
+- [Vampiric Touch](Misc%20Files/CLI/compendium/spells/vampiric-touch-xphb.md "XPHB") at class level 6
+- [Water Breathing](Misc%20Files/CLI/compendium/spells/water-breathing-xphb.md "XPHB") at class level 6
+- [Water Walk](Misc%20Files/CLI/compendium/spells/water-walk-xphb.md "XPHB") at class level 6
+- [Wind Wall](Misc%20Files/CLI/compendium/spells/wind-wall-xphb.md "XPHB") at class level 6
