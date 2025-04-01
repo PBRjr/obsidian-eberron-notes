@@ -1,6 +1,5 @@
 SHARN INQUISITOR
-
-MYSTERIOUS CALAMITIES PLAGUE OUTLYING SETTLEMENTS
+Author: Notum Harek
 
 In recent weeks, reports of inexplicable devastation have trickled in from several small towns and villages across Breland and neighboring regions. Eyewitness accounts describe scenes of utter destruction, with buildings reduced to rubble and farmlands scorched beyond recognition. Authorities remain baffled by the cause of these incidents, with theories ranging from freak magical storms to rampaging elementals.
 
