@@ -225,6 +225,7 @@
 - The LoD seek to use a Steelhardt to transfer Rak Tulkesh's essence from the FKD into a living avatar, so that he could be freed from his bonds and reign over Eberron once again (See Woe's plot pieces).
 
 #### Villains
+
 ##### Vorak
 - Vorak was House Cannith's most skilled assassin, loyal to the House for most of his life. Originally a half-elf, he served for over a hundred years until his age forced him out of field work, though he remained a top advisor for covert activities within the House.
 - He was sent by Marix d'Cannith to kill Geralt's parents after they fled House Cannith.
@@ -235,12 +236,16 @@
 - He went rogue, and was manipulated by Mordakhesh, who focused Vorak's mind to one objective: destroy the Silver Flame.
 - Bolstered by new dark powers infused into his Steelhardt by Mordakesh, he led the forces of the LoD in their attack against the Silver Flame on the Day of Mourning.
 	- His attempt to destroy the Silver Flame failed and rebounded, shutting his mind to outside manipulations and causing the Silver Flame to defend itself by unleashing a the dead gray mists, causing the Mourning.
-- Now he roams the land, destroying villages, feeding off the rage of the survivors, and using it to resurrect himself should he fall in battle.
-- His darkness-infused Steelhardt causes him to achieve quasi-lichdom through unique means:
-	- Should his body ever die, his soul will be kept safe in his Steelhardt until it is placed into a new body.
-	- The survivors of his onslaughts get the unrelenting urge to find Vorak and kill him, but if Vorak is dead they find the Steelhardt instead.
-	- Once one of the survivors finds his Steehardt, rage consumes them, and forces them to plunge the artifact into their own chest, killing them, and allowing Vorak to resurrect through their body.
-	- This process can only be stopped through a ritual involving a Siberys Dragonshard
+- Now he roams the land, destroying villages, creating "Rageblight zones" that empower him and allow him to resurrect his body if he falls.
+- His Khyber-infused Steelhardt causes him to achieve quasi-lichdom through unique means:
+	- Vorak is fueled by rage energy he harvests from his victims
+	- He doesn't transfer his consciousness - instead, he corrupts areas with his presence
+	- Each village he destroys becomes a "Rageblight zone" that strengthens him
+	- When physically "killed," he disperses into rage energy and reforms at the nearest corrupted area
+- Ritual to defeat him:
+	- The unlocked [[Legacy Stone]] must be used in a rageblight zone, where it will summon and bind Vorak.
+	- The Legacy Stone will charge, weakening Vorak until it is ready, when it will then release a pulse of radiant energy, completely disabling Vorak and cleansing his soul.
+	- Vorak will then momentarily be himself again, before his body is released into death, having been bound to an undead existence for so long.
 
 ##### Woe (Teln a'Loft)
 - Was originally a human soldier fighting in the Last war under his commanding officer, Forge.
@@ -266,7 +271,7 @@
 - Bjorn's brother
 - Usurped Bjorn's position as the Chieftian of the Stormpeak Clan
 - Killed Draven and took his fractured dragonshard fragment and white flameblade, further increasing his power and dark influence on the surrounding land.
-- Can only be cleansed of the dark corruption on his soul via use of the [[Legacy Stone]] after Geralt has learned how to use it.
+- Can only be cleansed of the dark corruption on his soul via use of the [[Legacy Stone]] after Geralt has learned how to use it, similar to the process for Vorak.
 
 #### Factions
 ##### House Cannith
