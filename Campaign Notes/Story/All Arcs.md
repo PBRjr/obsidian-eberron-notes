@@ -40,11 +40,16 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 	- Ex.: *The final fight with the ultimate BBEG*
 
 
+
+
 ## Arcs
+
 ### Immediate
-- Track down Aeren d'Cannith and Baelen ir'Torn
-- Resolve conflict with Boromar Clan
+- Escape the crashing Boromar HQ
+- Establish a plan to leave the city
+
 ### Narrative
+
 #### Act 1: The Journey
 - *Overview:* The party's journey to Sharn through the wilderness
 - Main NPC's: *Prissy Marsh, Miri, Garhorn*
@@ -57,23 +62,29 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 
 #### Act 2: The City of Towers
 - *Overview:* Knowledge of the Steelhardt is revealed and direct confrontation with various factions
-- Main NPC's: *Aeren d'Cannith, Professor Baelin ir'Torn, Garhorn, Boromar leaders, The Beggar King*
+- Main NPC's: *Aeren d'Cannith, Professor Baelin ir'Torn, Garhorn, Boromar leaders
 - Important story beats:
 	- [ ] Geralt learns about his parent's original vision for the Steelhardt
 	- [ ] Draven hears stories of his past heroism and starts having dreams about his training with Varyn in addition to the dreams of his death
-	- [ ] The party learns of the corrupting affect an FKD fragment can have on the soul
+	- [x] The party learns of the corrupting affect an FKD fragment can have on the soul
 	- [x] The party learns that Geralt's parents are connected to the creation of the modern warforged
-	- [ ] The party learns that the Rageblight is destroying towns and heading in the direction of the Byeshk mountains.
+	- [x] The party learns that the Rageblight is destroying towns and heading in the direction of the Byeshk mountains.
+	- [x] Bjorn learns of the state of the Stormpeak Clan and his brother's corruption.
 - [ ] **Completion point:** The party discovers the secret information about the Steelhardt, learns of the need to find Varyn the Valient, and leaves the city.
 
-#### Act 3: TBD
-- *Overview:* Direct confrontation with the main BBEGs
-- Main NPCs: *Mordakesh, Woe, Vorak, Varyn*
+#### Act 3: The Mountains
+- *Overview:* The Party travels to the western mountains to learn more about Draven's past, the Steelhardt, and Bjorn's family.
+- Main Villians: *Vorak, Hrothgar*
 - Important story beats:
-	- [ ] Varyn the Valiant is introduced
-	- [ ] Confrontation with Hrothgar
+	- [ ] Varyn the Valiant tells the party of exposition
+		- [ ] The Coautl's sacrifice to create the Silver Flame
+		- [ ] Geralt's parents learning Sibernyan from him years ago
+		- [ ] His training of Draven, and Draven meeting his end and eventual resurrection
+		- [ ] His presence at Hrothgar's birth and his departure from the Stormpeak Clan
 	- [ ] Confrontation with Vorak
-- [ ] **Completion point:** Final confrontation with Woe and Mordakesh
+	- [ ] Confrontation with Hrothgar
+- [ ] *Completion Point.* The party learns everything about the Steelhardt and the abilities of the Etherseraph, and the need to travel into the Mournland to confront Woe/Mordakhesh
+
 
 ### Character Arcs
 #### Bjorn "Bearwolf" Ulfr

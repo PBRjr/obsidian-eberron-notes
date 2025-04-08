@@ -3,7 +3,11 @@ ToDo:
 - [ ] Begin mapping out Arc 3
 
 ### Outline
-- (List of key events or topics that will happen in the session)
+- Crashing HQ
+- A moment to Breath
+- Cannith Search Party
+- Glimpse of the Rageblight
+- Bjorn's Contact
 
 ### Moments & Encounters
 
