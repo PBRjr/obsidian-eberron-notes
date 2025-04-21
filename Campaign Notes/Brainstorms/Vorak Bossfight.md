@@ -17,7 +17,9 @@ After this is achieved, Vorak will be left unable to fight back, his mind cleane
 
 - During this phase, Vorak will try to break free of the binding.
 - Players must protect the Legacy Stone while fighting Vorak.
-- Environmental effect: Pockets of concentrated rage appear as swirling red mist that damage players:
+
+**Environmental effect:** 
+- Pockets of concentrated rage appear as swirling red mist that damage players:
 	- 3d6 psychic damage
 	- 10ft radius
 	- 1 will spawn within 15 feet of each PC. At the start of each round, a pocket will move to the location that it's PC was in at the start of their last turn.
@@ -36,5 +38,5 @@ After this is achieved, Vorak will be left unable to fight back, his mind cleane
 **Key Mechanic:**
 - The tethering lines morph and shift, turning into radiantly glowing sigils that float in fixed positions on the battlefield. Destroying one sigil removed 5% of Vorak's HP. Vorak is immune to direct damage while at least 1 sigil remains. He has advantage to all saving throws while at least 3 sigils remains.
 
-**Special Actions:**
+**Environmental effect:**
 - **Shattered Identity**: Vorak creates 1d4 clones of himself out of the rage mists with 5 HP each, which Dash towards Vorak on their turn. If not destroyed quickly, they merge back with him and heal him xd10 hp each.
