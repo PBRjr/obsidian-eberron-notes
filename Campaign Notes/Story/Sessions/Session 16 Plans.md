@@ -1,5 +1,5 @@
 ToDo:
-- [ ] Battlemap(s) for Cannith Search Party
+- [x] Battlemap(s) for Cannith Search Party
 - [ ] Begin mapping out Arc 3
 
 ### Outline

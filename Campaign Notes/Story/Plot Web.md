@@ -228,14 +228,13 @@
 
 ##### Vorak
 - Vorak was House Cannith's most skilled assassin, loyal to the House for most of his life. Originally a half-elf, he served for over a hundred years until his age forced him out of field work, though he remained a top advisor for covert activities within the House.
-- He was sent by Marix d'Cannith to kill Geralt's parents after they fled House Cannith.
 - Voluntarily underwent House Cannith's and the Wolfsbane's very first attempt at using a Steelhardt to transfer a soul to another body.
 - The transfer was partially successful, moving Vorak from his original body to a younger, stronger one from a deceased Cannith soldier.
-- While he retained his memories, his mind quickly became plagued with dark thoughts, his grip on reality slipping.
+- While he retained his memories, his mind quickly became plagued with dark thoughts, his grip on reality slipping, his physical abilities changing.
 - Before he lost his mind completely, Marix pointed him towards the Wolfsbanes, whom he killed save for Geralt, who escaped.
 - He went rogue, and was manipulated by Mordakhesh, who focused Vorak's mind to one objective: destroy the Silver Flame.
 - Bolstered by new dark powers infused into his Steelhardt by Mordakesh, he led the forces of the LoD in their attack against the Silver Flame on the Day of Mourning.
-	- His attempt to destroy the Silver Flame failed and rebounded, shutting his mind to outside manipulations and causing the Silver Flame to defend itself by unleashing a the dead gray mists, causing the Mourning.
+	- His attempt to destroy the Silver Flame failed and rebounded, shutting his mind to outside manipulations and causing the Silver Flame to defend itself by unleashing the dead gray mists, causing the Mourning.
 - Now he roams the land, destroying villages, creating "Rageblight zones" that empower him and allow him to resurrect his body if he falls.
 - His Khyber-infused Steelhardt causes him to achieve quasi-lichdom through unique means:
 	- Vorak is fueled by rage energy he harvests from his victims

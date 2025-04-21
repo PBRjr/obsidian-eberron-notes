@@ -64,8 +64,8 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 - *Overview:* Knowledge of the Steelhardt is revealed and direct confrontation with various factions
 - Main NPC's: *Aeren d'Cannith, Professor Baelin ir'Torn, Garhorn, Boromar leaders
 - Important story beats:
-	- [ ] Geralt learns about his parent's original vision for the Steelhardt
-	- [ ] Draven hears stories of his past heroism and starts having dreams about his training with Varyn in addition to the dreams of his death
+	- [x] Geralt learns about his parent's original vision for the Steelhardt
+	- [x] Draven hears stories of his past heroism and starts having dreams about his training with Varyn in addition to the dreams of his death
 	- [x] The party learns of the corrupting affect an FKD fragment can have on the soul
 	- [x] The party learns that Geralt's parents are connected to the creation of the modern warforged
 	- [x] The party learns that the Rageblight is destroying towns and heading in the direction of the Byeshk mountains.
