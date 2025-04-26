@@ -48,9 +48,9 @@ ToDo:
 	- He will stash them in crates and put them into a freight car headed for *Wroat*
 
 - [ ] Session End: *Train Robbery*
-	- A group of low-level bandits created an ambush point at a bend in the rail with an obsticle (tree)
+	- A group of low-level bandits created an ambush point at a bend in the rail with an obstacle (tree)
 	- They board the freight car while the train is stopped, in hopes of robbing a few pieces of cargo.
-	- These bandits are from the remaining survivors of a small town that the *Rageblight* devistated.
+	- These bandits are from the remaining survivors of a small town that the *Rageblight* devastated.
 
 ### Location Details
 
