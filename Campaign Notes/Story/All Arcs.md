@@ -74,7 +74,7 @@ Arcs do not have to be completed in any particular order, and many immediate arc
 
 #### Act 3: The Mountains
 - *Overview:* The Party travels to the western mountains to learn more about Draven's past, the Steelhardt, and Bjorn's family.
-- Main Villians: *Vorak, Hrothgar*
+- Main Villains: *Vorak, Hrothgar*
 - Important story beats:
 	- [ ] Varyn the Valiant tells the party of exposition
 		- [ ] The Coautl's sacrifice to create the Silver Flame

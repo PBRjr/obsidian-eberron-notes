@@ -1,6 +1,6 @@
 ToDo:
 - [x] Battlemap(s) for Cannith Search Party
-- [ ] Begin mapping out Arc 3
+- [x] Begin mapping out Arc 3
 
 ### Outline
 - Crashing HQ
@@ -17,6 +17,9 @@ ToDo:
 - [ ] Moment 1: *A moment to breath*
 - The party finally gets a moment to rest after escaping the collapse of the HQ and the subsequent destruction of the city below.
 - *Exposition.* See people.
+- If the party is looking for a way out of the city:
+	- The city will be on lockdown while the Sharn Watch searches for those involved in the HQ collapse
+	- Aaron knows someone that can get them out. *See people*
 
 - [ ] Encounter 1: *Cannith search party*
 	- *If Forge's player is present, this might take place at Aeren's workshop*
@@ -65,7 +68,7 @@ Person 1: *Aeren d'Cannith*
 		- The items on [[Yelena and Norbit's Grocery List]] seems unrelated, however the used lich phylactery suggests that the transfer of life is involved
 		- The other items seem to be used to somehow stabilize the process, or at least prevent the undeath that accompanies lichdom
 
-Person 2: *Baelin ir'Torn
+Person 2: *Baelin ir'Torn*
 *Session Information*
 - The fragment is being kept in the artifact room on the upper levels, locked behind a safe
 - A warforged with a purple heart and eyes is hunting the FKD fragments
@@ -77,6 +80,14 @@ Person 2: *Baelin ir'Torn
 			- Flowers wilt and have strange growths when they germinate near the shard
 			- Animals are seemingly resurrected immediately after death in proximity, but display increasingly violent and unsettling behavior after.
 			- The proximity to the shard doesn't matter once the life form has been corrupted.
+
+Person 3: *Brother Tiron*
+*Session Information*
+- Brother Tiron is a lowly friar in the CotSF who makes coin on the side as a smuggler
+	- He has smuggled illegal ingredients and parts for Aeren d'Cannith in the past
+	- He is willing to smuggle the party out of the city for a price
+		- He will smuggle them through... the sewers? by lightning rail? Some way that will create another encounter?
+- He can be found in *Trader's Bridge* in *Middle Tarvick's Market*
 
 ### Plot Actions
 

@@ -157,6 +157,7 @@
 	- Cannith artificers - at the order of Marix d'Cannith - devised a method of transferring the soul of a recently deceased humanoid into the body of a warforged - building on the original *Steelhardt* designs taken from Geralt's parents.
 
 #### Significant NPCs
+
 ##### Varyn "The Valiant" Grayburn
 - ***Major Regret:*** Varyn feels as though he has never done anything right, and all of his actions have only diminished the sacrifice his kind made.
 - ***Major Motivation:*** To protect the world against the Overlords, and become worthy of calling himself a Couatl
