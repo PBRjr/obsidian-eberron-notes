@@ -11,28 +11,30 @@ ToDo:
 
 ### Moments & Encounters
 
-- [ ] Session Start: *Crashing HQ*
+- [x] Session Start: *Crashing HQ*
 - Skill challenge to escape the HQ
 
-- [ ] Moment 1: *A moment to breath*
+- [x] Moment 1: *A moment to breath*
 - The party finally gets a moment to rest after escaping the collapse of the HQ and the subsequent destruction of the city below.
 - *Exposition.* See people.
 - If the party is looking for a way out of the city:
 	- The city will be on lockdown while the Sharn Watch searches for those involved in the HQ collapse
 	- Aaron knows someone that can get them out. *See people*
 
-- [ ] Encounter 1: *Cannith search party*
+- [x] Encounter 1: *Cannith search party*
 	- *If Forge's player is present, this might take place at Aeren's workshop*
 	- A group of thugs sent by House Cannith has been tracking the party since they broke into the [[Wolfsbane Workshop]] and is looking for Forge and Geralt.
 	- They want Forge due to his backstory as a Cannith creation and his knowledge of the Creation Forges
 	- They want Geralt due to the schematics he holds
+	- *Sylvan* - Trickshot and squad leader
+		- Bad relationship with Aeren, wants to bring him in after he spots them with the party.
 
-- [ ] Moment 2: *Glimpse of the Rageblight*
+- [x] Moment 2: *Glimpse of the Rageblight*
 	- News arrives of the Rageblight destroying another village (Galethspyre) that will be on the party's way towards the Byeshk Mountains
 	- *OR* the party encounters a refugee of that village that recounts their experiences with the Rageblight
 		- This village was Galethspyre, a small fishing village off the Dagger river.
 
-- [ ] Moment 3: *Bjorn's contact*
+- [x] Moment 3: *Bjorn's contact*
 	- Bjorn's contact is a goliath female that can be found in Lower Dura
 	- Her name is *Rutha Rockfist*
 		- She can be found frequenting *Marquet's Meat Market* in her free time
@@ -43,7 +45,7 @@ ToDo:
 		- No one has had any contact with the clan for over a year.
 		- Those who have attempted to revisit found the nearby land corrupted, haunted by strange and dangerous magical affects/creatures.
 
-- [ ] Moment 4: *Smuggled*
+- [x] Moment 4: *Smuggled*
 	- Brother Tiron has a contact at House Orion that can smuggle the party out via lightning rail
 	- He will stash them in crates and put them into a freight car headed for *Wroat*
 
@@ -84,8 +86,9 @@ Person 2: *Baelin ir'Torn*
 	- He believes these FKD fragments can corrupt a life form, but only when that life form is born or dies in proximity to the fragment.
 		- *Through [[Research Notes on Proximity Tests 7-10|experiments]] on plants and small animals*
 			- Flowers wilt and have strange growths when they germinate near the shard
-			- Animals are seemingly resurrected immediately after death in proximity, but display increasingly violent and unsettling behavior after.
+			- Animals that are resurrected immediately after death in proximity, but display increasingly violent and unsettling behavior after.
 			- The proximity to the shard doesn't matter once the life form has been corrupted.
+	- Khyber crystals usually contain some type of entity - demons, devils, or similar.
 
 Person 3: *Brother Tiron*
 *Session Information*
