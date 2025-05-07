@@ -1,3 +1,11 @@
+**TODO**
+MAPS
+- Lightning rail robbery
+	- https://www.czepeku.com/fantasy/maps/desert-canyon/lighting-rail-day
+- Main bandit camp
+	- https://www.czepeku.com/fantasy/maps/secret-cave-hideout/original-day
+- Bandit FOB for robberies
+	- https://www.czepeku.com/fantasy/maps/smugglers-fen/original-day
 ### Outline
 - The party begins on board a train, stuffed into crates after being smuggled out of Sharn thanks to Brother Tiron.
 - The train will be forced to stop due to an obstruction in the tracks (tree or somethin).
