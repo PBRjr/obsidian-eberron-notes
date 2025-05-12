@@ -34,6 +34,9 @@ Ultimate BBEG of the bandits
 		- The bandits may bring the people in the crates back to their forward outpost between the tracks and their main camp (use FOB battlemap).
 - [ ] Encounter: **Highway Robbery**
 - Load *Lightning Rail Robbery* encounter
+- Loot:
+	- Large silver key, unlocks door to monster bandit camp
+	- Note: "Focus on weapons and food - these people aren't so good at farming with those red mists making them angry. DONT CARRY THIS NOTE ON YOU! The last thing we need is someone finding out we took over this fucked up town. Or worse, attracting whatever did this shite."
 
 - [ ] Moment 2: *Name*
 - X
