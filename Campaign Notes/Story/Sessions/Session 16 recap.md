@@ -10,7 +10,7 @@ Finished the alleyway encounter, went back into Tabitha's Terrible Tavern and lo
 - Geralt experienced another legacy stone vision
 	- Was left at 1hp and with the poisoned condition.
 
-They got loaded onto a freight car thanks to Brother Tiron
+They got loaded onto a freight car thanks to Brother Tiron (gnome)
 - He covered Lox in syrup and wrote "fat bastard" on his face, then had the party deposit him in a box with chicken feathers, after he was high on dreamlily
 - the train takes off to Wroat
 

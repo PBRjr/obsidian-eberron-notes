@@ -36,7 +36,12 @@ Ultimate BBEG of the bandits
 - Load *Lightning Rail Robbery* encounter
 - Loot:
 	- Large silver key, unlocks door to monster bandit camp
-	- Note: "Focus on weapons and food - these people aren't so good at farming with those red mists making them angry. DONT CARRY THIS NOTE ON YOU! The last thing we need is someone finding out we took over this fucked up town. Or worse, attracting whatever did this shite."
+	- Note: "Focus on weapons and food - we're low on supplies on the count of that fucked up town and its red fog shite. DON'T CARRY THIS NOTE ON YOU!! We don't need the authorities catching onto our location. Or worse, leading whatever destroyed that town straight to us."
+	- A map leading to the main camp just west of *Galethspyre*
+	- **Crate of Karrnathi Ration Steaks** Twelve vacuum‑sealed slabs of crimson meat labeled “Karrn‑Corp Nutriment, Lot KR‑1313.” They taste like iron filings and despair but count as _goodberries_ (1 hp each) once per day—if you can stomach them.
+	- Cyre Memorial Wine (Pre‑Mourning, 994 YK)(200gp)
+	- Set of Bound‑Elemental Manacles (hold person DC 15 on anyone shackled)
+	- special arrows (fire(2d4fire), ice(move 0), net(grapple))
 
 - [ ] Moment 2: *Name*
 - X
@@ -82,6 +87,6 @@ Action 2: *Name of significant NPC(s) or organization(s) involved*
 
 ### Additional Notes
 
-**Bandits (need name)**
+**Bandits (Red Bred Robbers)**
 - More info about bandit group
 - Symbol is a bloody handprint
