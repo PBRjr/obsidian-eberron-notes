@@ -1326,6 +1326,23 @@
             "order": ""
           },
           "type": "Date"
+        },
+        {
+          "name": "Galthsypre is destroyed",
+          "description": "Vorak destroys Galthsypre, leaving red mists in his wake",
+          "date": {
+            "day": 18,
+            "month": 2,
+            "year": 998
+          },
+          "id": "ID_c94b7a88db58",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "id": "ID_eb99ca6acaaa",
