@@ -43,13 +43,6 @@
 		- Is worried about the town's supplies.
 		- Icy Hot bandits stole most of towns emergency supplies
 
-- [ ] Encounter 1A: *Icy Hot Camp*   
-	- **Location:** Old Thane's mine north of Galethspyre
-	- **Enemy Roster:**
-	    - *Garspaachi* (frost giant)
-	    - *Bruno* (fire giant)
-	    - Misc. Goblins, worgs, bugbears, hill giants
-	- **Key Discovery:** Garspaachi & Bruno are known as "The Brothers Giant" and have an 'Italian mob' way about them. They're willing to bargain.
 
 - [ ] Moment 2B: Wroat
 	- Wroat is a city surrounded by large concrete walls. The city is currently on lockdown, and entry is only permitted with the proper paperwork endorsed by a city official or dragonmarked house.
@@ -64,7 +57,17 @@
 		- Kynes send Bernard to get more "supplies" (grass) 2 days ago and hasn't seen him since.
 		- *Bernard* got tricked into helping with a protest that turned violent, and got arrested by the *Wroat Wall Force*. He is currently being held at the same location as *Aeren & Baelin*.
 
-- [ ] Session End:
+- [ ] Moment 3: *Icy Hot Camp*
+	- **Location:** Old Thane's mine north of Galethspyre
+	- **Enemy Roster:**
+	    - *Garspaachi* (frost giant)
+	    - *Bruno* (fire giant)
+	    - Misc. Goblins, worgs, bugbears, hill giants
+	- **Key Discovery:** Garspaachi & Bruno are known as "The Brothers Giant" and have an 'Italian mob' way about them. They're willing to bargain.
+	- **Boss Fight.**
+		- Takes place in the den of the Brothers Giant.
+		- Massive cavern in deep in the old mine. Icy stalactites poke up from the rocky ground, which is littered by deep lava pools.
+
 
 ### Location Details
 

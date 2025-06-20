@@ -2,33 +2,33 @@
   "players": [
     {
       "name": "Bjorn Ulfr",
-      "level": 6,
+      "level": 7,
       "player": true
     },
     {
       "name": "Draven Flameforge",
       "player": true,
-      "level": 6
+      "level": 7
     },
     {
       "name": "Forge",
       "player": true,
-      "level": 6
+      "level": 7
     },
     {
       "name": "Geralt Wolfsbane",
       "player": true,
-      "level": 6
+      "level": 7
     },
     {
       "name": "Lox Tempest",
       "player": true,
-      "level": 6
+      "level": 7
     },
     {
       "name": "Nyx Tempest",
       "player": true,
-      "level": 6
+      "level": 7
     }
   ],
   "parties": [
