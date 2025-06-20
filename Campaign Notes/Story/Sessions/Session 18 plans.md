@@ -2,14 +2,13 @@
 
 - Decision point: Bandit camp vs Wroat pursuit
 - Galethspyre investigation (destroyed by Rageblight)
-- Red Bred Robbers criminal enterprise
+- Red Robbers criminal enterprise
+- [[Wroat]]
 
 
 ### Moments & Encounters
 
 - [ ] Session Start: _Railway Aftermath_
-- Description:
-	>The acrid smell of smoke and spilled oil mingles with the metallic tang of blood on the wind. The lightning rail has vanished into the distance, its rhythmic zapping fading like the heartbeat of a dying city. Around you, the remains of combat litters the grass
 
 - [ ] Moment 1A: _Approaching Galethspyre_ (If players choose bandit investigation)
 - Description:
@@ -21,11 +20,18 @@
 - **Marta Vex:** Former Watch Captain hiding in roadside ruins
 
 
-- [ ] Moment 1B: _Racing to Wroat_ (If players choose train pursuit)
-- Next lightning rail station is a day's ride by horse
-	- **Chase Complications** (roll d6): broken bridge, patrol checkpoint, exhausted horses, wrong turn, helpful stranger with motives, mechanical failure
-- **Station Master Korven:** Nervous halfling dealing with "passengers in crates" situation
+- [ ] Moment 1B: _Racing to Wroat_
+- Wroat is a 2 days journey on foot
+	- **Random Encounters.**
 
+| D8                     | Encounter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The Broken Bridge      | The party comes to a wide, fast-flowing river spanned by a rope bridge that has been sabotaged. The ropes on one side have been cut, and the bridge is impassable. The party must find a way to cross the river. Repairing the bridge will require a DC 15 Dexterity (Sleight of Hand) or Intelligence (Investigation) check and will take about an hour. Swimming across the turbulent water requires a DC 16 Strength (Athletics) check, with failure resulting in being carried 50 feet downstream.     |
+| Brelish Checkpoint     | The party encounters a heavily armed checkpoint manned by the Brelish Military. The soldiers are on high alert following the chaos in Sharn and are questioning everyone passing through. They will ask the party for their travel papers and their reason for traveling. A successful DC 14 Charisma (Deception or Persuasion) check will allow the party to pass without incident. Failure may lead to a tense standoff or combat.                                                                       |
+| Exhausted Caravan      | The party finds a merchant from House Orien whose caravan is stuck. His two horses are exhausted and refuse to move. The merchant, a friendly half-elf named Elara, will offer the party 50 gp to help her get the caravan moving again. The party can help by using magic to heal the horses, by making a DC 13 Wisdom (Animal Handling) check to calm and encourage them, or by helping to pull the cart themselves with a DC 18 Strength (Athletics) check.                                             |
+| The "Helpful" Traveler | The party meets a lone traveler, a charismatic human named Rhys, who offers to share his campfire and food. Rhys is secretly thief and is trying to lull the party into a false sense of trust. He will be friendly and helpful, offering the party some wine from his 'personal stash'. Drinking the wine will has the effect of the Sleep spell. Those that aren't affected by Sleep will instead gain 1 level of exhaustion. Rhys's goal is to steal the parties valuables while they sleep, then flee. |
+| Rageblight Refugees    | The party encounters a small, desperate group of refugees fleeing the destruction of Galethspyre. They are starving and distrustful of strangers. They can share harrowing tales of the red mists and the unnatural rage that consumed their friends and neighbors. A successful DC 12 Charisma (Persuasion) check will convince them the party means no harm, and they might share what little food they have.                                                                                            |
+| Abandoned Waystation   | On the side of the road is a little abandoned waystation. It offers shelter against the outdoors.                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 - [ ] Moment 2A: _Galethspyre Town Exploration_  
 - **Town features red mist at night only** - bandits avoid the town after dark
@@ -35,9 +41,9 @@
 	- Abandoned Shrine to Sovereign Host: Protected area, Marta's base
 - **Underground Survivor Leader:** *Themos*
 	- Is worried about the town's supplies.
-	- The Red Bred Robbers stole most of towns emergency supplies
+	- The Red Robbers stole most of towns emergency supplies
 
-- [ ] Encounter 1A: _Red Bred Robbers Camp_   
+- [ ] Encounter 1A: _Red Robbers Camp_   
 - **Location:** Old Thane's mine north of Galethspyre
 - **Enemy Roster:**
     - Groktar (Frost Giant crime boss)
@@ -45,12 +51,6 @@
     - 3 Goblin enforcers
     - 2 Worgs
 - **Key Discovery:** The stolen emergency supplies are half eaten
-
-
-- [ ] Encounter 1B: _Station Chaos Management_   
-- **Social Challenge:** Navigate House Orien bureaucracy and medical bay confusion
-- **Complications:** Officials want statements about train robbery, Aeren is arguing with authorities
-
 
 - [ ] Session End:
 
@@ -62,7 +62,7 @@
 - Underground tunnel system connects most buildings
 - Shrine to the Sovereign Host lies in ruins
 
-**Red Bred Robbers Camp:**
+**Red Robbers Camp:**
 - Converted mining operation with defensive positions
 - Stockpiled stolen goods from multiple train robberies
 
@@ -86,7 +86,7 @@ _Plot Information_
 
 **Groktar (Frost Giant Crime Boss)** 
 _Session Information_
-- Leads Red Bred Robbers, trying to monetize Rageblight chaos
+- Leads Red Robbers, trying to monetize Rageblight chaos
 - **Doesn't actually understand the mist** - just sees opportunity
 - Talks big about "harnessing rage power" but has no real plan 
 _Plot Information_
@@ -141,7 +141,7 @@ _Plot Information_
 - Affects emotions and judgment, not just combat ability
 - Dissipates at dawn, returns at dusk
 
-**Red Bred Robbers Theme:**
+**Red Robbers Theme:**
 
 - Organized crime exploiting chaos, not mystical threat
 - Groktar's bravado about "controlling rage" is empty posturing
