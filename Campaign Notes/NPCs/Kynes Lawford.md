@@ -1,0 +1,3 @@
+- Middle-aged Dragonborn male
+- Grass-smoking, overworked, sarcastic cleric healer
+- Relies on his assistant [[Bernard McOogle]] but doesn't want to admit that to him

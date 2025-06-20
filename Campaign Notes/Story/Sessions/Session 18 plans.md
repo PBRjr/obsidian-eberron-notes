@@ -9,15 +9,15 @@
 ### Moments & Encounters
 
 - [ ] Session Start: _Railway Aftermath_
+	- Geralt has another vision from the [[Legacy Stone]], finally unlocking it, causing him to go into a coma that is not healable by the players
+	- *Forge* is either found taking refuge in the Rageblight village or in the jail of Wroat with Aeren & Baelin.
 
-- [ ] Moment 1A: _Approaching Galethspyre_ (If players choose bandit investigation)
-- Description:
-	>*The road winds through increasingly desolate countryside. What should be fertile farmland shows signs of unnatural blight—crops twisted into impossible shapes, livestock bones arranged in disturbing patterns*
-- **Progressive Environmental Clues:**
-	- Mile marker defaced with "TURN BACK" scratched over town name
-	- Abandoned refugee camp with recent campfire, scattered belongings
-	- Warning totems (crude wooden stakes with red cloth) forming perimeter around town
-- **Marta Vex:** Former Watch Captain hiding in roadside ruins
+- [ ] Moment 1A: _Approaching Galethspyre_ 
+	- **Progressive Environmental Clues:**
+		- Mile marker defaced with "TURN BACK" scratched over town name
+		- Abandoned refugee camp with recent campfire, scattered belongings
+		- Warning totems (crude wooden stakes with red cloth) forming perimeter around town
+	- **Marta Vex:** Former Watch Captain hiding in roadside ruins
 
 
 - [ ] Moment 1B: _Racing to Wroat_
@@ -51,6 +51,19 @@
     - 3 Goblin enforcers
     - 2 Worgs
 - **Key Discovery:** The stolen emergency supplies are half eaten
+
+- [ ] Moment 2B: Wroat
+	- Wroat is a city surrounded by large concrete walls. The city is currently on lockdown, and entry is only permitted with the proper paperwork endorsed by a city official or dragonmarked house.
+	- **Approaching the city.**
+		- Long unmoving lines lead up to the closed gates.
+		- People can be overheard discussing the entry restrictions
+	- **Aeren & Baelin.**
+		- Found by [[House Deneith]] mercs that were hired by House Orion to guard the lightning rails in Wroat.
+		- Handed over to the *Wroat Wall Force* and are currently being held on charges of unlawful entry, sabotage of protected goods, vandalism, and property damage.
+	- **Healer.**
+		- [[Kynes Lawford]] is a capable healer who can restore Geralt to consciousness, however he needs his assistant [[Bernard McOogle]] to do so.
+		- Kynes send Bernard to get more "supplies" (grass) 2 days ago and hasn't seen him since.
+		- *Bernard* got tricked into helping with a protest that turned violent, and got arrested by the *Wroat Wall Force*. He is currently being held at the same location as *Aeren & Baelin*.
 
 - [ ] Session End:
 
@@ -114,7 +127,7 @@ _Plot Information_
 
 ### Plot Actions
 
-**Red Bred Robbers Organization**
+**Red Robbers Organization**
 
 - Goal: Expand criminal operations using post-Rageblight chaos
 - Currently establishing multiple camps along major trade routes

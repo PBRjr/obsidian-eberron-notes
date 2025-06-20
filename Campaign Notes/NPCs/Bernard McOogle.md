@@ -1,0 +1,3 @@
+- Young Gnome male
+- Wide-eyed innocent, gullible, fidgity
+- Wants nothing more than to impress his mentor [[Kynes Lawford]]
