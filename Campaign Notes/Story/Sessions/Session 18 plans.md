@@ -11,6 +11,8 @@
 - [ ] Session Start: _Railway Aftermath_
 	- Geralt has another vision from the [[Legacy Stone]], finally unlocking it, causing him to go into a coma that is not healable by the players
 	- *Forge* is either found taking refuge in the Rageblight village or in the jail of Wroat with Aeren & Baelin.
+	- Woe contacts forge and shows how his humanity is being corrupted?
+		>"I don't want to be this harbinger. I don't want to bring about the end of this world. My family still lives, though they've long thought me dead. This thing inside of me... I don't move myself anymore. Something terrible moves me now. General Otto, please... help me."
 
 - [ ] Moment 1A: _Approaching Galethspyre_ 
 	- **Progressive Environmental Clues:**
