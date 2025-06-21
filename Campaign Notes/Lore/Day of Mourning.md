@@ -1,7 +1,3 @@
-The age of demons exposed the world to the power of the Overlords. Great, terrifying, and nearly unstoppable, a single overlord freed of its bonds can assert its domain across an entire country. 
-
-The [[Dragons of Argonnessen]], combined with the full force of the [[Couatl]], waged a war against the [[Overlords]]. Weaving the threads of the [[Draconic Prophecy]], the Couatl sacrificed their collective life force to form the Silver Flame, forever imprisoning the Overlords by separating their consciousness from the power of their Heart Demi planes.
-
 Though they can be imprisoned, the Overlords can never be defeated. In modern times, with the Last War's destruction threatening to plunge the entirety of Khorvaire into chaos, the [[Lords of Dust]] threaten to use the prophecy to break their lords bonds.
 
-After learning the location of the Silver Flame, [[Varak the Rageblight]] led demonic forces into the depths of its containment. Armed with the misleading power granted to him by the [[Steelhardt]], Vorak attacked the Silver Flame. It defended itself by releasing a portion of its power, causing the Mourning. The protection mechanisms of the Steelhardt within Vorak broke under the awesome power of the Flame's retaliation, corrupting Vorak into a rage-fueled killer, cursed to Lich-dom.
+After learning the location of the Silver Flame, [[Varak the Rageblight]] led demonic forces into the depths of its containment. Armed with the misleading power granted to him by the [[Steelhardt]], Vorak attacked the Silver Flame. It defended itself by releasing a portion of its power, causing the Mourning.

@@ -1,0 +1,5 @@
+The age of demons exposed the world to the power of the Overlords. Great, terrifying, and nearly unstoppable, a single overlord freed of its bonds can assert its domain across an entire country. 
+
+The [[Dragons of Argonnessen]], combined with the full force of the [[Couatl]], waged a war against the [[Overlords]] and their armies of the [[Lords of Dust]]. Weaving the threads of the [[Draconic Prophecy]], all but 2 of the Couatl sacrificed their collective life force to form the Silver Flame, separating their conscious avatars from the power of their Heart Demi planes.
+
+Following The Great Sacrifice, the remaining dragons combined forces with the humanoids. Together, they defeated the Overlords, imprisoning each one through various means. [[Rak Tulkesh]] was one such Overlord that was imprisoned. His avatar was sealed inside a great [[Fractured Khyber Dragonshard|Khyber Dragonshard]] that was then fractured and spread throughout the world to prevent the Lords of Dust from freeing him from his bonds.

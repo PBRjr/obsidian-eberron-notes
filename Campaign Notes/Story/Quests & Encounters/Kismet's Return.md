@@ -6,6 +6,7 @@
 - **Focus**: The evolving relationship with his brother and the nature of his beast within.
 - **Imagery**: Storms, flames, and shadows
 - **Key Points**: Reflect on his previous reading's prophecy about betrayal and grief. Introduce a new element of an impending decision that will test his loyalties.
+>
 
 ### Draven
 
