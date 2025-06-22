@@ -247,7 +247,7 @@
 	- The Legacy Stone will charge, weakening Vorak until it is ready, when it will then release a pulse of radiant energy, completely disabling Vorak and cleansing his soul.
 	- Vorak will then momentarily be himself again, before his body is released into death, having been bound to an undead existence for so long.
 
-##### Woe (Teln a'Loft)
+##### Woe (Cass Lockheed)
 - Was originally a human soldier fighting in the Last war under his commanding officer, Forge.
 - During a battle, he was locked into a duel with Lick's father, who wore a fragment of the *FKD* around his neck.
 - During this duel, Forge set off an explosion that completed their objective, but also killed Forge, Woe, Lick's father, and most others that were involved in this battle.
