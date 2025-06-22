@@ -131,10 +131,10 @@
 	* After learning of the airship crash and *Elix's* probable death, Lox & Nyx embarked on a quest to find and kill her murderer.
 * ***Secret.***
 	* *Elix* isn't actually dead, because she was never on *The Merkentile*. 
-	* *Where was she? How is she connected? What is she doing?* 
-		* She was taken by Mordakesh directly, before she was able to board *The Merkentile.*
-		* This ensures that Lox feels he needs his patron's help, and fulfills the 'visions' of the future that he provided to Lox.
-		* Elix is now secretly being held at an *unknown* location by Mordakhesh, who will use her as yet another tool to manipulate Lox into following Mordakhesh's orders.
+	* Through visions and secret communications, Mordakhesh contacted Elix and convinced her to join him.
+	* He convinced Elix that he is fighting to restore the "natural order" to the world, to bring nature back to the forefront.
+	* Elix does truly believe that technology has ruined people, and that going back to more druidic times would be the greater good.
+	* She now sits beside Mordakhesh, ignorant to his plans.
 
 ## Story Plot Pieces
 - #### **Themes**:
@@ -256,8 +256,8 @@
 - This gave him dark powers, sourced from Rak Tulkesh's essence, which is trapped within. The only limit to his power being the remaining FKD fragments that are still out in the world.
 - Woe's soul, now heavily influenced by the Overlord of Rage, works fanatically under Mordakhesh's guidance.
 - ***Motivation:***
-	- Forge's decision to sacrifice himself and all of his men, including Woe, caused Woe to become extremely tribal, going to extreme means to protect any he deems as 'his people', and to destroy any who he perceives as threatening their existence.
-	- He seeks to reunite all of the *FKD* fragments and use that power to liberate his newfound race of Warforged, and wipe all who oppose him from the planet.
+	- Forge's decision to sacrifice himself and all of his men, including Woe, caused Woe to become extremely hateful to the concept of war. He believes that government and the wars they wage make the world a worse place.
+	- He seeks to reunite all of the *FKD* fragments and use that power to start and finish the war to end all wars, one that will wipe all forms of government from the planet.
 
 ##### Mordakhesh
 - Lieutenant to Rak Tulkhesh
@@ -266,6 +266,7 @@
 	- Ever since Varyn went looking for them
 - Has been guiding Woe to seek out the *FKD* fragments, telling him they will give him the power to achieve his own goals
 - Mardakhesh has kept a secret from Woe - the reunification of the FKD and its shards will allow Rak Tulkesh to use Woe's soul as a catalyst - destroying Rak Tulkesh's prison and allowing his avatar to once again claim dominion over Eberron, shattering Woe's soul in the process.
+- Woe's soul is simply the begining to the chain reaction that will free Rak Tulkesh. Once the pieces are reunited, the FKD fragment must be ripped from Woe's soul and joined with Elix's (an untouched soul)
 
 ##### Hrothgar 
 - Bjorn's brother

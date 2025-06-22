@@ -1,6 +1,10 @@
 ## Concept
 - The former hub of manufacturing during the Last War, Wroat is now undergoing a massive city-wide labor strike. Citing poor working conditions, continuing emergency war-time pay reductions, and warforged labor exploitation, the employees and employers are locked in their positions with no peaceful resolution in sight. Massive supply shortages are causing tension between multiple groups. With the city now under lockdown until the strike is resolved, peaceful protests may soon turn into violent rioting.
 
+## Features
+- City officials are willing to take bribes
+- Smokey taverns, paranoia, narrow alleyways
+
 ## The Labor Strike
 
 | d10 | Picket Signs                               |

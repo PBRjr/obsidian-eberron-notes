@@ -11,8 +11,10 @@
 - [ ] Session Start: _Railway Aftermath_
 	- Geralt has another vision from the [[Legacy Stone]], finally unlocking it, causing him to go into a coma that is not healable by the players
 	- *Forge* is either found taking refuge in the Rageblight village or in the jail of Wroat with Aeren & Baelin.
-	- Woe contacts forge and shows how his humanity is being corrupted?
-		>"I don't want to be this harbinger. I don't want to bring about the end of this world. My family still lives, though they've long thought me dead. This thing inside of me... I don't move myself anymore. Something terrible moves me now. General Otto, please... help me."
+
+- [ ] NPC Developments
+	- Aeren d'Cannith
+		- After his allegiance to the party is exposed, Aeren is worried that House Cannith will go after Miri and [[Shavalant]] to get to him.
 
 - [ ] Moment 1A: _Approaching Galethspyre_ 
 	- **Progressive Environmental Clues:**
@@ -20,7 +22,6 @@
 		- Abandoned refugee camp with recent campfire, scattered belongings
 		- Warning totems (crude wooden stakes with red cloth) forming perimeter around town
 	- **Marta Vex:** Former Watch Captain hiding in roadside ruins
-
 
 - [ ] Moment 1B: _Racing to Wroat_
 - Wroat is a 2 days journey on foot
@@ -36,15 +37,9 @@
 | Abandoned Waystation   | On the side of the road is a little abandoned waystation. It offers shelter against the outdoors.                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 - [ ] Moment 2A: _Galethspyre Town Exploration_  
-	- **Town features red mist at night only** - bandits avoid the town after dark
-	- **Key Areas:**
-		- Town Square: Crater where Rageblight manifested, emanates wrongness
-		- Underground Tunnels: Survivor hideout with town records
-		- Abandoned Shrine to Sovereign Host: Protected area, Marta's base
-	- **Underground Survivor Leader:** *Themos*
-		- Is worried about the town's supplies.
-		- Icy Hot bandits stole most of towns emergency supplies
-
+- [[Galethspyre]]
+- **Town features red mist at night only**
+- **Underground Survivor Leader:** *Themos*
 
 - [ ] Moment 2B: Wroat
 	- Wroat is a city surrounded by large concrete walls. The city is currently on lockdown, and entry is only permitted with the proper paperwork endorsed by a city official or dragonmarked house.
@@ -52,12 +47,12 @@
 		- Long unmoving lines lead up to the closed gates.
 		- People can be overheard discussing the entry restrictions
 	- **Aeren & Baelin.**
-		- Found by [[House Deneith]] mercs that were hired by House Orion to guard the lightning rails in Wroat.
-		- Handed over to the *Wroat Wall Force* and are currently being held on charges of unlawful entry, sabotage of protected goods, vandalism, and property damage.
+		- Found by [[House Deneith]] mercs
+		- Handed over to the *Wroat Wall Force* and are currently being held because they match descriptions of suspected Sharn terrorists
 	- **Healer.**
 		- [[Kynes Lawford]] is a capable healer who can restore Geralt to consciousness, however he needs his assistant [[Bernard McOogle]] to do so.
 		- Kynes send Bernard to get more "supplies" (grass) 2 days ago and hasn't seen him since.
-		- *Bernard* got tricked into helping with a protest that turned violent, and got arrested by the *Wroat Wall Force*. He is currently being held at the same location as *Aeren & Baelin*.
+		- *Bernard* got tricked into helping with a protest that turned violent, and got arrested by the *Wroat Wall Force*. He is currently being held at the same location as *Aeren & Baelin* (maybe forge).
 
 - [ ] Moment 3: *Icy Hot Camp*
 	- **Location:** Old Thane's mine north of Galethspyre
