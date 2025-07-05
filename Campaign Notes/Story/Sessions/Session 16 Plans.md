@@ -34,7 +34,7 @@ ToDo:
 	- *OR* the party encounters a refugee of that village that recounts their experiences with the Rageblight
 		- This village was Galethspyre, a small fishing village off the Dagger river.
 
-- [x] Moment 3: *Bjorn's contact*
+- [ ] Moment 3: *Bjorn's contact*
 	- Bjorn's contact is a goliath female that can be found in Lower Dura
 	- Her name is *Rutha Rockfist*
 		- She can be found frequenting *Marquet's Meat Market* in her free time

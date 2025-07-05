@@ -2,7 +2,7 @@
 
 - Decision point: Bandit camp vs Wroat pursuit
 - Galethspyre investigation (destroyed by Rageblight)
-- Icy Hot Criminal Enterprise
+- Red Hands Gang
 - [[Wroat]]
 
 
@@ -10,6 +10,7 @@
 
 - [ ] Session Start: _Railway Aftermath_
 	- Geralt has another vision from the [[Legacy Stone]], finally unlocking it, causing him to go into a coma that is not healable by the players
+		- OR if Geralt's player can make the session, 
 	- *Forge* is either found taking refuge in the Rageblight village or in the jail of Wroat with Aeren & Baelin.
 
 - [ ] NPC Developments
@@ -51,16 +52,17 @@
 		- Handed over to the *Wroat Wall Force* and are currently being held because they match descriptions of suspected Sharn terrorists
 	- **Healer.**
 		- [[Kynes Lawford]] is a capable healer who can restore Geralt to consciousness, however he needs his assistant [[Bernard McOogle]] to do so.
-		- Kynes send Bernard to get more "supplies" (grass) 2 days ago and hasn't seen him since.
+		- Kynes sent Bernard to get more "supplies" (grass) 2 days ago and hasn't seen him since.
 		- *Bernard* got tricked into helping with a protest that turned violent, and got arrested by the *Wroat Wall Force*. He is currently being held at the same location as *Aeren & Baelin* (maybe forge).
 
-- [ ] Moment 3: *Icy Hot Camp*
+- [ ] Moment 3: Red Hands Gang
 	- **Location:** Old Thane's mine north of Galethspyre
 	- **Enemy Roster:**
 	    - *Garspaachi* (frost giant)
 	    - *Bruno* (fire giant)
 	    - Misc. Goblins, worgs, bugbears, hill giants
 	- **Key Discovery:** Garspaachi & Bruno are known as "The Brothers Giant" and have an 'Italian mob' way about them. They're willing to bargain.
+	- 
 	- **Boss Fight.**
 		- Takes place in the den of the Brothers Giant.
 		- Massive cavern in deep in the old mine. Icy stalactites poke up from the rocky ground, which is littered by deep lava pools.

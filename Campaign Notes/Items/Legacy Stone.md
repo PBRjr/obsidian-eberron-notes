@@ -1,12 +1,15 @@
 ### Description:
 
 - This shimmering Siberys Dragonshard is 2 inches long with the diameter of a grape. It has a rapid, darting glow, as though something is bouncing off the inner walls of the shard, trying to find an exit.
-- This dragonshard has been implanted with a part of Geralt's mother's consciousness, locked behind the memories she placed within. Once all of the memories have been relived Geralt will be able to speak with his mother.
-- Once all of the memories have been experienced by Geralt, part of Yelena's consciousness will be accessible, and she will be able to speak to Geralt through his mind. Her memories will be fragmented, however, because she had to rapidly undergo the process to transfer herself before she died.
+- This dragonshard has been implanted with a part of Geralt's mother's consciousness, locked behind the memories she placed within. 
+- Yelena and Norbit created this object in secret after seeing Merix d'Cannith's intentions with the [[Plot Web#Steelhardt (The Prototype)|Steelhardt]]. The Legacy Stone was intended as a way to communicate with [[Plot Web#PC Geralt Wolfsbane|Geralt]] about the dangers of their work should they die.
+- Once all of the memories have been experienced by Geralt, part of Yelena's consciousness will be accessible, and she will be able to speak to Geralt through his mind. **She will only have the memories of her life up until she created the Legacy Stone.**
+
 ### Interacting With It:
 
 - Once per long rest, when Geralt concentrates for at least 10 minutes while holding the Legacy Stone, he experiences a surge of warmth before his mind is flooded with a memory that is chosen at random from the table below.
-- Geralt will continue to become 'ill' after every memory experienced due to his mother's consciousness trying to manifest within Geralt's mind. After the last memory, Geralt will become seriously ill, and she will be ever present in his mind after he is healed.
+- Geralt will continue to become 'ill' after every memory experienced due to his mother's consciousness trying to manifest within Geralt's mind. After the last memory, Geralt will become seriously ill. **He will have 1d4 days to heal until he is completely taken over by his mother.**
+- If he is healed by *Greater Restoration*, his mother's consciousness will be wiped from his mind.
 
 ***First Interaction***
 >The Siberys dragonshard pulses warmly in your hand, its golden light seeping into your skin. For a moment, the *surroundings* around you fades, replaced by a rush of sensations, emotions, and fragmented images. It’s not your memory, you realize, but hers. You are seeing the world through your mother's eyes, feeling the world through her body.
