@@ -11,7 +11,20 @@
 - [ ] Session Start: _Railway Aftermath_
 	- Geralt has another vision from the [[Legacy Stone]], finally unlocking it, causing him to go into a coma that is not healable by the players
 		- OR if Geralt's player can make the session, 
-	- *Forge* is either found taking refuge in the Rageblight village or in the jail of Wroat with Aeren & Baelin.
+	- *Forge* is following the party via a small tracking device he placed on Piston before. He knows that the party got on a lightning rail, then stopped for a short time at the railway station, then continued on to Wroat (because piston was left in the freight car). 
+
+- [ ] Random Encounters: *Purification Squad*
+	> "By the divine mandate of the Keeper of the Flame Jaela Daran, you will surrender the corrupted shard. Your souls may yet be saved if you comply."
+	
+	- The [[Church of the Silver Flame]] is unhappy with the party, and feels threatened by their having an FKD fragment in their possession. They sent this specialized kill squad to repossess the fragment.
+	- ***Roster.***
+		- *Inquisitor Korven Thale:* Death Cultists, leader
+		- *Thorin Voss:* Knight Templar
+		- *Sisters Mira & Kaylyn:* War priests containing Diva, 50hp
+		- *Initiates Templar*: Dragon Veterans, disruptors
+		- *Chained Deva*
+	- The Chained Deva is their main weapon. It is controlled by the Sister Priests. Once the fight begins, they will unshackle the chains and induce pain within the Deva, which will then fight the party.
+	- If the Sisters are taken down, the deva may either flee or help the party fight the squad.
 
 - [ ] NPC Developments
 	- Aeren d'Cannith
