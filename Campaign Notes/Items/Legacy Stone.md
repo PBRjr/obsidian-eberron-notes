@@ -16,7 +16,7 @@
 
 | #   | Memory               | Viewed? |
 | --- | -------------------- | ------- |
-| 1   | Kismet's Prophecy    |         |
+| 1   | Kismet's Prophecy    | y       |
 | 2   | Norbit's Illness     | y       |
 | 3   | Sibernyan Discovery  | y       |
 | 4   | Steelhardt Prototype | y       |

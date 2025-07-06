@@ -10,7 +10,6 @@
 
 - [ ] Session Start: _Railway Aftermath_
 	- Geralt has another vision from the [[Legacy Stone]], finally unlocking it, causing him to go into a coma that is not healable by the players
-		- OR if Geralt's player can make the session, 
 	- *Forge* is following the party via a small tracking device he placed on Piston before. He knows that the party got on a lightning rail, then stopped for a short time at the railway station, then continued on to Wroat (because piston was left in the freight car). 
 
 - [ ] Random Encounters: *Purification Squad*
@@ -37,7 +36,7 @@
 		- Warning totems (crude wooden stakes with red cloth) forming perimeter around town
 	- **Marta Vex:** Former Watch Captain hiding in roadside ruins
 
-- [ ] Moment 1B: _Racing to Wroat_
+- [x] Moment 1B: _Racing to Wroat_
 - Wroat is a 2 days journey on foot
 	- **Random Encounters.**
 
@@ -55,7 +54,7 @@
 - **Town features red mist at night only**
 - **Underground Survivor Leader:** *Themos*
 
-- [ ] Moment 2B: Wroat
+- [x] Moment 2B: Wroat
 	- Wroat is a city surrounded by large concrete walls. The city is currently on lockdown, and entry is only permitted with the proper paperwork endorsed by a city official or dragonmarked house.
 	- **Approaching the city.**
 		- Long unmoving lines lead up to the closed gates.
