@@ -1,0 +1,216 @@
+{
+  "id": "511a4aa6-c7b2-4e7d-9539-6a5891de3748",
+  "title": "What does the party know about Vorak up to this po",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "What does the party know about Vorak up to this point?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "## Potentially Relevant Snippets from the current vault\n```Campaign Notes/Story/Plot Web.md\n230|##### Vorak\n231|- Vorak was House Cannith's most skilled assassin, loyal to the House for most of his life. Originally a half-elf, he served for over a hundred years until his age forced him out of field work, though he remained a top advisor for covert activities within the House.\n232|- Voluntarily underwent House Cannith's and the Wolfsbane's very first attempt at using a Steelhardt to transfer a soul to another body.\n233|- The transfer was partially successful, moving Vorak from his original body to a younger, stronger one from a deceased Cannith soldier.\n234|- While he retained his memories, his mind quickly became plagued with dark thoughts, his grip on reality slipping, his physical abilities changing.\n235|- Before he lost his mind completely, Marix pointed him towards the Wolfsbanes, whom he killed save for Geralt, who escaped.\n236|- He went rogue, and was manipulated by Mordakhesh, who focused Vorak's mind to one objective: destroy the Silver Flame.\n```\n```Campaign Notes/Brainstorms/Vorak Bossfight.md\n1|The party must find a 'rageblight zone' in the aftermath of Vorak's rampage.\r\n2|\r\n3|Geralt must focus on the Legacy Stone, which will begin to hover 3 ft. off the ground and is unable to be moved until the ritual is complete. This will summon and bind Vorak to their location.\r\n4|\r\n5|**Legacy Stone Stats:** AC 18, 50 HP, resistant to all damage except necrotic\r\n6|\r\n7|This leads to a primary objective during the fight other than simply beating Vorak into submission. The legacy stone causes Vorak to...\r\n8|1. fight in different stages that must be defeated differently?\r\n9|2. Release collections of power that must be destroyed to weaken Vorak?\r\n10|3. Some other boss fight mechanic?\r\n11|\r\n12|After this is achieved, Vorak will be left unable to fight back, his mind cleaned of its dark blight, however his life soon to be over.\n```\n```Campaign Notes/Story/Plot Web.md\n236|- He went rogue, and was manipulated by Mordakhesh, who focused Vorak's mind to one objective: destroy the Silver Flame.\n237|- Bolstered by new dark powers infused into his Steelhardt by Mordakesh, he led the forces of the LoD in their attack against the Silver Flame on the Day of Mourning.\n238|\t- His attempt to destroy the Silver Flame failed and rebounded, shutting his mind to outside manipulations and causing the Silver Flame to defend itself by unleashing the dead gray mists, causing the Mourning.\n239|- Now he roams the land, destroying villages, creating \"Rageblight zones\" that empower him and allow him to resurrect his body if he falls.\n240|- His Khyber-infused Steelhardt causes him to achieve quasi-lichdom through unique means:\n241|\t- Vorak is fueled by rage energy he harvests from his victims\n242|\t- He doesn't transfer his consciousness - instead, he corrupts areas with his presence\n243|\t- Each village he destroys becomes a \"Rageblight zone\" that strengthens him\n```\n```Campaign Notes/Story/Plot Web.md\n242|- He doesn't transfer his consciousness - instead, he corrupts areas with his presence\n243|\t- Each village he destroys becomes a \"Rageblight zone\" that strengthens him\n244|\t- When physically \"killed,\" he disperses into rage energy and reforms at the nearest corrupted area\n245|- Ritual to defeat him:\n246|\t- The unlocked [[Legacy Stone]] must be used in a rageblight zone, where it will summon and bind Vorak.\n247|\t- The Legacy Stone will charge, weakening Vorak until it is ready, when it will then release a pulse of radiant energy, completely disabling Vorak and cleansing his soul.\n248|\t- Vorak will then momentarily be himself again, before his body is released into death, having been bound to an undead existence for so long.\n```\n```Campaign Notes/Story/Sessions/Session 18 Recap.md\n17|Geralt had his vision, spoke with his mother\n18|- She revealed that Vorak was part of a failed experiment with an early prototype of the Steelhardt, and that it started to drive him crazy\n19|- She revealed that Varyn is somewhere at the southern peak of the Byeshk Mountains, where a path to his home leads up from an unnamed town at the base of the Mountain\n20|- She urged him to find Varyn.\n21|- He has 4 days to be healed before his mother's consciousness corrupts his mind.\n22|- He will be taken over by his mother's consciousness on the 4th of Eyre\n23|\n24|Woke up in camp and were confronted by the Purification Squad\n25|- Fought the squad, killed everyone except the deva and Korvin Thale. \n26|- The party freed the deva, who flew away at the end.\n27|- Thale surrendered to the party.\n28|\n29|TODO:\n30|- Determine loot & XP from the purification squad encounter\n31|\t- Thale's scepter-scythe?\n32|\t- Thorin Voss's armor - +1 plate & something else?\n33|\t- money money money\n```\n```Campaign Notes/Story/Sessions/Session 13 Plans.md\n21|- [ ] Moment 1: *Meeting with Kazrak*\n22|- **Kazrak** and the Red Cloak Battallion arrested **Garhorn** while they were pursuing the party, and he is now being held and interrogated.\n23|- Garhorn is cooperating, and has given Kazrak very valuable intel about the Boromar Clan, including...\n24|\t- **Aaron D'Cannith** and a **Professor Baelin ir'Torn** are being held at their HQ, rumored to being forced in working on something important involving a unique fragment of a **Dragonshard.**\n25|\t- **Saidan Boromar died 2 months ago**, and his disappearance was covered up by his closest advisers.\n26|\t- His 2 best men, **Halak and Castar**, have different visions of how the clan should continue, and who should lead it.\n27|\t- Tensions have been building within the Boromar Clan, between those who follow Halak and those who follow Castar.\n28|- Garhorn\n29|\t- Gives intel that there is a 'civil war' going on within the Clan\n30|\t- Party must stage an attack on one of the inner groups and make it look like the other did it\n```\n```Campaign Notes/Story/Sessions/Session 12 Plans.md\n36|- [ ] Moment 4: Shamukaar\n37|\t - The players arrive through *the old well.*\n38|\t - Kozrak knows that he is not welcome here, and chooses to leave the party and return to the surface.\n39|\t - Various patrons of different species intermingle here. \n40|\t\t - Information may be sought from different NPCs.\n41|\t\t\t - **What do the schematics say/What language are they in?**\n42|\t\t\t\t* What type of person/monster might have this kind of information here?\n43|\t\t\t* **Who is Woe?**\n44|\t\t\t\t* Many will have knowledge of him. They will know his name, and that he serves a master/higher power.\n45|\t\t\t\t* Most patrons are scared of Woe and his organization's power. A select few might even know of its name: *The Lords of Dust.*\n46|\t- A few agents of Woe are planted here and will follow/observe the party (NEEDS DEVELOPMENT)\n47|\n48|- [ ] Session End: *Name*\n49|- (possible cliffhanger)\n```\n```Campaign Notes/Story/Sessions/Session 3 Recap.md\n1|- Very hung up on the Kobolds and their cult being involved in everything (they aren't)\r\n2|\t- The oiled up kobold escape and wandered into the Boromar Gang campsite, is now restrained there.\r\n3|- Miri overheard that the party is going to travel to Sharn next, Will ask [[Aeren d'Cannith]] about getting them passage through the gate into the city\r\n4|\t- Is also asking Aeren about the Schematics from Geralt's parents\r\n5|\t\t- He recognizes them as being related to secret Cannith dealings he has been looking into.\r\n6|\t- Will also provide them with horses free of charge\r\n7|- The party is going to get up early in the morning and attempt to ambush the [[Boromar Gang Campsite]]\r\n8|- The party inquired about the Elvish owner of [[The Airship|The Merkentile]]\r\n9|\t- They are suspicious of the merchandise that the ship was carrying\n```\n```Campaign Notes/Story/All Arcs.md\n75|#### Act 3: The Mountains\r\n76|- *Overview:* The Party travels to the western mountains to learn more about Draven's past, the Steelhardt, and Bjorn's family.\r\n77|- Main Villains: *Vorak, Hrothgar*\r\n78|- Important story beats:\r\n79|\t- [ ] Varyn the Valiant tells the party of exposition\r\n80|\t\t- [ ] The Coautl's sacrifice to create the Silver Flame\r\n81|\t\t- [ ] Geralt's parents learning Sibernyan from him years ago\r\n82|\t\t- [ ] His training of Draven, and Draven meeting his end and eventual resurrection\r\n83|\t\t- [ ] His presence at Hrothgar's birth and his departure from the Stormpeak Clan\r\n84|\t- [ ] Confrontation with Vorak\r\n85|\t- [ ] Confrontation with Hrothgar\r\n86|- [ ] *Completion Point.* The party learns everything about the Steelhardt and the abilities of the Etherseraph, and the need to travel into the Mournland to confront Woe/Mordakhesh\n```\n```Campaign Notes/Brainstorms/Vorak Bossfight.md\n14|### Phase 1: The Binding (HP 100% to 70%)\r\n15|\r\n16|**Key Mechanic**: Vorak is tethered to the Legacy Stone with energy threads. He can not leave the rageblight zone.\r\n17|\r\n18|- During this phase, Vorak will try to break free of the binding.\r\n19|- Players must protect the Legacy Stone while fighting Vorak.\r\n20|\r\n21|**Environmental effect:** \r\n22|- Pockets of concentrated rage appear as swirling red mist that damage players:\r\n23|\t- 3d6 psychic damage\r\n24|\t- 10ft radius\r\n25|\t- 1 will spawn within 15 feet of each PC. At the start of each round, a pocket will move to the location that it's PC was in at the start of their last turn.\r\n26|\r\n27|**Special Actions**:\r\n28|\r\n29|- **Barbarous Leap:** Vorak can use his bonus action to jump a distance equal to his speed in the direction of his target, without imposing opportunity attacks.\r\n30|- **Rage Siphon**: Vorak absorbs nearby rage pockets, healing himself for 2d10 HP per pocket.\n```\n\n\n\nWhat does the party know about Vorak up to this point?\n\n"
+        }
+      ],
+      "id": "0a929186-8c5d-4d98-938d-d4dd4984f409",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Campaign Notes/Story/Sessions/Session 18 plans.md"
+        }
+      ],
+      "similaritySearchResults": [
+        {
+          "id": 2396,
+          "path": "Campaign Notes/Story/Plot Web.md",
+          "mtime": 1751820948119,
+          "content": "##### Vorak\n- Vorak was House Cannith's most skilled assassin, loyal to the House for most of his life. Originally a half-elf, he served for over a hundred years until his age forced him out of field work, though he remained a top advisor for covert activities within the House.\n- Voluntarily underwent House Cannith's and the Wolfsbane's very first attempt at using a Steelhardt to transfer a soul to another body.\n- The transfer was partially successful, moving Vorak from his original body to a younger, stronger one from a deceased Cannith soldier.\n- While he retained his memories, his mind quickly became plagued with dark thoughts, his grip on reality slipping, his physical abilities changing.\n- Before he lost his mind completely, Marix pointed him towards the Wolfsbanes, whom he killed save for Geralt, who escaped.\n- He went rogue, and was manipulated by Mordakhesh, who focused Vorak's mind to one objective: destroy the Silver Flame.",
+          "model": "openai/text-embedding-3-small",
+          "dimension": 1536,
+          "metadata": {
+            "endLine": 236,
+            "startLine": 230
+          },
+          "similarity": 0.6051776299198731
+        },
+        {
+          "id": 2649,
+          "path": "Campaign Notes/Brainstorms/Vorak Bossfight.md",
+          "mtime": 1750387676379,
+          "content": "The party must find a 'rageblight zone' in the aftermath of Vorak's rampage.\r\n\r\nGeralt must focus on the Legacy Stone, which will begin to hover 3 ft. off the ground and is unable to be moved until the ritual is complete. This will summon and bind Vorak to their location.\r\n\r\n**Legacy Stone Stats:** AC 18, 50 HP, resistant to all damage except necrotic\r\n\r\nThis leads to a primary objective during the fight other than simply beating Vorak into submission. The legacy stone causes Vorak to...\r\n1. fight in different stages that must be defeated differently?\r\n2. Release collections of power that must be destroyed to weaken Vorak?\r\n3. Some other boss fight mechanic?\r\n\r\nAfter this is achieved, Vorak will be left unable to fight back, his mind cleaned of its dark blight, however his life soon to be over.",
+          "model": "openai/text-embedding-3-small",
+          "dimension": 1536,
+          "metadata": {
+            "endLine": 12,
+            "startLine": 1
+          },
+          "similarity": 0.5684866741927447
+        },
+        {
+          "id": 2397,
+          "path": "Campaign Notes/Story/Plot Web.md",
+          "mtime": 1751820948119,
+          "content": "- He went rogue, and was manipulated by Mordakhesh, who focused Vorak's mind to one objective: destroy the Silver Flame.\n- Bolstered by new dark powers infused into his Steelhardt by Mordakesh, he led the forces of the LoD in their attack against the Silver Flame on the Day of Mourning.\n\t- His attempt to destroy the Silver Flame failed and rebounded, shutting his mind to outside manipulations and causing the Silver Flame to defend itself by unleashing the dead gray mists, causing the Mourning.\n- Now he roams the land, destroying villages, creating \"Rageblight zones\" that empower him and allow him to resurrect his body if he falls.\n- His Khyber-infused Steelhardt causes him to achieve quasi-lichdom through unique means:\n\t- Vorak is fueled by rage energy he harvests from his victims\n\t- He doesn't transfer his consciousness - instead, he corrupts areas with his presence\n\t- Each village he destroys becomes a \"Rageblight zone\" that strengthens him",
+          "model": "openai/text-embedding-3-small",
+          "dimension": 1536,
+          "metadata": {
+            "endLine": 243,
+            "startLine": 236
+          },
+          "similarity": 0.5342167215893512
+        },
+        {
+          "id": 2398,
+          "path": "Campaign Notes/Story/Plot Web.md",
+          "mtime": 1751820948119,
+          "content": "- He doesn't transfer his consciousness - instead, he corrupts areas with his presence\n\t- Each village he destroys becomes a \"Rageblight zone\" that strengthens him\n\t- When physically \"killed,\" he disperses into rage energy and reforms at the nearest corrupted area\n- Ritual to defeat him:\n\t- The unlocked [[Legacy Stone]] must be used in a rageblight zone, where it will summon and bind Vorak.\n\t- The Legacy Stone will charge, weakening Vorak until it is ready, when it will then release a pulse of radiant energy, completely disabling Vorak and cleansing his soul.\n\t- Vorak will then momentarily be himself again, before his body is released into death, having been bound to an undead existence for so long.",
+          "model": "openai/text-embedding-3-small",
+          "dimension": 1536,
+          "metadata": {
+            "endLine": 248,
+            "startLine": 242
+          },
+          "similarity": 0.5234369267711271
+        },
+        {
+          "id": 2248,
+          "path": "Campaign Notes/Story/Sessions/Session 18 Recap.md",
+          "mtime": 1751909077019,
+          "content": "Geralt had his vision, spoke with his mother\n- She revealed that Vorak was part of a failed experiment with an early prototype of the Steelhardt, and that it started to drive him crazy\n- She revealed that Varyn is somewhere at the southern peak of the Byeshk Mountains, where a path to his home leads up from an unnamed town at the base of the Mountain\n- She urged him to find Varyn.\n- He has 4 days to be healed before his mother's consciousness corrupts his mind.\n- He will be taken over by his mother's consciousness on the 4th of Eyre\n\nWoke up in camp and were confronted by the Purification Squad\n- Fought the squad, killed everyone except the deva and Korvin Thale. \n- The party freed the deva, who flew away at the end.\n- Thale surrendered to the party.\n\nTODO:\n- Determine loot & XP from the purification squad encounter\n\t- Thale's scepter-scythe?\n\t- Thorin Voss's armor - +1 plate & something else?\n\t- money money money",
+          "model": "openai/text-embedding-3-small",
+          "dimension": 1536,
+          "metadata": {
+            "endLine": 33,
+            "startLine": 17
+          },
+          "similarity": 0.522864862595067
+        },
+        {
+          "id": 2318,
+          "path": "Campaign Notes/Story/Sessions/Session 13 Plans.md",
+          "mtime": 1738412940251,
+          "content": "- [ ] Moment 1: *Meeting with Kazrak*\n- **Kazrak** and the Red Cloak Battallion arrested **Garhorn** while they were pursuing the party, and he is now being held and interrogated.\n- Garhorn is cooperating, and has given Kazrak very valuable intel about the Boromar Clan, including...\n\t- **Aaron D'Cannith** and a **Professor Baelin ir'Torn** are being held at their HQ, rumored to being forced in working on something important involving a unique fragment of a **Dragonshard.**\n\t- **Saidan Boromar died 2 months ago**, and his disappearance was covered up by his closest advisers.\n\t- His 2 best men, **Halak and Castar**, have different visions of how the clan should continue, and who should lead it.\n\t- Tensions have been building within the Boromar Clan, between those who follow Halak and those who follow Castar.\n- Garhorn\n\t- Gives intel that there is a 'civil war' going on within the Clan\n\t- Party must stage an attack on one of the inner groups and make it look like the other did it",
+          "model": "openai/text-embedding-3-small",
+          "dimension": 1536,
+          "metadata": {
+            "endLine": 30,
+            "startLine": 21
+          },
+          "similarity": 0.5117902298161239
+        },
+        {
+          "id": 2333,
+          "path": "Campaign Notes/Story/Sessions/Session 12 Plans.md",
+          "mtime": 1737048745691,
+          "content": "- [ ] Moment 4: Shamukaar\n\t - The players arrive through *the old well.*\n\t - Kozrak knows that he is not welcome here, and chooses to leave the party and return to the surface.\n\t - Various patrons of different species intermingle here. \n\t\t - Information may be sought from different NPCs.\n\t\t\t - **What do the schematics say/What language are they in?**\n\t\t\t\t* What type of person/monster might have this kind of information here?\n\t\t\t* **Who is Woe?**\n\t\t\t\t* Many will have knowledge of him. They will know his name, and that he serves a master/higher power.\n\t\t\t\t* Most patrons are scared of Woe and his organization's power. A select few might even know of its name: *The Lords of Dust.*\n\t- A few agents of Woe are planted here and will follow/observe the party (NEEDS DEVELOPMENT)\n\n- [ ] Session End: *Name*\n- (possible cliffhanger)",
+          "model": "openai/text-embedding-3-small",
+          "dimension": 1536,
+          "metadata": {
+            "endLine": 49,
+            "startLine": 36
+          },
+          "similarity": 0.4887423197166725
+        },
+        {
+          "id": 872,
+          "path": "Campaign Notes/Story/Sessions/Session 3 Recap.md",
+          "mtime": 1724731052683,
+          "content": "- Very hung up on the Kobolds and their cult being involved in everything (they aren't)\r\n\t- The oiled up kobold escape and wandered into the Boromar Gang campsite, is now restrained there.\r\n- Miri overheard that the party is going to travel to Sharn next, Will ask [[Aeren d'Cannith]] about getting them passage through the gate into the city\r\n\t- Is also asking Aeren about the Schematics from Geralt's parents\r\n\t\t- He recognizes them as being related to secret Cannith dealings he has been looking into.\r\n\t- Will also provide them with horses free of charge\r\n- The party is going to get up early in the morning and attempt to ambush the [[Boromar Gang Campsite]]\r\n- The party inquired about the Elvish owner of [[The Airship|The Merkentile]]\r\n\t- They are suspicious of the merchandise that the ship was carrying",
+          "model": "openai/text-embedding-3-small",
+          "dimension": 1536,
+          "metadata": {
+            "endLine": 9,
+            "startLine": 1
+          },
+          "similarity": 0.4868625786609856
+        },
+        {
+          "id": 2412,
+          "path": "Campaign Notes/Story/All Arcs.md",
+          "mtime": 1750387676380,
+          "content": "#### Act 3: The Mountains\r\n- *Overview:* The Party travels to the western mountains to learn more about Draven's past, the Steelhardt, and Bjorn's family.\r\n- Main Villains: *Vorak, Hrothgar*\r\n- Important story beats:\r\n\t- [ ] Varyn the Valiant tells the party of exposition\r\n\t\t- [ ] The Coautl's sacrifice to create the Silver Flame\r\n\t\t- [ ] Geralt's parents learning Sibernyan from him years ago\r\n\t\t- [ ] His training of Draven, and Draven meeting his end and eventual resurrection\r\n\t\t- [ ] His presence at Hrothgar's birth and his departure from the Stormpeak Clan\r\n\t- [ ] Confrontation with Vorak\r\n\t- [ ] Confrontation with Hrothgar\r\n- [ ] *Completion Point.* The party learns everything about the Steelhardt and the abilities of the Etherseraph, and the need to travel into the Mournland to confront Woe/Mordakhesh",
+          "model": "openai/text-embedding-3-small",
+          "dimension": 1536,
+          "metadata": {
+            "endLine": 86,
+            "startLine": 75
+          },
+          "similarity": 0.4857722248246277
+        },
+        {
+          "id": 2650,
+          "path": "Campaign Notes/Brainstorms/Vorak Bossfight.md",
+          "mtime": 1750387676379,
+          "content": "### Phase 1: The Binding (HP 100% to 70%)\r\n\r\n**Key Mechanic**: Vorak is tethered to the Legacy Stone with energy threads. He can not leave the rageblight zone.\r\n\r\n- During this phase, Vorak will try to break free of the binding.\r\n- Players must protect the Legacy Stone while fighting Vorak.\r\n\r\n**Environmental effect:** \r\n- Pockets of concentrated rage appear as swirling red mist that damage players:\r\n\t- 3d6 psychic damage\r\n\t- 10ft radius\r\n\t- 1 will spawn within 15 feet of each PC. At the start of each round, a pocket will move to the location that it's PC was in at the start of their last turn.\r\n\r\n**Special Actions**:\r\n\r\n- **Barbarous Leap:** Vorak can use his bonus action to jump a distance equal to his speed in the direction of his target, without imposing opportunity attacks.\r\n- **Rage Siphon**: Vorak absorbs nearby rage pockets, healing himself for 2d10 HP per pocket.",
+          "model": "openai/text-embedding-3-small",
+          "dimension": 1536,
+          "metadata": {
+            "endLine": 30,
+            "startLine": 14
+          },
+          "similarity": 0.4846408665180344
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "From the information provided, the party knows several details about Vorak:\n\n1. **Background and Transformation**: Vorak was House Cannith's most skilled assassin. He underwent an experimental procedure with the Steelhardt to transfer his soul into a new body, resulting in mental instability and dark thoughts (lines 230-234). This experiment partially succeeded, but his mind quickly became plagued.\n\n2. **Connection to Geralt**: Vorak killed the Wolfsbanes save for Geralt, who managed to escape (line 235). This gives Geralt a personal connection and potentially a vendetta against Vorak.\n\n3. **Manipulation by Mordakhesh**: After going rogue, Vorak was manipulated by Mordakhesh, focusing his mind on destroying the Silver Flame. This manipulation was a significant plot point contributing to the Day of Mourning (lines 236-238).\n\n4. **Creation of Rageblight Zones**: Vorak roams, creating \"Rageblight zones\" that empower him. These zones help him resurrect if defeated and are a source of his power due to their corruptive nature (lines 239-243).\n\n5. **Defeating Vorak**: The party must use the unlocked Legacy Stone in a Rageblight zone to summon and bind Vorak. This binding weakens him and eventually allows the party to cleanse his soul, returning him briefly to his original self before his death (lines 245-248).\n\n6. **Fight Mechanics**: During the Vorak boss fight, players will need to protect the Legacy Stone while contending with environmental effects like concentrated rage pockets (lines 14-30). The details of these mechanics might give hints to the party on how they can effectively prepare and combat Vorak.\n\nIn summary, the party knows about Vorak's past with House Cannith, his current rogue status and manipulations by Mordakhesh, his association with the rageblight zones, and the method required to confront and ultimately defeat him.\n\nHere are the referenced blocks that contain the above information:\n\n<smtcmp_block filename=\"Campaign Notes/Story/Plot Web.md\" language=\"markdown\" startLine=\"230\" endLine=\"243\"></smtcmp_block>\n\n<smtcmp_block filename=\"Campaign Notes/Story/Plot Web.md\" language=\"markdown\" startLine=\"245\" endLine=\"248\"></smtcmp_block>\n\n<smtcmp_block filename=\"Campaign Notes/Brainstorms/Vorak Bossfight.md\" language=\"markdown\" startLine=\"14\" endLine=\"30\"></smtcmp_block>",
+      "id": "1211fa3a-40f6-46b5-93b3-ff324971e853",
+      "metadata": {
+        "model": {
+          "providerType": "openai",
+          "providerId": "openai",
+          "id": "gpt-4o",
+          "model": "gpt-4o"
+        },
+        "usage": {
+          "prompt_tokens": 5687,
+          "completion_tokens": 520,
+          "total_tokens": 6207,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        }
+      }
+    }
+  ],
+  "createdAt": 1751994189042,
+  "updatedAt": 1751996614754,
+  "schemaVersion": 1
+}

@@ -33,5 +33,14 @@
       ],
       "key": "R"
     }
+  ],
+  "smart-composer:open-new-chat": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
   ]
 }

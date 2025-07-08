@@ -1,0 +1,315 @@
+{
+  "id": "bb253849-70a2-40b9-ae33-73ab2595c081",
+  "title": "Help me build out session 19 plans ",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "What does the party currently know about Mordakhesh?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "## Potentially Relevant Snippets from the current vault\n```Campaign Notes/Story/Sessions/Session 5 Recap.md\n35|- The party then decides to travel through the teleportation circle to the kogs ritual location.\r\n36|- They watch the ritual between a hooded figure (Mordakesh) and Woe\r\n37|\t- Mordakesh joined the main Fractured Khyber Dragonshard with the fragment of it that Woe took from Lick in session 1, causing Woe to increase in power.\r\n38|\t- Mordakesh then left through his own portal he conjured.\r\n39|\t- Woe used his newfound abilities to animate a large machine-creature that moved to attack the party.\r\n40|\r\n41|Session end.\n```\n```Campaign Notes/Story/Quests & Encounters/Ritual in the Kogs.md\n27|### Conclusion and Aftermath:\n28|\n29|- Once safe, the party can regroup and process the sheer power and threat Woe represents. This encounter not only sets up Woe as a formidable foe but also deepens the mystery and danger of what he and Mordakhesh are planning.\n30|- This experience can lead to new objectives, such as finding ways to counteract or dismantle the dragonshard’s influence, or investigating other areas of Sharn that might hold the key to stopping Woe’s machinations.\n```\n```Campaign Notes/Story/Quests & Encounters/Ritual in the Kogs.md\n1|Location: [[Kogs Ritual Chamber]]\n2|\n3|**Ritual Completion and Dismissal by Mordakhesh**:\n4|\n5|- As the ritual concludes, the air thick with arcane energy, Mordakhesh steps back from the altar. He observes Woe, who is still recovering from the procedure. With a slight tone of concern mixed with command, Mordakhesh advises, \"Rest now, let the shard’s essence meld with your own. But first, dispose of our uninvited guests.\" This comment is made dismissively, without even a glance at the party, underscoring their perceived insignificance.\n6|\n7|**Woe's Awakening**:\n8|\n9|- Woe lethargically sits up, his eyes flashing with newly imbued purple energy. He lazily stretches a hand towards a dormant piece of machinery nearby. As his fingers twitch, a burst of purple energy flows from his hand into the machine, which whirs to life, its mechanical eyes glowing with the same ominous purple.\n10|- He watches with mild interest, a slight smirk on his face, as the machine turns towards the party, ready to attack.\n11|\n12|**Combat Dynamics**:\n13|\n14|- The enchanted machine, powered by the dragonshard’s essence, aggressively targets the party. Describe the machine’s movements as unnaturally swift and powerful, enhanced by the magical energy.\n15|- Throughout the fight, as the party manages to damage the machine, Woe, with minimal effort, could casually redirect his energy to enchant other machinery in the room to join the fray, each time causing the cavern to rumble ominously.\n16|\n17|**Environmental Collapse and Escape Routes**:\n18|\n19|- The ongoing battle and the unstable arcane energy cause the cavern to shake violently. Debris falls, blocking the path they originally took while conveniently opening up another route that leads deeper into the maze of the Kogs and possibly exits near an unexpected part of Sharn.\n20|- As the party battles or decides to flee, they notice the structural integrity of the cavern degrading, hinting that staying much longer could be fatal.\n21|\n22|**The Magic’s Limit and Woe's Disinterest**:\n```\n```Campaign Notes/Story/Sessions/Session 16 Plans.md\n101|### Plot Actions\n102|\n103|Action 1: *Woe is seeking the FKD fragment and will search the wreckage of the HQ*\n104|- Goal: Recover the FKD fragment\n105|- Search the wreckage of the Boromar HQ to find the fragment. He was ordered not to directly harm the party by Mordakhesh.\n106|\n107|Action 2: \n108|- Goal: X\n109|- X\n110|\n111|\n112|### Additional Notes\n113|\n114|- (Add any other notes or information that you need for the session)\n```\n```Campaign Notes/Story/Narrative Plot Overview.md\n13|### The Villains\n14|\n15|**Vorak**, once a loyal assassin of House Cannith, underwent a dark transformation through the Steelhardt. His failed transfer left him a creature of pure rage, manipulated by Mordakhesh, a lieutenant of Rak Tulkesh. Now, Vorak roams the land, his existence tied to the suffering and rage of those he destroys, perpetuating a cycle of death and resurrection.\n16|\n17|**Woe**, a soldier from the Last War, was resurrected by Mordakhesh using a fragment of the Fractured Khyber Dragonshard. Now a Warforged infused with dark power, Woe seeks to reunite the shards, believing it will liberate his new race and exact revenge on those who wronged him.\n18|\n19|**Mordakhesh** himself is the architect behind many of the heroes’ woes. As a loyal servant of Rak Tulkesh, he guides Woe and others in a relentless quest to free his master. His manipulations are subtle, his motives shrouded in secrecy, making him a dangerous adversary.\n20|\n21|**Hrothgar**, Bjorn’s corrupted brother, wields dark power that plagues the land. His possession of a dragonshard fragment and the Etherseraph, a powerful artifact, has turned him into a formidable foe, threatening the very fabric of their homeland.\n22|\n23|### Artifacts of Power\n24|\n25|The **Fractured Khyber Dragonshard (FKD)** contains the essence of Rak Tulkesh. Scattered in fragments, it grants immense power to those tainted by its dark influence. Woe, Professor Baelen ir'Torn, and Hrothgar each hold fragments, their fates intertwined by the shard’s corrupting touch.\n26|\n27|The **Etherseraph**, crafted by Varyn, is both a weapon and a guide. Its white flame has the power to clear the Mourning’s fog and reveal the path to the Silver Flame’s hidden sanctuary. Once wielded by heroes like Tira Miron and Draven, it now lies in the hands of Hrothgar.\n28|\n29|The **Steelhardt**, originally designed by Geralt’s parents, can transfer a soul into a new body, promising immortality. However, without the balance of Siberys, Khyber, and Eberron’s aspects, its use results in madness. The Lords of Dust seek to use it to free Rak Tulkesh, making it a central piece in the unfolding drama.\n```\n\n\n\nWhat does the party currently know about Mordakhesh?\n\n"
+        }
+      ],
+      "id": "087e0ab4-d6c9-4f94-8a93-cb6e971eee2b",
+      "mentionables": [],
+      "similaritySearchResults": [
+        {
+          "id": 6842,
+          "path": "Campaign Notes/Story/Sessions/Session 5 Recap.md",
+          "mtime": 1724731052685,
+          "content": "- The party then decides to travel through the teleportation circle to the kogs ritual location.\r\n- They watch the ritual between a hooded figure (Mordakesh) and Woe\r\n\t- Mordakesh joined the main Fractured Khyber Dragonshard with the fragment of it that Woe took from Lick in session 1, causing Woe to increase in power.\r\n\t- Mordakesh then left through his own portal he conjured.\r\n\t- Woe used his newfound abilities to animate a large machine-creature that moved to attack the party.\r\n\r\nSession end.",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 41,
+            "startLine": 35
+          },
+          "similarity": 0.6529267886314788
+        },
+        {
+          "id": 6923,
+          "path": "Campaign Notes/Story/Quests & Encounters/Ritual in the Kogs.md",
+          "mtime": 1716924667756,
+          "content": "### Conclusion and Aftermath:\n\n- Once safe, the party can regroup and process the sheer power and threat Woe represents. This encounter not only sets up Woe as a formidable foe but also deepens the mystery and danger of what he and Mordakhesh are planning.\n- This experience can lead to new objectives, such as finding ways to counteract or dismantle the dragonshard’s influence, or investigating other areas of Sharn that might hold the key to stopping Woe’s machinations.",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 30,
+            "startLine": 27
+          },
+          "similarity": 0.6120431911217173
+        },
+        {
+          "id": 6921,
+          "path": "Campaign Notes/Story/Quests & Encounters/Ritual in the Kogs.md",
+          "mtime": 1716924667756,
+          "content": "Location: [[Kogs Ritual Chamber]]\n\n**Ritual Completion and Dismissal by Mordakhesh**:\n\n- As the ritual concludes, the air thick with arcane energy, Mordakhesh steps back from the altar. He observes Woe, who is still recovering from the procedure. With a slight tone of concern mixed with command, Mordakhesh advises, \"Rest now, let the shard’s essence meld with your own. But first, dispose of our uninvited guests.\" This comment is made dismissively, without even a glance at the party, underscoring their perceived insignificance.\n\n**Woe's Awakening**:\n\n- Woe lethargically sits up, his eyes flashing with newly imbued purple energy. He lazily stretches a hand towards a dormant piece of machinery nearby. As his fingers twitch, a burst of purple energy flows from his hand into the machine, which whirs to life, its mechanical eyes glowing with the same ominous purple.\n- He watches with mild interest, a slight smirk on his face, as the machine turns towards the party, ready to attack.\n\n**Combat Dynamics**:\n\n- The enchanted machine, powered by the dragonshard’s essence, aggressively targets the party. Describe the machine’s movements as unnaturally swift and powerful, enhanced by the magical energy.\n- Throughout the fight, as the party manages to damage the machine, Woe, with minimal effort, could casually redirect his energy to enchant other machinery in the room to join the fray, each time causing the cavern to rumble ominously.\n\n**Environmental Collapse and Escape Routes**:\n\n- The ongoing battle and the unstable arcane energy cause the cavern to shake violently. Debris falls, blocking the path they originally took while conveniently opening up another route that leads deeper into the maze of the Kogs and possibly exits near an unexpected part of Sharn.\n- As the party battles or decides to flee, they notice the structural integrity of the cavern degrading, hinting that staying much longer could be fatal.\n\n**The Magic’s Limit and Woe's Disinterest**:",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 22,
+            "startLine": 1
+          },
+          "similarity": 0.6076959770043519
+        },
+        {
+          "id": 6875,
+          "path": "Campaign Notes/Story/Sessions/Session 16 Plans.md",
+          "mtime": 1751754501368,
+          "content": "### Plot Actions\n\nAction 1: *Woe is seeking the FKD fragment and will search the wreckage of the HQ*\n- Goal: Recover the FKD fragment\n- Search the wreckage of the Boromar HQ to find the fragment. He was ordered not to directly harm the party by Mordakhesh.\n\nAction 2: \n- Goal: X\n- X\n\n\n### Additional Notes\n\n- (Add any other notes or information that you need for the session)",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 114,
+            "startLine": 101
+          },
+          "similarity": 0.6046144362706652
+        },
+        {
+          "id": 6959,
+          "path": "Campaign Notes/Story/Narrative Plot Overview.md",
+          "mtime": 1716406609543,
+          "content": "### The Villains\n\n**Vorak**, once a loyal assassin of House Cannith, underwent a dark transformation through the Steelhardt. His failed transfer left him a creature of pure rage, manipulated by Mordakhesh, a lieutenant of Rak Tulkesh. Now, Vorak roams the land, his existence tied to the suffering and rage of those he destroys, perpetuating a cycle of death and resurrection.\n\n**Woe**, a soldier from the Last War, was resurrected by Mordakhesh using a fragment of the Fractured Khyber Dragonshard. Now a Warforged infused with dark power, Woe seeks to reunite the shards, believing it will liberate his new race and exact revenge on those who wronged him.\n\n**Mordakhesh** himself is the architect behind many of the heroes’ woes. As a loyal servant of Rak Tulkesh, he guides Woe and others in a relentless quest to free his master. His manipulations are subtle, his motives shrouded in secrecy, making him a dangerous adversary.\n\n**Hrothgar**, Bjorn’s corrupted brother, wields dark power that plagues the land. His possession of a dragonshard fragment and the Etherseraph, a powerful artifact, has turned him into a formidable foe, threatening the very fabric of their homeland.\n\n### Artifacts of Power\n\nThe **Fractured Khyber Dragonshard (FKD)** contains the essence of Rak Tulkesh. Scattered in fragments, it grants immense power to those tainted by its dark influence. Woe, Professor Baelen ir'Torn, and Hrothgar each hold fragments, their fates intertwined by the shard’s corrupting touch.\n\nThe **Etherseraph**, crafted by Varyn, is both a weapon and a guide. Its white flame has the power to clear the Mourning’s fog and reveal the path to the Silver Flame’s hidden sanctuary. Once wielded by heroes like Tira Miron and Draven, it now lies in the hands of Hrothgar.\n\nThe **Steelhardt**, originally designed by Geralt’s parents, can transfer a soul into a new body, promising immortality. However, without the balance of Siberys, Khyber, and Eberron’s aspects, its use results in madness. The Lords of Dust seek to use it to free Rak Tulkesh, making it a central piece in the unfolding drama.",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 29,
+            "startLine": 13
+          },
+          "similarity": 0.6013399732935325
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Based on your notes, the party's knowledge of Mordakhesh is limited to what they observed during the ritual in the Kogs. They have witnessed his power but likely know very little about his identity or motivations.\n\nHere is a summary of what the party knows:\n\n*   **He is an associate of Woe:** They saw him perform a ritual with Woe. They know these two are working together.\n*   **He is extremely powerful:** The party watched him perform a ritual that fused fragments of a Khyber Dragonshard, which visibly increased Woe's power. He then departed through a portal he conjured himself.\n<smtcmp_block filename=\"Campaign Notes/Story/Sessions/Session 5 Recap.md\" language=\"markdown\" startLine=\"36\" endLine=\"39\"></smtcmp_block>\n*   **He is in a position of authority over Woe:** Mordakhesh commanded Woe to \"dispose of our uninvited guests,\" referring to the party. His tone was dismissive, indicating he views the party as insignificant.\n<smtcmp_block filename=\"Campaign Notes/Story/Quests & Encounters/Ritual in the Kogs.md\" language=\"markdown\" startLine=\"5\" endLine=\"5\"></smtcmp_block>\n*   **His appearance is mysterious:** They saw him as a \"hooded figure.\" It is unlikely they know his name or what he looks like.\n\nIn essence, the party knows there is a mysterious and powerful figure backing Woe, but they are completely unaware of his name, his role as a lieutenant of Rak Tulkesh, or his broader machinations across the campaign.",
+      "id": "ca662a89-474f-4baa-a39c-ad63de0b4b8a",
+      "metadata": {
+        "model": {
+          "providerId": "gemini",
+          "providerType": "gemini",
+          "id": "Gemini-2.5-pro-real",
+          "model": "gemini-2.5-pro",
+          "promptLevel": 1
+        },
+        "usage": {
+          "prompt_tokens": 2745,
+          "completion_tokens": 348,
+          "total_tokens": 4580
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Do they know he is Lox's patron?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "## Potentially Relevant Snippets from the current vault\n```Campaign Notes/Story/The Party.md\n92|## **Lox Tempest**\n93|\n94|Lox Tempest's life was forever changed by a single moment. As a husband to Nyx and father to their daughter Elix, Lox's world revolved around his small, cherished family.\n95|\n96|Before tragedy struck, Lox was approached by a mysterious patron who showed him disturbing **visions of the future** - glimpses of danger that would supposedly threaten his family. Convinced by these prophecies and desperate to protect those he loved, Lox made a **pact** that would grant him power beyond ordinary means.\n97|\n98|The terms were simple yet ominous: Lox would receive his powers, and in return, he would owe a single **favor** to be redeemed when his patron deemed fit. The consequence for failing to perform this favor was equally clear - Lox would lose \"what he values most.\"\n99|\n100|When news came that **The Merkantile** had been attacked and his daughter Elix was presumed dead among the passengers, the power he had gained seemed a cruel mockery of his intentions.\n101|\n102|Now consumed by grief and rage, Lox travels alongside his wife Nyx. Their shared loss has bound them in a quest for vengeance, though each pursues it through different means. While Nyx channels her pain through her druidic connection to nature, Lox wields the **dark powers** granted by his pact – abilities that sometimes frighten even him.\n103|\n104|Though the full extent of his capabilities remains to be seen, whispers follow him - of enemies who fall to unseen forces, of bargains struck in moments of desperation. The power flows through him like a cold current, always reminding him of its price.\n105|\n106|Despite the darkness that has entered his life, Lox remains driven by love. His devotion to finding his daughter's killer and protecting what remains of his family gives him purpose. Yet questions haunt him in quiet moments - about the true nature of his unseen patron, about the favor that will eventually be called due, and about whether the power he wields is changing him into something he no longer recognizes.\n```\n\n\n\nDo they know he is Lox's patron?\n\n"
+        }
+      ],
+      "id": "ba0f4804-5e5a-481f-a3ca-dbf9bac09ab4",
+      "mentionables": [],
+      "similaritySearchResults": [
+        {
+          "id": 6823,
+          "path": "Campaign Notes/Story/The Party.md",
+          "mtime": 1741913001499,
+          "content": "## **Lox Tempest**\n\nLox Tempest's life was forever changed by a single moment. As a husband to Nyx and father to their daughter Elix, Lox's world revolved around his small, cherished family.\n\nBefore tragedy struck, Lox was approached by a mysterious patron who showed him disturbing **visions of the future** - glimpses of danger that would supposedly threaten his family. Convinced by these prophecies and desperate to protect those he loved, Lox made a **pact** that would grant him power beyond ordinary means.\n\nThe terms were simple yet ominous: Lox would receive his powers, and in return, he would owe a single **favor** to be redeemed when his patron deemed fit. The consequence for failing to perform this favor was equally clear - Lox would lose \"what he values most.\"\n\nWhen news came that **The Merkantile** had been attacked and his daughter Elix was presumed dead among the passengers, the power he had gained seemed a cruel mockery of his intentions.\n\nNow consumed by grief and rage, Lox travels alongside his wife Nyx. Their shared loss has bound them in a quest for vengeance, though each pursues it through different means. While Nyx channels her pain through her druidic connection to nature, Lox wields the **dark powers** granted by his pact – abilities that sometimes frighten even him.\n\nThough the full extent of his capabilities remains to be seen, whispers follow him - of enemies who fall to unseen forces, of bargains struck in moments of desperation. The power flows through him like a cold current, always reminding him of its price.\n\nDespite the darkness that has entered his life, Lox remains driven by love. His devotion to finding his daughter's killer and protecting what remains of his family gives him purpose. Yet questions haunt him in quiet moments - about the true nature of his unseen patron, about the favor that will eventually be called due, and about whether the power he wields is changing him into something he no longer recognizes.",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 106,
+            "startLine": 92
+          },
+          "similarity": 0.6021240200409546
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the information provided, no, the party does not know that Mordakhesh is Lox's patron.\n\nIt is highly likely that **Lox himself does not know the true identity of his patron.**\n\nYour notes describe Lox's benefactor as a \"mysterious patron\" and an \"unseen patron.\" This implies that their interactions have been clandestine and that Mordakhesh has kept his identity concealed from Lox.\n\n<smtcmp_block filename=\"Campaign Notes/Story/The Party.md\" language=\"markdown\" startLine=\"96\" endLine=\"106\"></smtcmp_block>\n\nThe party's only encounter with Mordakhesh was as a \"hooded figure\" during the ritual with Woe. They have no reason to connect this powerful, mysterious individual to the secret pact that Lox made.\n\nThis creates a fantastic point of dramatic irony for your campaign. Lox is actively (though unknowingly) working against the very entity that granted him his powers. The future revelation of this connection will surely be a pivotal moment for him and the party.",
+      "id": "080ef888-40c7-4795-8c96-13854c98292f",
+      "metadata": {
+        "model": {
+          "providerId": "gemini",
+          "providerType": "gemini",
+          "id": "Gemini-2.5-pro-real",
+          "model": "gemini-2.5-pro",
+          "promptLevel": 1
+        },
+        "usage": {
+          "prompt_tokens": 3604,
+          "completion_tokens": 227,
+          "total_tokens": 4747
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "What clues exist that suggest to the party that Mordakhes is lox's patron?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "## Potentially Relevant Snippets from the current vault\n```Campaign Notes/Story/Plot Web.md\n111|#### PCs: Lox & Nyx Tempest\n112|* Lox & Nyx are married. They think that they lost their daughter *Elix* in the airship attack at the hands of *Woe*.\n113|\t*  Elix was supposed to be traveling on the airship back to Nyx's homeland in the forest to spend time with her druidic side of the family.\n114|* **Lox**\n115|\t* Lox made a pact with a demon/devil to give Lox the power to enact revenge against his daughter's killer.\n116|\t\t* ***Lox Secret:***\n117|\t\t\t* His pact is with *Mordakesh*. Lox has no idea the significance of his patron, but Mordakesh will ensure Lox plays a vital role in releasing his Overlord.\n118|\t\t\t* **The Contract.**\n119|\t\t\t\t* Mordakesh approached Lox, which is very rare in the world of warlock patrons.\n120|\t\t\t\t\t* This happened before their daughter died, so Mordakesh showed Lox a vision of the future, convincing him that Lox would need this power to protect his family.\n121|\t\t\t\t* The *draconic prophecy* led Mordakesh to Lox, suggesting that he would play a pivotal role in the final part of the plan to resurrect *Rak Tulkesh*.\n122|\t\t\t\t* The contract is simple: Mordakesh provides Lox with his powers, and in return Lox will owe a single favor that will be redeemed when Mordakesh seems fit.\n123|\t\t\t\t\t* Failure to perform the favor will result in Lox losing \"what he values most\".\n124|* **Nyx**\n125|\t* Nyx is a druid, raised in the forest by her family.\n126|\t* Nyx starts 'hallucinating' visions of her daughter, perhaps past memories that play out in front of her.\n127|\t\t* Ex.: she might see a version of her daughter when she was young, who is picking flowers outside and giggling to herself\n128|\t* These hallucinations could be used to build Nyx's backstory with *Elix*.\n129|\t* Who is causing these hallucinations? *Kismet*? Why?\n130|* ***Characters motivation:***\n131|\t* After learning of the airship crash and *Elix's* probable death, Lox & Nyx embarked on a quest to find and kill her murderer.\n132|* ***Secret.***\n133|\t* *Elix* isn't actually dead, because she was never on *The Merkentile*. \n134|\t* Through visions and secret communications, Mordakhesh contacted Elix and convinced her to join him.\n135|\t* He convinced Elix that he is fighting to restore the \"natural order\" to the world, to bring nature back to the forefront.\n136|\t* Elix does truly believe that technology has ruined people, and that going back to more druidic times would be the greater good.\n137|\t* She now sits beside Mordakhesh, ignorant to his plans.\n```\n```Campaign Notes/Story/Sessions/Session 12 Plans.md\n11|### Moments & Encounters\n12|\n13|- [ ] Session Start\n14|\t- While traveling down the narrow water channel, someone in the party feels like they're being watched.\n15|\t- Woe attempts to scry on Forge. Due to him having served under Forge, Forge will have a -8 to this wisdom saving throw.\n16|\n17|- [ ] Moment 1: *Legacy Stone*\n18|\t- Geralt experiences another vision from the [[Legacy Stone]]\n19|\t- This could send Geralt into unconsciousness if his player can't make the session\n20|\t- Makes the session all about escaping to the surface and finding a healer\n21|\n22|- [ ] Moment 2: *Mordakhesh's favor*\n23|\t- While floating along through the tunnel, Lox is communicated with by his Patron, who he does not know is Mordakhesh.\n24|\t- The scenery changes to reflect a beautiful garden set in the courtyard of a stone castle. Colorful flowers blow in the wind. A cloaked figure stands tall with his back to Lox, his hands clasped behind his back. His hands are his only feature not shrouded in a cloak, and they appear to be human.\n25|\t- Mordakhesh requests a favor from Lox.\n26|\t\t- *\"During your travels you will encounter a... 'thing' that calls itself Vorak.\" The origin of this creature is of no import, as it is but a shell of its former glory. Normally I would pay no heed to such a disappointment, however within that outer shell lives a... prize. A prize that, should you recover it and bring it to me, may sooth your grief and repair your... broken heart. \"\"*\n27|\t\t- *Your patron takes a look to his left, then to his right, as if taking in his surroundings for the first time since you've been here. \"Lords, I hate places like this. Its one of mankind's greatest illusions, to build a structure as grand as this out of stone and brick, then claim these structures could stand for a millennia. 'Stone can outlast time itself', they would say.* \n28|\t\t- *What they don't understand is that its not the stone that gives way, allowing intruders into one's castle. Its the decay of order that destroys civilizations. Because a wall requires maintenance, requires order. Without that, a wall of stone will always decay into nothing but a pile of rocks.*\n29|\t\t* *Find the creature and return to me what lies within the shell, and you will get your prize.*\n```\n```Campaign Notes/Story/The Party.md\n92|## **Lox Tempest**\n93|\n94|Lox Tempest's life was forever changed by a single moment. As a husband to Nyx and father to their daughter Elix, Lox's world revolved around his small, cherished family.\n95|\n96|Before tragedy struck, Lox was approached by a mysterious patron who showed him disturbing **visions of the future** - glimpses of danger that would supposedly threaten his family. Convinced by these prophecies and desperate to protect those he loved, Lox made a **pact** that would grant him power beyond ordinary means.\n97|\n98|The terms were simple yet ominous: Lox would receive his powers, and in return, he would owe a single **favor** to be redeemed when his patron deemed fit. The consequence for failing to perform this favor was equally clear - Lox would lose \"what he values most.\"\n99|\n100|When news came that **The Merkantile** had been attacked and his daughter Elix was presumed dead among the passengers, the power he had gained seemed a cruel mockery of his intentions.\n101|\n102|Now consumed by grief and rage, Lox travels alongside his wife Nyx. Their shared loss has bound them in a quest for vengeance, though each pursues it through different means. While Nyx channels her pain through her druidic connection to nature, Lox wields the **dark powers** granted by his pact – abilities that sometimes frighten even him.\n103|\n104|Though the full extent of his capabilities remains to be seen, whispers follow him - of enemies who fall to unseen forces, of bargains struck in moments of desperation. The power flows through him like a cold current, always reminding him of its price.\n105|\n106|Despite the darkness that has entered his life, Lox remains driven by love. His devotion to finding his daughter's killer and protecting what remains of his family gives him purpose. Yet questions haunt him in quiet moments - about the true nature of his unseen patron, about the favor that will eventually be called due, and about whether the power he wields is changing him into something he no longer recognizes.\n```\n\n\n\nWhat clues exist that suggest to the party that Mordakhes is lox's patron?\n\n"
+        }
+      ],
+      "id": "f8948bff-9ddf-4b62-9db5-90fabfc03aac",
+      "mentionables": [],
+      "similaritySearchResults": [
+        {
+          "id": 6948,
+          "path": "Campaign Notes/Story/Plot Web.md",
+          "mtime": 1751820948119,
+          "content": "#### PCs: Lox & Nyx Tempest\n* Lox & Nyx are married. They think that they lost their daughter *Elix* in the airship attack at the hands of *Woe*.\n\t*  Elix was supposed to be traveling on the airship back to Nyx's homeland in the forest to spend time with her druidic side of the family.\n* **Lox**\n\t* Lox made a pact with a demon/devil to give Lox the power to enact revenge against his daughter's killer.\n\t\t* ***Lox Secret:***\n\t\t\t* His pact is with *Mordakesh*. Lox has no idea the significance of his patron, but Mordakesh will ensure Lox plays a vital role in releasing his Overlord.\n\t\t\t* **The Contract.**\n\t\t\t\t* Mordakesh approached Lox, which is very rare in the world of warlock patrons.\n\t\t\t\t\t* This happened before their daughter died, so Mordakesh showed Lox a vision of the future, convincing him that Lox would need this power to protect his family.\n\t\t\t\t* The *draconic prophecy* led Mordakesh to Lox, suggesting that he would play a pivotal role in the final part of the plan to resurrect *Rak Tulkesh*.\n\t\t\t\t* The contract is simple: Mordakesh provides Lox with his powers, and in return Lox will owe a single favor that will be redeemed when Mordakesh seems fit.\n\t\t\t\t\t* Failure to perform the favor will result in Lox losing \"what he values most\".\n* **Nyx**\n\t* Nyx is a druid, raised in the forest by her family.\n\t* Nyx starts 'hallucinating' visions of her daughter, perhaps past memories that play out in front of her.\n\t\t* Ex.: she might see a version of her daughter when she was young, who is picking flowers outside and giggling to herself\n\t* These hallucinations could be used to build Nyx's backstory with *Elix*.\n\t* Who is causing these hallucinations? *Kismet*? Why?\n* ***Characters motivation:***\n\t* After learning of the airship crash and *Elix's* probable death, Lox & Nyx embarked on a quest to find and kill her murderer.\n* ***Secret.***\n\t* *Elix* isn't actually dead, because she was never on *The Merkentile*. \n\t* Through visions and secret communications, Mordakhesh contacted Elix and convinced her to join him.\n\t* He convinced Elix that he is fighting to restore the \"natural order\" to the world, to bring nature back to the forefront.\n\t* Elix does truly believe that technology has ruined people, and that going back to more druidic times would be the greater good.\n\t* She now sits beside Mordakhesh, ignorant to his plans.",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 137,
+            "startLine": 111
+          },
+          "similarity": 0.6692192319053683
+        },
+        {
+          "id": 6898,
+          "path": "Campaign Notes/Story/Sessions/Session 12 Plans.md",
+          "mtime": 1737048745691,
+          "content": "### Moments & Encounters\n\n- [ ] Session Start\n\t- While traveling down the narrow water channel, someone in the party feels like they're being watched.\n\t- Woe attempts to scry on Forge. Due to him having served under Forge, Forge will have a -8 to this wisdom saving throw.\n\n- [ ] Moment 1: *Legacy Stone*\n\t- Geralt experiences another vision from the [[Legacy Stone]]\n\t- This could send Geralt into unconsciousness if his player can't make the session\n\t- Makes the session all about escaping to the surface and finding a healer\n\n- [ ] Moment 2: *Mordakhesh's favor*\n\t- While floating along through the tunnel, Lox is communicated with by his Patron, who he does not know is Mordakhesh.\n\t- The scenery changes to reflect a beautiful garden set in the courtyard of a stone castle. Colorful flowers blow in the wind. A cloaked figure stands tall with his back to Lox, his hands clasped behind his back. His hands are his only feature not shrouded in a cloak, and they appear to be human.\n\t- Mordakhesh requests a favor from Lox.\n\t\t- *\"During your travels you will encounter a... 'thing' that calls itself Vorak.\" The origin of this creature is of no import, as it is but a shell of its former glory. Normally I would pay no heed to such a disappointment, however within that outer shell lives a... prize. A prize that, should you recover it and bring it to me, may sooth your grief and repair your... broken heart. \"\"*\n\t\t- *Your patron takes a look to his left, then to his right, as if taking in his surroundings for the first time since you've been here. \"Lords, I hate places like this. Its one of mankind's greatest illusions, to build a structure as grand as this out of stone and brick, then claim these structures could stand for a millennia. 'Stone can outlast time itself', they would say.* \n\t\t- *What they don't understand is that its not the stone that gives way, allowing intruders into one's castle. Its the decay of order that destroys civilizations. Because a wall requires maintenance, requires order. Without that, a wall of stone will always decay into nothing but a pile of rocks.*\n\t\t* *Find the creature and return to me what lies within the shell, and you will get your prize.*",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 29,
+            "startLine": 11
+          },
+          "similarity": 0.6442239724547619
+        },
+        {
+          "id": 6823,
+          "path": "Campaign Notes/Story/The Party.md",
+          "mtime": 1741913001499,
+          "content": "## **Lox Tempest**\n\nLox Tempest's life was forever changed by a single moment. As a husband to Nyx and father to their daughter Elix, Lox's world revolved around his small, cherished family.\n\nBefore tragedy struck, Lox was approached by a mysterious patron who showed him disturbing **visions of the future** - glimpses of danger that would supposedly threaten his family. Convinced by these prophecies and desperate to protect those he loved, Lox made a **pact** that would grant him power beyond ordinary means.\n\nThe terms were simple yet ominous: Lox would receive his powers, and in return, he would owe a single **favor** to be redeemed when his patron deemed fit. The consequence for failing to perform this favor was equally clear - Lox would lose \"what he values most.\"\n\nWhen news came that **The Merkantile** had been attacked and his daughter Elix was presumed dead among the passengers, the power he had gained seemed a cruel mockery of his intentions.\n\nNow consumed by grief and rage, Lox travels alongside his wife Nyx. Their shared loss has bound them in a quest for vengeance, though each pursues it through different means. While Nyx channels her pain through her druidic connection to nature, Lox wields the **dark powers** granted by his pact – abilities that sometimes frighten even him.\n\nThough the full extent of his capabilities remains to be seen, whispers follow him - of enemies who fall to unseen forces, of bargains struck in moments of desperation. The power flows through him like a cold current, always reminding him of its price.\n\nDespite the darkness that has entered his life, Lox remains driven by love. His devotion to finding his daughter's killer and protecting what remains of his family gives him purpose. Yet questions haunt him in quiet moments - about the true nature of his unseen patron, about the favor that will eventually be called due, and about whether the power he wields is changing him into something he no longer recognizes.",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 106,
+            "startLine": 92
+          },
+          "similarity": 0.6047520774259219
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Excellent question. Based on your notes, there are several subtle but significant clues that could lead the party, and Lox specifically, to connect his mysterious patron with Mordakhesh.\n\nCurrently, these clues are separate threads of information. The connection will only become apparent when the party begins to compare notes on what they've seen and what Lox has experienced personally.\n\nHere are the key clues:\n\n### 1. The Cloaked/Hooded Figure\n\nThis is the most direct visual link. The party saw a \"hooded figure\" during the ritual with Woe. In the vision where Lox is given his task, his patron appears as a \"cloaked figure.\" While not definitive proof, the similar mysterious, concealed appearance is a strong parallel.\n\n<smtcmp_block filename=\"Campaign Notes/Story/Sessions/Session 12 Plans.md\" language=\"markdown\" startLine=\"23\" endLine=\"24\"></smtcmp_block>\n\n### 2. A Shared Interest in Vorak\n\nLox's patron explicitly tasks him with finding a creature named \"Vorak\" to retrieve a \"prize\" from within it.\n\n<smtcmp_block filename=\"Campaign Notes/Story/Sessions/Session 12 Plans.md\" language=\"markdown\" startLine=\"26\" endLine=\"29\"></smtcmp_block>\n\nYour own notes establish that Vorak is being manipulated by Mordakhesh. If the party discovers through other means that Mordakhesh has a connection to Vorak, they could realize that Lox's patron and Woe's master are interested in the same individual, which is too specific to be a coincidence.\n\n### 3. The Patron's Philosophy on Order and Decay\n\nDuring their meeting, Lox's patron delivers a short monologue about how the \"decay of order\" is what truly destroys civilizations, not the failure of materials like stone.\n\n<smtcmp_block filename=\"Campaign Notes/Story/Sessions/Session 12 Plans.md\" language=\"markdown\" startLine=\"27\" endLine=\"28\"></smtcmp_block>\n\nThis provides a glimpse into the patron's worldview. As the party learns more about Mordakhesh's goals—sowing chaos to free Rak Tulkesh and tear down the current age—they may recognize this philosophy. Mordakhesh's actions are a large-scale application of the very \"decay of order\" the patron spoke of.\n\n### 4. The Ambiguous Promise and Elix's True Fate\n\nThis is the most potent point of dramatic irony. The patron promises Lox a \"prize\" that may \"sooth your grief and repair your... broken heart.\" The clear implication is that this prize relates to his daughter, Elix.\n\nYour notes reveal the secret: Elix is not dead. She was convinced to join Mordakhesh and now sits by his side.\n\n<smtcmp_block filename=\"Campaign Notes/Story/Plot Web.md\" language=\"markdown\" startLine=\"133\" endLine=\"137\"></smtcmp_block>\n\nTherefore, Mordakhesh is the *only one* who can deliver on this promise to reunite Lox with his daughter. If the party ever discovers that Elix is alive and with Woe's master, and they know Lox's patron made this specific offer, they will have undeniable proof that they are the same person.",
+      "id": "1a523992-223a-4bc4-b417-2278ac1e2579",
+      "metadata": {
+        "model": {
+          "providerId": "gemini",
+          "providerType": "gemini",
+          "id": "Gemini-2.5-pro-real",
+          "model": "gemini-2.5-pro",
+          "promptLevel": 1
+        },
+        "usage": {
+          "prompt_tokens": 5678,
+          "completion_tokens": 714,
+          "total_tokens": 8152
+        }
+      }
+    }
+  ],
+  "createdAt": 1751994426536,
+  "updatedAt": 1751998321526,
+  "schemaVersion": 1
+}

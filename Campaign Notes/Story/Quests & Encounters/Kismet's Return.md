@@ -43,8 +43,6 @@
 - **Imagery**: A lyre, distant thunder, and a quiet forest
 - **Key Points**: Mention a mysterious melody or vision that guides him. Acknowledge an old vow or obligation resurfacing, offering redemption or ruin.
 
-## Session Context and Integration
-
 ### Background
 
 Consider the intertwining plot elements such as the Boromar Clan's activities and the Red Cloak Battalion's actions. Given the existing sessions, the readings should subtly reflect these narrative threads, creating an anticipation for future events and decisions.

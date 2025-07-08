@@ -1,0 +1,51 @@
+{
+  "id": "6b9804db-e2bf-4d45-b0b9-93f24e4ce799",
+  "title": "What do the palyers know about Vorak?",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "What do the palyers know about Vorak?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "020d1191-3f4f-48a5-b643-1d204ad5dfb9",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Campaign Notes/Story/Sessions/Session 18 Recap.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1751993828652,
+  "updatedAt": 1751993828652,
+  "schemaVersion": 1
+}
