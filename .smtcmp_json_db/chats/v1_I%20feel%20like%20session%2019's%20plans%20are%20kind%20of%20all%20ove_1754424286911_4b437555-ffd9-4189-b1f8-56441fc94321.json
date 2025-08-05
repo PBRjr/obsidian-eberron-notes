@@ -1,0 +1,313 @@
+{
+  "id": "4b437555-ffd9-4189-b1f8-56441fc94321",
+  "title": "I feel like session 19's plans are kind of all ove",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "I feel like session 19's plans are kind of all over the place and I need help streamlining them. My vision is that the party will make it to Galethspyre, see whats going on, have small opportunities to help the townsfolk but can't yet fix their problem (the red mists). I also want to be prepared for them to explore the town a bit more broadly and have some clues or foreshadowing to drop about Vorak and perhaps the larger plot of this arc. I also need to be ready if they decide to go to the main Red Hands Gang's camp and confront the Brother's Giant, whether that be violent or not. ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "## Potentially Relevant Snippets from the current vault\n```Campaign Notes/Story/Sessions/Session 17 Recap.md\n19|Going to either go to Wroat to find Aeren & Baelin OR go to Galthspyre to investigate\n20|* Need to develop both options\n21|* Wroat:\n22|\t* What does the city feel like? What quests will the party encounter?\n23|\t* Need to better understand the main theme of the city - what central tension plagues the city when the party arrives? This will define the feeling the players get when they enter.\n24|* Galethspyre & the bandit camp\n25|\t* Refine the bandit group - who are they? Pesonality, theme\n26|\t* Traditional mafia gangers - could be fun, easy to roleplay, fun twist (traditionally violent monsters acting in a well-organized Italian mob)\n27|\t* Galethspyre - Destroyed town, probably a few weeks ago\n28|\t\t* Red mist permeates the outside of the town at night, the inside of broken buildings the only safe place.\n29|\t\t* Any creature caught in the mists at night become fueled by rage, attacking anything in sight\n```\n```Campaign Notes/Story/Sessions/Session 19 Plans.md\n20|- [ ] Moment 1: _Approaching Galethspyre_\n21|\t- As the party gets closer to the town, the environment becomes unsettling.\n22|\t- **Environmental Clues:** They find abandoned refugee camps, warning totems made of bone and red cloth, and roads defaced with crude warnings like \"FEAR THE BROTHERS GIANT.\"\n23|\t- **NPC Encounter:** They can meet **Marta Vex**, the traumatized former Watch Captain of Galethspyre, hiding in some ruins. She can provide information about the \"Red Mist\" that descends at night, the madness it causes, and the \"Red Hands\" bandits who have moved in.\n24|\n25|- [ ] Encounter 1: _Galethspyre's Welcome_\n26|\t- The town is in ruins and eerily quiet during the day. The party will be watched by both hidden survivors and bandit lookouts.\n27|\t- ***Enemy Roster.***\n28|\t\t- [[Humanoid - Bugbear]] x2\n29|\t\t- [[Beast - Worg]] x2\n30|\t\t- [[Humanoid - Goblin Boss]] x1 (Scout leader)\n31|\n32|- [ ] Moment 2: *Bernard McOogle*\n33|\t- Bernard is hold up in Galethspyre after he traveled here with his mentor Kynes Lawford to pick up supplies and offer services.\n34|\t- Kynes was taken by the Red Hands Gang for his value as a powerful healer.\n```\n```Campaign Notes/Story/Sessions/Session 18 plans.md\n1|### Outline\n2|\n3|- Decision point: Bandit camp vs Wroat pursuit\n4|- Galethspyre investigation (destroyed by Rageblight)\n5|- Red Hands Gang\n6|- [[Wroat]]\n```\n```Campaign Notes/Story/Sessions/Session 19 Plans.md\n1|### Outline\n2|- Aftermath of the Purification Squad\n3|- An Offer from a Healer\n4|- Approaching Galethspyre\n5|- Exploring the Blighted Town\n```\n```Campaign Notes/Story/Sessions/Session 19 Plans.md\n40|### Location Details\n41|\n42|Place 1: _Galethspyre_\n43|- A small fishing village devastated by the Rageblight a few weeks ago. Buildings are collapsing, and a sense of dread hangs in the air.\n44|- **Key Locations:**\n45|\t- *The Gilded Gill Apothecary:* A two-story building, mostly intact but ransacked. \n46|\t- *The Broken Mast Tavern:* Now a makeshift base for the Red Hands Gang.\n47|\t- *Town Hall:* Contains records of the town's slow descent into madness before its fall.\n```\n```Campaign Notes/Story/Sessions/Session 18 plans.md\n28|- [ ] NPC Developments\n29|\t- Aeren d'Cannith\n30|\t\t- After his allegiance to the party is exposed, Aeren is worried that House Cannith will go after Miri and [[Shavalant]] to get to him.\n31|\n32|- [ ] Moment 1A: _Approaching Galethspyre_ \n33|\t- **Progressive Environmental Clues:**\n34|\t\t- Mile marker defaced with \"TURN BACK\" and \"FEAR THE BROTHERS GIANT\" scratched over town name\n35|\t\t- Abandoned refugee camp with recent campfire, scattered belongings\n36|\t\t- Warning totems (crude wooden stakes with red cloth) forming perimeter around town\n37|\t- **Marta Vex:** Former Watch Captain hiding in roadside ruins\n38|\n39|- [x] Moment 1B: _Racing to Wroat_\n40|- Wroat is a 2 days journey on foot\n41|\t- **Random Encounters.**\n```\n```Campaign Notes/Story/Sessions/Session 19 Plans.md\n49|### People\n50|\n51|Person 1: *Korven Thale*\n52|*Session Information*\n53|- Captured by the party. He is a zealot but not suicidal. He can be interrogated for information on the Church's knowledge of the FKD and their fear of the Lords of Dust.\n54|*Plot Information*\n55|- His capture is a significant blow to the Church's local operations. His superiors will not be pleased and may escalate their methods to retrieve the FKD fragment.\n56|\n57|Person 2: *Kynes Lawford*\n58|*Session Information*\n59|- A skilled but eccentric healer who is the party's only hope of saving Geralt. He is more interested in rare herbs than politics or danger.\n60|*Plot Information*\n61|- He is unaffiliated with any major faction but his skills are rare and valuable, making him a person of interest to many.\n62|\n63|Person 3: *Marta Vex*\n64|*Session Information*\n65|- The sole surviving authority figure from Galethspyre. Traumatized but resilient, she can offer tactical information about the town layout, survivor locations, and bandit patrols.\n66|*Plot Information*\n67|- She witnessed the Rageblight's arrival and can describe a large, monstrous figure leading the attack, providing a clue about Vorak's nature.\n68|\n69|### Plot Actions\n70|\n71|Action 1: *Vorak's Influence (The Rageblight)*\n72|- Goal: N/A (passive effect)\n73|- The Rageblight zone around Galethspyre acts as a constant environmental threat. The red mist at night will turn the town into a free-for-all warzone, making simple tasks incredibly dangerous and complicating any fight the party gets into.\n```\n```Campaign Notes/Story/Sessions/Session 18 Recap.md\n24|Woke up in camp and were confronted by the Purification Squad\n25|- Fought the squad, killed everyone except the deva and Korvin Thale. \n26|- The party freed the deva, who flew away at the end.\n27|- Thale surrendered to the party.\n28|\n29|TODO:\n30|- Determine loot & XP from the purification squad encounter\n31|\t- Thale's scepter-scythe?\n32|\t- Thorin Voss's armor - +1 plate & something else?\n33|\t- money money money\n34|\n35|What will the party do?\n36|- Travel towards the Byeshk Mountains with a pit stop in Galethspyre\n37|\t- Need to develop ways for the party to find a healer\n38|\t- Can reuse the healer encounter & side-quest from Wroat\n```\n```Campaign Notes/Factions/Red Hands Gang.md\n1|Run by the brother giant:\n2|* *Garspaachi* (frost giant)\n3|- *Bruno* (fire giant)\n4|\n5|Desires:\n6|* A new place to base operations out of\n7|* A consistent source of work\n8|* Could be convinced to return to the Icehorn Mountains\n9|\n10|* Used to run operations out of the [[Plot Web#PC Bjorn \"Bearwolf\" Ulfr|Icehorn Mountains]], however after [[Plot Web#Hrothgar|Hrothgar]] came to power and started to corrupt the land nearby, the Red Hands Gang left.\n11|\t* May offer information on Hrothgar's operations\n12|\t* Knowledge:\n13|\t\t* Corrupted barbarians have attacked the gang in the past\n14|\t\t* They were empowered by a dark energy\n15|\t\t* Barbarians were difficult to kill\n16|\n17|* Looking for new territory to operate out of that will offer opportunity for money.\n18|\n19|* They have temporarily settled in an old mine near [[Galethspyre]] and are trying to exploit the town\n20|\t* The Rageblight mist has made this difficult, and they are preparing to move once again.\n```\n```Campaign Notes/Story/Sessions/Session 16 Plans.md\n12|### Moments & Encounters\r\n13|\r\n14|- [x] Session Start: *Crashing HQ*\r\n15|- Skill challenge to escape the HQ\r\n16|\r\n17|- [x] Moment 1: *A moment to breath*\r\n18|- The party finally gets a moment to rest after escaping the collapse of the HQ and the subsequent destruction of the city below.\r\n19|- *Exposition.* See people.\r\n20|- If the party is looking for a way out of the city:\r\n21|\t- The city will be on lockdown while the Sharn Watch searches for those involved in the HQ collapse\r\n22|\t- Aaron knows someone that can get them out. *See people*\r\n23|\r\n24|- [x] Encounter 1: *Cannith search party*\r\n25|\t- *If Forge's player is present, this might take place at Aeren's workshop*\r\n26|\t- A group of thugs sent by House Cannith has been tracking the party since they broke into the [[Wolfsbane Workshop]] and is looking for Forge and Geralt.\r\n27|\t- They want Forge due to his backstory as a Cannith creation and his knowledge of the Creation Forges\r\n28|\t- They want Geralt due to the schematics he holds\r\n29|\t- *Sylvan* - Trickshot and squad leader\r\n30|\t\t- Bad relationship with Aeren, wants to bring him in after he spots them with the party.\r\n31|\r\n32|- [x] Moment 2: *Glimpse of the Rageblight*\r\n33|\t- News arrives of the Rageblight destroying another village (Galethspyre) that will be on the party's way towards the Byeshk Mountains\r\n34|\t- *OR* the party encounters a refugee of that village that recounts their experiences with the Rageblight\r\n35|\t\t- This village was Galethspyre, a small fishing village off the Dagger river.\r\n36|\r\n37|- [ ] Moment 3: *Bjorn's contact*\n```\n```Campaign Notes/Story/Sessions/Session 18 plans.md\n70|- [ ] Moment 3: Red Hands Gang\n71|\t- **Location:** Old Thane's mine north of Galethspyre\n72|\t- **Enemy Roster:**\n73|\t    - *Garspaachi* (frost giant)\n74|\t    - *Bruno* (fire giant)\n75|\t    - Misc. Goblins, worgs, bugbears, hill giants\n76|\t- **Key Discovery:** Garspaachi & Bruno are known as \"The Brothers Giant\" and have an 'Italian mob' way about them. They're willing to bargain.\n77|\t- \n78|\t- **Boss Fight.**\n79|\t\t- Takes place in the den of the Brothers Giant.\n80|\t\t- Massive cavern in deep in the old mine. Icy stalactites poke up from the rocky ground, which is littered by deep lava pools.\n```\n```Campaign Notes/Story/Sessions/Session 18 Recap.md\n1|Party travels on foot towards Wroat\n2|- On the way they find a small camp of Galethspyre refugees\n3|- 3 are alive, 1 is dead from infection\n4|- The party helps the refugees, takes them along the rest of the way to Wroat\n5|\n6|Party arrives at Wroat, the refugees leave into the slum city outside Wroat's walls\n7|- The party moves through the dense crowd of people, and sees the massive lines leading into the city gates\n8|- They travel up to the gates and try to convince a guard to let them in\n9|\n10|Party is taken into the city and placed in the jail for interrogation after the guard sees that they are wanted for the recent terrorist attacks in Sharn\n11|- They are taken into an interrogation room and locked in\n12|- Constable Smith (halfling) enters and interrogates the party\n13|- They hogtie Smith\n14|- They escaped the jail and stole constable Smith's papers, and rescued Aeren & Baelin\n15|- They climbed the walls and left the city, headed towards Galethspyre\n16|\n17|Geralt had his vision, spoke with his mother\n18|- She revealed that Vorak was part of a failed experiment with an early prototype of the Steelhardt, and that it started to drive him crazy\n19|- She revealed that Varyn is somewhere at the southern peak of the Byeshk Mountains, where a path to his home leads up from an unnamed town at the base of the Mountain\n20|- She urged him to find Varyn.\n21|- He has 4 days to be healed before his mother's consciousness corrupts his mind.\n22|- He will be taken over by his mother's consciousness on the 4th of Eyre\n```\n```Campaign Notes/Story/Sessions/Session 17 Plans.md\n56|### Location Details\n57|\n58|Place 1: *Name*\n59|- X (brief and relevant to the session)\n60|\n61|Place 2: *Name*\n62|- X\n63|\n64|### People\n65|\n66|Person 1: *Name*\n67|*Session Information*\n68|- X (information relevant to session)\n69|*Plot Information*\n70|- X (information relevant to overall plot)\n71|\n72|Person 2: *Name*\n73|*Session Information*\n74|- X (information relevant to session)\n75|*Plot Information*\n76|- X (information relevant to overall plot)\n77|\n78|### Plot Actions\n79|\n80|Action 1: *Name of significant NPC(s) or organization(s) involved*\n81|- Goal: X (immediate goal of involved person/org)\n82|- X (what that person/org is doing to accomplish that goal, assuming PCs don't interfere)\n83|\n84|Action 2: *Name of significant NPC(s) or organization(s) involved*\n85|- Goal: X\n86|- X\n87|\n88|### Additional Notes\n89|\n90|**Bandits (Red Bred Robbers)**\n91|- More info about bandit group\n92|- Symbol is a bloody handprint\n```\n```Campaign Notes/Story/Sessions/Session 13 Plans.md\n21|- [ ] Moment 1: *Meeting with Kazrak*\n22|- **Kazrak** and the Red Cloak Battallion arrested **Garhorn** while they were pursuing the party, and he is now being held and interrogated.\n23|- Garhorn is cooperating, and has given Kazrak very valuable intel about the Boromar Clan, including...\n24|\t- **Aaron D'Cannith** and a **Professor Baelin ir'Torn** are being held at their HQ, rumored to being forced in working on something important involving a unique fragment of a **Dragonshard.**\n25|\t- **Saidan Boromar died 2 months ago**, and his disappearance was covered up by his closest advisers.\n26|\t- His 2 best men, **Halak and Castar**, have different visions of how the clan should continue, and who should lead it.\n27|\t- Tensions have been building within the Boromar Clan, between those who follow Halak and those who follow Castar.\n28|- Garhorn\n29|\t- Gives intel that there is a 'civil war' going on within the Clan\n30|\t- Party must stage an attack on one of the inner groups and make it look like the other did it\n31|\t- This will cause actual fighting to break out, and the HQ will be easier to infiltrate\n32|\n33|- [ ] Moment 2: *Quest Before Infiltration (staging an attack)\n34|- The party must choose which group to kill (Castar or Halak)\n35|- They must then kill that group and make it look like an attack from the other group\n```\n```Campaign Notes/Story/Sessions/Session 17 Plans.md\n1|**TODO**\n2|MAPS\n3|- Lightning rail robbery\n4|\t- https://www.czepeku.com/fantasy/maps/desert-canyon/lighting-rail-day\n5|- Main bandit camp\n6|\t- https://www.czepeku.com/fantasy/maps/secret-cave-hideout/original-day\n7|- Bandit FOB for robberies\n8|\t- https://www.czepeku.com/fantasy/maps/smugglers-fen/original-day\n9|\n10|**IDEAS**\n11|Whenever the party finds themselves in a Rageblight zone, hand notes to each player secretly asking them to roll a wisdom/charisma saving throw and say the number.\n12|\t- On a fail, they become more irritable. Hand out another set of notes out with something they find irritating about another player, or something that would make them angry at each other (ex.: \"Draven knows something about your past that he isn't telling you\" or \"You think Geralt is planning to sabotage your relationship with the party\")\n13|\n14|Ultimate BBEG of the bandits\n15|- Frost Giant Storm Hurler\n16|\n17|### Outline\n18|- The bandits' camp is setup near the town of [[Galethspyre]], which the Rageblight recently devastated\n19|- The bandits are opportunistic, and started moving forces into Galethspyre to take over and exploit the survivors.\n20|- Due to the *Rageblight zone*, people in the town are more aggressive, shit is quiet here until its not, and it gets worse at night. People often attack on sight, both the gang and the townsfolk.\n```\n```Campaign Notes/Story/Sessions/Session Index.md\n12|*   **Session 10:** The party escapes a warehouse raid by the Sharn Watch, only to be trapped in a collapsing building by their leader.\r\n13|*   **Session 11:** Plummeting into the depths of Old Sharn, the party defeats a horrifying Plague Giant and escapes through the sewers with their captor, Kazrak.\r\n14|*   **Session 12:** The party finds refuge in the underground city of Shamukaar, where Geralt has a vision and Lox is contacted by his mysterious patron.\r\n15|*   **Session 13:** The party accepts a mission from Kazrak to destabilize the Boromar Clan by attacking one of its splinter factions.\r\n16|*   **Session 14:** During a week of downtime, the party negotiates with the Church of the Silver Flame, and several members receive cryptic personal messages.\r\n17|*   **Session 15:** The party infiltrates the Boromar Clan's floating headquarters, rescues two prisoners, and is confronted by Woe, who sends the base crashing down.\r\n18|*   **Session 16:** After surviving the fall of the Boromar HQ, the party finds Aeren's workshop ransacked and is smuggled out of Sharn on a lightning rail.\r\n19|*   **Session 17:** Bandits ambush the party's train, but are defeated, leading the party to a map pointing towards the Rageblight-devastated town of Galethspyre.\r\n20|*   **Session 18:** The party travels to Wroat, gets arrested and escapes with their allies, and defeats a Church of the Silver Flame kill squad.\n```\n```Campaign Notes/Story/Sessions/Session 13 Plans.md\n1|ToDo:\n2|* Plan out the encounters/locations for either Boromar group they decide to attack\n3|* What about the Creation Forge?\n4|* Create \"Target packets\" about the two clans, detailing information about those they may encounter.\n5|### Outline\n6|- Recap Geralt's Vision\n7|- Contest of Strength\n8|- Discussion with Kazrak & Garhorn\n9|- Encounter with Boromar Clan\n```\n```Campaign Notes/Story/Sessions/Session 4 Recap.md\n11|The party returned to Shavalant soon after, and went to talk to Miri.\n12|- The townsfolk they passed were quite startled by the party and their appearence due to their recent fight with the gang members.\n13|- Miri was concerned at how they handled it, though she was grateful they helped at all.\n14|\t- She is afraid that Garhorn will send for more muscle and come back to burn the town to the ground.\n15|\t- She relays to the party that she spoke with her mentor Aeren d'Cannith, and that he needs the names of the party so he can aid them through the Sharn gates once they arrive.\n16|\t- Miri also told the PCs that he was intrigued about Geralt's steelhardt schematics, though he wouldn't reveal anything over sending stone.\n17|\t- (Aeren will recognize Geralt's last name and will begin looking into his family further, suspecting they are connected to House Cannith's involvement in the Day of Mourning.)\n18|- Sheriff Cromley showed up at Miri's workshop during this conversation, very irate. He asked the party to leave, and payed for another horse they could ride out of town.\n19|\t- He is concered for the same reasons Miri is, though he is less grateful towards the party than her.\n20|- The PCs stopped by Prissy's apothecary on the way out, and she gave the party a potion of fire breath and potion of growth as thanks for delivering news of her son's passing (which happened in session 1).\n```\n```Campaign Notes/Story/Sessions/Session 16 Plans.md\n35|- This village was Galethspyre, a small fishing village off the Dagger river.\r\n36|\r\n37|- [ ] Moment 3: *Bjorn's contact*\r\n38|\t- Bjorn's contact is a goliath female that can be found in Lower Dura\r\n39|\t- Her name is *Rutha Rockfist*\r\n40|\t\t- She can be found frequenting *Marquet's Meat Market* in her free time\r\n41|\t\t- OR shining shoes during working hours at *Rockfist Boot Booth*\r\n42|\t- She was one of the few that left the clan shortly after Bjorn was usurped, and before Hrothgar could gain power over them. \r\n43|\t- *Exposition.*\r\n44|\t\t- The old way to the Mountains has been sealed by Hrothgar, isolating the clan from the outside world.\r\n45|\t\t- No one has had any contact with the clan for over a year.\r\n46|\t\t- Those who have attempted to revisit found the nearby land corrupted, haunted by strange and dangerous magical affects/creatures.\r\n47|\r\n48|- [x] Moment 4: *Smuggled*\r\n49|\t- Brother Tiron has a contact at House Orion that can smuggle the party out via lightning rail\r\n50|\t- He will stash them in crates and put them into a freight car headed for *Wroat*\r\n51|\r\n52|- [ ] Session End: *Train Robbery*\r\n53|\t- A group of low-level bandits created an ambush point at a bend in the rail with an obstacle (tree)\r\n54|\t- They board the freight car while the train is stopped, in hopes of robbing a few pieces of cargo.\r\n55|\t- These bandits are from the remaining survivors of a small town that the *Rageblight* devastated.\n```\n```Campaign Notes/Story/Sessions/Session 4 Plans.md\n8|### Moments & Encounters\n9|\n10|**Session Start**\n11|\n12|- Waking up at the Sleepy Owl Inn early in the morning, may encounter Oak Dryfire outside messing with the Ankheg head as they leave.\n13|\n14|**Moment 1:** [[Boromar Gang Campsite]]\n15|\n16|- The party confronts the [[Boromar Gang Members]].\n17|- They notice a small trail of oil leading to the campsite.\n18|\n19|**Moment 2:** Aftermath of Campsite Encounter\n20|\n21|- Garhorn may try to send a warning to his handler via his sending stone\n22|- The [[Shavalant|town]] will be very thankful, though Sheriff Gromley will be angry and scared that the gang will return and burn the town.\n23|- Prissi will gift the party a *Potion of Fire Breath* & *Potion of Growth*.\n24|\n25|**Moment 3:** Ankheg Head Consequences\n26|\n27|- The party sees the consequences of throwing the Ankheg head away.\n28|- A young orc boy named Oak Dryfire has begun to drag the head around like a pet. He also recognizes Draven as the Knight of the North.\n29|- Provide opportunities for humor and light-hearted roleplay, allowing the party to engage with the locals in unexpected ways.\n```\n\n\n\nI feel like session 19's plans are kind of all over the place and I need help streamlining them. My vision is that the party will make it to Galethspyre, see whats going on, have small opportunities to help the townsfolk but can't yet fix their problem (the red mists). I also want to be prepared for them to explore the town a bit more broadly and have some clues or foreshadowing to drop about Vorak and perhaps the larger plot of this arc. I also need to be ready if they decide to go to the main Red Hands Gang's camp and confront the Brother's Giant, whether that be violent or not. \n\n"
+        }
+      ],
+      "id": "493f5935-43ad-4be0-aed4-5461795d7bde",
+      "mentionables": [],
+      "similaritySearchResults": [
+        {
+          "id": 1515,
+          "path": "Campaign Notes/Story/Sessions/Session 17 Recap.md",
+          "mtime": 1748198448702,
+          "content": "Going to either go to Wroat to find Aeren & Baelin OR go to Galthspyre to investigate\n* Need to develop both options\n* Wroat:\n\t* What does the city feel like? What quests will the party encounter?\n\t* Need to better understand the main theme of the city - what central tension plagues the city when the party arrives? This will define the feeling the players get when they enter.\n* Galethspyre & the bandit camp\n\t* Refine the bandit group - who are they? Pesonality, theme\n\t* Traditional mafia gangers - could be fun, easy to roleplay, fun twist (traditionally violent monsters acting in a well-organized Italian mob)\n\t* Galethspyre - Destroyed town, probably a few weeks ago\n\t\t* Red mist permeates the outside of the town at night, the inside of broken buildings the only safe place.\n\t\t* Any creature caught in the mists at night become fueled by rage, attacking anything in sight",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 29,
+            "startLine": 19
+          },
+          "similarity": 0.7072625588801238
+        },
+        {
+          "id": 1983,
+          "path": "Campaign Notes/Story/Sessions/Session 19 Plans.md",
+          "mtime": 1754423810285,
+          "content": "- [ ] Moment 1: _Approaching Galethspyre_\n\t- As the party gets closer to the town, the environment becomes unsettling.\n\t- **Environmental Clues:** They find abandoned refugee camps, warning totems made of bone and red cloth, and roads defaced with crude warnings like \"FEAR THE BROTHERS GIANT.\"\n\t- **NPC Encounter:** They can meet **Marta Vex**, the traumatized former Watch Captain of Galethspyre, hiding in some ruins. She can provide information about the \"Red Mist\" that descends at night, the madness it causes, and the \"Red Hands\" bandits who have moved in.\n\n- [ ] Encounter 1: _Galethspyre's Welcome_\n\t- The town is in ruins and eerily quiet during the day. The party will be watched by both hidden survivors and bandit lookouts.\n\t- ***Enemy Roster.***\n\t\t- [[Humanoid - Bugbear]] x2\n\t\t- [[Beast - Worg]] x2\n\t\t- [[Humanoid - Goblin Boss]] x1 (Scout leader)\n\n- [ ] Moment 2: *Bernard McOogle*\n\t- Bernard is hold up in Galethspyre after he traveled here with his mentor Kynes Lawford to pick up supplies and offer services.\n\t- Kynes was taken by the Red Hands Gang for his value as a powerful healer.",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 34,
+            "startLine": 20
+          },
+          "similarity": 0.7022971831173749
+        },
+        {
+          "id": 1502,
+          "path": "Campaign Notes/Story/Sessions/Session 18 plans.md",
+          "mtime": 1751834727289,
+          "content": "### Outline\n\n- Decision point: Bandit camp vs Wroat pursuit\n- Galethspyre investigation (destroyed by Rageblight)\n- Red Hands Gang\n- [[Wroat]]",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 6,
+            "startLine": 1
+          },
+          "similarity": 0.696974395942002
+        },
+        {
+          "id": 1981,
+          "path": "Campaign Notes/Story/Sessions/Session 19 Plans.md",
+          "mtime": 1754423810285,
+          "content": "### Outline\n- Aftermath of the Purification Squad\n- An Offer from a Healer\n- Approaching Galethspyre\n- Exploring the Blighted Town",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 5,
+            "startLine": 1
+          },
+          "similarity": 0.6557929897847167
+        },
+        {
+          "id": 1985,
+          "path": "Campaign Notes/Story/Sessions/Session 19 Plans.md",
+          "mtime": 1754423810285,
+          "content": "### Location Details\n\nPlace 1: _Galethspyre_\n- A small fishing village devastated by the Rageblight a few weeks ago. Buildings are collapsing, and a sense of dread hangs in the air.\n- **Key Locations:**\n\t- *The Gilded Gill Apothecary:* A two-story building, mostly intact but ransacked. \n\t- *The Broken Mast Tavern:* Now a makeshift base for the Red Hands Gang.\n\t- *Town Hall:* Contains records of the town's slow descent into madness before its fall.",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 47,
+            "startLine": 40
+          },
+          "similarity": 0.651148540613041
+        },
+        {
+          "id": 1504,
+          "path": "Campaign Notes/Story/Sessions/Session 18 plans.md",
+          "mtime": 1751834727289,
+          "content": "- [ ] NPC Developments\n\t- Aeren d'Cannith\n\t\t- After his allegiance to the party is exposed, Aeren is worried that House Cannith will go after Miri and [[Shavalant]] to get to him.\n\n- [ ] Moment 1A: _Approaching Galethspyre_ \n\t- **Progressive Environmental Clues:**\n\t\t- Mile marker defaced with \"TURN BACK\" and \"FEAR THE BROTHERS GIANT\" scratched over town name\n\t\t- Abandoned refugee camp with recent campfire, scattered belongings\n\t\t- Warning totems (crude wooden stakes with red cloth) forming perimeter around town\n\t- **Marta Vex:** Former Watch Captain hiding in roadside ruins\n\n- [x] Moment 1B: _Racing to Wroat_\n- Wroat is a 2 days journey on foot\n\t- **Random Encounters.**",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 41,
+            "startLine": 28
+          },
+          "similarity": 0.6507228307008586
+        },
+        {
+          "id": 1986,
+          "path": "Campaign Notes/Story/Sessions/Session 19 Plans.md",
+          "mtime": 1754423810285,
+          "content": "### People\n\nPerson 1: *Korven Thale*\n*Session Information*\n- Captured by the party. He is a zealot but not suicidal. He can be interrogated for information on the Church's knowledge of the FKD and their fear of the Lords of Dust.\n*Plot Information*\n- His capture is a significant blow to the Church's local operations. His superiors will not be pleased and may escalate their methods to retrieve the FKD fragment.\n\nPerson 2: *Kynes Lawford*\n*Session Information*\n- A skilled but eccentric healer who is the party's only hope of saving Geralt. He is more interested in rare herbs than politics or danger.\n*Plot Information*\n- He is unaffiliated with any major faction but his skills are rare and valuable, making him a person of interest to many.\n\nPerson 3: *Marta Vex*\n*Session Information*\n- The sole surviving authority figure from Galethspyre. Traumatized but resilient, she can offer tactical information about the town layout, survivor locations, and bandit patrols.\n*Plot Information*\n- She witnessed the Rageblight's arrival and can describe a large, monstrous figure leading the attack, providing a clue about Vorak's nature.\n\n### Plot Actions\n\nAction 1: *Vorak's Influence (The Rageblight)*\n- Goal: N/A (passive effect)\n- The Rageblight zone around Galethspyre acts as a constant environmental threat. The red mist at night will turn the town into a free-for-all warzone, making simple tasks incredibly dangerous and complicating any fight the party gets into.",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 73,
+            "startLine": 49
+          },
+          "similarity": 0.6498953891937405
+        },
+        {
+          "id": 1988,
+          "path": "Campaign Notes/Story/Sessions/Session 18 Recap.md",
+          "mtime": 1752019314830,
+          "content": "Woke up in camp and were confronted by the Purification Squad\n- Fought the squad, killed everyone except the deva and Korvin Thale. \n- The party freed the deva, who flew away at the end.\n- Thale surrendered to the party.\n\nTODO:\n- Determine loot & XP from the purification squad encounter\n\t- Thale's scepter-scythe?\n\t- Thorin Voss's armor - +1 plate & something else?\n\t- money money money\n\nWhat will the party do?\n- Travel towards the Byeshk Mountains with a pit stop in Galethspyre\n\t- Need to develop ways for the party to find a healer\n\t- Can reuse the healer encounter & side-quest from Wroat",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 38,
+            "startLine": 24
+          },
+          "similarity": 0.6450647044975484
+        },
+        {
+          "id": 1991,
+          "path": "Campaign Notes/Factions/Red Hands Gang.md",
+          "mtime": 1754423701225,
+          "content": "Run by the brother giant:\n* *Garspaachi* (frost giant)\n- *Bruno* (fire giant)\n\nDesires:\n* A new place to base operations out of\n* A consistent source of work\n* Could be convinced to return to the Icehorn Mountains\n\n* Used to run operations out of the [[Plot Web#PC Bjorn \"Bearwolf\" Ulfr|Icehorn Mountains]], however after [[Plot Web#Hrothgar|Hrothgar]] came to power and started to corrupt the land nearby, the Red Hands Gang left.\n\t* May offer information on Hrothgar's operations\n\t* Knowledge:\n\t\t* Corrupted barbarians have attacked the gang in the past\n\t\t* They were empowered by a dark energy\n\t\t* Barbarians were difficult to kill\n\n* Looking for new territory to operate out of that will offer opportunity for money.\n\n* They have temporarily settled in an old mine near [[Galethspyre]] and are trying to exploit the town\n\t* The Rageblight mist has made this difficult, and they are preparing to move once again.",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 20,
+            "startLine": 1
+          },
+          "similarity": 0.6407254113475247
+        },
+        {
+          "id": 1523,
+          "path": "Campaign Notes/Story/Sessions/Session 16 Plans.md",
+          "mtime": 1751824411369,
+          "content": "### Moments & Encounters\r\n\r\n- [x] Session Start: *Crashing HQ*\r\n- Skill challenge to escape the HQ\r\n\r\n- [x] Moment 1: *A moment to breath*\r\n- The party finally gets a moment to rest after escaping the collapse of the HQ and the subsequent destruction of the city below.\r\n- *Exposition.* See people.\r\n- If the party is looking for a way out of the city:\r\n\t- The city will be on lockdown while the Sharn Watch searches for those involved in the HQ collapse\r\n\t- Aaron knows someone that can get them out. *See people*\r\n\r\n- [x] Encounter 1: *Cannith search party*\r\n\t- *If Forge's player is present, this might take place at Aeren's workshop*\r\n\t- A group of thugs sent by House Cannith has been tracking the party since they broke into the [[Wolfsbane Workshop]] and is looking for Forge and Geralt.\r\n\t- They want Forge due to his backstory as a Cannith creation and his knowledge of the Creation Forges\r\n\t- They want Geralt due to the schematics he holds\r\n\t- *Sylvan* - Trickshot and squad leader\r\n\t\t- Bad relationship with Aeren, wants to bring him in after he spots them with the party.\r\n\r\n- [x] Moment 2: *Glimpse of the Rageblight*\r\n\t- News arrives of the Rageblight destroying another village (Galethspyre) that will be on the party's way towards the Byeshk Mountains\r\n\t- *OR* the party encounters a refugee of that village that recounts their experiences with the Rageblight\r\n\t\t- This village was Galethspyre, a small fishing village off the Dagger river.\r\n\r\n- [ ] Moment 3: *Bjorn's contact*",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 37,
+            "startLine": 12
+          },
+          "similarity": 0.6345803713445314
+        },
+        {
+          "id": 1510,
+          "path": "Campaign Notes/Story/Sessions/Session 18 plans.md",
+          "mtime": 1751834727289,
+          "content": "- [ ] Moment 3: Red Hands Gang\n\t- **Location:** Old Thane's mine north of Galethspyre\n\t- **Enemy Roster:**\n\t    - *Garspaachi* (frost giant)\n\t    - *Bruno* (fire giant)\n\t    - Misc. Goblins, worgs, bugbears, hill giants\n\t- **Key Discovery:** Garspaachi & Bruno are known as \"The Brothers Giant\" and have an 'Italian mob' way about them. They're willing to bargain.\n\t- \n\t- **Boss Fight.**\n\t\t- Takes place in the den of the Brothers Giant.\n\t\t- Massive cavern in deep in the old mine. Icy stalactites poke up from the rocky ground, which is littered by deep lava pools.",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 80,
+            "startLine": 70
+          },
+          "similarity": 0.6319321354702458
+        },
+        {
+          "id": 1987,
+          "path": "Campaign Notes/Story/Sessions/Session 18 Recap.md",
+          "mtime": 1752019314830,
+          "content": "Party travels on foot towards Wroat\n- On the way they find a small camp of Galethspyre refugees\n- 3 are alive, 1 is dead from infection\n- The party helps the refugees, takes them along the rest of the way to Wroat\n\nParty arrives at Wroat, the refugees leave into the slum city outside Wroat's walls\n- The party moves through the dense crowd of people, and sees the massive lines leading into the city gates\n- They travel up to the gates and try to convince a guard to let them in\n\nParty is taken into the city and placed in the jail for interrogation after the guard sees that they are wanted for the recent terrorist attacks in Sharn\n- They are taken into an interrogation room and locked in\n- Constable Smith (halfling) enters and interrogates the party\n- They hogtie Smith\n- They escaped the jail and stole constable Smith's papers, and rescued Aeren & Baelin\n- They climbed the walls and left the city, headed towards Galethspyre\n\nGeralt had his vision, spoke with his mother\n- She revealed that Vorak was part of a failed experiment with an early prototype of the Steelhardt, and that it started to drive him crazy\n- She revealed that Varyn is somewhere at the southern peak of the Byeshk Mountains, where a path to his home leads up from an unnamed town at the base of the Mountain\n- She urged him to find Varyn.\n- He has 4 days to be healed before his mother's consciousness corrupts his mind.\n- He will be taken over by his mother's consciousness on the 4th of Eyre",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 22,
+            "startLine": 1
+          },
+          "similarity": 0.6299208082544244
+        },
+        {
+          "id": 1520,
+          "path": "Campaign Notes/Story/Sessions/Session 17 Plans.md",
+          "mtime": 1747187012326,
+          "content": "### Location Details\n\nPlace 1: *Name*\n- X (brief and relevant to the session)\n\nPlace 2: *Name*\n- X\n\n### People\n\nPerson 1: *Name*\n*Session Information*\n- X (information relevant to session)\n*Plot Information*\n- X (information relevant to overall plot)\n\nPerson 2: *Name*\n*Session Information*\n- X (information relevant to session)\n*Plot Information*\n- X (information relevant to overall plot)\n\n### Plot Actions\n\nAction 1: *Name of significant NPC(s) or organization(s) involved*\n- Goal: X (immediate goal of involved person/org)\n- X (what that person/org is doing to accomplish that goal, assuming PCs don't interfere)\n\nAction 2: *Name of significant NPC(s) or organization(s) involved*\n- Goal: X\n- X\n\n### Additional Notes\n\n**Bandits (Red Bred Robbers)**\n- More info about bandit group\n- Symbol is a bloody handprint",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 92,
+            "startLine": 56
+          },
+          "similarity": 0.6289542584205714
+        },
+        {
+          "id": 1550,
+          "path": "Campaign Notes/Story/Sessions/Session 13 Plans.md",
+          "mtime": 1737849564747,
+          "content": "- [ ] Moment 1: *Meeting with Kazrak*\n- **Kazrak** and the Red Cloak Battallion arrested **Garhorn** while they were pursuing the party, and he is now being held and interrogated.\n- Garhorn is cooperating, and has given Kazrak very valuable intel about the Boromar Clan, including...\n\t- **Aaron D'Cannith** and a **Professor Baelin ir'Torn** are being held at their HQ, rumored to being forced in working on something important involving a unique fragment of a **Dragonshard.**\n\t- **Saidan Boromar died 2 months ago**, and his disappearance was covered up by his closest advisers.\n\t- His 2 best men, **Halak and Castar**, have different visions of how the clan should continue, and who should lead it.\n\t- Tensions have been building within the Boromar Clan, between those who follow Halak and those who follow Castar.\n- Garhorn\n\t- Gives intel that there is a 'civil war' going on within the Clan\n\t- Party must stage an attack on one of the inner groups and make it look like the other did it\n\t- This will cause actual fighting to break out, and the HQ will be easier to infiltrate\n\n- [ ] Moment 2: *Quest Before Infiltration (staging an attack)\n- The party must choose which group to kill (Castar or Halak)\n- They must then kill that group and make it look like an attack from the other group",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 35,
+            "startLine": 21
+          },
+          "similarity": 0.6260767928354168
+        },
+        {
+          "id": 1516,
+          "path": "Campaign Notes/Story/Sessions/Session 17 Plans.md",
+          "mtime": 1747187012326,
+          "content": "**TODO**\nMAPS\n- Lightning rail robbery\n\t- https://www.czepeku.com/fantasy/maps/desert-canyon/lighting-rail-day\n- Main bandit camp\n\t- https://www.czepeku.com/fantasy/maps/secret-cave-hideout/original-day\n- Bandit FOB for robberies\n\t- https://www.czepeku.com/fantasy/maps/smugglers-fen/original-day\n\n**IDEAS**\nWhenever the party finds themselves in a Rageblight zone, hand notes to each player secretly asking them to roll a wisdom/charisma saving throw and say the number.\n\t- On a fail, they become more irritable. Hand out another set of notes out with something they find irritating about another player, or something that would make them angry at each other (ex.: \"Draven knows something about your past that he isn't telling you\" or \"You think Geralt is planning to sabotage your relationship with the party\")\n\nUltimate BBEG of the bandits\n- Frost Giant Storm Hurler\n\n### Outline\n- The bandits' camp is setup near the town of [[Galethspyre]], which the Rageblight recently devastated\n- The bandits are opportunistic, and started moving forces into Galethspyre to take over and exploit the survivors.\n- Due to the *Rageblight zone*, people in the town are more aggressive, shit is quiet here until its not, and it gets worse at night. People often attack on sight, both the gang and the townsfolk.",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 20,
+            "startLine": 1
+          },
+          "similarity": 0.6243258817540281
+        },
+        {
+          "id": 1440,
+          "path": "Campaign Notes/Story/Sessions/Session Index.md",
+          "mtime": 1752018697872,
+          "content": "*   **Session 10:** The party escapes a warehouse raid by the Sharn Watch, only to be trapped in a collapsing building by their leader.\r\n*   **Session 11:** Plummeting into the depths of Old Sharn, the party defeats a horrifying Plague Giant and escapes through the sewers with their captor, Kazrak.\r\n*   **Session 12:** The party finds refuge in the underground city of Shamukaar, where Geralt has a vision and Lox is contacted by his mysterious patron.\r\n*   **Session 13:** The party accepts a mission from Kazrak to destabilize the Boromar Clan by attacking one of its splinter factions.\r\n*   **Session 14:** During a week of downtime, the party negotiates with the Church of the Silver Flame, and several members receive cryptic personal messages.\r\n*   **Session 15:** The party infiltrates the Boromar Clan's floating headquarters, rescues two prisoners, and is confronted by Woe, who sends the base crashing down.\r\n*   **Session 16:** After surviving the fall of the Boromar HQ, the party finds Aeren's workshop ransacked and is smuggled out of Sharn on a lightning rail.\r\n*   **Session 17:** Bandits ambush the party's train, but are defeated, leading the party to a map pointing towards the Rageblight-devastated town of Galethspyre.\r\n*   **Session 18:** The party travels to Wroat, gets arrested and escapes with their allies, and defeats a Church of the Silver Flame kill squad.",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 20,
+            "startLine": 12
+          },
+          "similarity": 0.6206564822683059
+        },
+        {
+          "id": 1548,
+          "path": "Campaign Notes/Story/Sessions/Session 13 Plans.md",
+          "mtime": 1737849564747,
+          "content": "ToDo:\n* Plan out the encounters/locations for either Boromar group they decide to attack\n* What about the Creation Forge?\n* Create \"Target packets\" about the two clans, detailing information about those they may encounter.\n### Outline\n- Recap Geralt's Vision\n- Contest of Strength\n- Discussion with Kazrak & Garhorn\n- Encounter with Boromar Clan",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 9,
+            "startLine": 1
+          },
+          "similarity": 0.6170807691379059
+        },
+        {
+          "id": 1482,
+          "path": "Campaign Notes/Story/Sessions/Session 4 Recap.md",
+          "mtime": 1710993333833,
+          "content": "The party returned to Shavalant soon after, and went to talk to Miri.\n- The townsfolk they passed were quite startled by the party and their appearence due to their recent fight with the gang members.\n- Miri was concerned at how they handled it, though she was grateful they helped at all.\n\t- She is afraid that Garhorn will send for more muscle and come back to burn the town to the ground.\n\t- She relays to the party that she spoke with her mentor Aeren d'Cannith, and that he needs the names of the party so he can aid them through the Sharn gates once they arrive.\n\t- Miri also told the PCs that he was intrigued about Geralt's steelhardt schematics, though he wouldn't reveal anything over sending stone.\n\t- (Aeren will recognize Geralt's last name and will begin looking into his family further, suspecting they are connected to House Cannith's involvement in the Day of Mourning.)\n- Sheriff Cromley showed up at Miri's workshop during this conversation, very irate. He asked the party to leave, and payed for another horse they could ride out of town.\n\t- He is concered for the same reasons Miri is, though he is less grateful towards the party than her.\n- The PCs stopped by Prissy's apothecary on the way out, and she gave the party a potion of fire breath and potion of growth as thanks for delivering news of her son's passing (which happened in session 1).",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 20,
+            "startLine": 11
+          },
+          "similarity": 0.6153895676685822
+        },
+        {
+          "id": 1524,
+          "path": "Campaign Notes/Story/Sessions/Session 16 Plans.md",
+          "mtime": 1751824411369,
+          "content": "- This village was Galethspyre, a small fishing village off the Dagger river.\r\n\r\n- [ ] Moment 3: *Bjorn's contact*\r\n\t- Bjorn's contact is a goliath female that can be found in Lower Dura\r\n\t- Her name is *Rutha Rockfist*\r\n\t\t- She can be found frequenting *Marquet's Meat Market* in her free time\r\n\t\t- OR shining shoes during working hours at *Rockfist Boot Booth*\r\n\t- She was one of the few that left the clan shortly after Bjorn was usurped, and before Hrothgar could gain power over them. \r\n\t- *Exposition.*\r\n\t\t- The old way to the Mountains has been sealed by Hrothgar, isolating the clan from the outside world.\r\n\t\t- No one has had any contact with the clan for over a year.\r\n\t\t- Those who have attempted to revisit found the nearby land corrupted, haunted by strange and dangerous magical affects/creatures.\r\n\r\n- [x] Moment 4: *Smuggled*\r\n\t- Brother Tiron has a contact at House Orion that can smuggle the party out via lightning rail\r\n\t- He will stash them in crates and put them into a freight car headed for *Wroat*\r\n\r\n- [ ] Session End: *Train Robbery*\r\n\t- A group of low-level bandits created an ambush point at a bend in the rail with an obstacle (tree)\r\n\t- They board the freight car while the train is stopped, in hopes of robbing a few pieces of cargo.\r\n\t- These bandits are from the remaining survivors of a small town that the *Rageblight* devastated.",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 55,
+            "startLine": 35
+          },
+          "similarity": 0.615074637563736
+        },
+        {
+          "id": 1486,
+          "path": "Campaign Notes/Story/Sessions/Session 4 Plans.md",
+          "mtime": 1715644086252,
+          "content": "### Moments & Encounters\n\n**Session Start**\n\n- Waking up at the Sleepy Owl Inn early in the morning, may encounter Oak Dryfire outside messing with the Ankheg head as they leave.\n\n**Moment 1:** [[Boromar Gang Campsite]]\n\n- The party confronts the [[Boromar Gang Members]].\n- They notice a small trail of oil leading to the campsite.\n\n**Moment 2:** Aftermath of Campsite Encounter\n\n- Garhorn may try to send a warning to his handler via his sending stone\n- The [[Shavalant|town]] will be very thankful, though Sheriff Gromley will be angry and scared that the gang will return and burn the town.\n- Prissi will gift the party a *Potion of Fire Breath* & *Potion of Growth*.\n\n**Moment 3:** Ankheg Head Consequences\n\n- The party sees the consequences of throwing the Ankheg head away.\n- A young orc boy named Oak Dryfire has begun to drag the head around like a pet. He also recognizes Draven as the Knight of the North.\n- Provide opportunities for humor and light-hearted roleplay, allowing the party to engage with the locals in unexpected ways.",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 29,
+            "startLine": 8
+          },
+          "similarity": 0.6127345863201531
+        }
+      ]
+    }
+  ],
+  "createdAt": 1754424176000,
+  "updatedAt": 1754424286911,
+  "schemaVersion": 1
+}

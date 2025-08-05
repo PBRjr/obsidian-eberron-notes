@@ -2,6 +2,11 @@ Run by the brother giant:
 * *Garspaachi* (frost giant)
 - *Bruno* (fire giant)
 
+Desires:
+* A new place to base operations out of
+* A consistent source of work
+* Could be convinced to return to the Icehorn Mountains
+
 * Used to run operations out of the [[Plot Web#PC Bjorn "Bearwolf" Ulfr|Icehorn Mountains]], however after [[Plot Web#Hrothgar|Hrothgar]] came to power and started to corrupt the land nearby, the Red Hands Gang left.
 	* May offer information on Hrothgar's operations
 	* Knowledge:
