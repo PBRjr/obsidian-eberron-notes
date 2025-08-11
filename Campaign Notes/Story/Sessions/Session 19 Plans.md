@@ -56,10 +56,9 @@
 - [ ] **Moment 4: _The Red Hands' Camp_**
 	- If the party follows tracks from the tavern or information from Bernard, they can find the main bandit camp in the nearby **Old Thane's Mine**.
 	- **The Brothers Giant:** The camp is run by **Garspaachi** (frost giant) and **Bruno** (fire giant), who act like surprisingly civil mob bosses. They have Kynes Lawford treating their wounded.
-	- **Negotiation:** The giants are business-minded. They left their old home because of Hrothgar's corruption and are looking for work. They might release Kynes for a price (money, a magic item, information) or a favor.
+	- **Negotiation:** The giants are business-minded. They left their old home because of Hrothgar's corruption and are looking for work. They might release Kynes for a price (money, a magic item, information) or a favor. [[Favors]]
 		> **Garspaachi:** 
-		> "So, you're the ones stirrin' up my boys. Bad for business.
-		> Tell us... what's the score in the world outside this ruin? A crew like ours could be very... useful... to the right people."
+		> "So, you're the ones stirrin' up my boys. Bad for business."
 		> **Bruno:** *unintelligible retard sounds and bursts of flame*
 	- They can offer Bjorn information about Hrothgar and the corrupted land near the Stormpeak Clan.
 

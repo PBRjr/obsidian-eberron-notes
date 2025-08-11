@@ -1,0 +1,5 @@
+## Inside Man
+"We know who you are, son of the mountains. We fled from your brother's... unpleasantness. Bad for business, that one. You're going after him, aren't you? To reclaim your throne. We respect that. Here's the deal: a crew like yours, you're an investment opportunity. We want in on the ground floor. Become our eyes and ears inside that mess. When you find out what treasures Hrothgar is hoarding, what magic he's using... you report back to us. In exchange for this... business relationship... your healer is yours. We'll even throw in some supplies for your journey. Consider it a retainer."
+
+## Hostile Takeover
+"We need to send a message. We heard that the Boromar Clan is recently... impaired. Some of the remaining Boromar-in-training have a supply wagon coming down the old road from Sharn in two days, full of weapons and dreamlily. We think they're trying to start up operations out of the city. They think they can muscle in on our territory. Intercept that wagon. Bring us the cargo, and leave a message... a bloody one. Do this, and the healer is yours. We'll even cut you in for a small piece of the score."
