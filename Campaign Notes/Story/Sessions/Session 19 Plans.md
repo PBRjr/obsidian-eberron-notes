@@ -47,7 +47,7 @@
 
 	- **The Tunnels:** Where the surviving members of the town reside at night.
 		- Leader: [[Chef Nyla]]
-		- Primary problem: Low on supplies, which are hoarded in the Broken Mast Tavern by the Red Hands Gang.
+		- Primary problem: Low on supplies, which are hoarded in the Broken Mast Tavern by the Red Hands Gang. Can give party a map with entrances to the tavern.
 		- Secondary Problem: Healer Kynes Lawford was kidnapped. Speak to Bernard McOogle
 
 	- **Town Hall:** The first building hit by the Rageblight. Death and decay overlays the floor here.
