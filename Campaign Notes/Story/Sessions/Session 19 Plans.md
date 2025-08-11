@@ -1,9 +1,13 @@
 ### Outline
-- Aftermath of the Purification Squad
-- The Road to Galethspyre
-- Arrival in the Blighted Town
-- The Red Hands Gang
-- The Red Mist Rises
+- Mix in Kismet Readings
+- Inquisitor Korven Thale
+- Road to Galethspyre
+	- Marta Vex
+- Arrival, Public Trial
+	- Chef Nyla, Hank
+	- Supplies (Broken Mast Tavern), Healer (Gilded Grass Apothecary)
+- Thane's Mine
+	- Garspacci & Bruno
 
 ### Moments & Encounters
 
@@ -20,22 +24,32 @@
 
 - [ ] **Moment 1: _The Road to Galethspyre_**
 	- As the party travels, the environment becomes more unsettling.
-	- **Environmental Clues:** They find abandoned refugee camps and warning totems made of bone and red cloth. A mile marker for Galethspyre has been defaced with "TURN BACK" and "FEAR THE BROTHERS GIANT."
-	- **NPC Encounter:** In some roadside ruins, the party finds **Marta Vex**, the former Watch Captain of Galethspyre. She is armed but starving and distrustful.
-		> "It wasn't a storm... it was a creature. A single, hulking thing of pure rage. And after it was done, the thing just turned to mist and disappeared
-		> It didn't just destroy our town, it filled it with its own madness. 
+	- **Environmental Clues:** They find abandoned refugee camps and warning totems made of bone and red cloth. A mile marker for Galethspyre has been defaced with "THE FOG COMES AT NIGHT" and "FEAR THE BROTHERS GIANT."
+	- **NPC Encounter:** In a roadside camp the party finds **Marta Vex**, the former Watch Captain of Galethspyre. She is armed but starving and distrustful.
+		> "It was like a storm, but it wasn't... it was a creature. A single, hulking thing of pure rage. And after it was done, the thing just turned to mist and disappeared"
+		> "It didn't just destroy our town, it filled it with its own madness."
 		> At night, the mist... it's his anger, and it makes good people turn on each other."
 
 - [ ] **Moment 2: _Arrival in Galethspyre_**
-	- The town is eerily quiet during the day. A few members of the **Red Hands Gang** are looting the ruins. This can be a combat or stealth encounter.
-	- **Enemy Roster:**
-		- 2 Bugbear Thugs
-		- 2 Worgs
-		- 1 Goblin Boss (scout leader)
+	- The town is eerily quiet during the day. A few members of the **Red Hands Gang** are looting the ruins. They don't seek trouble, just keep an eye on the party.
+	- People can be seen darting into homes.
 
+- [ ] Moment 2a: Public Trial
+	- A public "trial" is being held by the leader of the town, *[[Chef Nyla]]*. 
+		- She is prosecuting the town baker, *Jakob*, for baking a batch of bread that made people sick. She gives out lashings.
+		- A Human Bookkeeper, *[[Hank]]*, is seen by her side during the trial, ushering her on.
+			- He is the bookkeeper for the Red Hand's Gang, and is running operations in Galethspyre
+	
 - [ ] **Moment 3: _Exploring the Blight_**
 	- **Gilded Grass Apothecary:** Inside the ransacked building sits a frantic and terrified [[Bernard McOogle]]. He explains that his mentor, [[Kynes Lawford]], was taken by the Red Hands Gang. He pleads with the party to rescue him, as Kynes is the only one who can help Geralt.
+
 	- **The Broken Mast Tavern:** Now a forward base for the Red Hands Gang. The party may overhear bandits complaining about the "rage mist" at night and their giant leaders.
+
+	- **The Tunnels:** Where the surviving members of the town reside at night.
+		- Leader: [[Chef Nyla]]
+		- Primary problem: Low on supplies, which are hoarded in the Broken Mast Tavern by the Red Hands Gang.
+		- Secondary Problem: Healer Kynes Lawford was kidnapped. Speak to Bernard McOogle
+
 	- **Town Hall:** The first building hit by the Rageblight. Death and decay overlays the floor here.
 	- **The Statue:** A destroyed statue of "The Thane" sits in the middle of the town, splintered and destroyed, with a massive path of destruction leading into the north west part of town. A DC 14 Investigation check reveals the damage was caused by a single, powerful entity, not an army or natural disaster.
 
