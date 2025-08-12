@@ -10,7 +10,7 @@
 **Forge's Reading:**
 > A mind of flesh in a body of steel. You carry the weight of a war you ended and the ghosts of the men you sacrificed. You seek to understand your rebirth before considering the death that brought you there. And now look what you've become. A father without children, a soldier without a war. But a new war is coming, and a ghost from your past now wears the face of the enemy. But be warned, metal man, that in the absence of self awareness, the enemies face may one day look like the one that stares back at you in the mirror.
 
-**Lox's Reading:**
+**Lox's Reading:** *read*
 > You carry a power fueled by righteous grief, a power granted to avenge a stolen future. But the hand that feeds your rage is cloaked in shadow, and the path to your revenge is paved with deception. You hunt a murderer, but you are blind to the true monster. The favor you owe will come due, and you will learn that the price for power is not paid in gold, but in what you value most. In time, you will decide if that is a price worth paying.
 
 **Nyx's Reading:**

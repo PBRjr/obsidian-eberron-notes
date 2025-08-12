@@ -11,8 +11,8 @@
 
 ### Moments & Encounters
 
-- [ ] Session Start: _Aftermath of the Purge_
-	- The party must decide what to do with their captive, **Inquisitor Korven Thale**. He is fanatically loyal to the Silver Flame but is also a pragmatist. He can reveal the Church's motivations: they believe the FKD fragments are a prison for an Overlord. Which overlord is lost to history, but either way they are too dangerous to be left unaccounted for.
+- [x] Session Start: _Aftermath of the Purge_
+	- The party must decide what to do with their captive, **Inquisitor Korven Thale**. She is fanatically loyal to the Silver Flame but is also a pragmatist. He can reveal the Church's motivations: they believe the FKD fragments are a prison for an Overlord. Which overlord is lost to history, but either way they are too dangerous to be left unaccounted for.
 		- Baelin's initial research revealed they can have a corrupting effect in specific circumstances
 		- The warforged ([[Woe]]) has made several attempts at collecting their FKD while they were protecting Baelin.
 		- If the fragments are reunited within a pure avatar, the Overlord will be unleashed.
@@ -22,19 +22,19 @@
 		- Thorin Voss's armor (*+1 Plate Armor*)
 		- 450 gp from the squad members.
 
-- [ ] **Moment 1: _The Road to Galethspyre_**
+- [x] **Moment 1: _The Road to Galethspyre_**
 	- As the party travels, the environment becomes more unsettling.
 	- **Environmental Clues:** They find abandoned refugee camps and warning totems made of bone and red cloth. A mile marker for Galethspyre has been defaced with "THE FOG COMES AT NIGHT" and "FEAR THE BROTHERS GIANT."
-	- **NPC Encounter:** In a roadside camp the party finds **Marta Vex**, the former Watch Captain of Galethspyre. She is armed but starving and distrustful.
+	- **NPC Encounter:** In a roadside camp the party finds **Marta Vex**, the former Watch Captain of Galethspyre. She is unarmed and starving and distrustful.
 		> "It was like a storm, but it wasn't... it was a creature. A single, hulking thing of pure rage. And after it was done, the thing just turned to mist and disappeared"
 		> "It didn't just destroy our town, it filled it with its own madness."
 		> At night, the mist... it's his anger, and it makes good people turn on each other."
 
-- [ ] **Moment 2: _Arrival in Galethspyre_**
+- [x] **Moment 2: _Arrival in Galethspyre_**
 	- The town is eerily quiet during the day. A few members of the **Red Hands Gang** are looting the ruins. They don't seek trouble, just keep an eye on the party.
 	- People can be seen darting into homes.
 
-- [ ] Moment 2a: Public Trial
+- [x] Moment 2a: Public Trial
 	- A public "trial" is being held by the leader of the town, *[[Chef Nyla]]*. 
 		- She is prosecuting the town baker, *Jakob*, for baking a batch of bread that made people sick. She gives out lashings.
 		- A Human Bookkeeper, *[[Hank]]*, is seen by her side during the trial, ushering her on.
