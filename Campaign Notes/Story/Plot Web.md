@@ -38,6 +38,13 @@
 	- May have crossed paths after Bjorn was usurped
 - Clan Flameforge
 	- Founded by Varyn to keep overwatch on the Overlords and oppose the LoD.
+	- Was disbanded after a large portion of the clan left to form the CotSF. Varyn saw this as a failure of his.
+	- Those that were left of Clan Flameforge moved to the base of the mountain and called themselves "The Nameless"
+- The Nameless
+	- Living at the base of the Byeshk Mountains, these people are self-sufficient and live in seclusion.
+	- They worship the Coautl primarily.
+	- They offer gifts to "The Valient" (Varyn) and many take pilgremages up the mountain to meet him and offer more gifts.
+	- Varyn doesn't appreciate the praise, and wishes to be left alone. Every Nameless is a reminder of all his failures.
 - He worships Siberys along with the clan 
 	- Couatl are a creation of Siberys, along with dragons
 - Trained by Varyn to be a great warrior, Draven took an oath to use the light of Siberys to hold back the forces of Khyber, and to protect the Khyber Dragonshard fragment gifted to him by Varyn.
@@ -173,7 +180,8 @@
 	- The LoD found out and also began a search.
 	- After learning that his efforts alerted the LoD to the existence of the Shards, he lost hope, and was immensely disappointed in himself.
 	- During a blizzard of a cliffside in the mountains, just as he was going to end his existence, Bjorn's father Kvitrafn found him.
-- After seeing the fragment's effect on Hrothgar, Varyn left the Stormpeak clan and returned to Clan Flameforge to find a young Draven.
+- After seeing the fragment's effect on Hrothgar, Varyn left the Stormpeak clan and returned to the Byeshk mountains, where he found a young Draven among the Nameless.
+- Draven was insistent that he had a greater purpose, and wanted Varyn to train him.
 - He saw the purity and potential within Draven
 	- The darkness within the shard never affected him.
 - Seeing Draven as an ultimate force for good, he gave him two things:

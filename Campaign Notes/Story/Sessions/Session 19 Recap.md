@@ -9,7 +9,7 @@
 | Lox     | y          |
 | Nyx     | y          |
 **How were the PC's handled for those not in attendance?**
-Bjorn's & Forge's PC kinda phased into the background for the session, I didn't have a good excuse for them being gone.
+Bjorn faded into the background. Forge went off with Aeren and Baelin to safely escort them to Shavalant.
 
 ## To-do for next session
 * Need to have an answer ready for if Forge has a crystal in him like the one Geralt has.
@@ -17,18 +17,20 @@ Bjorn's & Forge's PC kinda phased into the background for the session, I didn't 
 	* Maybe Hank tells them of a path they can take to get there, but will only reach it if the forgo rest for a few nights.
 	* Or I could just tell them that as the DM.
 	* I feel bad for railroading them into the town quests.
-* Need to really iron out how Geralt will be cured of his curse. Need to review my notes. Does Varyn show him a ritual to clense Geralt, which could then also be used to cleanse Vorak?
+	* How will Varyn cure Geralt?
+		* He will show them how to perform the Legacy Stone ritual that will later be used on Vorak. This ritual free's the consciousness from the crystal, giving it ghostly body. It gains power, and becomes aggressive.
 
 ## Events of the session summarized:
 Interrogated Korvin Thale
 * Learned that the FKD fragments contain the consciousness of Rak Tulkesh
 * Geralt asked Korvin about Varyn, who didn't know who that is
 * Draven had a memory of training with Varyn as a young boy with wooden swords
-* Lox had his Kismet reading and had flashbacks to meeting Nyx, having their kid, and his meetings with his patron
 * Lox has the crazy idea of forcing one of the CotSF higher-ups take over his pact for him\
 	* I don't think he will pursue this route
 * They let Korven Thale go with the understanding that the church will still pursue the party, and that Korven will continue to follow his orders.
 	* The party said they would think about giving the FKD over to the church but made no promises.
+
+Lox had his Kismet reading and had flashbacks to meeting Nyx, having their kid, and his meetings with his patron
 
 Aeren & Baelin told the party that they were going to travel to Shavalant to meet back up with Miri and form a new base of operations there.  They will take Piston with them as well.
 * They were concerned for their own safety should they continue to travel with the party.

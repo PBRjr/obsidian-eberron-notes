@@ -40,7 +40,7 @@
 		- A Human Bookkeeper, *[[Hank]]*, is seen by her side during the trial, ushering her on.
 			- He is the bookkeeper for the Red Hand's Gang, and is running operations in Galethspyre
 	
-- [ ] **Moment 3: _Exploring the Blight_**
+- [x] **Moment 3: _Exploring the Blight_**
 	- **Gilded Grass Apothecary:** Inside the ransacked building sits a frantic and terrified [[Bernard McOogle]]. He explains that his mentor, [[Kynes Lawford]], was taken by the Red Hands Gang. He pleads with the party to rescue him, as Kynes is the only one who can help Geralt.
 
 	- **The Broken Mast Tavern:** Now a forward base for the Red Hands Gang. The party may overhear bandits complaining about the "rage mist" at night and their giant leaders.
