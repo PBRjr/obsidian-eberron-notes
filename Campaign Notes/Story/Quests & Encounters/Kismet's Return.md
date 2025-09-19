@@ -4,7 +4,7 @@
 **Draven's Reading:**
 > The Knight of the North wears a familiar face, but the soul behind it is a stranger. You've gathered the pieces of your name, but the picture they form is still shattered. The light you once followed has been stolen, wielded now by the very darkness you were sworn to fight. You search within yourself for clues of your forgotten oath, shuffling around memories like puzzle pieces. Perhaps its time you turn outward. Perhaps instead of looking for your lost oath, you should look for the creature that you swore it to.
 
-**Geralt's Reading:**
+**Geralt's Reading:** read
 > The wolf cub who sought answers now carries them within his very being. A mother's love, a mother's knowledge... a mother's curse. The heart of stone beats with a borrowed life, ticking like a clock towards a certain fate. You run now from one death only to race towards another. The path to the mountain peak is clear, but the man who reaches it may not be the same one who started the climb. The journey in between is where you will decide who Geralt Wolfsbane really is.
 
 **Forge's Reading:**

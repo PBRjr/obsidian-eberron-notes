@@ -11,6 +11,11 @@
 **How were the PC's handled for those not in attendance?**
 Bjorn faded into the background. Forge went off with Aeren and Baelin to safely escort them to Shavalant.
 
+## Loot Obtained
+* Bjorn: +1 Greataxe
+* Draven: +1 Plate armor
+* Nyx: Scepter
+
 ## To-do for next session
 * Need to have an answer ready for if Forge has a crystal in him like the one Geralt has.
 * Figure out how to take back the railroading of the party not having enough time to make it to the mountains.
@@ -32,7 +37,7 @@ Interrogated Korvin Thale
 
 Lox had his Kismet reading and had flashbacks to meeting Nyx, having their kid, and his meetings with his patron
 
-Aeren & Baelin told the party that they were going to travel to Shavalant to meet back up with Miri and form a new base of operations there.  They will take Piston with them as well.
+Aeren & Baelin told the party that they were going to travel to Shavalant to meet back up with Miri and form a new base of operations there. They will take Piston with them as well.
 * They were concerned for their own safety should they continue to travel with the party.
 * The party asked Aeren to create a combat-focused robot similar to piston for them when he arrives at Shavalant.
 	* The party wants it named "Delamane"

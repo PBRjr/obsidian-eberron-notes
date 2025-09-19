@@ -10,7 +10,8 @@
 | Nyx     |            |
 **How were the PC's handled for those not in attendance?**
 
-
+## Loot Obtained
+* 
 ## To-do for next session
 * 
 

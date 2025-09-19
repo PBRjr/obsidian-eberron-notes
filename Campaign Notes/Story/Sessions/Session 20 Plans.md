@@ -5,13 +5,13 @@ They could also travel to the Red Hand's Camp and get Kynes to make Geralt a tem
 
 ### Moments & Encounters
 
-- [ ] Session Start: *Speaking with Hank
+- [x] Session Start: *Speaking with Hank
 - The party is in the Broken Mast Tavern speaking with Hank.
 - **Goal:** Geralt needs a way to reach the Byeshk mountains in less than 4 days.
 - **Clue:** Hank boasts about his new, high-speed magitech motorcycles, a gift from the Brothers Giant. He keeps them under lock and key in the nearby reinforced garage.
 	- A guard accidently trips the alarm to the garage while the party is speaking with Hank.
 
-- [ ] Encounter: *Grand Theft Magitech*
+- [x] Encounter: *Grand Theft Magitech*
 - The party attempts to steal the motorcycles from the garage.
 - **Location:** A garage close to the tavern, cluttered with tools and storage. A tripwire alarm (DC 15 Perception/Thieves' Tools) is set up near the main door and side door.
 - **Initial Guards:** 2 **Goblins** asleep on duty.
@@ -23,14 +23,14 @@ They could also travel to the Red Hand's Camp and get Kynes to make Geralt a tem
 	- 1x [[bugbear-commander-fleemortals|Bugbear Commander]] (foreman)
 - **Dynamics:** Starting the loud motorcycles will alert all guards. The Gnolls will pursue the party out of town, creating a chase sequence.
 
-- [ ] Moment 2: *Kismet's next reading*
+- [x] Moment 2: *Kismet's next reading*
 - Kismet will show up and give a reading to another PC. Probably Geralt.
 
 * [ ] Encounter 2: Giant Ambush
 * While traveling towards the mountains, two stone giants ambush the party, and are looking to make them their dinner!
 * **Roster.**
 	* [[marble-stone-giant-fleemortals|Marble Stone Giant]] (Appears chipped and damaged. Only has 70hp due to past battles)
-	* [[granite-stone-giant-fleemortals|Granite Stone Giant]] (Appears chipped and damaged. Only has 80hp due to past battles)
+	* [[granite-stone-giant-fleemortals|Granite Stone Giant]] (Appears chipped and damaged. Only has 90hp due to past battles)
 
 * [ ] Moment 3: The Nameless Town at the Base of the Mountain
 * This small town lost its name long ago. 
