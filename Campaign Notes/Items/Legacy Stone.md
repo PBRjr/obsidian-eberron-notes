@@ -9,7 +9,8 @@
 
 - Once per long rest, when Geralt concentrates for at least 10 minutes while holding the Legacy Stone, he experiences a surge of warmth before his mind is flooded with a memory that is chosen at random from the table below.
 - Geralt will continue to become 'ill' after every memory experienced due to his mother's consciousness trying to manifest within Geralt's mind. After the last memory, Geralt will become seriously ill. **He will have 1d4 days to heal until he is completely taken over by his mother.**
-- If he is healed by *Greater Restoration*, his mother's consciousness will be wiped from his mind.
+* The Shard, once cleansed of Yelena's essence through a ritual [[Plot Web#Varyn "The Valiant" Grayburn|Varyn]] knows of, can be used to capture and destroy other pure or impure essences. (Like that within [[Plot Web#Vorak|Vorak]])
+
 
 ***First Interaction***
 >The Siberys dragonshard pulses warmly in your hand, its golden light seeping into your skin. For a moment, the *surroundings* around you fades, replaced by a rush of sensations, emotions, and fragmented images. It’s not your memory, you realize, but hers. You are seeing the world through your mother's eyes, feeling the world through her body.

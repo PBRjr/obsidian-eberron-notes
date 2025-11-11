@@ -1,5 +1,6 @@
 ### Outline
-- (List of key events or topics that will happen in the session)
+* Giants ambush the party
+* Moments in the Nameless Town
 
 ### Moments & Encounters
 
