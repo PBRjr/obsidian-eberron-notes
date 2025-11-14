@@ -18,3 +18,4 @@
 *   **Session 16:** After surviving the fall of the Boromar HQ, the party finds Aeren's workshop ransacked and is smuggled out of Sharn on a lightning rail.
 *   **Session 17:** Bandits ambush the party's train, but are defeated, leading the party to a map pointing towards the Rageblight-devastated town of Galethspyre.
 *   **Session 18:** The party travels to Wroat, gets arrested and escapes with their allies, and defeats a Church of the Silver Flame kill squad.
+*   **Session 20:** After investigating the blighted town of Galethspyre and its resident Red Hands gang, the party fought their way out, stealing magitech bikes to hasten their journey to the Byeshk Mountains. Their travels were cut short when they were ambushed by a pair of stone giants near the base of the mountains.

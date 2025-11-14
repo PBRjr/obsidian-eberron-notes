@@ -92,6 +92,3 @@ Action 1: *Boromar Clan (Halak Boromar)*
 - Goal: Use Baelin and Aeren to create a weapon from the FKD fragment so he can consolidate his power.
 	- Baelin revealed that the fragment is something ancient and powerful.
 	- Halak's mind immediately began thinking of how to use this powerful artifact to consolidate his power both within the clan and the clan's power over Sharn.
-### Additional Notes
-
-- (Add any other notes or information that you need for the session)

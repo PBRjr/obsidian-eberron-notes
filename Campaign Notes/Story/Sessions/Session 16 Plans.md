@@ -54,15 +54,6 @@ ToDo:
 	- They board the freight car while the train is stopped, in hopes of robbing a few pieces of cargo.
 	- These bandits are from the remaining survivors of a small town that the *Rageblight* devastated.
 
-### Location Details
-
-Place 1: *Name*
-- X (brief and relevant to the session)
-
-Place 2: *Name*
-- X
-
-(continue as needed)
 ### People
 
 Person 1: *Aeren d'Cannith*
@@ -104,11 +95,3 @@ Action 1: *Woe is seeking the FKD fragment and will search the wreckage of the H
 - Goal: Recover the FKD fragment
 - Search the wreckage of the Boromar HQ to find the fragment. He was ordered not to directly harm the party by Mordakhesh.
 
-Action 2: 
-- Goal: X
-- X
-
-
-### Additional Notes
-
-- (Add any other notes or information that you need for the session)

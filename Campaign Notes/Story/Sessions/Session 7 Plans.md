@@ -85,7 +85,3 @@ Action 1: *Boromar Clan*
 - Goal: Capture of Baelen and acquisition of the FKD fragment
 	- They are closing in on the professor, who is not cut-out to sneak through the city on his own.
 	- The Boromar clan will begin searching for potential buyers to make a profit on the FKD fragment, and interrogate Baelen in the hopes of figuring out how to find more.
-
-### Additional Notes
-
-- (Add any other notes or information that you need for the session)

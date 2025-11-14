@@ -7,12 +7,12 @@
   "cmenu-plugin",
   "obsidian-style-settings",
   "calendarium",
-  "smart-composer",
   "dataview",
   "initiative-tracker",
   "obsidian-admonition",
   "obsidian-view-mode-by-frontmatter",
   "obsidian-5e-statblocks",
   "obsidian-dice-roller",
-  "obsidian-git"
+  "obsidian-git",
+  "smart-connections"
 ]

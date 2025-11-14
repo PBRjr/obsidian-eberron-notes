@@ -1,3 +1,4 @@
+
  Dried blood cakes Khorvaire like topsoil, giving way to the blooming flowers of greed, selfishness, and violence. Though it ended over 2 years ago, the effects of the Last War still linger, like scars on an old, beaten down body. 
 
 102 years ago the Kingdom of Galifar fell into a brutal civil war. Five nations once united, became fractured. Their leaders - the Children of the late King Jarot - battled for ultimate control. 
