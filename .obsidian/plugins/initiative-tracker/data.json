@@ -1847,7 +1847,7 @@
   "descending": true,
   "builder": {
     "showParty": false,
-    "showXP": true,
+    "showXP": false,
     "sidebarIcon": true,
     "headers": [
       {
@@ -1895,11 +1895,11 @@
           "options": [
             "medium",
             "large",
-            "gargantuan",
             "huge",
             "small",
-            "unknown",
+            "gargantuan",
             "tiny",
+            "unknown",
             "small or medium"
           ],
           "id": "ID_DEFAULT_SIZE_FILTER",
@@ -1914,18 +1914,19 @@
           "options": [
             "aberration",
             "beast",
-            "fey",
-            "humanoid",
-            "undead",
             "elemental",
+            "celestial",
+            "humanoid",
+            "plant",
+            "dragon",
+            "undead",
+            "fey",
+            "giant",
+            "construct",
+            "monstrosity",
             "ooze",
             "fiend",
-            "monstrosity",
-            "dragon",
-            "giant",
-            "plant",
-            "construct",
-            "celestial"
+            "construct (undead)"
           ],
           "id": "ID_DEFAULT_TYPE_FILTER",
           "derive": true
@@ -1939,31 +1940,41 @@
           "options": [
             "neutral",
             "unaligned",
-            "lawful evil",
-            "lawful good",
-            "chaotic evil",
-            "typically  chaotic evil",
-            "neutral evil",
-            "chaotic neutral",
-            "typically  neutral evil",
-            "typically  chaotic neutral",
-            "neutral good",
             "lawful neutral",
             "any alignment",
-            "typically  lawful evil",
-            "chaotic good",
-            "neutral good or neutral evil",
-            "typically  neutral",
-            "any chaotic alignment",
-            "any evil alignment",
+            "neutral good",
+            "lawful evil",
+            "lawful good",
             "typically  neutral good",
+            "chaotic evil",
             "chaotic good or neutral evil",
+            "chaotic neutral",
+            "neutral evil",
+            "chaotic good",
             "typically  lawful neutral",
             "any non-good alignment",
-            "any non-lawful alignment"
+            "typically  chaotic neutral",
+            "any non-lawful alignment",
+            "any chaotic alignment",
+            "typically  lawful evil",
+            "typically  neutral",
+            "typically  chaotic evil",
+            "typically  neutral evil",
+            "any evil alignment",
+            "neutral good or neutral evil"
           ],
           "id": "ID_DEFAULT_ALIGNMENT_FILTER",
           "derive": true
+        },
+        {
+          "type": 1,
+          "text": "Name",
+          "fields": [
+            "name"
+          ],
+          "options": [],
+          "id": "ID_DEFAULT_NAME_FILTER",
+          "derive": false
         }
       ],
       "layout": [

@@ -1,8 +1,8 @@
-The party must find a 'rageblight zone' in the aftermath of Vorak's rampage.
+[[Vorak, the Rageblight]]
 
-Geralt must focus on the Legacy Stone, which will begin to hover 3 ft. off the ground and is unable to be moved until the ritual is complete. This will summon and bind Vorak to their location.
+Within a rageblight zone, Geralt must use an action on the Legacy Stone multiple times and succeed to rip the essence of Khyber out of Vorak's soul and bind it to the Legacy Stone.
 
-**Legacy Stone Stats:** AC 18, 50 HP, resistant to all damage except necrotic
+**Legacy Stone Stats:** AC 18, 50 HP, immune to all damage except necrotic
 
 This leads to a primary objective during the fight other than simply beating Vorak into submission. The legacy stone causes Vorak to...
 1. fight in different stages that must be defeated differently?
@@ -11,32 +11,37 @@ This leads to a primary objective during the fight other than simply beating Vor
 
 After this is achieved, Vorak will be left unable to fight back, his mind cleaned of its dark blight, however his life soon to be over.
 
-### Phase 1: The Binding (HP 100% to 70%)
+#### Phase 1: The Assassin (100% HP to 0 HP / First Health Bar)
 
-**Key Mechanic**: Vorak is tethered to the Legacy Stone with energy threads. He can not leave the rageblight zone.
+_Vorak is calculating. He wants to destroy the Legacy Stone because he knows it is his weakness._
 
-- During this phase, Vorak will try to break free of the binding.
-- Players must protect the Legacy Stone while fighting Vorak.
+- **Objective:** The players must channel into the stone (Action) to charge it while keeping Vorak away from it.
+- **Vorak's Behavior:** He uses _Assassin's Reflexes_ to Disengage from the "Tank" characters and rush the "Squishy" characters or the Stone. He prioritizes destroying the Stone (AC 18, HP 50).
+- **Mechanic:** He has resistance to all damage in this phase _unless_ a player successfully uses an Action on the Legacy Stone to "Illuminate" him for one round.
 
-**Environmental effect:** 
-- Pockets of concentrated rage appear as swirling red mist that damage players:
-	- 3d6 psychic damage
-	- 10ft radius
-	- 1 will spawn within 15 feet of each PC. At the start of each round, a pocket will move to the location that it's PC was in at the start of their last turn.
+**Legacy Stone Action**
+* Using an action on the legacy stone and succeeding a DC 15 Charisma saving throw will *Illuminate* Vorak, making him vulnerable to all damage and halving his speed.
 
-**Special Actions**:
+#### Phase 2: The Tether (Transition)
 
-- **Barbarous Leap:** Vorak can use his bonus action to jump a distance equal to his speed in the direction of his target, without imposing opportunity attacks.
-- **Rage Siphon**: Vorak absorbs nearby rage pockets, healing himself for 2d10 HP per pocket.
-- **Unleash Fury**: AOE attack dealing damage to all creatures within 10 feet, or half on dex save, knocking them back 10 ft and prone upon a fail.
+_When Vorak is reduced to 0 HP the first time, or the Legacy Stone is fully charged after 3 rounds:_
 
-**Transition**: 
-- When Vorak reaches 70% HP, he lets out a horrific scream and shatters the ground around him. All creatures within 30 ft are shoved 30 feet back and fall prone on a high dex save throw.
-- The shockwave also disperses all rage pockets.
+- **Narrative:** The Legacy Stone fires a beam of light, locking onto Vorak. He screams, regenerating 100 HP (Mythic Trait activates).
+- **Key Mechanic:** **The Sigils.** 4 Ethereal Chains connect Vorak to the Stone. Large glowing runes (Sigils) appear in the air.
+- **Vorak's Buff:** Vorak is **Immune to all damage** while the chains exist.
+- **Player Goal:** Destroy the Sigils (AC 15, 20 HP each).
+- **Villain Action:** Every time a Sigil breaks, Vorak uses a Reaction to make a full movement and a single Greatsword attack against the person who broke it.
 
-### Phase 2: Fractured Sigils (70% - 40%)
-**Key Mechanic:**
-- The tethering lines morph and shift, turning into radiantly glowing sigils that float in fixed positions on the battlefield. Destroying one sigil removed 5% of Vorak's HP. Vorak is immune to direct damage while at least 1 sigil remains. He has advantage to all saving throws while at least 3 sigils remains.
 
-**Environmental effect:**
-- **Shattered Identity**: Vorak creates 1d4 clones of himself out of the rage mists with 5 HP each, which Dash towards Vorak on their turn. If not destroyed quickly, they merge back with him and heal him xd10 hp each.
+#### Phase 3: Shattered Identity (The Final Burn)
+
+_When all Sigils are broken:_
+
+- **Narrative:** A mechanical heart suddenly protrudes out his chest, a purple glow within fading fast. The look on the creatures face tells you that the calculating Assassin is gone; only the beast remains.
+
+- **Vorak's Debuff:**
+    - He loses all Damage Resistances.
+    - He becomes **Vulnerable to Psychic Damage**.
+    - He instantly loses the ability to Disengage or Hide.
+- **Vorak's Buff (Rageblight Aura):** Any creature that starts its turn within 10 feet of Vorak takes 10 Necrotic damage.
+- **Behavior:** He stops being tactical. He attacks the closest target repeatedly using _Reckless Engine_ every single turn.
