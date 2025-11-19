@@ -24,8 +24,12 @@
 * [ ] Moment 2: The Path
 * Somewhere up the mountain path sits [[Kismet]], stoking a campfire. She offers a bit of knowledge about "The Valiant One"
 	> *"The Valiant One is broken. He sees ghosts in the snow. Do not demand answers; listen to his pain. Offer him redemption."*
-* The path is roughly maintained and carved into the mountain. Several stone pillars jut out of the mountain at various points along the path, each detailing a part of [[The Great Sacrifice]]
+* The path is roughly maintained and carved into the mountain. 5 stone pillars jut out of the mountain at various points along the path, each detailing one of [[The 4 Vows]] that [[Clan Flameforge]] used to represent. 
 * The final pillar is destroyed, but used to display a carving of [[Kismet]], who was the Couatl that was meant to stay behind.
+
+- [ ] Moment 2a: The Sanctum of the Broken Wing
+- Once the location of great prayers crafted at the hands of Clan Flameforge, it is now a ruin, a place of reverence for those of the Nameless that take the Pilgrimage up the Path.
+- This is the location for the [[Vorak Bossfight]]
 
 * [ ] Moment 3: The Cabin and The Broken One
 	* Varyn takes the form of a frail old man. He refuses to believe the party is real, thinking them hallucinations of his failures.
