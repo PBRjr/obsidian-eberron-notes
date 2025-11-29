@@ -2,33 +2,33 @@
   "players": [
     {
       "name": "Bjorn Ulfr",
-      "level": 7,
+      "level": 8,
       "player": true
     },
     {
       "name": "Draven Flameforge",
       "player": true,
-      "level": 7
+      "level": 8
     },
     {
       "name": "Forge",
       "player": true,
-      "level": 7
+      "level": 8
     },
     {
       "name": "Geralt Wolfsbane",
       "player": true,
-      "level": 7
+      "level": 8
     },
     {
       "name": "Lox Tempest",
       "player": true,
-      "level": 7
+      "level": 8
     },
     {
       "name": "Nyx Tempest",
       "player": true,
-      "level": 7
+      "level": 8
     }
   ],
   "parties": [
@@ -1689,7 +1689,9 @@
           "level": 7,
           "player": true,
           "hidden": false,
-          "friendly": false
+          "friendly": false,
+          "isPlayer": true,
+          "count": 1
         },
         {
           "name": "Draven Flameforge",
@@ -1706,7 +1708,9 @@
           "level": 7,
           "player": true,
           "hidden": false,
-          "friendly": false
+          "friendly": false,
+          "isPlayer": true,
+          "count": 1
         },
         {
           "name": "Forge",
@@ -1723,7 +1727,9 @@
           "level": 7,
           "player": true,
           "hidden": false,
-          "friendly": false
+          "friendly": false,
+          "isPlayer": true,
+          "count": 1
         },
         {
           "name": "Geralt Wolfsbane",
@@ -1740,7 +1746,9 @@
           "level": 7,
           "player": true,
           "hidden": false,
-          "friendly": false
+          "friendly": false,
+          "isPlayer": true,
+          "count": 1
         },
         {
           "name": "Nyx Tempest",
@@ -1757,7 +1765,9 @@
           "level": 7,
           "player": true,
           "hidden": false,
-          "friendly": false
+          "friendly": false,
+          "isPlayer": true,
+          "count": 1
         },
         {
           "name": "Lox Tempest",
@@ -1774,7 +1784,9 @@
           "level": 7,
           "player": true,
           "hidden": false,
-          "friendly": false
+          "friendly": false,
+          "isPlayer": true,
+          "count": 1
         },
         {
           "name": "Marble Stone Giant (FleeMortals)",
@@ -1846,7 +1858,7 @@
   "rollHP": false,
   "descending": true,
   "builder": {
-    "showParty": false,
+    "showParty": true,
     "showXP": false,
     "sidebarIcon": true,
     "headers": [
@@ -1893,12 +1905,12 @@
             "size"
           ],
           "options": [
-            "medium",
             "large",
-            "huge",
-            "small",
+            "medium",
             "gargantuan",
+            "huge",
             "tiny",
+            "small",
             "unknown",
             "small or medium"
           ],
@@ -1912,21 +1924,21 @@
             "type"
           ],
           "options": [
+            "construct (undead)",
             "aberration",
             "beast",
-            "elemental",
             "celestial",
-            "humanoid",
+            "undead",
+            "fiend",
             "plant",
             "dragon",
-            "undead",
-            "fey",
-            "giant",
             "construct",
+            "fey",
+            "humanoid",
+            "elemental",
             "monstrosity",
-            "ooze",
-            "fiend",
-            "construct (undead)"
+            "giant",
+            "ooze"
           ],
           "id": "ID_DEFAULT_TYPE_FILTER",
           "derive": true
@@ -1938,30 +1950,30 @@
             "alignment"
           ],
           "options": [
+            "chaotic evil",
             "neutral",
             "unaligned",
-            "lawful neutral",
-            "any alignment",
-            "neutral good",
             "lawful evil",
             "lawful good",
+            "neutral evil",
             "typically  neutral good",
-            "chaotic evil",
             "chaotic good or neutral evil",
             "chaotic neutral",
-            "neutral evil",
-            "chaotic good",
-            "typically  lawful neutral",
-            "any non-good alignment",
-            "typically  chaotic neutral",
-            "any non-lawful alignment",
-            "any chaotic alignment",
-            "typically  lawful evil",
-            "typically  neutral",
-            "typically  chaotic evil",
             "typically  neutral evil",
+            "chaotic good",
+            "typically  chaotic evil",
+            "typically  neutral",
+            "typically  lawful neutral",
             "any evil alignment",
-            "neutral good or neutral evil"
+            "lawful neutral",
+            "typically  chaotic neutral",
+            "typically  lawful evil",
+            "any alignment",
+            "neutral good",
+            "neutral good or neutral evil",
+            "any chaotic alignment",
+            "any non-good alignment",
+            "any non-lawful alignment"
           ],
           "id": "ID_DEFAULT_ALIGNMENT_FILTER",
           "derive": true

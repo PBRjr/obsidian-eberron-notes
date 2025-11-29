@@ -11,8 +11,9 @@
 * While traveling towards the mountains, two stone giants ambush the party.
 * **Context:** These giants were once **Red Hands** enforcers, but they look wrong. Their skin is cracked, glowing with magma-like energy veins. They are infected with **Rageblight**.
 * **Roster.**
-	* [[marble-stone-giant-fleemortals|Marble Stone Giant]] (Corrupted, stone looks brittle, vulnerable to bludgeoning, 100hp, fights recklessly)
-	* [[granite-stone-giant-fleemortals|Granite Stone Giant]] (Corrupted: everyone nearby recklessly attacks, 90hp)
+	* **Special Effects**: Both giants look brittle, with red vines of mist filling the cracks. They are both vulnerable to bludgeoning damage. When struck with a bludgeoning weapon, anyone within 10ft take 2d8 piercing damage.
+	* [[marble-stone-giant-fleemortals|Marble Stone Giant]]
+	* [[granite-stone-giant-fleemortals|Granite Stone Giant]]
 
 * [ ] Moment 1: [[The Nameless Town at the Base of the Mountain]]
 * This small town lost its name long ago.
