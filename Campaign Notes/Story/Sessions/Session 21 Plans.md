@@ -11,19 +11,23 @@
 * While traveling towards the mountains, two stone giants ambush the party.
 * **Context:** These giants were once **Red Hands** enforcers, but they look wrong. Their skin is cracked, glowing with magma-like energy veins. They are infected with **Rageblight**.
 * **Roster.**
-	* [[marble-stone-giant-fleemortals|Marble Stone Giant]] (Corrupted, deals & takes +2d8 force damage on hit, 100hp, fights recklessly)
-	* [[granite-stone-giant-fleemortals|Granite Stone Giant]] (Corrupted: Deals +1d6 psychic damage on hit, 90hp)
+	* [[marble-stone-giant-fleemortals|Marble Stone Giant]] (Corrupted, stone looks brittle, vulnerable to bludgeoning, 100hp, fights recklessly)
+	* [[granite-stone-giant-fleemortals|Granite Stone Giant]] (Corrupted: everyone nearby recklessly attacks, 90hp)
 
 * [ ] Moment 1: [[The Nameless Town at the Base of the Mountain]]
-* This small town lost its name long ago. 
+* This small town lost its name long ago.
 * The population is made up of former worshipers of [[Clan Flameforge]] that lost their way years ago when the Clan was broken up.
 * **Draven's Return:** The elders recognize [[The Party#Draven Flameforge|Draven]]. He is a legend here ("The Knight of the North").
     - _Reaction:_ A mixture of religious awe and fear. Some thought he was dead; his return is viewed as an omen.
 * They undergo pilgrimages up the treacherous mountain path in order to meet and offer sacrifice to "[[Varyn|The Valiant One]]"
 
 * [ ] Moment 2: The Path
-* Somewhere up the mountain path sits [[Kismet]], stoking a campfire. She offers a bit of knowledge about "The Valiant One"
-	> *"The Valiant One is broken. He sees ghosts in the snow. Do not demand answers; listen to his pain. Offer him redemption."*
+* Sitting at the start of the mountain is [[Kismet]], stoking a campfire. She offers a bit of knowledge about "The Valiant One":
+	> *"Before you take this path, there is something I must warn you about. The man you seek... he is not himself anymore. Hasn't been for a long time. Every since you died (pointing at Geralt)"
+	> *"He sits up there, in his cabin at the peak, all alone. He is haunted by his failures. His failures of Loyalty, of Power, and of Legacy."*
+	> *"The Valiant One is broken, and the pieces of him lay in that town. Talk to the Nameless. Learn of his life, of his failures. Gather his pieces. And only when you are ready, continue up this path.
+	> When you finally meet Varyn, please, be gentle. Do not demand answers; listen to his pain. Offer him redemption. He must be shown that, after all this time, and despite his failures, he is still worth his name."*
+
 * The path is roughly maintained and carved into the mountain. 5 stone pillars jut out of the mountain at various points along the path, each detailing one of [[The 4 Vows]] that [[Clan Flameforge]] used to represent. 
 * The final pillar is destroyed, but used to display a carving of [[Kismet]], who was the Couatl that was meant to stay behind.
 
@@ -34,17 +38,7 @@
 * [ ] Moment 3: The Cabin and The Broken One
 	* Varyn takes the form of a frail old man. He refuses to believe the party is real, thinking them hallucinations of his failures.
 	
-	* **Social Challenge.** Varyn must be convinced that the party is real.
-		* Definite ways:
-			* ???
-	
-	* **Varyn's Failures:**
-		* Too cowardly to join in the Couatl's sacrifice
-		* Tipped off [[Mordakesh]] & the LoD to the [[Fractured Khyber Dragonshard]]'s existence
-		* Allowed Hrothgar's soul to be tainted by a FKD fragment
-		* Failed to hold Clan Flameforge together
-		* Trained Draven Flameforge, leading to his demise at the hands of Hrothgar
-		* Revived Draven, but wasn't strong enough to give him his memories back
+	* **[[Trial of Ghosts]]**
 	
 	* Once convinced, he reveals certain **plot threads:**
 		1. 1. **The Mistake:** He explains that he alerted the _Lords of Dust_ to the shards by looking for them.

@@ -37,10 +37,10 @@ An open-air courtyard at the mountain's peak. The architecture is **Ancient Huma
 #### **4. Zone D: The Four Vows (The Sigil Anchors)**
 *   **Location:** The four corners of the courtyard (N, S, E, W).
 *   **Terrain:** These are four distinct shrines that Clan Flameforge built to honor the virtues Varyn was *supposed* to embody (but failed).
-    *   **North (The Vow of Courage):** A statue of a human warrior offering a sword. (Provide Cover).
-    *   **South (The Vow of Purity):** A frozen fountain/basin. (Difficult Terrain/Ice).
-    *   **East (The Vow of Sacrifice):** A stone altar, cracked down the middle. (Elevation 5ft).
-    *   **West (The Vow of Vigilance):** A tall, singular obelisk pointing to the sky. (Blocks Line of Sight).
+    *   **North (The Vow of Loyalty):** A statue of a human warrior offering a sword. (Provide Cover).
+    *   **South (The Vow of  Sacrifice):** A frozen fountain/basin. (Difficult Terrain/Ice).
+    *   **East (The Vow of Legacu):** An ancient, frozen block of ice. (Elevation 5ft).
+    *   **West (The Vow of Power):** A tall, singular obelisk pointing to the sky. (Blocks Line of Sight).
 *   **Phase 2 Logic:** The chains from the Legacy Stone will lash out and wrap around these four monuments. To weaken Vorak, the players effectively have to **destroy the last remnants of Clan Flameforge’s history.**
 
 ---

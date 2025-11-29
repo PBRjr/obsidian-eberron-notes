@@ -1,7 +1,7 @@
-* The Vow of Courage
-- The Vow of Purity
+* The Vow of Loyalty
+- The Vow of Power
+- The Vow of Legacy
 - The Vow of Sacrifice
-- The Vow of Vigilance
 
 These are the 4 vows that [[Kismet]] originally took when she was chosen to be the last Couatl.
 
