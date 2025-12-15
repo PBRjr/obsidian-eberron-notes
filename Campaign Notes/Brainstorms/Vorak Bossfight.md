@@ -39,7 +39,7 @@ An open-air courtyard at the mountain's peak. The architecture is **Ancient Huma
 *   **Terrain:** These are four distinct shrines that Clan Flameforge built to honor the virtues Varyn was *supposed* to embody (but failed).
     *   **North (The Vow of Loyalty):** A statue of a human warrior offering a sword. (Provide Cover).
     *   **South (The Vow of  Sacrifice):** A frozen fountain/basin. (Difficult Terrain/Ice).
-    *   **East (The Vow of Legacu):** An ancient, frozen block of ice. (Elevation 5ft).
+    *   **East (The Vow of Legacy):** An ancient, frozen block of ice. (Elevation 5ft).
     *   **West (The Vow of Power):** A tall, singular obelisk pointing to the sky. (Blocks Line of Sight).
 *   **Phase 2 Logic:** The chains from the Legacy Stone will lash out and wrap around these four monuments. To weaken Vorak, the players effectively have to **destroy the last remnants of Clan Flameforge’s history.**
 
@@ -113,7 +113,7 @@ _When Vorak is reduced to 0 HP the first time, or the Legacy Stone is fully char
 - **Narrative:** The Legacy Stone fires a beam of light, locking onto Vorak. He screams, regenerating 100 HP (Mythic Trait activates).
 - **Key Mechanic:** **The Sigils.** 4 Ethereal Chains connect Vorak to the Stone. Large glowing runes (Sigils) appear in the air.
 - **Vorak's Buff:** Vorak is **Immune to all damage** while the chains exist.
-- **Player Goal:** Destroy the Sigils (AC 15, 20 HP each).
+- **Player Goal:** Destroy the Sigils (AC 15, 20 HP each, HP threshhold 10).
 - **Villain Action:** Every time a Sigil breaks, Vorak uses a Reaction to make a full movement and a single Greatsword attack against the person who broke it.
 
 

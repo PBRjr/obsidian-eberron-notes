@@ -19,6 +19,7 @@ Varyn looks at Bjorn and refuses to make eye contact.
 
 > **Varyn:** _"I see you, son of the Wolf. You wear your father's face to mock me. I promised Kvitrafn I would watch the mountain, but I let the shadow take your brother. Go away, ghost. There is no redemption here."_
 
+Solution: There is a little carving of a wolf in this cabin, given to Varyn by Kvitrafn. Finding it and presenting it to Varyn will remind him of the good times.
 
 ### Step 2: Confronting the "Failure of Power" (Draven)
 
@@ -26,14 +27,15 @@ Varyn looks at Draven with heartbreak. This is the hardest for him.
 
 > **Varyn:** _"And you... the cruelest trick. I stitched your meat back together, but I couldn't call the light back. You are just a walking wound, a hollow shell wearing the armor of a hero I killed. Why do you torment me?"_
 
-Mentioning the hymn from the nameless town auto-clears this step
+Solution: Mentioning the hymn from the nameless town OR Draven showing he is regaining his memories.
 
 ### Step 3: Confronting the "Failure of Legacy" (Geralt/Forge/Lox)
 
 Varyn looks at the others, specifically drawn to the strangeness of Forge or the intellect of Geralt.
 
-> **Varyn:** _"And the rest... specters of a world I let burn. The darkness has won, hasn't it? The Draconic Prophecy has unraveled. There is no point in fighting anymore."_
+> **Varyn:** _"And the rest... specters of a world I let burn. The darkness has won, hasn't it? I SHOWED them where the fragments were, if not on purpose. I allowed others to get involved. I led the world here.  The Draconic Prophecy has unraveled. There is no point in fighting anymore."_
 
+Solution: Geralt showing the schematic, which is a possible solution to the problems.
 
 ### Success
 

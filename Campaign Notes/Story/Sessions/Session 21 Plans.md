@@ -7,7 +7,7 @@
 
 ### Moments & Encounters
 
-* [ ] Session Start: Giant Ambush
+* [x] Session Start: Giant Ambush
 * While traveling towards the mountains, two stone giants ambush the party.
 * **Context:** These giants were once **Red Hands** enforcers, but they look wrong. Their skin is cracked, glowing with magma-like energy veins. They are infected with **Rageblight**.
 * **Roster.**
@@ -15,7 +15,7 @@
 	* [[marble-stone-giant-fleemortals|Marble Stone Giant]]
 	* [[granite-stone-giant-fleemortals|Granite Stone Giant]]
 
-* [ ] Moment 1: [[The Nameless Town at the Base of the Mountain]]
+* [x] Moment 1: [[The Nameless Town at the Base of the Mountain]]
 * This small town lost its name long ago.
 * The population is made up of former worshipers of [[Clan Flameforge]] that lost their way years ago when the Clan was broken up.
 * **Draven's Return:** The elders recognize [[The Party#Draven Flameforge|Draven]]. He is a legend here ("The Knight of the North").
@@ -50,7 +50,7 @@
 - [ ] Moment 4: The Legacy of Steel
 - Varyn notices **Geralt's** schematic page (or Geralt shows it).
 - **The Translation:** Varyn recognizes the language as **Sibernyan** (Draconic dialect of the Couatl). He reads it for Geralt.
-    - _Content:_ The page details the **"Triad of Soul"**—how to balance Siberys (Spirit), Khyber (Passion), and Eberron (Body).
+    - _Content:_ The page details the **"Triad of Soul"**—how to balance Siberys (Spirit), Khyber (Passion), and Eberron (Body)
     - Geralt has the spirit and the body, but not the passion. To achieve proper balance within himself, he must die in the presence of an FKD.
     - Varyn offers his powers of resurrection in this.
    - _The Effect:_ Understanding this allows Geralt to mechanically **Unlock the Legacy Stone**. It is a containment unit.
@@ -65,4 +65,3 @@
 
 - [ ] Session end: Rageblight
 	- The Rageblight darkens the sky in red mist...
-	- [[Vorak Bossfight]]

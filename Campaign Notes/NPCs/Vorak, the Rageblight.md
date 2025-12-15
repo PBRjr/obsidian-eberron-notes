@@ -46,7 +46,7 @@ traits:
   - name: "Phase 2: Fractured Sigils"
     desc: "Vorak screams, shoving creatures within 30ft back 30ft (DC 18 Dex negates prone) and regaining 100hp. All Rage Pockets disperse. 4 **Sigils** appear. Vorak is **Immune to Damage** while 1+ Sigils remain."
   - name: "Phase 3: Shattered Identity"
-    desc: "Vorak loses all Resistances and Immunities, and becomes **Vulnerable to Psychic Damage**. He gains the *Relentless Violence* trait (see Legendary Actions)."
+    desc: "Vorak loses all Resistances and Immunities, and becomes **Vulnerable to all magic damage**. He gains the *Relentless Violence* trait (see Legendary Actions)."
 actions:
   - name: Multiattack
     desc: "Vorak makes three attacks: two with his Greatsword and one with his Slam. Or he uses Unleash Fury if available."

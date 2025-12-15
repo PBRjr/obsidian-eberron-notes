@@ -18,18 +18,18 @@
 1. **The Children’s Game**
 - **The Sizzle:** Upon entering the town, Draven sees three children playing near a snowdrift. One child is wearing a bucket helmet and swinging a stick wrapped in silver cloth.
 
-1. **The Statue**
+1. **The Statue** 
 - **The Sizzle:** In the center of the town, near the path leading up the mountain, stands a shrine made of black rock and blue ice.
 - **The Moment:** There are offerings here
 	- frozen flowers, broken daggers, and scraps of paper with prayers. 
 	- There is a carving of a warrior that vaguely resembles Draven, but idealized (taller, more stoic).
 - **The Inscription:** "_The flame burns hot, the snow bites deep, but the Knight stands watch while the valiant sleeps._"
 
-1. **The Elder**
+1. **The Smith**
 - **The Sizzle:** An Elder of the Nameless (Kaelen, blind in one eye, former Clan Flameforge smith) approaches the party.
 - **The Moment:** He doesn't ask who they are. He walks straight to Draven, trembling. He reaches out a withered hand to touch Draven’s armor.
 - **Dialogue:** _"They said the mountain swallowed you, boy. But the wind told us you only went to sharpen your blade. Is it sharp? Are you really back?"_
 
 ### B-Plot Moments
-1. A hunter is being treated for a strange magical type of frostbite. 
+1. A hunter is being treated for a strange magical type of frostbite. (Jarvin)
 	1. **Dialogue:** _"Don't go near the Stormpeak pass. The winds there... they scream now. The mountain itself is sick. It bleeds dark magic."_
