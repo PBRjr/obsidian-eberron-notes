@@ -12,7 +12,7 @@
   "azureOpenAIApiDeploymentName": "",
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
-  "googleApiKey": "AIzaSyCk65GOmGxwW116uPimw8904eqd6Uhb1yU",
+  "googleApiKey": "AIzaSyC6SeULIE-io_ZFeLioe9kcuKJOH1mZzVA",
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
@@ -186,8 +186,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -261,7 +261,12 @@
     {
       "name": "gemini-3-pro-preview",
       "provider": "google",
-      "enabled": true
+      "enabled": true,
+      "capabilities": [
+        "reasoning"
+      ],
+      "maxTokens": 65000,
+      "temperature": 0.7
     }
   ],
   "activeEmbeddingModels": [
@@ -352,7 +357,7 @@
   "embeddingRequestsPerMin": 60,
   "embeddingBatchSize": 16,
   "disableIndexOnMobile": true,
-  "showSuggestedPrompts": true,
+  "showSuggestedPrompts": false,
   "showRelevantNotes": true,
   "numPartitions": 1,
   "lexicalSearchRamLimit": 100,
@@ -365,7 +370,7 @@
   "autocompleteAcceptKey": "Tab",
   "allowAdditionalContext": true,
   "enableWordCompletion": false,
-  "lastDismissedVersion": null,
+  "lastDismissedVersion": "3.1.4",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -390,5 +395,6 @@
   "maxRecentConversations": 30,
   "enableSavedMemory": true,
   "quickCommandIncludeNoteContext": true,
-  "autoIncludeTextSelection": false
+  "autoIncludeTextSelection": false,
+  "enableInlineCitations": true
 }

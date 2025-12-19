@@ -33,7 +33,7 @@ Solution: Mentioning the hymn from the nameless town OR Draven showing he is reg
 
 Varyn looks at the others, specifically drawn to the strangeness of Forge or the intellect of Geralt.
 
-> **Varyn:** _"And the rest... specters of a world I let burn. The darkness has won, hasn't it? I SHOWED them where the fragments were, if not on purpose. I allowed others to get involved. I led the world here.  The Draconic Prophecy has unraveled. There is no point in fighting anymore."_
+> **Varyn:** _"And the rest... specters of a world I let burn. The darkness has won, hasn't it? I SHOWED them where the fragments were, by the consequences of my actions. I allowed others to get involved because I was too afraid to stand alone. I led the world here.  The Draconic Prophecy has unraveled. There is no point in fighting anymore. There is no hope of victory. There is nothing I can do..."_
 
 Solution: Geralt showing the schematic, which is a possible solution to the problems.
 

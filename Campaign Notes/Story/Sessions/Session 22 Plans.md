@@ -1,3 +1,4 @@
+### Moments & Encounters
 Moment 1: The Path
 * Sitting at the start of the mountain is [[Kismet]], stoking a campfire. She offers a bit of knowledge about "The Valiant One":
 	> *"Before you take this path, there is something I must warn you about. The man you seek... he is not himself anymore. Hasn't been for a long time. Every since you died (pointing at Draven)"
