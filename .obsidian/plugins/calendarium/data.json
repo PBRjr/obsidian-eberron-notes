@@ -256,7 +256,7 @@
         "eras": []
       },
       "current": {
-        "day": 2,
+        "day": 3,
         "month": 3,
         "year": 998
       },
@@ -1421,6 +1421,40 @@
             "year": 998
           },
           "id": "ID_7ba8093a08e8",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Geralt's revival",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 3,
+            "year": 998
+          },
+          "id": "ID_ab6aab7ba9da",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Vorak Bossfight",
+          "description": null,
+          "date": {
+            "day": 3,
+            "month": 3,
+            "year": 998
+          },
+          "id": "ID_dbe898d99adb",
           "note": null,
           "category": null,
           "sort": {
