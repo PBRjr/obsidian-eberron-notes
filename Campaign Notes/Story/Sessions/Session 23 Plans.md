@@ -2,10 +2,10 @@
 * **Current Date/Time:** 3rd of Eyre, early morning
 * **Current Location:** Varyn's Cabin
 * **Weather:** Blizzard
-* **Active Conditions:** N/A
+* **Active Conditions:** [[extreme-cold-xdmg|Extreme Cold]]
 
 ## STRONG START
-* *Varyn, distraught over the destruction of the Sanctum, reveals the secret of the Silver Flame. Smoke climbs the sky in the distance...*
+* *Varyn, distraught over the destruction of the Sanctum, reveals the secret of the Silver Flame. Smoke climbs kisses the sky in the distance...*
 
 ## SECRETS & CLUES
 * The [[Fractured Khyber Dragonshard]] fragments must be combined at the silver flame located in the Mournland
@@ -17,6 +17,7 @@
 * *The Nameless Town, destroyed*
 	* **Vibe:** Destroyed, bloody corpses line the ground
 	* **NPC:** Dead child holding Draven's gold coin
-	* **Conflict:**
+	* **Conflict:**]
+* [[Frozen Chase]]
 
 ## SCRATCHPAD
