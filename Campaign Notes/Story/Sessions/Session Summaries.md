@@ -696,6 +696,8 @@ Session ended there
 	* The party has to use the legacy stone to defeat Hrothgar and cleanse his soul.
 		* Before they can, they must 'calibrate' the legacy stone by using it on a less powerful but similar being (Vorak)
 	* The party also realized Vorak was a creation of Yelena and Norbit Wolfsbane.
+* Varyn told the party that he can cure Geralt, but Geralt must die then be revived to do so.
+	* Geralt was revived by Varyn, now a Divine Soul Sorcerer.
 * Lox spoke to his patron (Mordakhesh) who revealed that their daughter Elix is still alive.
 * Nyx spoke privately to Varyn, who told her that the path ahead is rough, and to find her daughter she may lose something just as precious.
 * In the morning after a full night's rest, Vorak attacked and ripped the sides of Varyn's home off, dragging the party into combat.

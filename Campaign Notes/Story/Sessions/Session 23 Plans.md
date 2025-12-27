@@ -17,7 +17,7 @@
 * *The Nameless Town, destroyed*
 	* **Vibe:** Destroyed, bloody corpses line the ground
 	* **NPC:** Dead child holding Draven's gold coin
-	* **Conflict:**]
-* [[Frozen Chase]]
+	* **Conflict:**
+		* [[Frozen Chase]]
 
 ## SCRATCHPAD
