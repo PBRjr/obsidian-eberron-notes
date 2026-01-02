@@ -16,7 +16,9 @@
 ## SCENES & BEATS
 * *The Nameless Town, destroyed*
 	* **Vibe:** Destroyed, bloody corpses line the ground
-	* **NPC:** Dead child holding Draven's gold coin
+	* **NPC:** 
+		* Dead child holding Draven's gold coin
+		* Varyn, feeling anger in addition to failure, decides its time to put an end to all this.
 	* **Conflict:**
 		* [[Frozen Chase]] OR
 		* [[Broken ropebridge]]
