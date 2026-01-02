@@ -11,13 +11,14 @@
 * The [[Fractured Khyber Dragonshard]] fragments must be combined at the silver flame located in the Mournland
 	* Due to the massive amount of divine power needed to break the shackles
 	* An innocent person is required as the avatar
-* The CotSF has tracked the party to the Nameless Town
+* The CotSF has tracked the party to the [[The Nameless Town at the Base of the Mountain]]
 
 ## SCENES & BEATS
 * *The Nameless Town, destroyed*
 	* **Vibe:** Destroyed, bloody corpses line the ground
 	* **NPC:** Dead child holding Draven's gold coin
 	* **Conflict:**
-		* [[Frozen Chase]]
+		* [[Frozen Chase]] OR
+		* [[Broken ropebridge]]
 
 ## SCRATCHPAD
