@@ -675,6 +675,7 @@ Session ended there
 | Lox     | y          |
 | Nyx     | y          |
 **How were the PC's handled for those not in attendance?**
+* Forge stayed in [[The Nameless Town at the Base of the Mountain]] while the party climbed the mountain
 
 ### Loot Obtained
 * Steelhardt prototype

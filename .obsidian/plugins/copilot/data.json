@@ -38,7 +38,7 @@
   "defaultOpenArea": "view",
   "defaultSendShortcut": "enter",
   "customPromptsFolder": "copilot/copilot-custom-prompts",
-  "indexVaultToVectorStore": "ON MODE SWITCH",
+  "indexVaultToVectorStore": "ON STARTUP",
   "qaExclusions": "copilot,Misc%20Files",
   "qaInclusions": "Campaign%20Notes",
   "chatNoteContextPath": "",
@@ -46,7 +46,7 @@
   "enableIndexSync": true,
   "debug": false,
   "enableEncryption": true,
-  "maxSourceChunks": 6,
+  "maxSourceChunks": 10,
   "groqApiKey": "",
   "activeModels": [
     {
