@@ -5,7 +5,7 @@ Except parts of their body seem to be slowly morphing into crystaline structures
 **ENEMY ROSTER.**
 * 2 Shard-hulks
 * 4 Shard-hunters
-* 2 Shard-Bound Snow elementals
+* 1 Shard-Bound Snow elementals
 
 **LOOT.**
 * [[Potion of Glacier Blood]]
