@@ -24,15 +24,8 @@
 	- He eventually killed Draven Flameforge, who came for him to cleanse the land, and the dragonshard fragment he obtained continued fueling his rage and increasing his power.
 	- His power now noticeably plagues the land.
 - Old Clan members
-	- Some were enthralled by Hrothgar
-	- Most others remain loyal to Bjorn
-	- Ones that didn't leave are forced to hide their disagreement d/t Hrothgar's increasing power.
-- Bjorn's new group
-	- Whos it composed of?
-	- Why do they hate Hrothgar
-	- They don't, Bjorn joined them together via shared ideals
-	- Some members are former Stormpeak members
-	- left after Hrothgar takeover
+	- Most were enthralled by Hrothgar
+	- Some others remain loyal to Bjorn, now hiding in a cave within the mountain
 
 #### PC: Draven Flameforge
 - Byeshk Mountains

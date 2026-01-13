@@ -11,7 +11,6 @@
 * The [[Fractured Khyber Dragonshard]] fragments must be combined at the silver flame located in the Mournland
 	* Due to the massive amount of divine power needed to break the shackles
 	* An innocent person is required as the avatar
-* The CotSF has tracked the party to the [[The Nameless Town at the Base of the Mountain]]
 
 ## SCENES & BEATS
 * *The Nameless Town, destroyed*
@@ -31,7 +30,7 @@
 * Lox learns from his patron that [[Mordakesh]] intends to revive his god with the [[Plot Web#Steelhardt (The Prototype)|Steelhardt]]
 * Geralt's scry on Elix -> goblin figure named "Drax"
 * Etherseraph -> flame cant be extinguished, power increases with the wielder's power
-	* The sword refuses to damage Draven
+	* The sword refuses to damage Draven?
 * Creation forge in cyre? Final boss showdown there?
 * Johanson big goliath - > friends with Bjorn back in the day
 
