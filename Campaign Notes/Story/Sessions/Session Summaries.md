@@ -704,3 +704,33 @@ Session ended there
 * In the morning after a full night's rest, Vorak attacked and ripped the sides of Varyn's home off, dragging the party into combat.
 * The party fought Vorak and, using the legacy stone, defeated him.
 * Lox retrieved the Steelhardt prototype that was used to create him.
+
+## Session 23 Recap
+## Attendance
+
+| Players | Attendance |
+| ------- | ---------- |
+| Bjorn   | y          |
+| Draven  | y          |
+| Forge   | y          |
+| Geralt  | y          |
+| Lox     | y          |
+| Nyx     | y          |
+**How were the PC's handled for those not in attendance?**
+
+## Loot Obtained
+
+
+## To-do for next session
+* 
+
+## Events of the session summarized:
+[[The Nameless Town at the Base of the Mountain]]
+* The party found the town in ruin, and stayed for 5 days repairing it and healing the wounded, in addition to taking care of the dead.
+* They traveled towards the Icehorn Mountains, seeking to confront [[Plot Web#Hrothgar|Hrothgar]] and reclaim [[Plot Web#Etherseraph|Etherseraph]] and the [[Fractured Khyber Dragonshard]].
+
+The Base of the Icehorn Mountains
+* They crossed the [[Broken ropebridge]] but were immediately confronted by a Goliath patrol under the corrupting influence of Hrothgar. 
+* One of the goliaths was Johanson, one of Bjorn's old friends within the clan.
+
+Session ended with the party rolling initiative.

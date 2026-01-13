@@ -10,6 +10,7 @@
 	* Scrimshawed bones -> Some have runic etches & **glow slightly**
 * **Empty throne** sits deep in the cavern, carved from bedrock, untouched by the ice
 	* If Bjorn sits, he can speak to his cryptic ancestors
+* **Secret Path.** Deeper within the cave exists a tight climbing path that can be squeezed through by any creature medium or smaller. It leads to the peak of the mountain.
 
 
 ## Secrets & Lore

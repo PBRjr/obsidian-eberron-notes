@@ -27,11 +27,28 @@
 	* The Clan's Spirits keep [[Plot Web#Hrothgar|Hrothgar]] from finding the people inside here
 	* Many refugees from the Stormpeak Clan stay here, including [[Plot Web#PC Bjorn "Bearwolf" Ulfr|Bjorn's]] mother, Traust.
 	* Traust led some of the clan here overnight after the blizzard started, Kvitrafn's spirit guiding her.
+	* [[Traust Ulfr|Traust]] lays out several magical items that may aid the party, and allows them to take their pick. These are items that their ancestors wielded, which were kept here with their bodies when they were buried.
+
+> [!important] Ancestral Magic Items
+>**RARE**
+>[[belt-of-frost-giant-strength-xdmg|Belt of Frost Giant Strength]] (Braided mammoth hair and frozen iron links)
+>[[staff-of-healing-xdmg|Staff of Healing]] (Carved from large game tusk, runic etches, warm pulsing)
+>[[ring-of-spell-storing-xdmg|Ring of Spell Storing]] (Ring of clear, solid ice) (no spells stored)
+>[[cloak-of-displacement-xdmg|Cloak of Displacement]] (Hide of Displacer beast, dyed white)
+>[[horn-of-valhalla-silver-xdmg|Horn of Valhalla, Silver]] (Ancestral War Horn, summons clan spirits to fight
+>
+>**UNCOMMON**
+>[[boots-of-the-winterlands-xdmg|Boots of the Winterlands]] (Lined with polar bear fur)
+>[[sentinel-shield-xdmg|Sentinel Shield]] (Wooden shield, large eye with white dye)
+>[[periapt-of-wound-closure-xdmg|Periapt of Wound Closure]] (Drop of Giant's blood encased in amber)
+>[[javelin-of-lightning-xdmg|Javelin of Lightning]] (Harpoon made from storm stone (lightning-struck rock), crackles with energy)
+>[[alchemy-jug-xdmg|Alchemy Jug]] (Large drinking horn)
+>[[eyes-of-the-eagle-xdmg|Eyes of the Eagle]] (Bone eyewear, rectangular slots)
 
 * Stormpeak Clan
 	* **Vibe:** Grabbing, Molding, Brittle
 	* **NPC:** [[Plot Web#Hrothgar|Hrothgar]]
-	* **Conflict:** Hrothgar confronts his returned borther, Bjorn, ready to put him down once and for all.
+	* **Conflict:** Hrothgar tries to prevent the party from reaching the peak, via magical hazards and patrols.
 
 ## SCRATCHPAD
 [[Etherseraph]]
