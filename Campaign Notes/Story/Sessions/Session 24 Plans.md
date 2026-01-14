@@ -62,3 +62,8 @@
 		* Bjorn - 3
 * Larger Goliaths - Crushing, Stomach
 * Smaller Goliaths - reaching, hips
+* Johanson restraints - DC 12 escape
+* Fought at the broken rope bridge
+* Draven picked out eyeballs from a corpse, 5% chance for oathbreaker, 10% next time.
+* Ring of spell storing - Draven put [[shining-smite-xphb|Shining Smite]] and [[blinding-smite-xphb|Blinding Smite]] into it
+* Gained the magic items, gained 4500 XP, picking a free feat for next session from the ancestors.
