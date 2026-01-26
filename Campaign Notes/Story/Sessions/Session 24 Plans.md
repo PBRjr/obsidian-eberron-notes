@@ -67,3 +67,4 @@
 * Draven picked out eyeballs from a corpse, 5% chance for oathbreaker, 10% next time.
 * Ring of spell storing - Draven put [[shining-smite-xphb|Shining Smite]] and [[blinding-smite-xphb|Blinding Smite]] into it
 * Gained the magic items, gained 4500 XP, picking a free feat for next session from the ancestors.
+* Bjorn recruited 3 young goliaths to fight - they are pretty weak -> NEED STATBLOCKS
