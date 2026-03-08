@@ -304,6 +304,139 @@
           "Custom"
         ]
       }
+    ],
+    [
+      "Hrothgar",
+      {
+        "name": "Hrothgar",
+        "size": "Medium",
+        "type": "Humanoid (Titan-Kin)",
+        "alignment": "Lawful Evil",
+        "ac": 20,
+        "hp": 245,
+        "hit_dice": "18d10 + 146",
+        "speed": "30 ft., Ice Walk",
+        "stats": [
+          22,
+          12,
+          20,
+          14,
+          16,
+          18
+        ],
+        "saves": [
+          {
+            "Strength": 11
+          },
+          {
+            "Constitution": 10
+          },
+          {
+            "Wisdom": 8
+          }
+        ],
+        "damage_immunities": "cold",
+        "condition_immunities": "charmed, frightened",
+        "senses": "darkvision 120 ft., passive Perception 18",
+        "languages": "Common, Giant, Telepathy 60 ft.",
+        "cr": 14,
+        "traits": [
+          {
+            "name": "Legendary Resistance (3/Day)",
+            "desc": "If Hrothgar fails a saving throw, he can choose to succeed instead."
+          },
+          {
+            "name": "Marshal the Corrupted",
+            "desc": "Hrothgar and allies within 30 ft. have advantage on saving throws against spells and other magical effects."
+          },
+          {
+            "name": "Hive Mind Sight",
+            "desc": "Hrothgar perceives the world through the senses of any creature currently Charmed by him or bearing a Shard implant."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Hrothgar makes three attacks with Etherseraph. He can replace any of these attacks with Shard Bolt."
+          },
+          {
+            "name": "Etherseraph (Greatsword)",
+            "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage plus 5 (2d4) radiant damage."
+          },
+          {
+            "name": "Shard Bolt",
+            "desc": "Ranged Spell Attack: +9 to hit, range 120 ft., one target. Hit: 22 (4d10) force damage."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Corrupting Gaze (Recharge 6)",
+            "desc": "Hrothgar fixes his gaze on a creature he can see within 60 feet. The target must succeed on a DC 17 Wisdom saving throw or be Charmed for 1 minute (save ends at start of turn). While Charmed, Hrothgar can mentally command them to use their Reaction to attack a target of his choice immediately. The creature cannot knowingly harm Hrothgar on their turn while charmed."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Shard Transposition",
+            "desc": "When Hrothgar is hit by an attack, he can magically swap places with a willing or Charmed creature within 30 feet. The creature he swaps with takes the damage instead."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Villain Action 1 - Swarm Them!",
+            "desc": "All Shard-Thralls move up to their speed and make one attack."
+          },
+          {
+            "name": "Villain Action 2 - Consume Essence",
+            "desc": "Hrothgar drains heat from the room. All creatures within 60 ft (friend and foe) must make a DC 17 Constitution saving throw. On a failure, a creature takes 18 (4d8) necrotic damage. On a success, it takes half damage. Hrothgar heals 5 HP for every creature that fails."
+          },
+          {
+            "name": "Villain Action 3 - Detonate",
+            "desc": "Hrothgar overloads up to 3 Shard-Thralls, causing them to explode. Creatures within 10 ft of an exploding thrall must make a DC 17 Dexterity saving throw, taking 28 (8d6) cold damage on a failure, or half as much on a success. The thralls are destroyed."
+          }
+        ]
+      }
+    ],
+    [
+      "Shard-Thrall",
+      {
+        "name": "Shard-Thrall",
+        "size": "Medium",
+        "type": "Construct/Humanoid",
+        "alignment": "Lawful Evil",
+        "ac": 14,
+        "hp": 1,
+        "speed": "30 ft., Ice Walk",
+        "stats": [
+          14,
+          12,
+          14,
+          8,
+          10,
+          8
+        ],
+        "damage_resistances": "cold",
+        "cr": "1/2",
+        "traits": [
+          {
+            "name": "Minion",
+            "desc": "If the thrall takes damage from an attack or as the result of a failed saving throw, it dies. If it succeeds on a saving throw against an effect that deals damage, it takes no damage."
+          },
+          {
+            "name": "Volatile",
+            "desc": "When the Thrall dies, it releases a burst of icy energy. Any creature within 5 ft. of it takes 3 cold damage."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Shard Slam",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 force damage."
+          },
+          {
+            "name": "Shard-Group Attack",
+            "desc": "If multiple Shard-Thralls attack the same target, they make a single attack roll. The attack bonus increases by +1 for each thrall after the first. On a hit, the target takes 6 force damage multiplied by the number of thralls participating in the attack."
+          }
+        ]
+      }
     ]
   ],
   "defaultLayouts": {},

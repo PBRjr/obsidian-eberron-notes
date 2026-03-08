@@ -13,7 +13,7 @@
 		1. **Tailwind:** All ranged weapon attacks have double range.
 		2. **Headwind:** All ranged weapon attacks have Disadvantage.
 		3. **Whiteout:** Visibility drops to 15 ft. (Heavily Obscured).
-		4. **Flash Freeze:** All creatures on the ground must make a DC 13 Con save or have their movement speed reduced to 0 until the end of their next turn (frozen in place).
+		4. **Clear:** Wind clears for a moment
 **Enemy Roster.**
 * [[Plot Web#Hrothgar|Hrothgar]]
 * Shard-Thrall x20 (waves)
@@ -22,7 +22,5 @@
 * Teen Goliaths x3
 * [[berserker]] ([[horn-of-valhalla-xdmg|Horn of Valhalla]]) (Group attack, turn follows player that summons)
 
-**Battle Map Brainstorm**
-- **Tier 1: The Entry (Bottom):** A wide, snow-covered plateau where the players enter. Deep snow (Difficult Terrain).
-- **Tier 2: The Anvil (Middle - 10ft up):** A slick sheet of ice connecting the bottom and top tiers. This is a choke point. The **Shard-Bound Elementals** start here to block the path.
-- **Tier 3: The Throne (Top - 20ft up):** A jagged overlook where Hrothgar starts. It has pillars of ice for cover.
+**Legacy Stone.**
+Use on Hrothgar forces a DC 25 CHA saving throw. On a fail, his corruption and power is ripped from him.

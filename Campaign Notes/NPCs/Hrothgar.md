@@ -1,4 +1,4 @@
-## Blueprint Statblock
+## Hrothgar
 **CR:** ~14 (Defensive) / ~12 (Offensive)  
 **AC:** 20 (Plate + Shard-Infused Defense)  
 **HP:** 245 (18d10 + 146)  

@@ -21,3 +21,7 @@
 ## Reviewing Session 24 Plans and Blind Spots
 **Time:** 2026-01-13 15:39
 **Summary:** The user seeks feedback on their RPG session notes, specifically regarding mechanics and potential oversights. The AI provides a detailed analysis covering fall damage rules, the logistics of a "free feat" reward, and a logical consistency error regarding Hrothgar's ability to find the party in a hidden cave.
+
+## Designing Hrothgar's Statblock and Encounter Mechanics
+**Time:** 2026-03-08 10:53
+**Summary:** The user and AI collaborate to create a statblock for Hrothgar, a corrupted warlord, utilizing MCDM Villain Actions and minion rules to balance the action economy for a party of six level 9 players. To manage the party's *Horn of Valhalla* summons, they establish "Warband" group attack mechanics and introduce Shard-Bound Elementals as tanky counters. The session concludes with the design of a three-tiered map featuring environmental hazards to make the combat dynamic.
